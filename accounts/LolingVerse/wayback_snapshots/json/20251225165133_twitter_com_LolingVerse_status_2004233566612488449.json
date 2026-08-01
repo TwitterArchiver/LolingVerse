@@ -1,0 +1,491 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2004220988561805785",
+    "created_at": "2025-12-25T16:51:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T17:51:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004233566612488449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1003908754813935621",
+          "start": 0,
+          "username": "Rocky_Bitcoin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004233566612488449",
+    "in_reply_to_user_id": "1003908754813935621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004220988561805785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rocky_Bitcoin 有没有内存条期货🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1226,
+        "media_key": "3_2004220387325104134",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Br0s4b0AYiUR7.jpg",
+        "width": 802
+      },
+      {
+        "height": 1430,
+        "media_key": "3_2004220519600861184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Br8ZpbsAALVr9.jpg",
+        "width": 810
+      },
+      {
+        "height": 415,
+        "media_key": "3_2004220581131309060",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Br_-3b0AQ0kD8.png",
+        "width": 340
+      },
+      {
+        "height": 562,
+        "media_key": "3_2004220632842883077",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9BsC_gb0AUChah.jpg",
+        "width": 2140
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2004220988561805785",
+        "created_at": "2025-12-25T16:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T17:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004233566612488449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1003908754813935621",
+              "start": 0,
+              "username": "Rocky_Bitcoin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004233566612488449",
+        "in_reply_to_user_id": "1003908754813935621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004220988561805785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rocky_Bitcoin 有没有内存条期货🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004220387325104134",
+            "3_2004220519600861184",
+            "3_2004220581131309060",
+            "3_2004220632842883077"
+          ]
+        },
+        "author_id": "1003908754813935621",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple Macbook",
+              "id": "972168210182111232",
+              "name": "Apple Macbook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2004220988561805785",
+        "created_at": "2025-12-25T16:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T17:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004220988561805785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/INTIexKZTQ",
+              "end": 84,
+              "expanded_url": "https://x.com/Rocky_Bitcoin/status/2004220988561805785/photo/1",
+              "media_key": "3_2004220387325104134",
+              "start": 61,
+              "url": "https://t.co/INTIexKZTQ"
+            },
+            {
+              "display_url": "pic.x.com/INTIexKZTQ",
+              "end": 84,
+              "expanded_url": "https://x.com/Rocky_Bitcoin/status/2004220988561805785/photo/1",
+              "media_key": "3_2004220519600861184",
+              "start": 61,
+              "url": "https://t.co/INTIexKZTQ"
+            },
+            {
+              "display_url": "pic.x.com/INTIexKZTQ",
+              "end": 84,
+              "expanded_url": "https://x.com/Rocky_Bitcoin/status/2004220988561805785/photo/1",
+              "media_key": "3_2004220581131309060",
+              "start": 61,
+              "url": "https://t.co/INTIexKZTQ"
+            },
+            {
+              "display_url": "pic.x.com/INTIexKZTQ",
+              "end": 84,
+              "expanded_url": "https://x.com/Rocky_Bitcoin/status/2004220988561805785/photo/1",
+              "media_key": "3_2004220632842883077",
+              "start": 61,
+              "url": "https://t.co/INTIexKZTQ"
+            },
+            {
+              "display_url": "x.com/Rocky_Bitcoin/…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/Rocky_Bitcoin/status/1973032640430346509",
+              "start": 85,
+              "url": "https://t.co/5CKq8mMfiA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004220988561805785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 76,
+                "tag": "MU"
+              },
+              {
+                "end": 173,
+                "start": 168,
+                "tag": "Groq"
+              },
+              {
+                "end": 1738,
+                "start": 1733,
+                "tag": "NVDA"
+              },
+              {
+                "end": 1894,
+                "start": 1891,
+                "tag": "MU"
+              },
+              {
+                "end": 1905,
+                "start": 1901,
+                "tag": "STX"
+              },
+              {
+                "end": 1916,
+                "start": 1912,
+                "tag": "WDC"
+              },
+              {
+                "end": 2148,
+                "start": 2144,
+                "tag": "MSX"
+              },
+              {
+                "end": 2167,
+                "start": 2163,
+                "tag": "RWA"
+              },
+              {
+                "end": 2180,
+                "start": 2176,
+                "tag": "MSX"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1933,
+                "id": "1909801053027225600",
+                "start": 1926,
+                "username": "MSX_CN"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "msx.com/?code=Vu2v44",
+                "end": 2215,
+                "expanded_url": "http://msx.com/?code=Vu2v44",
+                "start": 2192,
+                "url": "https://t.co/x4ykUw3WBj"
+              }
+            ]
+          },
+          "text": "今天看了一下京东的内存条，64G的内存条价格，已经快赶上MacBook M4 16G电脑的价格了！这涨价幅度太离谱了！🥸\n\n之前一直极力推荐的美光科技(#MU)也创下新高，推荐时美光股价160美金，今天股价286，涨幅78%，而今天美股圈又一个大事件，可能继续引爆SRAM市场的热度。其中一些看好的美股，可持续关注！🧐\n\n今天英伟达与 #Groq 那笔“200亿美元”的合作消息，震动了整个芯片行业，讲真的，每一次黄仁勋都快人一步，又赢在了别人还没看懂的牌局上，这次可能改写市场TPU竞争和SRAM市场的格局。\n\n大家可能听说了：英伟达没直接“买下”Groq，而是搞了个“非排他性授权”，拿了Groq的芯片技术，还把人家CEO、CTO一整个核心团队给挖走了。你要知道，Groq的创始人乔纳森·罗斯就是搞出谷歌TPU芯片的带头人。三个月前，Groq刚刚完成7.5亿美元融资，估值约69亿美元，现在把人家骨干全部打包带走了，这操作也是没谁了。虽然Groq公司继续开着，但灵魂人物已经进了英伟达的门。这操作，说白了就是，我不要你的壳，我要你的人和脑子。\n\n为什么花这么大代价？很多人第一反应是：“AI芯片不是正火吗？干嘛还要搞别人家的技术？”但如果你最近关注内存价格，就明白黄仁勋在下一盘大棋。\n\n因为现在HBM正在变成“奢侈品”，我们团队每天看财报、拆BOM（物料清单），很清楚一件事：现在一块H100 GPU里，光是那8颗HBM3e内存，成本就超过4000美元，占整卡近一半！而这些HBM全靠三星、SK海力士、美光三家供应，产能卡得死死的。2024年底到2025年，HBM价格直接翻倍，而且有钱都未必买得到。\n\n这种情况下，英伟达将会十分被动，对利润率无疑是致命伤害：\n→ 英伟达的毛利率可能被压；\n→ 云厂商（比如微软、Meta）可能因为成本太高，放缓AI服务器采购；\n→ 更糟的是，如果地缘政治一紧张，HBM断供，整个AI算力扩张就可能“断电”。\n\n假如你作为英伟达股东，可能也比较担心，英伟达虽然“技术无敌，但最后可能被一颗内存芯片卡脖子”。\n\n所以Groq解决方案就显得尤为重要，它不用HBM，全靠片上SRAM。他们的芯片不接外部HBM，而是把220MB的SRAM直接集成在芯片上，相当于把“小仓库”建在工厂车间里，不用跑老远去大仓库（HBM）搬货。结果是：延迟极低、推理速度飞快、功耗还低。\n\n虽然这种设计做不了大模型训练（因为SRAM容量有限），但干推理？简直降维打击。比如跑Llama2-70B，Groq能飙到500+ tokens/秒，比很多GPU都快，而且不用抢HBM。\n\n所以看到这里就明白了，英伟达怒砸200亿，挖人挖技术，其实英伟达不是要复制Groq，而是要把这种“无HBM依赖”的技术路线变成自己的Plan B。万一HBM真出问题，它手里就有备胎，甚至可能推出新一代低HBM依赖的推理芯片，专攻边缘AI、实时服务、金融风控这些高价值场景。\n\n更重要的是，Groq有一支“编译器梦之队”。硬件再强，也得靠软件跑起来。Groq最牛的地方，不是芯片，而是它的编译器。它能把AI模型“完美翻译”成芯片能高效执行的指令，硬件利用率接近100%。而传统GPU因为架构太通用，调度复杂，实际利用率常常打七折。\n\n英伟达有CUDA护城河，但在推理端，TensorRT、Triton这些工具还不够“极致”。现在把Groq的编译器团队挖进来，等于直接空降一支特种部队，帮它把软件栈再提一代。未来你用英伟达的推理芯片，可能又快又省电，还不贵，这才是真正的生态壁垒。\n\n最妙的是，英伟达没吞掉Groq，而是让它继续独立运营。这样做有两个好处，第一，Groq还能继续对外卖服务（比如GroqCloud），验证技术；第二避免反垄断审查，也避免吓跑其他潜在合作方。\n\n对持有英伟达的股东来说，这就像吃了一剂定心丸，既防住了Groq未来变成竞争对手（它本来在云厂商里已经有口碑了），又把它的核心能力吸收到自己体内。黄仁勋这招，可谓是“借壳练功，不留后患”。\n\n从这次200亿的投资合作，能看出来黄仁勋的眼光之犀利，这也极大增强了我对英伟达“抗供应链风险能力”的信心。我们投 #NVDA，从来不只是赌GPU销量，而是赌它能持续定义AI算力的未来。现在它在内存墙、软件栈、人才储备上全维度加固，说明管理层比市场想得更远。\n\n中短期HBM继续涨价，可能还会存续一段时间(如👇图3)，毕竟让英伟达都感觉到紧迫感，不容小觑。目前内存涨价和硬盘涨价，还在持续当中，这里利好美股三家企业，分别是美光科技(#MU)，希捷科技(#STX)，西部数据(#WDC)，这三家公司在  @MSX_CN 上都有(如👇图4)。\n\n但长期需要注意⚠️一下，如果英伟达真能用SRAM+新架构把推理芯片的HBM用量砍一半，那未来AI内存的需求结构可能巨变，这里面对美光，海力士，三星可能都存在利空。\n\n总结来说，英伟达这次怒砸200亿美金，实际上不是在“买技术”，而是在买未来的选择权。当全世界都在抢HBM的时候，它悄悄准备了一条不用HBM也能赢的路。这才是顶级科技公司的护城河，你还在修城墙，它已经造了飞船。🧐\n\n目前这些公司在 #MSX 上面都有，炒美股，我选择用 #RWA 美股代币化平台 #MSX，一同投资参与美股市场：https://t.co/x4ykUw3WBj   \n\n早期美股投资粉丝和伙伴，可以私信我，填写表单后，可免费进入美股交流和探讨社群(目前每周仅限定10人，助理审核，可能需要一点时间，感恩🙏)！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3015,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973032640430346509",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天看了一下京东的内存条，64G的内存条价格，已经快赶上MacBook M4 16G电脑的价格了！这涨价幅度太离谱了！🥸 https://t.co/INTIexKZTQ https://t.co/5CKq8mMfiA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153/48 | 没诗硬吟｜阴暗爬行  | Fox | 另一只猫猫 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Suism.洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 89,
+          "like_count": 5232,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1899
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-05T07:57:53.000Z",
+        "description": "Long term investor #BTC #TAO #SOL #SUI #XRP| MeMe Professional Data Player | Crypto since 2017 | Not financial advice, DYOR🙏",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 19,
+                "tag": "BTC"
+              },
+              {
+                "end": 28,
+                "start": 24,
+                "tag": "TAO"
+              },
+              {
+                "end": 33,
+                "start": 29,
+                "tag": "SOL"
+              },
+              {
+                "end": 38,
+                "start": 34,
+                "tag": "SUI"
+              },
+              {
+                "end": 43,
+                "start": 39,
+                "tag": "XRP"
+              }
+            ]
+          }
+        },
+        "id": "1003908754813935621",
+        "name": "Rocky",
+        "pinned_tweet_id": "1883261227826344133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1549242558098046976/bU2ZeoEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131177,
+          "following_count": 3091,
+          "like_count": 3628,
+          "listed_count": 2652,
+          "media_count": 7216,
+          "tweet_count": 31433
+        },
+        "username": "Rocky_Bitcoin",
+        "verified": true
+      }
+    ]
+  }
+}

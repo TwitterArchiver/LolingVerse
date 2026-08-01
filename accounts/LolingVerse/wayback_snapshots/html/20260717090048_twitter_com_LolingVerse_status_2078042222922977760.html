@@ -1,0 +1,304 @@
+<!-- Source: https://web.archive.org/web/20260717090048if_/twitter_com_LolingVerse_status_2078042222922977760 -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<title>
+Wayback Machine
+</title>
+<style type="text/css">
+body {
+				margin:0;
+				padding: 20px;
+				background-color: #000;
+				min-height: 100vh;
+				box-sizing: border-box;
+			}
+  .notice {
+    border: 2px solid #c9ae00;
+    background-color: #ffff00;
+    padding: 12px;
+    position: sticky;
+    top: 20px;
+    z-index: 1000;
+  }
+
+  .tweet-container {
+    font-family: Helvetica, Arial, sans-serif;
+    padding: 12px 16px;
+    border: 1px solid #cfd9de;
+    border-radius: 12px;
+    margin-top: 20px;
+				margin-left: auto;
+				margin-right: auto;
+				background-color: white;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: max-content;
+  }
+
+  .tweet-container > #nonjsonview {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+  .tweet-author {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 0.75rem;
+  }
+
+  .tweet-author-profile-image img {
+    width: 48px;
+    max-width: 48px;
+    height: 48px;
+    max-height: 48px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-right: 5px;
+  }
+
+  .tweet-author-info {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .tweet-author-name {
+    font-weight: bold;
+  }
+
+  .tweet-content {
+    font-size: 1.25rem;
+  }
+
+			.tweet-image {
+				width: 100%;
+				height: auto;
+				margin-top: 12px;
+				border-radius: 12px;
+			}
+
+			.embedded-tweet-container {
+				box-sizing: border-box;
+				margin-top: 12px;
+				padding: 12px;
+				border: 1px solid #cfd9de;
+    border-radius: 12px;
+				background-color: white;
+				max-width: 100%;
+			}
+			.date {
+				font-size: 0.75rem;
+				color: #657786;
+				margin-top: 12px;
+			}
+			.date a {
+				color: #657786;
+				text-decoration: none;
+			}
+			.date a:hover {
+				text-decoration: underline;
+			}
+  .on {
+    display: block;
+  }
+  .off {
+    display: none;
+  }
+</style>
+</head>
+<body>
+<div class="tweet-container on">
+<div id="nonjsonview">
+  <div class="tweet-author">
+  <div class="tweet-author-profile-image">
+  <img alt="洛铃🦊Magic Caster" src="../avatar/avatar_1949784927089876992.jpg"/>
+  </div>
+  <div class="tweet-author-info">
+  <div class="tweet-author-name">
+  洛铃🦊Magic Caster
+  </div>
+  <div class="tweet-author-username">
+  @LolingVerse
+  </div>
+  </div>
+  </div>
+  <div class="tweet-content">
+  **Tavily** 是目前 LLM / AI Agent 最受欢迎的商业搜索工具之一，专为 RAG 和 Agent 优化：
+  <br/>
+  <br/>
+  - 返回结构化、干净的结果（标题、URL、snippet、raw_content、可选 answer + 图片）
+  <br/>
+  - 支持 `include_answer`、`search_depth`、`include_raw_content` 等参数
+  <br/>
+  - 原生集成 LangChain、LlamaIndex、CrewAI 等框架
+  <br/>
+  - 免费额度 1000 次/月，之后按量付费
+  <br/>
+  <br/>
+  它最大的优势是**开箱即用**，结果质量高、适合直接喂给 LLM。
+  <br/>
+  <br/>
+  ### 开源 / 自托管搜索工具（重点对比）
+  <br/>
+  <br/>
+  以下是开源社区和自托管项目中实际使用较多的方案，特别是**能替代 Tavily** 的：
+  <br/>
+  <br/>
+  | 工具 | 开源协议 | Tavily 兼容性 | 核心特点 | 部署方式 | 适合场景 | 优缺点 |
+  <br/>
+  |------|----------|---------------|----------|----------|----------|--------|
+  <br/>
+  | **SearXNG** | AGPL | 无（需额外包装） | 元搜索引擎，聚合 70+ 引擎（Google、Bing、DuckDuckGo、Brave 等） | Docker 一键部署 | 本地 LLM、自托管 Agent | **最常用**的开源方案。隐私好、免费无限，但结果是原始 snippet，需要自己清洗 |
+  <br/>
+  | **OrioSearch** | MIT | **极高**（drop-in 替换） | SearXNG + trafilatura 内容提取 + BYO LLM 生成 answer + rerank + 图片 | Docker Compose（含 SearXNG + Redis） | 想直接替换 Tavily 的自托管项目 | **目前最接近 Tavily 的开源方案**。支持 `include_answer`、SSE、tool schema |
+  <br/>
+  | **UnSearch** | Apache 2.0 | 高（Tavily + Exa 兼容） | SearXNG + 神经检索 + 深度研究 Agent + 事实核查 | Cloudflare Workers / Docker | 需要语义搜索 + 深度研究的 Agent | 功能最丰富（类似 Exa + Tavily），自托管免费 |
+  <br/>
+  | **ai-first-search** | MIT | 中 | DuckDuckGo 搜索 + 多 URL 清洗成 Markdown | FastAPI + Docker | 轻量级 search + read pipeline | 极简，专为 Agent 设计，返回干净 Markdown |
+  <br/>
+  | **DuckDuckGo** (库) | - | 无 | `duckduckgo-search` Python 库 | 直接 pip install | 简单原型、早期 Agent | 最轻量，但不稳定（易被封） |
+  <br/>
+  <br/>
+  ### 详细说明
+  <br/>
+  <br/>
+  **1. SearXNG（开源社区最主流）**
+  <br/>
+  - 几乎所有本地 LLM 项目（Ollama + Open WebUI、AnythingLLM、自建 Agent）都在用。
+  <br/>
+  - 支持 JSON 输出，LangChain / LlamaIndex 有社区集成。
+  <br/>
+  - 很多项目再包一层 MCP Server（Model Context Protocol）让 Claude / Cursor / Open WebUI 直接调用。
+  <br/>
+  - 缺点：只有 snippet，没有 Tavily 那种自动清洗后的 `raw_content` 和 `answer`。
+  <br/>
+  <br/>
+  **2. OrioSearch（最推荐的 Tavily 替代）**
+  <br/>
+  - GitHub: `vkfolio/orio-search`
+  <br/>
+  - **真正意义上的 drop-in 替换**：改一行 base_url 就能用现有 Tavily 代码。
+  <br/>
+  - 自带内容提取（trafilatura，质量很高）+ 支持接 Ollama 等本地 LLM 生成带引用的 answer。
+  <br/>
+  - 包含 rerank、Redis 缓存、SSE 流式等生产特性。
+  <br/>
+  - 非常适合想**完全自托管 + 零费用**的团队。
+  <br/>
+  <br/>
+  **3. UnSearch**
+  <br/>
+  - 同时兼容 Tavily 和 Exa 的 API。
+  <br/>
+  - 有神经检索（semantic search）和深度研究 Agent 功能。
+  <br/>
+  - 自托管或用他们的托管服务（免费额度比 Tavily 多 5 倍）。
+  <br/>
+  <br/>
+  **4. 其他轻量方案**
+  <br/>
+  - `ai-first-search`：追求极简 “query → 干净 Markdown” 的可以直接用。
+  <br/>
+  - 很多项目自己组合：**SearXNG（搜） + Jina Reader / Crawl4AI / trafilatura（取正文）**。
+  <br/>
+  <br/>
+  ### 在开源 LLM 项目中的实际使用情况
+  <br/>
+  <br/>
+  - **LangChain / LangGraph**：官方推荐 Tavily，但社区大量使用 SearXNG + 自定义 Tool，或 OrioSearch。
+  <br/>
+  - **LlamaIndex**：类似，支持多种 search 集成。
+  <br/>
+  - **本地 / 自托管生态**（Ollama、Open WebUI、LM Studio 等）：**SearXNG 几乎是标配**。
+  <br/>
+  - **早期 Agent 项目**（Auto-GPT 类）：多用 DuckDuckGo 库。
+  <br/>
+  - **2025-2026 新项目**：越来越多直接用 **OrioSearch** 或 **UnSearch** 做 Tavily 替代。
+  <br/>
+  <br/>
+  ### 推荐选择
+  <br/>
+  <br/>
+  | 你的需求 | 推荐方案 | 理由 |
+  <br/>
+  |----------|----------|------|
+  <br/>
+  | 快速原型、想最省事 | **Tavily** | 开箱即用，集成最好 |
+  <br/>
+  | 本地/自托管、零成本、隐私优先 | **SearXNG**（基础）或 **OrioSearch**（进阶） | 完全免费可控 |
+  <br/>
+  | 想要接近 Tavily 的体验 + 自托管 | **OrioSearch** | 最接近的 drop-in 方案 |
+  <br/>
+  | 需要语义搜索 + 深度研究 | **UnSearch** | 功能最强 |
+  <br/>
+  | 极简轻量 pipeline | **ai-first-search** | 返回干净 Markdown |
+  <br/>
+  <br/>
+  ### 总结建议
+  <br/>
+  <br/>
+  - **想省事 + 生产稳定** → 先用 Tavily（免费额度够用）。
+  <br/>
+  - **开源项目 / 自托管 / 长期零成本** → 优先 **OrioSearch**（最像 Tavily）或 **SearXNG + 内容提取层**。
+  <br/>
+  - 很多团队的最终方案是 **混合使用**：SearXNG/OrioSearch 做主搜索 + Jina Reader / Firecrawl 做深度页面抓取。
+  <br/>
+  <br/>
+  需要我帮你看具体项目的集成代码（LangChain / LlamaIndex / MCP）、部署教程，还是对比某个具体工具的 benchmark，随时说！
+  <!-- If there's a quoted tweet, embed it here!-->
+  <script>
+  console.log("User ID: ", "1987885638038036480; author ID:","1987885638038036480");
+  </script>
+  <!-- we want to get data.includes.tweets.entities[].urls-->
+  <!-- THIS IS FAILING for http://localhost:5000/web/20240605034627/https://twitter.com/panguqianxun/status/1798199680322396424 -->
+  <div class="embedded-tweet-container">
+  <div class="tweet-author">
+  <div class="tweet-author-profile-image">
+    <img alt="雨夹雪❄️ | yoshino233酱世界第一可爱！" src="../avatar/avatar_1987888073292881921.jpg"/>
+  </div>
+  <div class="tweet-author-info">
+    <div class="tweet-author-name">
+    雨夹雪❄️ | yoshino233酱世界第一可爱！
+    </div>
+    <div class="tweet-author-username">
+    @mizorewww
+    </div>
+  </div>
+  </div>
+  <div class="tweet-content">
+  各位，现在有什么推荐的，给llm用的搜索工具？我用了一周的tavily，今天发现已经花了20多刀了，这太可怕了，成本完全扛不住。
+  </div>
+  <p class="date">
+  <a href="https://web.archive.org/web/20260717090048/https://twitter.com/mizorewww/status/2078035152664674715" id="qt2078035152664674715">
+  </a>
+  </p>
+  <script>
+  var dateString = "2026-07-17T08:32:43.000Z";
+				var date = new Date(dateString);
+				document.getElementById("qt2078035152664674715").innerText = date;
+  </script>
+  </div>
+  <p class="date">
+  <a href="/" id="parentdate">
+  </a>
+  </p>
+  </div>
+</div>
+</div>
+<script>
+var dateString = "2026-07-17T09:00:48.000Z";
+  var date = new Date(dateString);
+  var currentURL = window.location.href;
+  document.querySelector("#parentdate").innerText = date;
+  document.querySelector("#parentdate").href = currentURL;
+</script>
+</body>
+</html>

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2016165736314745257",
+    "created_at": "2026-01-27T15:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T16:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016165736314745257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1608781688775245825",
+          "start": 3,
+          "username": "YekaseSuiso2022"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2016…",
+          "end": 44,
+          "expanded_url": "http://x.com/i/article/2016145193473593345",
+          "start": 21,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2016145193473593345",
+          "url": "https://t.co/ywwqxdtiDC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016165736314745257",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016160654206677155",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YekaseSuiso2022: https://t.co/ywwqxdtiDC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2016165736314745257",
+        "created_at": "2026-01-27T15:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T16:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016165736314745257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1608781688775245825",
+              "start": 3,
+              "username": "YekaseSuiso2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2016…",
+              "end": 44,
+              "expanded_url": "http://x.com/i/article/2016145193473593345",
+              "start": 21,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2016145193473593345",
+              "url": "https://t.co/ywwqxdtiDC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016165736314745257",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016160654206677155",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YekaseSuiso2022: https://t.co/ywwqxdtiDC"
+      },
+      {
+        "article": {
+          "title": "除顫器是如何拯救你的狗命？"
+        },
+        "attachments": {},
+        "author_id": "1608781688775245825",
+        "conversation_id": "2016160654206677155",
+        "created_at": "2026-01-27T14:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T15:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016160654206677155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2016…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2016145193473593345",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2016145193473593345",
+              "url": "https://t.co/ywwqxdtiDC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016160654206677155",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ywwqxdtiDC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153/48 | 没诗硬吟  | Fox | 另一只猫猫 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Hydrogen.洛铃🔶Magic Caster",
+        "pinned_tweet_id": "2012549856930529552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 104,
+          "like_count": 7710,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 2330
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-30T11:07:57.000Z",
+        "description": "MtF🏳️‍⚧️ / 🍥 / Trans-les / ΟΣΙΝΤ當下手🔎/ 我是病弱，請照顧我 / zh-CN zh-TW ja / 16齡 / 輪椅娘 / 病弱 / Cyborg  / 瀕死之人 / 🦊@LolingVerse / 🐙@TamikoTomorika 「你願意坐下來，聽我講故事嗎？」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 102,
+                "username": "LolingVerse"
+              },
+              {
+                "end": 133,
+                "start": 118,
+                "username": "TamikoTomorika"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yekasesuiso-dev.github.io",
+                "end": 23,
+                "expanded_url": "https://yekasesuiso-dev.github.io/",
+                "start": 0,
+                "url": "https://t.co/v7gcXNWQpu"
+              }
+            ]
+          }
+        },
+        "id": "1608781688775245825",
+        "location": "Minato-ku, Tokyo",
+        "name": "Tomorika Suiso🍨🍥",
+        "pinned_tweet_id": "2006339765633962464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012947348591190017/Y7h9TXGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 439,
+          "like_count": 2409,
+          "listed_count": 5,
+          "media_count": 171,
+          "tweet_count": 563
+        },
+        "url": "https://t.co/v7gcXNWQpu",
+        "username": "YekaseSuiso2022",
+        "verified": true
+      }
+    ]
+  }
+}

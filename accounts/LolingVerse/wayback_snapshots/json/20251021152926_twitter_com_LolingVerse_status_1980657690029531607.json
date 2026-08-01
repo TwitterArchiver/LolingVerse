@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1980608458434003210",
+    "created_at": "2025-10-21T15:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T16:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980657690029531607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4637367263",
+          "start": 0,
+          "username": "enterfusion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980657690029531607",
+    "in_reply_to_user_id": "4637367263",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980608458434003210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@enterfusion 優美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980608448682172416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3yI4-7WoAAxIPI.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980608448845807616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3yI4_iXgAAT4cG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1980608458434003210",
+        "created_at": "2025-10-21T15:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T16:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980657690029531607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4637367263",
+              "start": 0,
+              "username": "enterfusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980657690029531607",
+        "in_reply_to_user_id": "4637367263",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980608458434003210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@enterfusion 優美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980608448682172416",
+            "3_1980608448845807616"
+          ]
+        },
+        "author_id": "4637367263",
+        "conversation_id": "1980608458434003210",
+        "created_at": "2025-10-21T12:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T13:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980608458434003210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NkbGNftPWE",
+              "end": 63,
+              "expanded_url": "https://x.com/enterfusion/status/1980608458434003210/photo/1",
+              "media_key": "3_1980608448682172416",
+              "start": 40,
+              "url": "https://t.co/NkbGNftPWE"
+            },
+            {
+              "display_url": "pic.x.com/NkbGNftPWE",
+              "end": 63,
+              "expanded_url": "https://x.com/enterfusion/status/1980608458434003210/photo/1",
+              "media_key": "3_1980608448845807616",
+              "start": 40,
+              "url": "https://t.co/NkbGNftPWE"
+            },
+            {
+              "display_url": "x.com/GwenShmoople/s…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/GwenShmoople/status/1980362136070287504",
+              "start": 64,
+              "url": "https://t.co/iFwNd9J2Q9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980608458434003210",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 946,
+          "like_count": 83,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980362136070287504",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Every trans adult was a trans kid!!!!!! https://t.co/NkbGNftPWE https://t.co/iFwNd9J2Q9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "『可怜楼上月徘徊，应照离人妆镜台』\n『身世浮沉雨打萍……一山放出一山拦』\n可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TMO0"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 74,
+          "like_count": 3041,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1461
+        },
+        "url": "https://t.co/Dggtj9TMO0",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-28T23:57:20.000Z",
+        "description": "34 | Trans (She/Her) | Musician | Gamer | Anime Fan | ENFJ-T\n\nDaughter/Tochter: @napri32 🫂 \nHRT: 16.10.2024🏳️‍⚧️ \n\nLinktree: https://t.co/lP3FQvn51X",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "napri32"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/yumisternfuchs",
+                "end": 148,
+                "expanded_url": "https://linktr.ee/yumisternfuchs",
+                "start": 125,
+                "url": "https://t.co/lP3FQvn51X"
+              }
+            ]
+          }
+        },
+        "id": "4637367263",
+        "location": "Germany",
+        "name": "🏳️‍⚧️ Yumi / ゆみ Sternfuchs ⭐🦊",
+        "pinned_tweet_id": "1977845340922360288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965337054348288000/Okwv2UAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3586,
+          "following_count": 1989,
+          "like_count": 12343,
+          "listed_count": 10,
+          "media_count": 1078,
+          "tweet_count": 8938
+        },
+        "username": "enterfusion",
+        "verified": false
+      }
+    ]
+  }
+}

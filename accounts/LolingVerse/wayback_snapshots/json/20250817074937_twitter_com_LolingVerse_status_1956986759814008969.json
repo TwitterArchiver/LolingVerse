@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1956814406521901056"
+      ],
+      "media_source_tweet_id": [
+        "1956814471328133139"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1956986759814008969",
+    "created_at": "2025-08-17T07:49:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T08:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956986759814008969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1161626074150658048",
+          "start": 3,
+          "username": "Biantaibear01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uxDg3AigxA",
+          "end": 88,
+          "expanded_url": "https://x.com/Biantaibear01/status/1956814471328133139/video/1",
+          "media_key": "13_1956814406521901056",
+          "start": 65,
+          "url": "https://t.co/uxDg3AigxA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956986759814008969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956814471328133139",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Biantaibear01: 参加爬行比赛的小宝宝，突然就站起来了，全场欢呼见证她人生的第一步... \n\n很美好的感觉。 https://t.co/uxDg3AigxA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 62949,
+        "height": 960,
+        "media_key": "13_1956814406521901056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1956814406521901056/img/f1ev5aXhslBA1cxo.jpg",
+        "public_metrics": {
+          "view_count": 20872
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956814406521901056/vid/avc1/320x568/-HoR6bxcwXugqyf0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956814406521901056/vid/avc1/480x852/i_SmTrAvZao1c8hg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956814406521901056/vid/avc1/540x960/IXHyHBE0xjsVZPhq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1956814406521901056/pl/xLx7nXBpAlzHuukm.m3u8?v=cfc"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1956814406521901056"
+          ],
+          "media_source_tweet_id": [
+            "1956814471328133139"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1956986759814008969",
+        "created_at": "2025-08-17T07:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T08:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956986759814008969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1161626074150658048",
+              "start": 3,
+              "username": "Biantaibear01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uxDg3AigxA",
+              "end": 88,
+              "expanded_url": "https://x.com/Biantaibear01/status/1956814471328133139/video/1",
+              "media_key": "13_1956814406521901056",
+              "start": 65,
+              "url": "https://t.co/uxDg3AigxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956986759814008969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956814471328133139",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Biantaibear01: 参加爬行比赛的小宝宝，突然就站起来了，全场欢呼见证她人生的第一步... \n\n很美好的感觉。 https://t.co/uxDg3AigxA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1956814406521901056"
+          ]
+        },
+        "author_id": "1161626074150658048",
+        "conversation_id": "1956814471328133139",
+        "created_at": "2025-08-16T20:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T21:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956814471328133139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uxDg3AigxA",
+              "end": 69,
+              "expanded_url": "https://x.com/Biantaibear01/status/1956814471328133139/video/1",
+              "media_key": "13_1956814406521901056",
+              "start": 46,
+              "url": "https://t.co/uxDg3AigxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956814471328133139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 41647,
+          "like_count": 254,
+          "quote_count": 5,
+          "reply_count": 11,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "参加爬行比赛的小宝宝，突然就站起来了，全场欢呼见证她人生的第一步... \n\n很美好的感觉。 https://t.co/uxDg3AigxA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 70,
+          "like_count": 2102,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1105
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-14T13:10:12.000Z",
+        "description": "生活推，碎碎念/ISFP/BD人/血型B/双子座/偶像西西弗/践行斯多葛/喜欢熬鸡汤/白兰地信徒/每日坚持冥想，运动，冰浴……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zh.m.wikipedia.org/zh/%E5%8C%97%E…",
+                "end": 23,
+                "expanded_url": "https://zh.m.wikipedia.org/zh/%E5%8C%97%E6%A5%B5%E7%86%8A",
+                "start": 0,
+                "url": "https://t.co/N68ZTmRkeM"
+              }
+            ]
+          }
+        },
+        "id": "1161626074150658048",
+        "location": "北极",
+        "name": "一只北极熊",
+        "pinned_tweet_id": "1344285055653269504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1288286236226908160/4NCC_7z3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33428,
+          "following_count": 1251,
+          "like_count": 16376,
+          "listed_count": 147,
+          "media_count": 7019,
+          "tweet_count": 26983
+        },
+        "url": "https://t.co/N68ZTmRkeM",
+        "username": "Biantaibear01",
+        "verified": true
+      }
+    ]
+  }
+}

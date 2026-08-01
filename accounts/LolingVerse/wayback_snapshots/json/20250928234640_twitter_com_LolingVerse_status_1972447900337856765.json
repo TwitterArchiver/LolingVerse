@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970064433604145152"
+      ],
+      "media_source_tweet_id": [
+        "1972234073835008478"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1972447900337856765",
+    "created_at": "2025-09-28T23:46:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T00:46:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972447900337856765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "592624246",
+          "start": 3,
+          "username": "tokorori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wa19QMsv9k",
+          "end": 46,
+          "expanded_url": "https://x.com/tokorori/status/1972234073835008478/photo/1",
+          "media_key": "3_1970064433604145152",
+          "start": 23,
+          "url": "https://t.co/Wa19QMsv9k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972447900337856765",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 366
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972234073835008478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tokorori: 管理したいお狐様 https://t.co/Wa19QMsv9k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1970064433604145152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1cTKh2bMAAC0Iz.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970064433604145152"
+          ],
+          "media_source_tweet_id": [
+            "1972234073835008478"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1972447900337856765",
+        "created_at": "2025-09-28T23:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T00:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972447900337856765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "592624246",
+              "start": 3,
+              "username": "tokorori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wa19QMsv9k",
+              "end": 46,
+              "expanded_url": "https://x.com/tokorori/status/1972234073835008478/photo/1",
+              "media_key": "3_1970064433604145152",
+              "start": 23,
+              "url": "https://t.co/Wa19QMsv9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972447900337856765",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 366
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972234073835008478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tokorori: 管理したいお狐様 https://t.co/Wa19QMsv9k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970064433604145152"
+          ]
+        },
+        "author_id": "592624246",
+        "conversation_id": "1972234073835008478",
+        "created_at": "2025-09-28T09:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T10:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972234073835008478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wa19QMsv9k",
+              "end": 32,
+              "expanded_url": "https://x.com/tokorori/status/1972234073835008478/photo/1",
+              "media_key": "3_1970064433604145152",
+              "start": 9,
+              "url": "https://t.co/Wa19QMsv9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972234073835008478",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 292,
+          "impression_count": 33464,
+          "like_count": 2489,
+          "quote_count": 3,
+          "reply_count": 21,
+          "retweet_count": 366
+        },
+        "reply_settings": "everyone",
+        "text": "管理したいお狐様 https://t.co/Wa19QMsv9k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "『可怜楼上月徘徊，应照离人妆镜台』\n『身世浮沉雨打萍……一山放出一山拦』\n可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TMO0"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 71,
+          "like_count": 2469,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1267
+        },
+        "url": "https://t.co/Dggtj9TMO0",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-28T10:55:30.000Z",
+        "description": "お絵かきしてます。妖精・エルフ耳・獣耳・白髪好き。【FANBOX】https://t.co/vjZeBocNNw 【Fantia】https://t.co/pSrWiv50pt 【skeb】https://t.co/Bri8EjYFb4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sasasa.fanbox.cc",
+                "end": 56,
+                "expanded_url": "http://sasasa.fanbox.cc",
+                "start": 33,
+                "url": "https://t.co/vjZeBocNNw"
+              },
+              {
+                "display_url": "fantia.jp/fanclubs/65633",
+                "end": 88,
+                "expanded_url": "http://fantia.jp/fanclubs/65633",
+                "start": 65,
+                "url": "https://t.co/pSrWiv50pt"
+              },
+              {
+                "display_url": "skeb.jp/@sasasaria",
+                "end": 118,
+                "expanded_url": "http://skeb.jp/@sasasaria",
+                "start": 95,
+                "url": "https://t.co/Bri8EjYFb4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=215165",
+                "start": 0,
+                "url": "https://t.co/Yr6OY8xL5l"
+              }
+            ]
+          }
+        },
+        "id": "592624246",
+        "name": "沙々々",
+        "pinned_tweet_id": "1875112868267602012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1471458872070078468/Zdgwhd6S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66116,
+          "following_count": 532,
+          "like_count": 5722,
+          "listed_count": 424,
+          "media_count": 828,
+          "tweet_count": 6579
+        },
+        "url": "https://t.co/Yr6OY8xL5l",
+        "username": "tokorori",
+        "verified": true
+      }
+    ]
+  }
+}

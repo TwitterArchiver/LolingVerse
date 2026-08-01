@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944891478553026560"
+      ],
+      "media_source_tweet_id": [
+        "1944891481107653122"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1945051200409547116",
+    "created_at": "2025-07-15T09:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T10:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945051200409547116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1175185782824300544",
+          "start": 3,
+          "username": "Yoshi58581128"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5D1dF09160",
+          "end": 42,
+          "expanded_url": "https://x.com/Yoshi58581128/status/1944891481107653122/photo/1",
+          "media_key": "3_1944891478553026560",
+          "start": 19,
+          "url": "https://t.co/5D1dF09160"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945051200409547116",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944891481107653122",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yoshi58581128: https://t.co/5D1dF09160"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944891478553026560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv2kfsnWYAAvfvn.jpg",
+        "width": 1543
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944891478553026560"
+          ],
+          "media_source_tweet_id": [
+            "1944891481107653122"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1945051200409547116",
+        "created_at": "2025-07-15T09:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T10:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945051200409547116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1175185782824300544",
+              "start": 3,
+              "username": "Yoshi58581128"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5D1dF09160",
+              "end": 42,
+              "expanded_url": "https://x.com/Yoshi58581128/status/1944891481107653122/photo/1",
+              "media_key": "3_1944891478553026560",
+              "start": 19,
+              "url": "https://t.co/5D1dF09160"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945051200409547116",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944891481107653122",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yoshi58581128: https://t.co/5D1dF09160"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944891478553026560"
+          ]
+        },
+        "author_id": "1175185782824300544",
+        "conversation_id": "1944891481107653122",
+        "created_at": "2025-07-14T22:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T23:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944891481107653122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5D1dF09160",
+              "end": 23,
+              "expanded_url": "https://x.com/Yoshi58581128/status/1944891481107653122/photo/1",
+              "media_key": "3_1944891478553026560",
+              "start": 0,
+              "url": "https://t.co/5D1dF09160"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944891481107653122",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1036,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5D1dF09160"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 63,
+          "like_count": 1655,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 772
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-20T23:11:54.000Z",
+        "description": "AIイラストと時々音楽関連の情報をポスト\nほんの少しだけ誰かの心に寄り添うような\n物語の一コマを切り取ったAIイラスト投稿\n全てオリジナル\n盗用 無断転載 無断使用厳禁 無断販売NG\n絵柄は好きな物を好きなだけ色々投稿中\nnijijourney使用\n\n#歌詞を読んで聴く #言葉と音を楽しむ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 135,
+                "start": 126,
+                "tag": "歌詞を読んで聴く"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "tag": "言葉と音を楽しむ"
+              }
+            ]
+          }
+        },
+        "id": "1175185782824300544",
+        "location": "日当たりのいい場所",
+        "name": "Yoshi@AIイラスト&音楽",
+        "pinned_tweet_id": "1931179833683542475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763039639177510912/Ec9Gfohu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14326,
+          "following_count": 6396,
+          "like_count": 228393,
+          "listed_count": 72,
+          "media_count": 6375,
+          "tweet_count": 40631
+        },
+        "username": "Yoshi58581128",
+        "verified": true
+      }
+    ]
+  }
+}

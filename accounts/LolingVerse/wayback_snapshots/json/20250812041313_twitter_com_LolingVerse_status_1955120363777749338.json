@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954782712360992768"
+      ],
+      "media_source_tweet_id": [
+        "1954833165325062313"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1955120363777749338",
+    "created_at": "2025-08-12T04:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T05:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955120363777749338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "3042786888",
+          "start": 3,
+          "username": "nanananaaannaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XoV2UZAhgZ",
+          "end": 46,
+          "expanded_url": "https://x.com/nanananaaannaa/status/1954833165325062313/photo/1",
+          "media_key": "3_1954782712360992768",
+          "start": 23,
+          "url": "https://t.co/XoV2UZAhgZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955120363777749338",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 522
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954833165325062313",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nanananaaannaa: ❀✿ https://t.co/XoV2UZAhgZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2014,
+        "media_key": "3_1954782712360992768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDIhR9aAAAAlmK.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954782712360992768"
+          ],
+          "media_source_tweet_id": [
+            "1954833165325062313"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1955120363777749338",
+        "created_at": "2025-08-12T04:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T05:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955120363777749338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "3042786888",
+              "start": 3,
+              "username": "nanananaaannaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XoV2UZAhgZ",
+              "end": 46,
+              "expanded_url": "https://x.com/nanananaaannaa/status/1954833165325062313/photo/1",
+              "media_key": "3_1954782712360992768",
+              "start": 23,
+              "url": "https://t.co/XoV2UZAhgZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955120363777749338",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 522
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954833165325062313",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nanananaaannaa: ❀✿ https://t.co/XoV2UZAhgZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954782712360992768"
+          ]
+        },
+        "author_id": "3042786888",
+        "conversation_id": "1954833165325062313",
+        "created_at": "2025-08-11T09:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T10:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954833165325062313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XoV2UZAhgZ",
+              "end": 26,
+              "expanded_url": "https://x.com/nanananaaannaa/status/1954833165325062313/photo/1",
+              "media_key": "3_1954782712360992768",
+              "start": 3,
+              "url": "https://t.co/XoV2UZAhgZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954833165325062313",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 347,
+          "impression_count": 63288,
+          "like_count": 3838,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 522
+        },
+        "reply_settings": "everyone",
+        "text": "❀✿ https://t.co/XoV2UZAhgZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 68,
+          "like_count": 2020,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1059
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-26T08:12:56.000Z",
+        "description": "■ɴᴀɴᴀ■絵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nannanananaunau",
+                "end": 23,
+                "expanded_url": "https://lit.link/nannanananaunau",
+                "start": 0,
+                "url": "https://t.co/wLr47AN5Py"
+              }
+            ]
+          }
+        },
+        "id": "3042786888",
+        "name": "nana/C106日曜南1ホールa46ab",
+        "pinned_tweet_id": "1954105379127730673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1268531284491538438/Laboj6y7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359219,
+          "following_count": 568,
+          "like_count": 4393,
+          "listed_count": 3333,
+          "media_count": 83,
+          "tweet_count": 4978
+        },
+        "url": "https://t.co/wLr47AN5Py",
+        "username": "nanananaaannaa",
+        "verified": false
+      }
+    ]
+  }
+}

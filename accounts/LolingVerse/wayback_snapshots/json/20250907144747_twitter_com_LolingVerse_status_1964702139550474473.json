@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1964549875204575435",
+    "created_at": "2025-09-07T14:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T15:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964702139550474473"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 57,
+          "normalized_text": "twitter",
+          "probability": 0.9083,
+          "start": 51,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1303726552094564353",
+          "start": 0,
+          "username": "Dubby13150M"
+        },
+        {
+          "end": 22,
+          "id": "1357311274619711491",
+          "start": 13,
+          "username": "aShaomai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964702139550474473",
+    "in_reply_to_user_id": "1303726552094564353",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964601714595844296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dubby13150M @aShaomai you could buy them form the twitter"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1964549875204575435",
+        "created_at": "2025-09-07T14:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T15:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964702139550474473"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 57,
+              "normalized_text": "twitter",
+              "probability": 0.9083,
+              "start": 51,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1303726552094564353",
+              "start": 0,
+              "username": "Dubby13150M"
+            },
+            {
+              "end": 22,
+              "id": "1357311274619711491",
+              "start": 13,
+              "username": "aShaomai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964702139550474473",
+        "in_reply_to_user_id": "1303726552094564353",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964601714595844296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dubby13150M @aShaomai you could buy them form the twitter"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303726552094564353",
+        "conversation_id": "1964549875204575435",
+        "created_at": "2025-09-07T08:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T09:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964601714595844296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1357311274619711491",
+              "start": 0,
+              "username": "aShaomai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964601714595844296",
+        "in_reply_to_user_id": "1357311274619711491",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964549875204575435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aShaomai Je souhaiterais avoir les mêmes 😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "『可怜楼上月徘徊，应照离人妆镜台』\n『今朝剑指叠云处……一山放出一山拦』\n可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TMO0"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 69,
+          "like_count": 2285,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1192
+        },
+        "url": "https://t.co/Dggtj9TMO0",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-09T16:07:17.000Z",
+        "description": "",
+        "id": "1303726552094564353",
+        "location": "Grenoble, France",
+        "name": "Greg2212",
+        "pinned_tweet_id": "1898378916332441755",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 114,
+          "like_count": 797,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 230
+        },
+        "username": "Dubby13150M",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-04T12:53:31.000Z",
+        "description": "性别♂取向♀，帖子都是本人哦。长期戴锁ing。帖子玩具喜欢可定制哦～QQ:774474726；飞机群：https://t.co/keMJcusjws（不常用✈️）自用🪜又快又稳https://t.co/Ip9uBMVE8O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+XCTec4Q_aLJjZ…",
+                "end": 74,
+                "expanded_url": "https://t.me/+XCTec4Q_aLJjZjY1",
+                "start": 51,
+                "url": "https://t.co/keMJcusjws"
+              },
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 111,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=IHJskPNU",
+                "start": 88,
+                "url": "https://t.co/Ip9uBMVE8O"
+              }
+            ]
+          }
+        },
+        "id": "1357311274619711491",
+        "name": "一只大烧卖",
+        "pinned_tweet_id": "1959817565909532987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851216416621608960/fejQCG9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15396,
+          "following_count": 110,
+          "like_count": 109,
+          "listed_count": 53,
+          "media_count": 216,
+          "tweet_count": 507
+        },
+        "username": "aShaomai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1929357250667180172",
+    "created_at": "2025-06-02T14:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T15:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929548607000129832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1695305436508172288",
+          "start": 0,
+          "username": "hong198964"
+        },
+        {
+          "end": 27,
+          "id": "1691385929968062464",
+          "start": 12,
+          "username": "zhou1919456789"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929548607000129832",
+    "in_reply_to_user_id": "1695305436508172288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929365952468037840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hong198964 @zhou1919456789 傻吊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1929357250667180172",
+        "created_at": "2025-06-02T14:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T15:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929548607000129832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1695305436508172288",
+              "start": 0,
+              "username": "hong198964"
+            },
+            {
+              "end": 27,
+              "id": "1691385929968062464",
+              "start": 12,
+              "username": "zhou1919456789"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929548607000129832",
+        "in_reply_to_user_id": "1695305436508172288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929365952468037840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hong198964 @zhou1919456789 傻吊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695305436508172288",
+        "conversation_id": "1929357250667180172",
+        "created_at": "2025-06-02T02:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T03:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929365952468037840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691385929968062464",
+              "start": 0,
+              "username": "zhou1919456789"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929365952468037840",
+        "in_reply_to_user_id": "1691385929968062464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8166,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929357250667180172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhou1919456789 傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 62,
+          "like_count": 1179,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 561
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T05:21:53.000Z",
+        "description": "在末日路过的那天，我是多想你也来看。",
+        "id": "1695305436508172288",
+        "location": "炼狱小镇香蕉道",
+        "name": "紅尘鸿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928556246778724352/MjI6oRm0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 413,
+          "like_count": 21035,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 3216
+        },
+        "username": "hong198964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T09:47:02.000Z",
+        "description": "you can call me in your favour way/高中学生/欢迎互fo/是明日美/",
+        "id": "1691385929968062464",
+        "location": "Shanghai ",
+        "name": "明日美",
+        "pinned_tweet_id": "1910877694759494047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923343824744747008/2zTVcKUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 586,
+          "like_count": 1048,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 467
+        },
+        "username": "zhou1919456789",
+        "verified": false
+      }
+    ]
+  }
+}

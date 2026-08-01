@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946877774771224576"
+      ],
+      "media_source_tweet_id": [
+        "1946878051809407096"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1946911437177401414",
+    "created_at": "2025-07-20T12:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T13:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946911437177401414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "873579011682705408",
+          "start": 3,
+          "username": "Miyuki_Symphony"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IdZE6unqsa",
+          "end": 64,
+          "expanded_url": "https://x.com/Miyuki_Symphony/status/1946878051809407096/photo/1",
+          "media_key": "3_1946877774771224576",
+          "start": 41,
+          "url": "https://t.co/IdZE6unqsa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946911437177401414",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946878051809407096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miyuki_Symphony: 一緒に食べよ～🌽(*´ω｀*🌽)ﾉ)” https://t.co/IdZE6unqsa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_1946877774771224576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwSzBWpXgAArEhD.jpg",
+        "width": 1792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946877774771224576"
+          ],
+          "media_source_tweet_id": [
+            "1946878051809407096"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1946911437177401414",
+        "created_at": "2025-07-20T12:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T13:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946911437177401414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "873579011682705408",
+              "start": 3,
+              "username": "Miyuki_Symphony"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IdZE6unqsa",
+              "end": 64,
+              "expanded_url": "https://x.com/Miyuki_Symphony/status/1946878051809407096/photo/1",
+              "media_key": "3_1946877774771224576",
+              "start": 41,
+              "url": "https://t.co/IdZE6unqsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946911437177401414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946878051809407096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miyuki_Symphony: 一緒に食べよ～🌽(*´ω｀*🌽)ﾉ)” https://t.co/IdZE6unqsa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946877774771224576"
+          ]
+        },
+        "author_id": "873579011682705408",
+        "conversation_id": "1946878051809407096",
+        "created_at": "2025-07-20T10:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T11:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946878051809407096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IdZE6unqsa",
+              "end": 43,
+              "expanded_url": "https://x.com/Miyuki_Symphony/status/1946878051809407096/photo/1",
+              "media_key": "3_1946877774771224576",
+              "start": 20,
+              "url": "https://t.co/IdZE6unqsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946878051809407096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 414,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "一緒に食べよ～🌽(*´ω｀*🌽)ﾉ)” https://t.co/IdZE6unqsa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 63,
+          "like_count": 1713,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 821
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-10T16:34:01.000Z",
+        "description": "長髪狐娘、着物、ロングドレスが好きです。\n通知見落としや、フォロバ等対応遅いかもしれません。\n主にAIイラストとドールさん(ハイライトに",
+        "id": "873579011682705408",
+        "name": "み ゆ き",
+        "pinned_tweet_id": "1944231900287308022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781987244498378752/qv9pa9bA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4200,
+          "following_count": 1289,
+          "like_count": 32363,
+          "listed_count": 71,
+          "media_count": 5131,
+          "tweet_count": 102645
+        },
+        "username": "Miyuki_Symphony",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2068988653884391658",
+    "created_at": "2026-06-22T10:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T11:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069011708568576312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1413151000567771146",
+          "start": 0,
+          "username": "Windy_Skyline"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069011708568576312",
+    "in_reply_to_user_id": "1413151000567771146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068988653884391658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Windy_Skyline 绝对没有25000字符，现在大概就千来字。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068988634062340096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaGM2GbQAATVyp.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068988634095824896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaGM2OaMAAbBFv.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068988634058129408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaGM2FbAAA-LQR.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2068988653884391658",
+        "created_at": "2026-06-22T10:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069011708568576312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1413151000567771146",
+              "start": 0,
+              "username": "Windy_Skyline"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069011708568576312",
+        "in_reply_to_user_id": "1413151000567771146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068988653884391658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Windy_Skyline 绝对没有25000字符，现在大概就千来字。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068988634062340096",
+            "3_2068988634095824896",
+            "3_2068988634058129408"
+          ]
+        },
+        "author_id": "1413151000567771146",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2068988653884391658",
+        "created_at": "2026-06-22T09:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068988653884391658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6SS9Dz6Hoz",
+              "end": 143,
+              "expanded_url": "https://x.com/Windy_Skyline/status/2068988653884391658/photo/1",
+              "media_key": "3_2068988634062340096",
+              "start": 120,
+              "url": "https://t.co/6SS9Dz6Hoz"
+            },
+            {
+              "display_url": "pic.x.com/6SS9Dz6Hoz",
+              "end": 143,
+              "expanded_url": "https://x.com/Windy_Skyline/status/2068988653884391658/photo/1",
+              "media_key": "3_2068988634095824896",
+              "start": 120,
+              "url": "https://t.co/6SS9Dz6Hoz"
+            },
+            {
+              "display_url": "pic.x.com/6SS9Dz6Hoz",
+              "end": 143,
+              "expanded_url": "https://x.com/Windy_Skyline/status/2068988653884391658/photo/1",
+              "media_key": "3_2068988634058129408",
+              "start": 120,
+              "url": "https://t.co/6SS9Dz6Hoz"
+            },
+            {
+              "display_url": "x.com/windy_skyline/…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/windy_skyline/status/2067495826830905523",
+              "start": 144,
+              "url": "https://t.co/4cVGcDc9qu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068988653884391658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 794,
+                "id": "1720665183188922368",
+                "start": 789,
+                "username": "grok"
+              },
+              {
+                "end": 800,
+                "id": "1909390269533011968",
+                "start": 795,
+                "username": "gork"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/windy_skyline/…",
+                "end": 222,
+                "expanded_url": "https://x.com/windy_skyline/status/1895949737947275268?s=46",
+                "start": 199,
+                "url": "https://t.co/YHDbgnSVGl"
+              },
+              {
+                "display_url": "help.x.com/en/using-x/x-p…",
+                "end": 395,
+                "expanded_url": "https://help.x.com/en/using-x/x-premium",
+                "start": 372,
+                "url": "https://t.co/7sIAMBvmDF"
+              }
+            ]
+          },
+          "text": "Elon Musk 涉嫌严重的欺诈和滥用，最近 Premium “更高文字上限”权益遭到篡改，以往能发出去的更长的推文现在发不出来，不是一个错觉，前两天没有找到之前发的长文，今天我找到了。\n经过验证，以前发出去还没有达到文字上限的 1/3 的内容，现在直接复制粘贴会超出几千字，而且没有通过邮箱条款更新、通知等任何渠道告知付费用户，我也没有任何授权和同意接受它这种对于我付费权益的篡改。\n以往文章：https://t.co/YHDbgnSVGl\np1 为这篇文章的原推文截图\np2 为直接复制粘贴此推文后显示的文字量超出上限截图\np3为官方描述，是最新版本的，直接点进网页就可以看到，白纸黑字写明上限 25000 （补充说明：中文字符实质占据更多字节，但我的内容以 utf-8 字符统计仍只是 25000 的三分之一，远未超出限制），原文链接：https://t.co/7sIAMBvmDF\n其次，霸王条款“任何情况下可以未经通知自行更改特性”，对于美国用户是成立的，但不代表它可以用于为“官方宣传至今白纸黑字写明 25000 字符上限”做辩护，对于美国用户，这涉嫌欺诈。\n\n并且，本条款的“未经任何形式的通知即可更改或取消特性”不适用于欧盟用户，因为这与欧盟本地的监管与法律冲突，在欧盟法律框架下，任何变更必须有“合理的”理由，并且需要提前三十日通知，“至今还宣传 25000 字符上限”和“实质上此特性已改变”又是更大的法律问题，\n而我是在 2024 年六月物理位置于德国开通 basic 订阅，使用德国 iban 付费，十五个月后又升级为 Premium 订阅的用户，Elon Musk 无权在不提前 30 日通知我的情况下进行此操作\n综上所述，Elon Musk 已经丧心病狂到了视法律为废纸的地步，不过以他世界上第一个公开资产过百亿美元的商人身份想必是不怕任何罚款的\n@grok @gork"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 315,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067495826830905523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Elon Musk 涉嫌严重的欺诈和滥用，最近 Premium “更高文字上限”权益遭到篡改，以往能发出去的更长的推文现在发不出来，不是一个错觉，前两天没有找到之前发的长文，今天我找到了。\n经过验证，以前发出去还没有达到文字上限的 1/3 https://t.co/6SS9Dz6Hoz https://t.co/4cVGcDc9qu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZFvr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZFvr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster 和另外 114514 人",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 152,
+          "like_count": 22636,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 4003
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-08T15:00:38.000Z",
+        "description": "1、别来烦我 2、我中文不好，别来挑毛病 以后一部分日常推会放在这个号上面@J_AWindy 3、我不歧视顺直人 4、别来碰瓷 5、如果你不知道你为什么被我block了，那就是你们出现在了不该点赞的推文like/retweet列表里，即使你是我线下认识的人我也不会放你出来 6、侮女词别来我推文互动沾边 7、我没有素质",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "J_AWindy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackdeath.club",
+                "end": 23,
+                "expanded_url": "http://blackdeath.club/",
+                "start": 0,
+                "url": "https://t.co/VcVji2Z02J"
+              }
+            ]
+          }
+        },
+        "id": "1413151000567771146",
+        "location": "6ft↓",
+        "name": "Partikel 👾",
+        "pinned_tweet_id": "1602731469398573061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928749874175995904/qJJj7FqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243,
+          "following_count": 237,
+          "like_count": 2414,
+          "listed_count": 8,
+          "media_count": 3907,
+          "tweet_count": 13275
+        },
+        "url": "https://t.co/VcVji2Z02J",
+        "username": "Windy_Skyline",
+        "verified": true
+      }
+    ]
+  }
+}

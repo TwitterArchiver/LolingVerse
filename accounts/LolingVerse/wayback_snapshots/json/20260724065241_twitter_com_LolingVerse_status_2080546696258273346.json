@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Nature",
+          "id": "1103294729079349250",
+          "name": "Nature"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nature",
+          "id": "1103294729079349250",
+          "name": "Nature"
+        }
+      }
+    ],
+    "conversation_id": "2080546696258273346",
+    "created_at": "2026-07-24T06:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T07:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080546696258273346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fangshimin/sta…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/fangshimin/status/2080500544066748728",
+          "start": 41,
+          "url": "https://t.co/Fj2eLUVmM0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080546696258273346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080500544066748728",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可怜的自闭症小孩子……小孩子基本上很难决定自己的命运，而遇到这种反智家庭则……😢 https://t.co/Fj2eLUVmM0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080500539142631424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9sN6aa8AAAbL-.jpg",
+        "width": 1010
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080500539130003456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9sN6XaQAAPSGv.jpg",
+        "width": 1008
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080500539134300160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9sN6Yb0AAQI-v.jpg",
+        "width": 1010
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080500539134185472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9sN6YaEAAIntB.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          }
+        ],
+        "conversation_id": "2080546696258273346",
+        "created_at": "2026-07-24T06:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T07:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080546696258273346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fangshimin/sta…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/fangshimin/status/2080500544066748728",
+              "start": 41,
+              "url": "https://t.co/Fj2eLUVmM0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080546696258273346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080500544066748728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可怜的自闭症小孩子……小孩子基本上很难决定自己的命运，而遇到这种反智家庭则……😢 https://t.co/Fj2eLUVmM0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080500539142631424",
+            "3_2080500539130003456",
+            "3_2080500539134300160",
+            "3_2080500539134185472"
+          ]
+        },
+        "author_id": "232201624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          }
+        ],
+        "conversation_id": "2080500544066748728",
+        "created_at": "2026-07-24T03:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080500544066748728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XU3EFbtBxT",
+              "end": 168,
+              "expanded_url": "https://x.com/fangshimin/status/2080500544066748728/photo/1",
+              "media_key": "3_2080500539142631424",
+              "start": 145,
+              "url": "https://t.co/XU3EFbtBxT"
+            },
+            {
+              "display_url": "pic.x.com/XU3EFbtBxT",
+              "end": 168,
+              "expanded_url": "https://x.com/fangshimin/status/2080500544066748728/photo/1",
+              "media_key": "3_2080500539130003456",
+              "start": 145,
+              "url": "https://t.co/XU3EFbtBxT"
+            },
+            {
+              "display_url": "pic.x.com/XU3EFbtBxT",
+              "end": 168,
+              "expanded_url": "https://x.com/fangshimin/status/2080500544066748728/photo/1",
+              "media_key": "3_2080500539134300160",
+              "start": 145,
+              "url": "https://t.co/XU3EFbtBxT"
+            },
+            {
+              "display_url": "pic.x.com/XU3EFbtBxT",
+              "end": 168,
+              "expanded_url": "https://x.com/fangshimin/status/2080500544066748728/photo/1",
+              "media_key": "3_2080500539134185472",
+              "start": 145,
+              "url": "https://t.co/XU3EFbtBxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080500544066748728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "上海交大的仇子龙，悍然在1名有轻度自闭症的6岁女孩身上尝试改变大脑基因的基因编辑，往脊液注射是常规用量几千倍的巨量的病毒载体，引起激烈的免疫反应，几天后女孩死了。整个试验是女孩父母花了600多万元资助的，包括给了研究人员100万服务费。事后医院只被罚了2万多元，仇子龙若无其事地在《自然》发表前期动物实验论文，隐瞒失败的人体临床试验，也隐瞒动物实验导致肝、肾严重损伤的结果。那篇论文的实验数据、图片也是有问题的。仇子龙以前几次因为别的事被我批过。我这些“熟人”怎么都是些人渣？贺建奎擅自做基因编辑人体试验被判了3年，仇子龙谋财害命该判多少年？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 22273,
+          "like_count": 147,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "reply_settings": "following",
+        "text": "上海交大的仇子龙，悍然在1名有轻度自闭症的6岁女孩身上尝试改变大脑基因的基因编辑，往脊液注射是常规用量几千倍的巨量的病毒载体，引起激烈的免疫反应，几天后女孩死了。整个试验是女孩父母花了600多万元资助的，包括给了研究人员100万服务费。事后医院只被罚了2万多元，仇子龙若无其事地在《自然》 https://t.co/XU3EFbtBxT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 164,
+          "like_count": 26146,
+          "listed_count": 4,
+          "media_count": 377,
+          "tweet_count": 4779
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2010-12-30T14:24:21.000Z",
+        "description": "方舟子，本名方是民，作家，新语丝网站：https://t.co/BtmRP0sOek YouTube：https://t.co/KpXMFWwrYH 电报群：https://t.co/ZYu30ER4KU 蓝天：https://t.co/1rEMyAfLnI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xys.org",
+                "end": 42,
+                "expanded_url": "http://xys.org",
+                "start": 19,
+                "url": "https://t.co/BtmRP0sOek"
+              },
+              {
+                "display_url": "youtube.com/channel/UCgTxd…",
+                "end": 74,
+                "expanded_url": "https://www.youtube.com/channel/UCgTxdmY7L0I5MKWrrf0Ejtg",
+                "start": 51,
+                "url": "https://t.co/KpXMFWwrYH"
+              },
+              {
+                "display_url": "t.me/fangshimin",
+                "end": 102,
+                "expanded_url": "https://t.me/fangshimin",
+                "start": 79,
+                "url": "https://t.co/ZYu30ER4KU"
+              },
+              {
+                "display_url": "fangshimin.bsky.social",
+                "end": 129,
+                "expanded_url": "http://fangshimin.bsky.social",
+                "start": 106,
+                "url": "https://t.co/1rEMyAfLnI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xys.org",
+                "end": 23,
+                "expanded_url": "http://www.xys.org",
+                "start": 0,
+                "url": "https://t.co/ZY9XOR71Vs"
+              }
+            ]
+          }
+        },
+        "id": "232201624",
+        "location": "California, USA",
+        "name": "方舟子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/526015624963555328/2-0WdMOV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940076,
+          "following_count": 54,
+          "like_count": 1887,
+          "listed_count": 2732,
+          "media_count": 53830,
+          "tweet_count": 79047
+        },
+        "url": "https://t.co/ZY9XOR71Vs",
+        "username": "fangshimin",
+        "verified": true
+      }
+    ]
+  }
+}

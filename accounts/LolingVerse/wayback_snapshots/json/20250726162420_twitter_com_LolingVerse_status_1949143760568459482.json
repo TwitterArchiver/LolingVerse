@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1949048049042653222",
+    "created_at": "2025-07-26T16:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T17:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949143760568459482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1693450364341948416",
+          "start": 0,
+          "username": "igeekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949143760568459482",
+    "in_reply_to_user_id": "1693450364341948416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949048049042653222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@igeekbb 这猫还怪公平的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 53466,
+        "height": 1080,
+        "media_key": "13_1949047898924294144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1949047898924294144/img/Hs6O0Mo7Fg8FlN9Q.jpg",
+        "public_metrics": {
+          "view_count": 32931
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949047898924294144/vid/avc1/1280x720/P3p_WaqLc5PFsQOz.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949047898924294144/vid/avc1/1920x1080/qUP7dc4NhC28PKWI.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949047898924294144/vid/avc1/640x360/00ymYlN-PHuC3qoi.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949047898924294144/vid/avc1/480x270/RF8mlDwcOuT9T7i7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1949047898924294144/pl/Epv3vEY8zAF3NI5-.m3u8?v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1949048049042653222",
+        "created_at": "2025-07-26T16:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T17:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949143760568459482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1693450364341948416",
+              "start": 0,
+              "username": "igeekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949143760568459482",
+        "in_reply_to_user_id": "1693450364341948416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949048049042653222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igeekbb 这猫还怪公平的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1949047898924294144"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "1949048049042653222",
+        "created_at": "2025-07-26T10:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T11:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949048049042653222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I1oyOYyaIk",
+              "end": 39,
+              "expanded_url": "https://x.com/igeekbb/status/1949048049042653222/video/1",
+              "media_key": "13_1949047898924294144",
+              "start": 16,
+              "url": "https://t.co/I1oyOYyaIk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949048049042653222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 58300,
+          "like_count": 387,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "把时间用在事情上 而不是情绪上 https://t.co/I1oyOYyaIk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 64,
+          "like_count": 1824,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 884
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46383,
+          "following_count": 1,
+          "like_count": 4543,
+          "listed_count": 181,
+          "media_count": 4780,
+          "tweet_count": 7319
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

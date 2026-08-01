@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934177821313880065"
+      ],
+      "media_source_tweet_id": [
+        "1934177864397869218"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1277995430236680192",
+          "name": "Outdoors"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "847901400080072705",
+          "name": "Fishing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "847901400080072705",
+          "name": "Fishing"
+        }
+      }
+    ],
+    "conversation_id": "1934540116216905814",
+    "created_at": "2025-06-16T09:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T10:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934540116216905814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1032376168475840512",
+          "start": 3,
+          "username": "musigyouza"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vYmpQJSwOb",
+          "end": 46,
+          "expanded_url": "https://x.com/musigyouza/status/1934177864397869218/photo/1",
+          "media_key": "3_1934177821313880065",
+          "start": 23,
+          "url": "https://t.co/vYmpQJSwOb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934540116216905814",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1756
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934177864397869218",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @musigyouza: 釣り人対🦈娘 https://t.co/vYmpQJSwOb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_1934177821313880065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GteUexPaUAEYoHv.jpg",
+        "width": 2270
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934177821313880065"
+          ],
+          "media_source_tweet_id": [
+            "1934177864397869218"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "847901400080072705",
+              "name": "Fishing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "847901400080072705",
+              "name": "Fishing"
+            }
+          }
+        ],
+        "conversation_id": "1934540116216905814",
+        "created_at": "2025-06-16T09:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T10:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934540116216905814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1032376168475840512",
+              "start": 3,
+              "username": "musigyouza"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vYmpQJSwOb",
+              "end": 46,
+              "expanded_url": "https://x.com/musigyouza/status/1934177864397869218/photo/1",
+              "media_key": "3_1934177821313880065",
+              "start": 23,
+              "url": "https://t.co/vYmpQJSwOb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934540116216905814",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1756
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934177864397869218",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @musigyouza: 釣り人対🦈娘 https://t.co/vYmpQJSwOb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934177821313880065"
+          ]
+        },
+        "author_id": "1032376168475840512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "847901400080072705",
+              "name": "Fishing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "847901400080072705",
+              "name": "Fishing"
+            }
+          }
+        ],
+        "conversation_id": "1934177864397869218",
+        "created_at": "2025-06-15T09:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T10:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934177864397869218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vYmpQJSwOb",
+              "end": 30,
+              "expanded_url": "https://x.com/musigyouza/status/1934177864397869218/photo/1",
+              "media_key": "3_1934177821313880065",
+              "start": 7,
+              "url": "https://t.co/vYmpQJSwOb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934177864397869218",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2493,
+          "impression_count": 385768,
+          "like_count": 16949,
+          "quote_count": 8,
+          "reply_count": 21,
+          "retweet_count": 1756
+        },
+        "reply_settings": "everyone",
+        "text": "釣り人対🦈娘 https://t.co/vYmpQJSwOb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 61,
+          "like_count": 1385,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 661
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-22T21:17:13.000Z",
+        "description": "趣味でイラストや漫画をかいてます。VRChat ID:MUSIGYOUZA。センシティブなツイートもするのでフォローお気を付けください。旦那💍@Seruhiko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "Seruhiko"
+              }
+            ]
+          }
+        },
+        "id": "1032376168475840512",
+        "name": "MUSIGYOUZA＠レモン味",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928304269154996224/224TEYQ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22592,
+          "following_count": 6872,
+          "like_count": 16819,
+          "listed_count": 200,
+          "media_count": 1431,
+          "tweet_count": 10025
+        },
+        "username": "musigyouza",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2046477527024271483",
+    "created_at": "2026-04-21T07:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T08:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046490918665257260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046490918665257260",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046477527024271483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu 看看你的参赛资格👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2046477527024271483",
+        "created_at": "2026-04-21T07:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T08:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046490918665257260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046490918665257260",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046477527024271483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu 看看你的参赛资格👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601893417549967360",
+        "conversation_id": "2046477527024271483",
+        "created_at": "2026-04-21T06:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T07:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046477527024271483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maid_crypto/st…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/maid_crypto/status/2046422382047572178",
+              "start": 85,
+              "url": "https://t.co/6CotUyokZC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046477527024271483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1616,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046422382047572178",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大部分人参加黑客松的主要目的是社交，并不是真的要做出点什么东西，不休息猛猛干活其实只不过想多点和队友的社交时间\n所以后来我就再也没去过黑客松了，感觉纯纯浪费时间透支身体 https://t.co/6CotUyokZC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 @nozomixlr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "nozomixlr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 137,
+          "like_count": 15442,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 3067
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦神秘纸箱 / working hard on @memoh_ai / 🐱家里有小猫和大猫 @Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "memoh_ai"
+              },
+              {
+                "end": 60,
+                "start": 46,
+                "username": "Dustella_Chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvKAZ"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "2039222526803636555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038245960967741441/70mSKMEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11525,
+          "following_count": 3031,
+          "like_count": 3291,
+          "listed_count": 54,
+          "media_count": 1068,
+          "tweet_count": 5964
+        },
+        "url": "https://t.co/mRP5RDvKAZ",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

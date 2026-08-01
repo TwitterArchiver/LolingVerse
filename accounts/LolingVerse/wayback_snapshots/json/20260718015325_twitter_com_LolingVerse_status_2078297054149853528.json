@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2078129466904019078",
+    "created_at": "2026-07-18T01:53:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T02:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078297054149853528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1897319458286211072",
+          "start": 0,
+          "username": "AnCapShow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078297054149853528",
+    "in_reply_to_user_id": "1897319458286211072",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078129466904019078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnCapShow i can see the both"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078129457152270336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNb_uxrWIAAatEv.png",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2078129466904019078",
+        "created_at": "2026-07-18T01:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T02:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078297054149853528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1897319458286211072",
+              "start": 0,
+              "username": "AnCapShow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078297054149853528",
+        "in_reply_to_user_id": "1897319458286211072",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078129466904019078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnCapShow i can see the both"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078129457152270336"
+          ]
+        },
+        "author_id": "1897319458286211072",
+        "conversation_id": "2078129466904019078",
+        "created_at": "2026-07-17T14:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078129466904019078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VmLoMlVEVd",
+              "end": 23,
+              "expanded_url": "https://x.com/AnCapShow/status/2078129466904019078/photo/1",
+              "media_key": "3_2078129457152270336",
+              "start": 0,
+              "url": "https://t.co/VmLoMlVEVd"
+            },
+            {
+              "display_url": "x.com/gigazine/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/gigazine/status/2078038824534290810",
+              "start": 24,
+              "url": "https://t.co/fgQXSNwVg2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078129466904019078",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3197,
+          "impression_count": 1183813,
+          "like_count": 27286,
+          "quote_count": 47,
+          "reply_count": 79,
+          "retweet_count": 1213
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078038824534290810",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/VmLoMlVEVd https://t.co/fgQXSNwVg2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 163,
+          "like_count": 25374,
+          "listed_count": 4,
+          "media_count": 361,
+          "tweet_count": 4636
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-05T16:13:15.000Z",
+        "description": "Rumble: https://t.co/ymIHQbwvXM\nEng+Esp+Deu\nCo-host of @EatAwesomeSauce\nPronouns: Himothy\nFriends with @LibertyBear_\nThe Commie Larp ended\nIm not gay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 55,
+                "username": "EatAwesomeSauce"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "LibertyBear_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "rumble.com/c/c-7660250",
+                "end": 31,
+                "expanded_url": "https://rumble.com/c/c-7660250",
+                "start": 8,
+                "url": "https://t.co/ymIHQbwvXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "LibertyBear.Fun",
+                "end": 23,
+                "expanded_url": "http://LibertyBear.Fun",
+                "start": 0,
+                "url": "https://t.co/EZ2ovPacXm"
+              }
+            ]
+          }
+        },
+        "id": "1897319458286211072",
+        "location": "Tel Aviv, Mexico",
+        "name": "AnCap Seal",
+        "pinned_tweet_id": "2033968210186313760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059836401642799106/Nv-MIl12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 1040,
+          "like_count": 47254,
+          "listed_count": 13,
+          "media_count": 2188,
+          "tweet_count": 10034
+        },
+        "url": "https://t.co/EZ2ovPacXm",
+        "username": "AnCapShow",
+        "verified": false
+      }
+    ]
+  }
+}

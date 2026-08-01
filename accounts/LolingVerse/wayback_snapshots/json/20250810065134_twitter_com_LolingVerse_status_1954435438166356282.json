@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953974165142482944"
+      ],
+      "media_source_tweet_id": [
+        "1954120472368476640"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1954435438166356282",
+    "created_at": "2025-08-10T06:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T07:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954435438166356282"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 15,
+          "tag": "オリジナルイラスト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1419597578866335744",
+          "start": 3,
+          "username": "ArameDraw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J634OMeXWC",
+          "end": 49,
+          "expanded_url": "https://x.com/ArameDraw/status/1954120472368476640/photo/1",
+          "media_key": "3_1953974165142482944",
+          "start": 26,
+          "url": "https://t.co/J634OMeXWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954435438166356282",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954120472368476640",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ArameDraw: #オリジナルイラスト https://t.co/J634OMeXWC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1771,
+        "media_key": "3_1953974165142482944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx3pJo2bsAAK5Ul.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953974165142482944"
+          ],
+          "media_source_tweet_id": [
+            "1954120472368476640"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1954435438166356282",
+        "created_at": "2025-08-10T06:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T07:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954435438166356282"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 15,
+              "tag": "オリジナルイラスト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1419597578866335744",
+              "start": 3,
+              "username": "ArameDraw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J634OMeXWC",
+              "end": 49,
+              "expanded_url": "https://x.com/ArameDraw/status/1954120472368476640/photo/1",
+              "media_key": "3_1953974165142482944",
+              "start": 26,
+              "url": "https://t.co/J634OMeXWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954435438166356282",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954120472368476640",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ArameDraw: #オリジナルイラスト https://t.co/J634OMeXWC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953974165142482944"
+          ]
+        },
+        "author_id": "1419597578866335744",
+        "conversation_id": "1954120472368476640",
+        "created_at": "2025-08-09T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954120472368476640"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "オリジナルイラスト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J634OMeXWC",
+              "end": 34,
+              "expanded_url": "https://x.com/ArameDraw/status/1954120472368476640/photo/1",
+              "media_key": "3_1953974165142482944",
+              "start": 11,
+              "url": "https://t.co/J634OMeXWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954120472368476640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 10473,
+          "like_count": 814,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "#オリジナルイラスト https://t.co/J634OMeXWC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 68,
+          "like_count": 1991,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1019
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-26T09:56:58.000Z",
+        "description": "▶︎絵を描きます\n▶︎何かあればDMかメールまで✨\n▶︎aramedraw@gmail.com\n▶︎skeb→https://t.co/SNBGlyExPc\n▶︎サブ垢@ArameDraw2\n▶︎配信→https://t.co/ndVfJQdcVe\n▶︎うちの子FAとか→#あらめどろう",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 143,
+                "start": 136,
+                "tag": "あらめどろう"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 95,
+                "start": 84,
+                "username": "ArameDraw2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ArameDraw",
+                "end": 78,
+                "expanded_url": "http://skeb.jp/@ArameDraw",
+                "start": 55,
+                "url": "https://t.co/SNBGlyExPc"
+              },
+              {
+                "display_url": "youtube.com/@ARAMEDRAW",
+                "end": 124,
+                "expanded_url": "https://www.youtube.com/@ARAMEDRAW",
+                "start": 101,
+                "url": "https://t.co/ndVfJQdcVe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/13490180",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/13490180",
+                "start": 0,
+                "url": "https://t.co/46ohqsehfb"
+              }
+            ]
+          }
+        },
+        "id": "1419597578866335744",
+        "location": "AI学習✖️無断転載✖️",
+        "name": "あらめ@夏コミ2日目j42b",
+        "pinned_tweet_id": "1911721091434676516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912269438658740226/0BURkXv2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11948,
+          "following_count": 401,
+          "like_count": 6413,
+          "listed_count": 107,
+          "media_count": 1077,
+          "tweet_count": 11400
+        },
+        "url": "https://t.co/46ohqsehfb",
+        "username": "ArameDraw",
+        "verified": true
+      }
+    ]
+  }
+}

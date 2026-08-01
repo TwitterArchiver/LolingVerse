@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2082028614800048225",
+    "created_at": "2026-07-28T10:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T11:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082051219120378265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1564794601",
+          "start": 0,
+          "username": "calicastle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082051219120378265",
+    "in_reply_to_user_id": "1564794601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082028614800048225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@calicastle Vibe Coding，爽\nVibe Coding，爽\n我没钱了😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 288,
+        "media_key": "3_2082028570344579072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTZ9COaYAA3w2M.png",
+        "width": 504
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2082028614800048225",
+        "created_at": "2026-07-28T10:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082051219120378265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1564794601",
+              "start": 0,
+              "username": "calicastle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082051219120378265",
+        "in_reply_to_user_id": "1564794601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082028614800048225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@calicastle Vibe Coding，爽\nVibe Coding，爽\n我没钱了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082028570344579072"
+          ]
+        },
+        "author_id": "1564794601",
+        "conversation_id": "2082028614800048225",
+        "created_at": "2026-07-28T09:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082028614800048225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2mAdtHlPtA",
+              "end": 59,
+              "expanded_url": "https://x.com/calicastle/status/2082028614800048225/photo/1",
+              "media_key": "3_2082028570344579072",
+              "start": 36,
+              "url": "https://t.co/2mAdtHlPtA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082028614800048225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1894,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自从用上了 Claude code 和 codex 以后，游戏都不玩了 https://t.co/2mAdtHlPtA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 164,
+          "like_count": 26643,
+          "listed_count": 4,
+          "media_count": 392,
+          "tweet_count": 4882
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2013-07-03T03:45:59.000Z",
+        "description": "a dad. an agent orchestrator. a design engineer. a @raycast ambassador.\n\ncreative director & founder at @zolplay.\n\ni love pushing details, quality & craft.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "raycast"
+              },
+              {
+                "end": 112,
+                "start": 104,
+                "username": "zolplay"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cali.so",
+                "end": 23,
+                "expanded_url": "https://cali.so",
+                "start": 0,
+                "url": "https://t.co/qlpDaLjxyF"
+              }
+            ]
+          }
+        },
+        "id": "1564794601",
+        "location": "localhost:3000",
+        "name": "Cali Castle",
+        "pinned_tweet_id": "2060512491113996456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939191330023890944/mPwY21-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27614,
+          "following_count": 637,
+          "like_count": 7330,
+          "listed_count": 214,
+          "media_count": 2309,
+          "tweet_count": 8120
+        },
+        "url": "https://t.co/qlpDaLjxyF",
+        "username": "calicastle",
+        "verified": true
+      }
+    ]
+  }
+}

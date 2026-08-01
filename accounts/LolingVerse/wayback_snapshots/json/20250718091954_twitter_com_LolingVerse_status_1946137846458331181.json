@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945807010810753024"
+      ],
+      "media_source_tweet_id": [
+        "1945807019438637331"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "1946137846458331181",
+    "created_at": "2025-07-18T09:19:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T10:19:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946137846458331181"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 20,
+          "tag": "AIart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1926439815139983360",
+          "start": 3,
+          "username": "amane_shirofox"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/utpgFnww0e",
+          "end": 50,
+          "expanded_url": "https://x.com/amane_shirofox/status/1945807019438637331/photo/1",
+          "media_key": "3_1945807010810753024",
+          "start": 27,
+          "url": "https://t.co/utpgFnww0e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946137846458331181",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945807019438637331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amane_shirofox: #AIart https://t.co/utpgFnww0e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_1945807010810753024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwDlKsDW8AAetSD.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945807010810753024"
+          ],
+          "media_source_tweet_id": [
+            "1945807019438637331"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1946137846458331181",
+        "created_at": "2025-07-18T09:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T10:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946137846458331181"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 20,
+              "tag": "AIart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1926439815139983360",
+              "start": 3,
+              "username": "amane_shirofox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/utpgFnww0e",
+              "end": 50,
+              "expanded_url": "https://x.com/amane_shirofox/status/1945807019438637331/photo/1",
+              "media_key": "3_1945807010810753024",
+              "start": 27,
+              "url": "https://t.co/utpgFnww0e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946137846458331181",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945807019438637331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amane_shirofox: #AIart https://t.co/utpgFnww0e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945807010810753024"
+          ]
+        },
+        "author_id": "1926439815139983360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1945807019438637331",
+        "created_at": "2025-07-17T11:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T12:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945807019438637331"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "AIart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/utpgFnww0e",
+              "end": 30,
+              "expanded_url": "https://x.com/amane_shirofox/status/1945807019438637331/photo/1",
+              "media_key": "3_1945807010810753024",
+              "start": 7,
+              "url": "https://t.co/utpgFnww0e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945807019438637331",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2039,
+          "like_count": 150,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "#AIart https://t.co/utpgFnww0e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 63,
+          "like_count": 1675,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 782
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T00:47:08.000Z",
+        "description": "AIイラスト用アカウントです🦊 別アカのアイコン作りがきっかけでハマってしまいました。まだまだ下手くそなので暖かい目で見ていただけるとありがたいです🤭無言フォロー失礼します🙇‍♀️🙏※DMには返信しておりません💦",
+        "id": "1926439815139983360",
+        "name": "アマネ",
+        "pinned_tweet_id": "1942559214192452002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937306175323934720/hVTAtrdp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 207,
+          "like_count": 7837,
+          "listed_count": 2,
+          "media_count": 387,
+          "tweet_count": 2087
+        },
+        "username": "amane_shirofox",
+        "verified": false
+      }
+    ]
+  }
+}

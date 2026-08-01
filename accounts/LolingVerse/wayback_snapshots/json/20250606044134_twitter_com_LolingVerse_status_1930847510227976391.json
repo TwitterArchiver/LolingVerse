@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930581097831964672"
+      ],
+      "media_source_tweet_id": [
+        "1930581129767383310"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1930847510227976391",
+    "created_at": "2025-06-06T04:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T05:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930847510227976391"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 34,
+          "tag": "イラスト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1433074052197797891",
+          "start": 3,
+          "username": "83_Hami_tsugai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WuLxlLHbhu",
+          "end": 63,
+          "expanded_url": "https://x.com/83_Hami_tsugai/status/1930581129767383310/photo/1",
+          "media_key": "3_1930581097831964672",
+          "start": 40,
+          "url": "https://t.co/WuLxlLHbhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930847510227976391",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930581129767383310",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @83_Hami_tsugai: 🧷COMMISSION🧷\n #イラスト https://t.co/WuLxlLHbhu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_1930581097831964672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsrNR6JboAABFsX.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930581097831964672"
+          ],
+          "media_source_tweet_id": [
+            "1930581129767383310"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1930847510227976391",
+        "created_at": "2025-06-06T04:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T05:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930847510227976391"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "イラスト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1433074052197797891",
+              "start": 3,
+              "username": "83_Hami_tsugai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WuLxlLHbhu",
+              "end": 63,
+              "expanded_url": "https://x.com/83_Hami_tsugai/status/1930581129767383310/photo/1",
+              "media_key": "3_1930581097831964672",
+              "start": 40,
+              "url": "https://t.co/WuLxlLHbhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930847510227976391",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930581129767383310",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @83_Hami_tsugai: 🧷COMMISSION🧷\n #イラスト https://t.co/WuLxlLHbhu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930581097831964672"
+          ]
+        },
+        "author_id": "1433074052197797891",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1930581129767383310",
+        "created_at": "2025-06-05T11:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T12:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930581129767383310"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "イラスト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WuLxlLHbhu",
+              "end": 43,
+              "expanded_url": "https://x.com/83_Hami_tsugai/status/1930581129767383310/photo/1",
+              "media_key": "3_1930581097831964672",
+              "start": 20,
+              "url": "https://t.co/WuLxlLHbhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930581129767383310",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2042,
+          "like_count": 178,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "🧷COMMISSION🧷\n #イラスト https://t.co/WuLxlLHbhu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 62,
+          "like_count": 1250,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 590
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-01T14:27:58.000Z",
+        "description": "🧷83番(ﾊﾐﾂｶﾞｲ)｜20⤴︎︎︎｜🧷ライバー事務所いすとふぃあ運営(@histophere )🕯📚担当絵師｜illustration｜少年描き｜※無断転載、AI学習、無断使用、2次配布、転売等禁止|FA本人様のみ使用可｜FA #Biの結晶画｜依頼垢：@83_H_official｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 123,
+                "start": 116,
+                "tag": "Biの結晶画"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "histophere"
+              },
+              {
+                "end": 142,
+                "start": 128,
+                "username": "83_H_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/83Hamitsugai",
+                "end": 23,
+                "expanded_url": "https://lit.link/83Hamitsugai",
+                "start": 0,
+                "url": "https://t.co/z7qMiV1y2s"
+              }
+            ]
+          }
+        },
+        "id": "1433074052197797891",
+        "location": "V垢：https://x.com/Hachi_sabu_ro",
+        "name": "83番",
+        "pinned_tweet_id": "1930594196211294434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780885544215707648/C1OshD50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17665,
+          "following_count": 62,
+          "like_count": 6746,
+          "listed_count": 111,
+          "media_count": 335,
+          "tweet_count": 10629
+        },
+        "url": "https://t.co/z7qMiV1y2s",
+        "username": "83_Hami_tsugai",
+        "verified": false
+      }
+    ]
+  }
+}

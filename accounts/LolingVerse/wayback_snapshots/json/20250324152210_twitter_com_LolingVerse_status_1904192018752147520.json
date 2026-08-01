@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904192014704689152"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1900844244757303695",
+    "created_at": "2025-03-24T15:22:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T16:22:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904192018752147520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1518229891153420288",
+          "start": 0,
+          "username": "xiao_dian_0925"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mu7JYggjMA",
+          "end": 44,
+          "expanded_url": "https://x.com/LolingVerse/status/1904192018752147520/photo/1",
+          "media_key": "3_1904192014704689152",
+          "start": 21,
+          "url": "https://t.co/mu7JYggjMA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904192018752147520",
+    "in_reply_to_user_id": "1518229891153420288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900844244757303695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiao_dian_0925 那更好了 https://t.co/mu7JYggjMA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1074,
+        "media_key": "3_1904192014704689152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm0MjGybwAAVszQ.jpg",
+        "width": 1106
+      },
+      {
+        "height": 1615,
+        "media_key": "3_1900844238142926848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmEnw3PbcAAshvH.jpg",
+        "width": 909
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904192014704689152"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1900844244757303695",
+        "created_at": "2025-03-24T15:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T16:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904192018752147520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1518229891153420288",
+              "start": 0,
+              "username": "xiao_dian_0925"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mu7JYggjMA",
+              "end": 44,
+              "expanded_url": "https://x.com/LolingVerse/status/1904192018752147520/photo/1",
+              "media_key": "3_1904192014704689152",
+              "start": 21,
+              "url": "https://t.co/mu7JYggjMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904192018752147520",
+        "in_reply_to_user_id": "1518229891153420288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900844244757303695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiao_dian_0925 那更好了 https://t.co/mu7JYggjMA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900844238142926848"
+          ]
+        },
+        "author_id": "1518229891153420288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1900844244757303695",
+        "created_at": "2025-03-15T09:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T10:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900844244757303695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fGnscqmklT",
+              "end": 54,
+              "expanded_url": "https://x.com/xiao_dian_0925/status/1900844244757303695/photo/1",
+              "media_key": "3_1900844238142926848",
+              "start": 31,
+              "url": "https://t.co/fGnscqmklT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900844244757303695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 8698,
+          "like_count": 161,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "其实你们是真的没有线下见过我，不然你就知道什么是经典原神哥了 https://t.co/fGnscqmklT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "",
+        "id": "1836041585475346432",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836043660175269888/D4L90j0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 27,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 45
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-24T14:06:37.000Z",
+        "description": "拍照只是兴趣，服饰只是爱好|🚪口令88开通私信|中性推主|臭擦边的|除了不露点什么都露",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/xiao_dian",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/xiao_dian",
+                "start": 0,
+                "url": "https://t.co/tQLLznTcEC"
+              }
+            ]
+          }
+        },
+        "id": "1518229891153420288",
+        "location": "距离你2km",
+        "name": "薛定谔·歪",
+        "pinned_tweet_id": "1714068722921398352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826306485309374466/Wge1X5hC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63991,
+          "following_count": 206,
+          "like_count": 25320,
+          "listed_count": 187,
+          "media_count": 1427,
+          "tweet_count": 11284
+        },
+        "url": "https://t.co/tQLLznTcEC",
+        "username": "xiao_dian_0925",
+        "verified": false
+      }
+    ]
+  }
+}

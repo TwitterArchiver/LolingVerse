@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071912646845022208"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2071829318922358794",
+    "created_at": "2026-06-30T11:04:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T12:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071912694941352218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1022676653376512001",
+          "start": 0,
+          "username": "yangjoker1"
+        },
+        {
+          "end": 22,
+          "id": "1863439189909618688",
+          "start": 12,
+          "username": "hsn8086xe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GjjmHfewrX",
+          "end": 46,
+          "expanded_url": "https://x.com/LolingVerse/status/2071912694941352218/photo/1",
+          "media_key": "3_2071912646845022208",
+          "start": 23,
+          "url": "https://t.co/GjjmHfewrX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071912694941352218",
+    "in_reply_to_user_id": "1022676653376512001",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071906847716712497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangjoker1 @hsn8086xe https://t.co/GjjmHfewrX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1752,
+        "media_key": "3_2071912646845022208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDpkyjWQAAKkhU.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071912646845022208"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2071829318922358794",
+        "created_at": "2026-06-30T11:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071912694941352218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1022676653376512001",
+              "start": 0,
+              "username": "yangjoker1"
+            },
+            {
+              "end": 22,
+              "id": "1863439189909618688",
+              "start": 12,
+              "username": "hsn8086xe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GjjmHfewrX",
+              "end": 46,
+              "expanded_url": "https://x.com/LolingVerse/status/2071912694941352218/photo/1",
+              "media_key": "3_2071912646845022208",
+              "start": 23,
+              "url": "https://t.co/GjjmHfewrX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071912694941352218",
+        "in_reply_to_user_id": "1022676653376512001",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071906847716712497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangjoker1 @hsn8086xe https://t.co/GjjmHfewrX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1022676653376512001",
+        "conversation_id": "2071829318922358794",
+        "created_at": "2026-06-30T10:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071906847716712497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071906847716712497",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 334,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071829318922358794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe 你最好说的是真糖粉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 158,
+          "like_count": 23625,
+          "listed_count": 3,
+          "media_count": 325,
+          "tweet_count": 4264
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2018-07-27T02:54:49.000Z",
+        "description": "心が死んでしまった、体が生きているだけ",
+        "id": "1022676653376512001",
+        "location": "Estados Unidos Mexicanos",
+        "name": "Bob Chan",
+        "pinned_tweet_id": "1911786080485122093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998711715266179077/oon01toe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 510,
+          "like_count": 123049,
+          "listed_count": 6,
+          "media_count": 385,
+          "tweet_count": 20440
+        },
+        "url": "",
+        "username": "yangjoker1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36629,
+          "following_count": 370,
+          "like_count": 229,
+          "listed_count": 110,
+          "media_count": 16718,
+          "tweet_count": 16801
+        },
+        "url": "",
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2078253195890143453",
+    "created_at": "2026-07-18T01:52:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T02:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078296944338739553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1837843674283294720",
+          "start": 0,
+          "username": "TeamRain2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078296944338739553",
+    "in_reply_to_user_id": "1837843674283294720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078253195890143453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TeamRain2024 薯条！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2078253195890143453",
+        "created_at": "2026-07-18T01:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T02:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078296944338739553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1837843674283294720",
+              "start": 0,
+              "username": "TeamRain2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078296944338739553",
+        "in_reply_to_user_id": "1837843674283294720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078253195890143453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TeamRain2024 薯条！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837843674283294720",
+        "conversation_id": "2078253195890143453",
+        "created_at": "2026-07-17T22:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T23:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078253195890143453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Orange_Chr1s/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Orange_Chr1s/status/2077970945743221231",
+              "start": 5,
+              "url": "https://t.co/Yn390nk24b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078253195890143453",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077970945743221231",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "薯条好耶 https://t.co/Yn390nk24b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 163,
+          "like_count": 25374,
+          "listed_count": 4,
+          "media_count": 361,
+          "tweet_count": 4635
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-22T13:17:49.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Design / 🥰 @AotraWong",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "AotraWong"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2026",
+                "end": 23,
+                "expanded_url": "http://t.me/RainEngine2026",
+                "start": 0,
+                "url": "https://t.co/7JvZdxAqN1"
+              }
+            ]
+          }
+        },
+        "id": "1837843674283294720",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2074486635853758675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074471177054195712/JAy9wINP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 167,
+          "like_count": 949,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 186
+        },
+        "url": "https://t.co/7JvZdxAqN1",
+        "username": "TeamRain2024",
+        "verified": false
+      }
+    ]
+  }
+}

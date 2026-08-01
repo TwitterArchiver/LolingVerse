@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945000310906253312"
+      ],
+      "media_source_tweet_id": [
+        "1945000317935915352"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1945335235647852841",
+    "created_at": "2025-07-16T04:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T05:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945335235647852841"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 94,
+          "start": 88,
+          "tag": "AIart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1926439815139983360",
+          "start": 3,
+          "username": "amane_shirofox"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yiHqTgfjyx",
+          "end": 118,
+          "expanded_url": "https://x.com/amane_shirofox/status/1945000317935915352/photo/1",
+          "media_key": "3_1945000310906253312",
+          "start": 95,
+          "url": "https://t.co/yiHqTgfjyx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945335235647852841",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945000317935915352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amane_shirofox: こんにちわ🦊\nせっかくのお休みですが体調不良で寝込んでますので低浮上になります😇\nせめてイラストだけでも元気な子を貼っておきましょう🤗\n#AIart https://t.co/yiHqTgfjyx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_1945000310906253312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv4HekuXcAAMyWx.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945000310906253312"
+          ],
+          "media_source_tweet_id": [
+            "1945000317935915352"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1945335235647852841",
+        "created_at": "2025-07-16T04:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T05:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945335235647852841"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 88,
+              "tag": "AIart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1926439815139983360",
+              "start": 3,
+              "username": "amane_shirofox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yiHqTgfjyx",
+              "end": 118,
+              "expanded_url": "https://x.com/amane_shirofox/status/1945000317935915352/photo/1",
+              "media_key": "3_1945000310906253312",
+              "start": 95,
+              "url": "https://t.co/yiHqTgfjyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945335235647852841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945000317935915352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amane_shirofox: こんにちわ🦊\nせっかくのお休みですが体調不良で寝込んでますので低浮上になります😇\nせめてイラストだけでも元気な子を貼っておきましょう🤗\n#AIart https://t.co/yiHqTgfjyx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945000310906253312"
+          ]
+        },
+        "author_id": "1926439815139983360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1945000317935915352",
+        "created_at": "2025-07-15T05:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T06:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945000317935915352"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 68,
+              "tag": "AIart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yiHqTgfjyx",
+              "end": 98,
+              "expanded_url": "https://x.com/amane_shirofox/status/1945000317935915352/photo/1",
+              "media_key": "3_1945000310906253312",
+              "start": 75,
+              "url": "https://t.co/yiHqTgfjyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945000317935915352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 703,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "こんにちわ🦊\nせっかくのお休みですが体調不良で寝込んでますので低浮上になります😇\nせめてイラストだけでも元気な子を貼っておきましょう🤗\n#AIart https://t.co/yiHqTgfjyx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 63,
+          "like_count": 1659,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 776
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T00:47:08.000Z",
+        "description": "AIイラスト用アカウントです🦊 別アカのアイコン作りがきっかけでハマってしまいました。まだまだ下手くそなので暖かい目で見ていただけるとありがたいです🙏※無言フォロー失礼します🙇‍♀️🙏",
+        "id": "1926439815139983360",
+        "name": "アマネ",
+        "pinned_tweet_id": "1942559214192452002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937306175323934720/hVTAtrdp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 206,
+          "like_count": 7681,
+          "listed_count": 2,
+          "media_count": 369,
+          "tweet_count": 2016
+        },
+        "username": "amane_shirofox",
+        "verified": false
+      }
+    ]
+  }
+}

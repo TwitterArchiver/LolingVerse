@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920782626442346496"
+      ],
+      "media_source_tweet_id": [
+        "1920782630598902075"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1921074881732530378",
+    "created_at": "2025-05-10T05:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T06:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921074881732530378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1787748911878156288",
+          "start": 3,
+          "username": "Redemption_1207"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ergE5jWyRZ",
+          "end": 77,
+          "expanded_url": "https://x.com/Redemption_1207/status/1920782630598902075/photo/1",
+          "media_key": "3_1920782626442346496",
+          "start": 54,
+          "url": "https://t.co/ergE5jWyRZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921074881732530378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920782630598902075",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Redemption_1207: 给身体Root权限时总要删点预装软件——清除了这个出厂捆绑app https://t.co/ergE5jWyRZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 368,
+        "media_key": "3_1920782626442346496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqf9nzvWgAAli6p.jpg",
+        "width": 345
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920782626442346496"
+          ],
+          "media_source_tweet_id": [
+            "1920782630598902075"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1921074881732530378",
+        "created_at": "2025-05-10T05:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T06:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921074881732530378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1787748911878156288",
+              "start": 3,
+              "username": "Redemption_1207"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ergE5jWyRZ",
+              "end": 77,
+              "expanded_url": "https://x.com/Redemption_1207/status/1920782630598902075/photo/1",
+              "media_key": "3_1920782626442346496",
+              "start": 54,
+              "url": "https://t.co/ergE5jWyRZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921074881732530378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920782630598902075",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Redemption_1207: 给身体Root权限时总要删点预装软件——清除了这个出厂捆绑app https://t.co/ergE5jWyRZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920782626442346496"
+          ]
+        },
+        "author_id": "1787748911878156288",
+        "conversation_id": "1920782630598902075",
+        "created_at": "2025-05-09T10:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T11:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920782630598902075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ergE5jWyRZ",
+              "end": 56,
+              "expanded_url": "https://x.com/Redemption_1207/status/1920782630598902075/photo/1",
+              "media_key": "3_1920782626442346496",
+              "start": 33,
+              "url": "https://t.co/ergE5jWyRZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920782630598902075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 9390,
+          "like_count": 150,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "给身体Root权限时总要删点预装软件——清除了这个出厂捆绑app https://t.co/ergE5jWyRZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 57,
+          "like_count": 830,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 431
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-07T07:39:01.000Z",
+        "description": "MtF | hrt 2024.5 | INFJ | asd&adhd",
+        "id": "1787748911878156288",
+        "location": "Pathum Wan, Bangkok",
+        "name": "玥音止梦🏳‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918896469349928960/_xcW6Sl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 688,
+          "like_count": 980,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 292
+        },
+        "username": "Redemption_1207",
+        "verified": false
+      }
+    ]
+  }
+}

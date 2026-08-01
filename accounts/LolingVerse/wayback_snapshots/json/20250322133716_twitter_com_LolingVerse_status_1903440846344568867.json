@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1891480122772869410",
+    "created_at": "2025-03-22T13:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T14:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903440846344568867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1867207378774753280",
+          "start": 0,
+          "username": "Olive718390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903440846344568867",
+    "in_reply_to_user_id": "1867207378774753280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891480122772869410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Olive718390 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1891480122772869410",
+        "created_at": "2025-03-22T13:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T14:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903440846344568867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1867207378774753280",
+              "start": 0,
+              "username": "Olive718390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903440846344568867",
+        "in_reply_to_user_id": "1867207378774753280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891480122772869410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olive718390 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867207378774753280",
+        "conversation_id": "1891480122772869410",
+        "created_at": "2025-02-17T13:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T14:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891480122772869410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1891480122772869410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6243,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "胡子变软变细，轻轻剃都能剃很干净，摸起来没有胡渣o(∩_∩)o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "",
+        "id": "1836041585475346432",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836043660175269888/D4L90j0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 22,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 37
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T13:58:35.000Z",
+        "description": "这里是记录吃糖身体变化的号 ；只是一只小幽灵，不要赶我…；06年mtx2024.11.17🍥；183/130；现居广东东莞；会乱fo人；可以叫我小榄",
+        "id": "1867207378774753280",
+        "name": "Olive🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1877546970006319107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870479803410960384/xxMn_OB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 647,
+          "like_count": 12274,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 1037
+        },
+        "username": "Olive718390",
+        "verified": false
+      }
+    ]
+  }
+}

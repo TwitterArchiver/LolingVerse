@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2082042396880273691",
+    "created_at": "2026-07-28T10:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T11:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082049708575625593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2721275622",
+          "start": 0,
+          "username": "__oQuery"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082049708575625593",
+    "in_reply_to_user_id": "2721275622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082042396880273691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__oQuery 强强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 442,
+        "media_key": "3_2082042353712566273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTmfVRbEAE5Eji.jpg",
+        "width": 1672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2082042396880273691",
+        "created_at": "2026-07-28T10:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082049708575625593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2721275622",
+              "start": 0,
+              "username": "__oQuery"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082049708575625593",
+        "in_reply_to_user_id": "2721275622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082042396880273691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__oQuery 强强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082042353712566273"
+          ]
+        },
+        "author_id": "2721275622",
+        "conversation_id": "2082042396880273691",
+        "created_at": "2026-07-28T09:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082042396880273691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/205enMCLWb",
+              "end": 55,
+              "expanded_url": "https://x.com/__oQuery/status/2082042396880273691/photo/1",
+              "media_key": "3_2082042353712566273",
+              "start": 32,
+              "url": "https://t.co/205enMCLWb"
+            },
+            {
+              "display_url": "x.com/calicastle/sta…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/calicastle/status/2082028614800048225",
+              "start": 56,
+              "url": "https://t.co/TIk4Pwrb4J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082042396880273691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 723,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082028614800048225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今年目前提交的 contribution 已经是去年的两倍多了 https://t.co/205enMCLWb https://t.co/TIk4Pwrb4J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 164,
+          "like_count": 26643,
+          "listed_count": 4,
+          "media_count": 391,
+          "tweet_count": 4880
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2014-08-10T10:25:01.000Z",
+        "description": "Orchestrating ideas with Code & AI | All views are my own",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "innei.in",
+                "end": 23,
+                "expanded_url": "https://innei.in",
+                "start": 0,
+                "url": "https://t.co/HHCCtwk4dL"
+              }
+            ]
+          }
+        },
+        "id": "2721275622",
+        "location": " 天上",
+        "name": "拾一.max-fast",
+        "pinned_tweet_id": "2073781307197579436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078173856595148800/2EKDMJED_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10871,
+          "following_count": 1013,
+          "like_count": 12720,
+          "listed_count": 92,
+          "media_count": 1328,
+          "tweet_count": 10246
+        },
+        "url": "https://t.co/HHCCtwk4dL",
+        "username": "__oQuery",
+        "verified": true
+      }
+    ]
+  }
+}

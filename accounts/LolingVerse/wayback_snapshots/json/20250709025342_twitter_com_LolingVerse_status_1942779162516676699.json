@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942452469164040192"
+      ],
+      "media_source_tweet_id": [
+        "1942452502672400525"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Fruits",
+          "id": "841969352828112896",
+          "name": "Fruits"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Candy",
+          "id": "825063794967662592",
+          "name": "Candy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fruits",
+          "id": "841969352828112896",
+          "name": "Fruits"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "1942779162516676699",
+    "created_at": "2025-07-09T02:53:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T03:53:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942779162516676699"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 40,
+          "tag": "AIイラスト"
+        },
+        {
+          "end": 54,
+          "start": 48,
+          "tag": "AIart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1572222686797131779",
+          "start": 3,
+          "username": "FOXHOUN27230035"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zRZ3v6Nlgq",
+          "end": 78,
+          "expanded_url": "https://x.com/FOXHOUN27230035/status/1942452502672400525/photo/1",
+          "media_key": "3_1942452469164040192",
+          "start": 55,
+          "url": "https://t.co/zRZ3v6Nlgq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942779162516676699",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942452502672400525",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FOXHOUN27230035: 「りんご飴美味しい🎶一緒に食べる？」\n#AIイラスト #AIart https://t.co/zRZ3v6Nlgq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3480,
+        "media_key": "3_1942452469164040192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvT6OqmaYAAWdso.jpg",
+        "width": 2705
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942452469164040192"
+          ],
+          "media_source_tweet_id": [
+            "1942452502672400525"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Candy",
+              "id": "825063794967662592",
+              "name": "Candy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1942779162516676699",
+        "created_at": "2025-07-09T02:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T03:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942779162516676699"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 40,
+              "tag": "AIイラスト"
+            },
+            {
+              "end": 54,
+              "start": 48,
+              "tag": "AIart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1572222686797131779",
+              "start": 3,
+              "username": "FOXHOUN27230035"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zRZ3v6Nlgq",
+              "end": 78,
+              "expanded_url": "https://x.com/FOXHOUN27230035/status/1942452502672400525/photo/1",
+              "media_key": "3_1942452469164040192",
+              "start": 55,
+              "url": "https://t.co/zRZ3v6Nlgq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942779162516676699",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942452502672400525",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FOXHOUN27230035: 「りんご飴美味しい🎶一緒に食べる？」\n#AIイラスト #AIart https://t.co/zRZ3v6Nlgq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942452469164040192"
+          ]
+        },
+        "author_id": "1572222686797131779",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Candy",
+              "id": "825063794967662592",
+              "name": "Candy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1942452502672400525",
+        "created_at": "2025-07-08T05:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T06:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942452502672400525"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 19,
+              "tag": "AIイラスト"
+            },
+            {
+              "end": 33,
+              "start": 27,
+              "tag": "AIart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zRZ3v6Nlgq",
+              "end": 57,
+              "expanded_url": "https://x.com/FOXHOUN27230035/status/1942452502672400525/photo/1",
+              "media_key": "3_1942452469164040192",
+              "start": 34,
+              "url": "https://t.co/zRZ3v6Nlgq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942452502672400525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 853,
+          "like_count": 121,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "「りんご飴美味しい🎶一緒に食べる？」\n#AIイラスト #AIart https://t.co/zRZ3v6Nlgq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 63,
+          "like_count": 1558,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 729
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T13:54:56.000Z",
+        "description": "AIでイラスト作りしています🎶\nケモ耳、特にキツネちゃん多めです🦊\n(※最近は普通の娘も作ろうと奮闘中･･･💦)\nリプ返し極遅ですが、宜しければ仲良くしてあげてくださいね〜",
+        "id": "1572222686797131779",
+        "location": "新潟県",
+        "name": "FOX",
+        "pinned_tweet_id": "1936837989382135895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936825619029123072/HeB05R5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8551,
+          "following_count": 2161,
+          "like_count": 27354,
+          "listed_count": 71,
+          "media_count": 3738,
+          "tweet_count": 19680
+        },
+        "username": "FOXHOUN27230035",
+        "verified": true
+      }
+    ]
+  }
+}

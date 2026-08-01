@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1950055511807672577",
+    "created_at": "2025-07-29T04:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T05:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950055511807672577"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AshinChina/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/AshinChina/status/1949705288765820948",
+          "start": 10,
+          "url": "https://t.co/c5AOJNeeDm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950055511807672577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949705288765820948",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第一眼看成了牛子👀 https://t.co/c5AOJNeeDm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 542,
+        "media_key": "3_1949705281279332352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw6-n5NbkAAn_vY.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1950055511807672577",
+        "created_at": "2025-07-29T04:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T05:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950055511807672577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AshinChina/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/AshinChina/status/1949705288765820948",
+              "start": 10,
+              "url": "https://t.co/c5AOJNeeDm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950055511807672577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949705288765820948",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一眼看成了牛子👀 https://t.co/c5AOJNeeDm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949705281279332352"
+          ]
+        },
+        "author_id": "4688185255",
+        "conversation_id": "1949705288765820948",
+        "created_at": "2025-07-28T05:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T06:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949705288765820948"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "Zhejiang",
+              "probability": 0.7139,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 18,
+              "normalized_text": "Shanghai",
+              "probability": 0.9746,
+              "start": 11,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LEBPOrYxY2",
+              "end": 88,
+              "expanded_url": "https://x.com/AshinChina/status/1949705288765820948/photo/1",
+              "media_key": "3_1949705281279332352",
+              "start": 65,
+              "url": "https://t.co/LEBPOrYxY2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949705288765820948",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1092,
+          "impression_count": 780608,
+          "like_count": 13543,
+          "quote_count": 430,
+          "reply_count": 291,
+          "retweet_count": 1239
+        },
+        "reply_settings": "everyone",
+        "text": "Zhejiang + Shanghai getting blasted by a weird typhoon right now https://t.co/LEBPOrYxY2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 65,
+          "like_count": 1869,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 924
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-01T08:26:11.000Z",
+        "description": "That guy who works at Geely. \nReluctant outdoor content creator.",
+        "id": "4688185255",
+        "location": "Hangzhou, China",
+        "name": "Ash",
+        "pinned_tweet_id": "1821506387748507963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535547683661680640/HNuRPsd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9457,
+          "following_count": 2616,
+          "like_count": 76437,
+          "listed_count": 95,
+          "media_count": 5177,
+          "tweet_count": 39937
+        },
+        "username": "AshinChina",
+        "verified": false
+      }
+    ]
+  }
+}

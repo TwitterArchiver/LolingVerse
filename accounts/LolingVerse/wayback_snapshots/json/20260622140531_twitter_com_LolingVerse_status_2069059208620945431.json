@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2069056962952835128",
+    "created_at": "2026-06-22T14:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T15:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069059208620945431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "itsCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069059208620945431",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069056962952835128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@itsCatRoll 也没什么好担心的吧，只能走一步看一步唔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2069056962952835128",
+        "created_at": "2026-06-22T14:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069059208620945431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069059208620945431",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069056962952835128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@itsCatRoll 也没什么好担心的吧，只能走一步看一步唔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2069056962952835128",
+        "created_at": "2026-06-22T13:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069056962952835128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/itscatroll/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/itscatroll/status/2068868589462212876",
+              "start": 21,
+              "url": "https://t.co/HPaOPBT9Hk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069056962952835128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068868589462212876",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "继续服用 氯硝西泮 2mg\n洗猫睡觉 💤 https://t.co/HPaOPBT9Hk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZFvr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZFvr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster 和另外 114514 人",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 152,
+          "like_count": 22669,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 4015
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "（即将退休的）糖商🍥\n基本是除了团购以外能找到的最低价\n\n永久锁推账号@LTSxn0z\n\n一辈子喜欢的妹妹@JR_YamanoteE235\n💌@hobartr6\n可爱猫娘女仆(?)@leetfs1\n笨蛋肥鸟姐姐@hoshi_asuka0089\n校友大猫猫@_furryfur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "LTSxn0z"
+              },
+              {
+                "end": 69,
+                "start": 53,
+                "username": "JR_YamanoteE235"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "username": "hobartr6"
+              },
+              {
+                "end": 98,
+                "start": 90,
+                "username": "leetfs1"
+              },
+              {
+                "end": 121,
+                "start": 105,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "_furryfur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/linker2k",
+                "end": 23,
+                "expanded_url": "http://t.me/linker2k",
+                "start": 0,
+                "url": "https://t.co/9ukBrb4ybC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺 ➡️",
+        "name": "猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067930460949458944/WcXdOVaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4107,
+          "following_count": 841,
+          "like_count": 4220,
+          "listed_count": 9,
+          "media_count": 100,
+          "tweet_count": 719
+        },
+        "url": "https://t.co/9ukBrb4ybC",
+        "username": "itsCatRoll",
+        "verified": false
+      }
+    ]
+  }
+}

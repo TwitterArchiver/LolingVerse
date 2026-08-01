@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1932229347689247066",
+    "created_at": "2025-06-10T03:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T04:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932273032174973094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1864739862697644032",
+          "start": 0,
+          "username": "2196F3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932273032174973094",
+    "in_reply_to_user_id": "1864739862697644032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932229347689247066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2196F3 好炫酷，我看看"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 88868,
+        "height": 1080,
+        "media_key": "13_1932229245188919296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1932229245188919296/img/aQ_NfMRHcg2xqM89.jpg",
+        "public_metrics": {
+          "view_count": 68
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932229245188919296/vid/avc1/480x270/kCv-4zbfWTnKzJ6P.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932229245188919296/vid/avc1/640x360/ob33Njfx44Qim_tp.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932229245188919296/vid/avc1/1280x720/pBidBE_4dwrWnEcy.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1932229245188919296/pl/_Udd_h_fV9vfZqO_.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1932229347689247066",
+        "created_at": "2025-06-10T03:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T04:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932273032174973094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1864739862697644032",
+              "start": 0,
+              "username": "2196F3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932273032174973094",
+        "in_reply_to_user_id": "1864739862697644032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932229347689247066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2196F3 好炫酷，我看看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1932229245188919296"
+          ]
+        },
+        "author_id": "1864739862697644032",
+        "conversation_id": "1932229347689247066",
+        "created_at": "2025-06-10T00:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T01:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932229347689247066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wolP8eoUzT",
+              "end": 92,
+              "expanded_url": "https://x.com/2196F3/status/1932229347689247066/video/1",
+              "media_key": "13_1932229245188919296",
+              "start": 69,
+              "url": "https://t.co/wolP8eoUzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932229347689247066",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😾\nit's very easy to use, very human.\nLet my good friend demonstrate: https://t.co/wolP8eoUzT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 62,
+          "like_count": 1338,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 634
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T18:33:59.000Z",
+        "description": "本体是香香软软没有攻击性的INTP-T猞猁! 想交朋友，给大家带来快乐！现居美国，加州，学术有Candidacy。 不太喜欢zs话题也不会主动传播负能量，看到相关推文会点not interested。如果直接把zs之类写到推名里跳脸只好block 了。提前对不起。😿 私信话题: 今天凯尔希也在忠诚执行源石计划吗?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "prts.eterea.uk/?quickacc=bull…",
+                "end": 23,
+                "expanded_url": "http://prts.eterea.uk/?quickacc=bulletin",
+                "start": 0,
+                "url": "https://t.co/fVFEeZUeRA"
+              }
+            ]
+          }
+        },
+        "id": "1864739862697644032",
+        "location": "California, USA",
+        "name": "凯尔希是猫猫",
+        "pinned_tweet_id": "1894621355267776615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864779287246819329/6oEg9bcG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 417,
+          "like_count": 2682,
+          "listed_count": 3,
+          "media_count": 159,
+          "tweet_count": 2261
+        },
+        "url": "https://t.co/fVFEeZUeRA",
+        "username": "2196F3",
+        "verified": false
+      }
+    ]
+  }
+}

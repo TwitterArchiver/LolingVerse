@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2048766742869291468",
+    "created_at": "2026-04-27T14:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T15:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048778829720854798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1735328474934706176",
+          "start": 0,
+          "username": "makinoseiran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048778829720854798",
+    "in_reply_to_user_id": "1735328474934706176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048766742869291468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@makinoseiran 草，rtx👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2048766742869291468",
+        "created_at": "2026-04-27T14:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048778829720854798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1735328474934706176",
+              "start": 0,
+              "username": "makinoseiran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048778829720854798",
+        "in_reply_to_user_id": "1735328474934706176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048766742869291468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@makinoseiran 草，rtx👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735328474934706176",
+        "conversation_id": "2048766742869291468",
+        "created_at": "2026-04-27T14:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048766742869291468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hanlianyi331/s…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/hanlianyi331/status/2048759601760469085",
+              "start": 44,
+              "url": "https://t.co/X6jiFn2Zlc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048766742869291468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048759601760469085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不想努力了，赶紧从天上掉下来一个全知全能的知心大姐姐带着十万张RTX5090包养我吧 https://t.co/X6jiFn2Zlc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 @nozomixlr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "nozomixlr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 139,
+          "like_count": 16259,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 3142
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-14T15:58:55.000Z",
+        "description": "aka橘猫/橘猫硬件实验室主创/常驻珠三角",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MakinoSeiran",
+                "end": 23,
+                "expanded_url": "http://t.me/MakinoSeiran",
+                "start": 0,
+                "url": "https://t.co/KjfemPlYP9"
+              }
+            ]
+          }
+        },
+        "id": "1735328474934706176",
+        "name": "牧野セイラン (青嵐)",
+        "pinned_tweet_id": "2048340321860456623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995445363399077888/ZpTK7xEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 697,
+          "like_count": 25287,
+          "listed_count": 2,
+          "media_count": 546,
+          "tweet_count": 5154
+        },
+        "url": "https://t.co/KjfemPlYP9",
+        "username": "makinoseiran",
+        "verified": true
+      }
+    ]
+  }
+}

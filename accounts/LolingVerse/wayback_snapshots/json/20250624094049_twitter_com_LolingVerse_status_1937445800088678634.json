@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1937445800088678634",
+    "created_at": "2025-06-24T09:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T10:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937445800088678634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1360161759257104384",
+          "start": 3,
+          "username": "AspiLin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937445800088678634",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937417403539022112",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AspiLin0: i really want this"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1937445800088678634",
+        "created_at": "2025-06-24T09:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T10:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937445800088678634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1360161759257104384",
+              "start": 3,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937445800088678634",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937417403539022112",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AspiLin0: i really want this"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1937417403539022112",
+        "created_at": "2025-06-24T07:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T08:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937417403539022112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TheFoxLife/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/TheFoxLife/status/1937217089313648828",
+              "start": 19,
+              "url": "https://t.co/anAfZj3LYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937417403539022112",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 22,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937217089313648828",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "i really want this https://t.co/anAfZj3LYc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 61,
+          "like_count": 1460,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 682
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 438,
+          "like_count": 9134,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 2126
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

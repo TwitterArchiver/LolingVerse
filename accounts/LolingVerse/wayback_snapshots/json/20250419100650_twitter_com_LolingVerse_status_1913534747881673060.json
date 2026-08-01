@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913513267718455296"
+      ],
+      "media_source_tweet_id": [
+        "1913513365353226362"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1913534747881673060",
+    "created_at": "2025-04-19T10:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T11:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913534747881673060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1360161759257104384",
+          "start": 3,
+          "username": "AspiLin0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u4OcCWRH36",
+          "end": 55,
+          "expanded_url": "https://x.com/AspiLin0/status/1913513365353226362/photo/1",
+          "media_key": "3_1913513267718455296",
+          "start": 32,
+          "url": "https://t.co/u4OcCWRH36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913534747881673060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913513365353226362",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AspiLin0: 解剖学术语再背不下来考虑吃糖了() https://t.co/u4OcCWRH36"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 641,
+        "media_key": "3_1913513267718455296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go4qLcNbAAAj-Oj.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913513267718455296"
+          ],
+          "media_source_tweet_id": [
+            "1913513365353226362"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1913534747881673060",
+        "created_at": "2025-04-19T10:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T11:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913534747881673060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1360161759257104384",
+              "start": 3,
+              "username": "AspiLin0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u4OcCWRH36",
+              "end": 55,
+              "expanded_url": "https://x.com/AspiLin0/status/1913513365353226362/photo/1",
+              "media_key": "3_1913513267718455296",
+              "start": 32,
+              "url": "https://t.co/u4OcCWRH36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913534747881673060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913513365353226362",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AspiLin0: 解剖学术语再背不下来考虑吃糖了() https://t.co/u4OcCWRH36"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913513267718455296"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1913513365353226362",
+        "created_at": "2025-04-19T08:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T09:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913513365353226362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u4OcCWRH36",
+              "end": 41,
+              "expanded_url": "https://x.com/AspiLin0/status/1913513365353226362/photo/1",
+              "media_key": "3_1913513267718455296",
+              "start": 18,
+              "url": "https://t.co/u4OcCWRH36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913513365353226362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "解剖学术语再背不下来考虑吃糖了() https://t.co/u4OcCWRH36"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟 | 深柜",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 46,
+          "like_count": 537,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 295
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 311,
+          "like_count": 3919,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 742
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

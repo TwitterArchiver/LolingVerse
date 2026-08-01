@@ -1,0 +1,693 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339381554087223297",
+          "name": "Character design"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1462809879609950219",
+          "name": "Digital artwork"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1462809879609954313",
+          "name": "Digital goods & currency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "id": "1462809879609950219",
+          "name": "Digital artwork"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1944337897928224943",
+    "created_at": "2025-07-13T10:07:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T11:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944337897928224943"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 17,
+          "tag": "モフロイドMarkII"
+        },
+        {
+          "end": 55,
+          "start": 44,
+          "tag": "DigitalArt"
+        },
+        {
+          "end": 61,
+          "start": 56,
+          "tag": "イラスト"
+        },
+        {
+          "end": 73,
+          "start": 62,
+          "tag": "キャラクターデザイン"
+        },
+        {
+          "end": 90,
+          "start": 74,
+          "tag": "CharacterDesign"
+        },
+        {
+          "end": 97,
+          "start": 91,
+          "tag": "AIart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1652361915144994816",
+          "start": 3,
+          "username": "Coharrie_AI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944337897928224943",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944143730195251261",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Coharrie_AI: #モフロイドMarkII 【MOFU-NEKO α】\n#DigitalArt #イラスト #キャラクターデザイン #CharacterDesign #AIart\n\n皆様、おはようございます🍉🌶️\n今日も元気に楽しみましょう🥳🎉 https://…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2496,
+        "media_key": "3_1944051017290493952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvqoGabWMAAZBSu.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339381554087223297",
+              "name": "Character design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1462809879609950219",
+              "name": "Digital artwork"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1462809879609954313",
+              "name": "Digital goods & currency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "id": "1462809879609950219",
+              "name": "Digital artwork"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1944337897928224943",
+        "created_at": "2025-07-13T10:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T11:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944337897928224943"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 17,
+              "tag": "モフロイドMarkII"
+            },
+            {
+              "end": 55,
+              "start": 44,
+              "tag": "DigitalArt"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "イラスト"
+            },
+            {
+              "end": 73,
+              "start": 62,
+              "tag": "キャラクターデザイン"
+            },
+            {
+              "end": 90,
+              "start": 74,
+              "tag": "CharacterDesign"
+            },
+            {
+              "end": 97,
+              "start": 91,
+              "tag": "AIart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1652361915144994816",
+              "start": 3,
+              "username": "Coharrie_AI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944337897928224943",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944143730195251261",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Coharrie_AI: #モフロイドMarkII 【MOFU-NEKO α】\n#DigitalArt #イラスト #キャラクターデザイン #CharacterDesign #AIart\n\n皆様、おはようございます🍉🌶️\n今日も元気に楽しみましょう🥳🎉 https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944051017290493952"
+          ]
+        },
+        "author_id": "1652361915144994816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "id": "1462809879609950219",
+              "name": "Digital artwork"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          }
+        ],
+        "conversation_id": "1944143730195251261",
+        "created_at": "2025-07-12T21:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T22:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944143730195251261"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "モフロイドMarkII"
+            },
+            {
+              "end": 38,
+              "start": 27,
+              "tag": "DigitalArt"
+            },
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "イラスト"
+            },
+            {
+              "end": 56,
+              "start": 45,
+              "tag": "キャラクターデザイン"
+            },
+            {
+              "end": 73,
+              "start": 57,
+              "tag": "CharacterDesign"
+            },
+            {
+              "end": 80,
+              "start": 74,
+              "tag": "AIart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/exKCdiUgnj",
+              "end": 137,
+              "expanded_url": "https://x.com/Coharrie_AI/status/1944143730195251261/photo/1",
+              "media_key": "3_1944051017290493952",
+              "start": 114,
+              "url": "https://t.co/exKCdiUgnj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944143730195251261",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 4977,
+          "like_count": 336,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "#モフロイドMarkII 【MOFU-NEKO α】\n#DigitalArt #イラスト #キャラクターデザイン #CharacterDesign #AIart\n\n皆様、おはようございます🍉🌶️\n今日も元気に楽しみましょう🥳🎉 https://t.co/exKCdiUgnj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 63,
+          "like_count": 1621,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 753
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T17:19:51.000Z",
+        "description": "Coharrie_AIへようこそ！\nAiイラストレーター、刀と龍に取り憑かれた者、ぱっと見良ければ全て良し、皆様、よろしくお願いします！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/coharrieai",
+                "end": 23,
+                "expanded_url": "https://lit.link/coharrieai",
+                "start": 0,
+                "url": "https://t.co/n1mOHA3oku"
+              }
+            ]
+          }
+        },
+        "id": "1652361915144994816",
+        "location": "Japan",
+        "name": "Coharrie_こはりえ",
+        "pinned_tweet_id": "1943781342203801916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652365302456537088/OrdQvp_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79325,
+          "following_count": 5588,
+          "like_count": 121973,
+          "listed_count": 582,
+          "media_count": 3301,
+          "tweet_count": 60271
+        },
+        "url": "https://t.co/n1mOHA3oku",
+        "username": "Coharrie_AI",
+        "verified": true
+      }
+    ]
+  }
+}

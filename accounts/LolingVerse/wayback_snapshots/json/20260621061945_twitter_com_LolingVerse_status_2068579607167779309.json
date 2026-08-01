@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068579599932645376"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2068579607167779309",
+    "created_at": "2026-06-21T06:19:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:19:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068579607167779309"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aRScbrAWdJ",
+          "end": 27,
+          "expanded_url": "https://x.com/LolingVerse/status/2068579607167779309/photo/1",
+          "media_key": "3_2068579599932645376",
+          "start": 4,
+          "url": "https://t.co/aRScbrAWdJ"
+        },
+        {
+          "display_url": "x.com/MizutaniSubaru…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/MizutaniSubaru_/status/2067875615546789909",
+          "start": 28,
+          "url": "https://t.co/nE4uO5UVHA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068579607167779309",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067875615546789909",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已拍😋 https://t.co/aRScbrAWdJ https://t.co/nE4uO5UVHA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1715,
+        "media_key": "3_2068579599932645376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUSL7Oa4AAIUtk.jpg",
+        "width": 862
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068579599932645376"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2068579607167779309",
+        "created_at": "2026-06-21T06:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068579607167779309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aRScbrAWdJ",
+              "end": 27,
+              "expanded_url": "https://x.com/LolingVerse/status/2068579607167779309/photo/1",
+              "media_key": "3_2068579599932645376",
+              "start": 4,
+              "url": "https://t.co/aRScbrAWdJ"
+            },
+            {
+              "display_url": "x.com/MizutaniSubaru…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/MizutaniSubaru_/status/2067875615546789909",
+              "start": 28,
+              "url": "https://t.co/nE4uO5UVHA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068579607167779309",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067875615546789909",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已拍😋 https://t.co/aRScbrAWdJ https://t.co/nE4uO5UVHA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806225733045690368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2067875615546789909",
+        "created_at": "2026-06-19T07:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:39:25.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067874881828782584",
+          "2067875615546789909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/canmi21/status…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/canmi21/status/2067854250974359838",
+              "start": 137,
+              "url": "https://t.co/MzVTQcbAsB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067875615546789909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3541,
+          "like_count": 41,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067854250974359838",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给所有准备高考完买新设备的准大学生们一个忠告：\n\n⚠️一定要买  脑子 ⚠️\n尤其是  还能思考的 脑子\n\n你可以买手机，可以买电脑，这些挺好用的. 但是写码真的要买脑子\n\n不管你是什么专业，多么需要兼容性，多么需要舒适度，宁可买一块负能焦虑不对口脑子  也不要不买 脑子 https://t.co/MzVTQcbAsB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZFvr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZFvr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster 和另外 114514 人",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 151,
+          "like_count": 22539,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 3981
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-27T07:19:18.000Z",
+        "description": "目标是天天开心｜愿你被世界温柔相待.🏳️‍🌈",
+        "id": "1806225733045690368",
+        "location": "In Freedom",
+        "name": "水谷昴",
+        "pinned_tweet_id": "2067863985891017197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031314735795417095/AHtCnHWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 552,
+          "like_count": 6802,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1302
+        },
+        "url": "",
+        "username": "MizutaniSubaru_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2066786992525128013",
+    "created_at": "2026-06-16T08:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T09:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066801968400765170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066801968400765170",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066786992525128013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu 取决于llm对语境的理解\n\n例如上一次咱用llm翻译字符串常量，大概是直接\ntranslatedString = llm(string)\n\n此时对于一些短的词一词多义可能翻译成别的\n\n或者是自己加上“xx翻译为：”\n\n其它还是挺正确的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2066786992525128013",
+        "created_at": "2026-06-16T08:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066801968400765170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066801968400765170",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066786992525128013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu 取决于llm对语境的理解\n\n例如上一次咱用llm翻译字符串常量，大概是直接\ntranslatedString = llm(string)\n\n此时对于一些短的词一词多义可能翻译成别的\n\n或者是自己加上“xx翻译为：”\n\n其它还是挺正确的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601893417549967360",
+        "conversation_id": "2066786992525128013",
+        "created_at": "2026-06-16T07:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066786992525128013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066786992525128013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 412,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说用LLM做日本语i18n靠谱吗，有没有人能来帮我review一下😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZFvr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZFvr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster 和另外 114514 人",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 149,
+          "like_count": 21940,
+          "listed_count": 3,
+          "media_count": 282,
+          "tweet_count": 3832
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "/ 📦神秘纸箱 / 💖现实中是一个很可爱的人\n/ https://t.co/hUTrNHa19i\n/ Co-founder of https://t.co/gLiVpv8l1t https://t.co/PSLnUgusnm\n/ 🐱家里有小猫和大猫 @Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 125,
+                "username": "Dustella_Chan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 48,
+                "expanded_url": "http://github.com/sheepbox8646",
+                "start": 25,
+                "url": "https://t.co/hUTrNHa19i"
+              },
+              {
+                "display_url": "memoh.ai",
+                "end": 88,
+                "expanded_url": "http://memoh.ai",
+                "start": 65,
+                "url": "https://t.co/gLiVpv8l1t"
+              },
+              {
+                "display_url": "felinic.ai",
+                "end": 112,
+                "expanded_url": "http://felinic.ai",
+                "start": 89,
+                "url": "https://t.co/PSLnUgusnm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/acboxawa",
+                "end": 23,
+                "expanded_url": "http://t.me/acboxawa",
+                "start": 0,
+                "url": "https://t.co/ItS4Ve8jNM"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "上海/深圳",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "2039222526803636555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038245960967741441/70mSKMEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12256,
+          "following_count": 2968,
+          "like_count": 3404,
+          "listed_count": 65,
+          "media_count": 1110,
+          "tweet_count": 6267
+        },
+        "url": "https://t.co/ItS4Ve8jNM",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

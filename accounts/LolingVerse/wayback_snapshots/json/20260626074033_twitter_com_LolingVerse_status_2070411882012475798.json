@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10028889887",
+          "name": "Google Play"
+        }
+      }
+    ],
+    "conversation_id": "2070411882012475798",
+    "created_at": "2026-06-26T07:40:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T08:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070411882012475798"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "wiwi.blog/blog/the-evolu…",
+          "end": 132,
+          "expanded_url": "https://wiwi.blog/blog/the-evolution-of-trust/",
+          "start": 109,
+          "url": "https://t.co/SDNiTU6h6r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070411882012475798",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "wiwi.blog/blog/the-evolu…",
+            "end": 132,
+            "expanded_url": "https://wiwi.blog/blog/the-evolution-of-trust/",
+            "start": 109,
+            "url": "https://t.co/OJKG6N59Yi"
+          }
+        ]
+      },
+      "text": "大抵在很早之前，在“规范化”，洛铃常常使用“4399游戏盒”，“葫芦侠”等，获取Google Play上的搬运游戏或是破解游戏，如此的，小游戏着……\n\n于是洛铃想起来了“信任的游戏”，或者现在再查资料，“信任的演化”(https://t.co/OJKG6N59Yi)\n如此……\n\n或许洛铃当初喜欢这样所谓讲道理的游戏，或是喜欢单纯知识流过大脑却不去深究的感觉。同时着的，例如 Survival Craft 2，或是火箭模拟器（一个用现成组件组装火箭的游戏），还有着非常非常多的各种校园女生模拟器（现在手头上倒是只有一个樱花校园模拟器）\n\n于是洛铃是否能够想起来那些闲适的夏天，洛铃翻开手机的后盖对着风扇吹吹以降低电池的温度\n\n不过想不起来了，那些感受和99%的内容都消失了\n\n这样嘛"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大抵在很早之前，在“规范化”，洛铃常常使用“4399游戏盒”，“葫芦侠”等，获取Google Play上的搬运游戏或是破解游戏，如此的，小游戏着……\n\n于是洛铃想起来了“信任的游戏”，或者现在再查资料，“信任的演化”(https://t.co/SDNiTU6h6r)\n如此……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10028889887",
+              "name": "Google Play"
+            }
+          }
+        ],
+        "conversation_id": "2070411882012475798",
+        "created_at": "2026-06-26T07:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070411882012475798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "wiwi.blog/blog/the-evolu…",
+              "end": 132,
+              "expanded_url": "https://wiwi.blog/blog/the-evolution-of-trust/",
+              "start": 109,
+              "url": "https://t.co/SDNiTU6h6r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070411882012475798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "wiwi.blog/blog/the-evolu…",
+                "end": 132,
+                "expanded_url": "https://wiwi.blog/blog/the-evolution-of-trust/",
+                "start": 109,
+                "url": "https://t.co/OJKG6N59Yi"
+              }
+            ]
+          },
+          "text": "大抵在很早之前，在“规范化”，洛铃常常使用“4399游戏盒”，“葫芦侠”等，获取Google Play上的搬运游戏或是破解游戏，如此的，小游戏着……\n\n于是洛铃想起来了“信任的游戏”，或者现在再查资料，“信任的演化”(https://t.co/OJKG6N59Yi)\n如此……\n\n或许洛铃当初喜欢这样所谓讲道理的游戏，或是喜欢单纯知识流过大脑却不去深究的感觉。同时着的，例如 Survival Craft 2，或是火箭模拟器（一个用现成组件组装火箭的游戏），还有着非常非常多的各种校园女生模拟器（现在手头上倒是只有一个樱花校园模拟器）\n\n于是洛铃是否能够想起来那些闲适的夏天，洛铃翻开手机的后盖对着风扇吹吹以降低电池的温度\n\n不过想不起来了，那些感受和99%的内容都消失了\n\n这样嘛"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大抵在很早之前，在“规范化”，洛铃常常使用“4399游戏盒”，“葫芦侠”等，获取Google Play上的搬运游戏或是破解游戏，如此的，小游戏着……\n\n于是洛铃想起来了“信任的游戏”，或者现在再查资料，“信任的演化”(https://t.co/SDNiTU6h6r)\n如此……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 155,
+          "like_count": 23164,
+          "listed_count": 3,
+          "media_count": 309,
+          "tweet_count": 4132
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      }
+    ]
+  }
+}

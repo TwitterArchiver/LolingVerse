@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2065279702433173571",
+    "created_at": "2026-06-12T03:47:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T04:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065279702433173571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2064236987213905920",
+          "start": 3,
+          "username": "SaionjiYukie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065279702433173571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065072667246694457",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SaionjiYukie: 另外，要是有人实在因为网络问题想要向开发者、服务提供商寻仇，那也请认真考虑一下...因为服务中断很可能不是你的错，也不是服务商和开发者的错，因此请考虑不可抗力。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2065279702433173571",
+        "created_at": "2026-06-12T03:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065279702433173571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2064236987213905920",
+              "start": 3,
+              "username": "SaionjiYukie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065279702433173571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065072667246694457",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SaionjiYukie: 另外，要是有人实在因为网络问题想要向开发者、服务提供商寻仇，那也请认真考虑一下...因为服务中断很可能不是你的错，也不是服务商和开发者的错，因此请考虑不可抗力。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064236987213905920",
+        "conversation_id": "2065072667246694457",
+        "created_at": "2026-06-11T14:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065072667246694457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SaionjiYukie/s…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/SaionjiYukie/status/2065002416609829217",
+              "start": 81,
+              "url": "https://t.co/qEI13upty1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065072667246694457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065002416609829217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "另外，要是有人实在因为网络问题想要向开发者、服务提供商寻仇，那也请认真考虑一下...因为服务中断很可能不是你的错，也不是服务商和开发者的错，因此请考虑不可抗力。 https://t.co/qEI13upty1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZFvr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZFvr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster 和另外 114514 人",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 148,
+          "like_count": 21599,
+          "listed_count": 3,
+          "media_count": 279,
+          "tweet_count": 3784
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-09T06:44:46.000Z",
+        "description": "可能是一個，嗯...🍥🏳️‍⚧️＆技術宅!?\n\n14休學(復學準備中)•計算機科學初學者•即將含糖•關心社會議題•想要給予弱者無償的關愛和保護•保持純真•要是有什麽需要幫助的請DM\n\n“永遠善良、永遠勤奮、盡量卓越”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SaionjiYukie_A…",
+                "end": 23,
+                "expanded_url": "http://t.me/SaionjiYukie_About",
+                "start": 0,
+                "url": "https://t.co/D5RPJWDBv0"
+              }
+            ]
+          }
+        },
+        "id": "2064236987213905920",
+        "location": "nekospace.cloud",
+        "name": "西園寺雪絵Saionji Yukie",
+        "pinned_tweet_id": "2065273606222037328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064999596531867648/tApkHNCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 38,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 45
+        },
+        "url": "https://t.co/D5RPJWDBv0",
+        "username": "SaionjiYukie",
+        "verified": false
+      }
+    ]
+  }
+}

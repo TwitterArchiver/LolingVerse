@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074897298073501696"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2074619411600904246",
+    "created_at": "2026-07-08T16:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T17:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074897313294684467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1590534095653650432",
+          "start": 0,
+          "username": "drowning_and"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9nc9XqMEpX",
+          "end": 44,
+          "expanded_url": "https://x.com/LolingVerse/status/2074897313294684467/photo/1",
+          "media_key": "3_2074897298073501696",
+          "start": 21,
+          "url": "https://t.co/9nc9XqMEpX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074897313294684467",
+    "in_reply_to_user_id": "1590534095653650432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074619411600904246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drowning_and 咱也要赌瓜！ https://t.co/9nc9XqMEpX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1790,
+        "media_key": "3_2074897298073501696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMuEGW0WwAAGI7M.jpg",
+        "width": 1010
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074619406567788545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMqHW8Sa0AEVj4H.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074897298073501696"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074619411600904246",
+        "created_at": "2026-07-08T16:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074897313294684467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1590534095653650432",
+              "start": 0,
+              "username": "drowning_and"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9nc9XqMEpX",
+              "end": 44,
+              "expanded_url": "https://x.com/LolingVerse/status/2074897313294684467/photo/1",
+              "media_key": "3_2074897298073501696",
+              "start": 21,
+              "url": "https://t.co/9nc9XqMEpX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074897313294684467",
+        "in_reply_to_user_id": "1590534095653650432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074619411600904246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drowning_and 咱也要赌瓜！ https://t.co/9nc9XqMEpX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074619406567788545"
+          ]
+        },
+        "author_id": "1590534095653650432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074619411600904246",
+        "created_at": "2026-07-07T22:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T23:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074619411600904246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Ocsf90uou",
+              "end": 76,
+              "expanded_url": "https://x.com/drowning_and/status/2074619411600904246/photo/1",
+              "media_key": "3_2074619406567788545",
+              "start": 53,
+              "url": "https://t.co/3Ocsf90uou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074619411600904246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想要清凉于是去赌瓜\n带藤底小瓜重，感觉有希望\n一刀下去\n皮显然是太厚了\n可肉质紧实爽脆，汁水香甜\n好瓜！ https://t.co/3Ocsf90uou"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 162,
+          "like_count": 24490,
+          "listed_count": 4,
+          "media_count": 344,
+          "tweet_count": 4447
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-10T02:37:44.000Z",
+        "description": "im kaz 我胡言乱语 My daily scream 中文 | english |日本語",
+        "id": "1590534095653650432",
+        "name": "➖羊·目➖",
+        "pinned_tweet_id": "2022242682693996782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066998125026570240/pjXoBG8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 517,
+          "like_count": 42533,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 2114
+        },
+        "url": "",
+        "username": "drowning_and",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2070503043154743502",
+    "created_at": "2026-06-26T18:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T19:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070576934036336696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1120712903886344200",
+          "start": 0,
+          "username": "Philo2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070576934036336696",
+    "in_reply_to_user_id": "1120712903886344200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070503043154743502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Philo2022 强aw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43233,
+        "height": 1920,
+        "media_key": "13_2070502887525105664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070502887525105664/img/eXx8jYeMc7Nrpf_V.jpg",
+        "public_metrics": {
+          "view_count": 220
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070502887525105664/vid/avc1/1080x1920/72EjrKLZ6YU6G19V.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070502887525105664/pl/wjyM4J9YRLf_Kg0J.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070502887525105664/vid/avc1/720x1280/WhLia5a4oyGx5_dm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070502887525105664/vid/avc1/480x852/-Ngy_KNjqiF2TBTE.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070502887525105664/vid/avc1/320x568/f3gsOD6DRC_TLbv3.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2070503043154743502",
+        "created_at": "2026-06-26T18:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T19:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070576934036336696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1120712903886344200",
+              "start": 0,
+              "username": "Philo2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070576934036336696",
+        "in_reply_to_user_id": "1120712903886344200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070503043154743502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Philo2022 强aw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070502887525105664"
+          ]
+        },
+        "author_id": "1120712903886344200",
+        "conversation_id": "2070503043154743502",
+        "created_at": "2026-06-26T13:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T14:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070503043154743502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WPxAZGLr9e",
+              "end": 93,
+              "expanded_url": "https://x.com/Philo2022/status/2070503043154743502/video/1",
+              "media_key": "13_2070502887525105664",
+              "start": 70,
+              "url": "https://t.co/WPxAZGLr9e"
+            },
+            {
+              "display_url": "x.com/philo2022/stat…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/philo2022/status/2063200396634669071",
+              "start": 94,
+              "url": "https://t.co/WAsh6uG9lf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070503043154743502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 953,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063200396634669071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "3000 把之后，已经快晋级为 sub30 选手了。别不信，魔方真的比 Vibe Coding 还让人上瘾，现在下饭视频都有一大半都是魔方 https://t.co/WPxAZGLr9e https://t.co/WAsh6uG9lf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 156,
+          "like_count": 23262,
+          "listed_count": 3,
+          "media_count": 311,
+          "tweet_count": 4160
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-23T15:35:52.000Z",
+        "description": "Creator, Artist, Creator of @dopamindai & https://t.co/CiW3w1GiB2 & Art Gallery https://t.co/FbODek76Fh | Blog: https://t.co/b6PsjnsGoA | My Artwork: @PhiloArt2020 | En: @Philo1024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "dopamindai"
+              },
+              {
+                "end": 163,
+                "start": 150,
+                "username": "PhiloArt2020"
+              },
+              {
+                "end": 180,
+                "start": 170,
+                "username": "Philo1024"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "GoShipFast.com",
+                "end": 65,
+                "expanded_url": "http://GoShipFast.com",
+                "start": 42,
+                "url": "https://t.co/CiW3w1GiB2"
+              },
+              {
+                "display_url": "philoart.io",
+                "end": 103,
+                "expanded_url": "http://philoart.io",
+                "start": 80,
+                "url": "https://t.co/FbODek76Fh"
+              },
+              {
+                "display_url": "philoli.com",
+                "end": 135,
+                "expanded_url": "http://philoli.com",
+                "start": 112,
+                "url": "https://t.co/b6PsjnsGoA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "philoli.com",
+                "end": 23,
+                "expanded_url": "https://philoli.com/",
+                "start": 0,
+                "url": "https://t.co/E4ytxr9zV2"
+              }
+            ]
+          }
+        },
+        "id": "1120712903886344200",
+        "name": "Philo",
+        "pinned_tweet_id": "1954486195519623328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1432329882692767747/oX4paPF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28677,
+          "following_count": 568,
+          "like_count": 10080,
+          "listed_count": 177,
+          "media_count": 1648,
+          "tweet_count": 15435
+        },
+        "url": "https://t.co/E4ytxr9zV2",
+        "username": "Philo2022",
+        "verified": true
+      }
+    ]
+  }
+}

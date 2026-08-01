@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932037486081179648"
+      ],
+      "media_source_tweet_id": [
+        "1932037517311873292"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1932278133774029074",
+    "created_at": "2025-06-10T03:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T04:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932278133774029074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1829918628",
+          "start": 3,
+          "username": "kajaneko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ro2WuYj4t8",
+          "end": 42,
+          "expanded_url": "https://x.com/kajaneko/status/1932037517311873292/photo/1",
+          "media_key": "3_1932037486081179648",
+          "start": 19,
+          "url": "https://t.co/ro2WuYj4t8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932278133774029074",
+    "lang": "da",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 153
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932037517311873292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kajaneko: skeb https://t.co/ro2WuYj4t8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1025,
+        "media_key": "3_1932037486081179648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs_523KbgAAmu03.jpg",
+        "width": 1640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932037486081179648"
+          ],
+          "media_source_tweet_id": [
+            "1932037517311873292"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1932278133774029074",
+        "created_at": "2025-06-10T03:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T04:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932278133774029074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1829918628",
+              "start": 3,
+              "username": "kajaneko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ro2WuYj4t8",
+              "end": 42,
+              "expanded_url": "https://x.com/kajaneko/status/1932037517311873292/photo/1",
+              "media_key": "3_1932037486081179648",
+              "start": 19,
+              "url": "https://t.co/ro2WuYj4t8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932278133774029074",
+        "lang": "da",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 153
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932037517311873292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kajaneko: skeb https://t.co/ro2WuYj4t8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932037486081179648"
+          ]
+        },
+        "author_id": "1829918628",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1932037517311873292",
+        "created_at": "2025-06-09T11:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T12:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932037517311873292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ro2WuYj4t8",
+              "end": 28,
+              "expanded_url": "https://x.com/kajaneko/status/1932037517311873292/photo/1",
+              "media_key": "3_1932037486081179648",
+              "start": 5,
+              "url": "https://t.co/ro2WuYj4t8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932037517311873292",
+        "lang": "da",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 12993,
+          "like_count": 1043,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "skeb https://t.co/ro2WuYj4t8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 62,
+          "like_count": 1346,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 635
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-08T14:31:23.000Z",
+        "description": "絵描いてます。 だらだらと。\nskeb→https://t.co/jossxi9C8S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kajaneko",
+                "end": 43,
+                "expanded_url": "https://skeb.jp/@kajaneko",
+                "start": 20,
+                "url": "https://t.co/jossxi9C8S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=2762721",
+                "start": 0,
+                "url": "https://t.co/HJiWsQgmgJ"
+              }
+            ]
+          }
+        },
+        "id": "1829918628",
+        "name": "かじゃねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1326939105033289728/RhyTS-O8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22004,
+          "following_count": 358,
+          "like_count": 3466,
+          "listed_count": 253,
+          "media_count": 533,
+          "tweet_count": 11239
+        },
+        "url": "https://t.co/HJiWsQgmgJ",
+        "username": "kajaneko",
+        "verified": false
+      }
+    ]
+  }
+}

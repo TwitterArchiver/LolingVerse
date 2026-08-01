@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931176594162462720"
+      ],
+      "media_source_tweet_id": [
+        "1931176603012501917"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1931295383906664859",
+    "created_at": "2025-06-07T10:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T11:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931295383906664859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684871914769305601",
+          "start": 3,
+          "username": "N_ekobouzaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fgOGwIlmtG",
+          "end": 41,
+          "expanded_url": "https://x.com/N_ekobouzaki/status/1931176603012501917/photo/1",
+          "media_key": "3_1931176594162462720",
+          "start": 18,
+          "url": "https://t.co/fgOGwIlmtG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931295383906664859",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 825
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931176603012501917",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N_ekobouzaki: https://t.co/fgOGwIlmtG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1931176594162462720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gszq4W2aMAAtH5w.jpg",
+        "width": 3955
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931176594162462720"
+          ],
+          "media_source_tweet_id": [
+            "1931176603012501917"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1931295383906664859",
+        "created_at": "2025-06-07T10:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T11:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931295383906664859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684871914769305601",
+              "start": 3,
+              "username": "N_ekobouzaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgOGwIlmtG",
+              "end": 41,
+              "expanded_url": "https://x.com/N_ekobouzaki/status/1931176603012501917/photo/1",
+              "media_key": "3_1931176594162462720",
+              "start": 18,
+              "url": "https://t.co/fgOGwIlmtG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931295383906664859",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 825
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931176603012501917",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N_ekobouzaki: https://t.co/fgOGwIlmtG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931176594162462720"
+          ]
+        },
+        "author_id": "1684871914769305601",
+        "conversation_id": "1931176603012501917",
+        "created_at": "2025-06-07T02:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T03:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931176603012501917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgOGwIlmtG",
+              "end": 23,
+              "expanded_url": "https://x.com/N_ekobouzaki/status/1931176603012501917/photo/1",
+              "media_key": "3_1931176594162462720",
+              "start": 0,
+              "url": "https://t.co/fgOGwIlmtG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931176603012501917",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2672,
+          "impression_count": 170203,
+          "like_count": 11237,
+          "quote_count": 14,
+          "reply_count": 7,
+          "retweet_count": 825
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fgOGwIlmtG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 62,
+          "like_count": 1293,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 602
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T10:22:31.000Z",
+        "description": "ねこ大好き🐈  ɪʟʟᴜsᴛʀᴀᴛᴏʀ : https://t.co/3VYBAOoFjO / ғᴀɴʙᴏx→https://t.co/At1CMKh9Se /",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/42653439",
+                "end": 45,
+                "expanded_url": "https://www.pixiv.net/users/42653439",
+                "start": 22,
+                "url": "https://t.co/3VYBAOoFjO"
+              },
+              {
+                "display_url": "inubouzaki.fanbox.cc",
+                "end": 78,
+                "expanded_url": "https://inubouzaki.fanbox.cc/",
+                "start": 55,
+                "url": "https://t.co/At1CMKh9Se"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/inubouzaki",
+                "end": 23,
+                "expanded_url": "https://lit.link/inubouzaki",
+                "start": 0,
+                "url": "https://t.co/xi3rhKPBrC"
+              }
+            ]
+          }
+        },
+        "id": "1684871914769305601",
+        "location": "C105 月曜 西ふ38b",
+        "name": "犬吠埼いつき",
+        "pinned_tweet_id": "1908821987981738239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738496050502238208/WbwcXNc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25042,
+          "following_count": 38,
+          "like_count": 3201,
+          "listed_count": 228,
+          "media_count": 33,
+          "tweet_count": 565
+        },
+        "url": "https://t.co/xi3rhKPBrC",
+        "username": "N_ekobouzaki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027959306046607363"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027943324611735609",
+    "created_at": "2026-03-01T04:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T05:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027959314120638949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1864739862697644032",
+          "start": 0,
+          "username": "2196F3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tng4nwPQSM",
+          "end": 31,
+          "expanded_url": "https://x.com/LolingVerse/status/2027959314120638949/photo/1",
+          "media_key": "3_2027959306046607363",
+          "start": 8,
+          "url": "https://t.co/tng4nwPQSM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027959314120638949",
+    "in_reply_to_user_id": "1864739862697644032",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027943324611735609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2196F3 https://t.co/tng4nwPQSM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027959306046607363",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCTCPofbEAMJN4y.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027959306046607363"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027943324611735609",
+        "created_at": "2026-03-01T04:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T05:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027959314120638949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1864739862697644032",
+              "start": 0,
+              "username": "2196F3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tng4nwPQSM",
+              "end": 31,
+              "expanded_url": "https://x.com/LolingVerse/status/2027959314120638949/photo/1",
+              "media_key": "3_2027959306046607363",
+              "start": 8,
+              "url": "https://t.co/tng4nwPQSM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027959314120638949",
+        "in_reply_to_user_id": "1864739862697644032",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027943324611735609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2196F3 https://t.co/tng4nwPQSM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864739862697644032",
+        "conversation_id": "2027943324611735609",
+        "created_at": "2026-03-01T03:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T04:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027943324611735609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "凯尔希是猫猫’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1qxvv…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1qxvvkevMbAxB",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2027943325874196482/rQenlQx7?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2027943325874196482/rQenlQx7?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 猫猫大会！",
+              "unwound_url": "https://twitter.com/i/spaces/1qxvvkevMbAxB/peek",
+              "url": "https://t.co/33zCaBKBD1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027943324611735609",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/33zCaBKBD1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | 另一只猫猫 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 52,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Hydrogen.洛铃🍥Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 111,
+          "like_count": 9649,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 2543
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-05T18:33:59.000Z",
+        "description": "本体是香香软软没有攻击性的INTP猞猁！Candidacy↑，是explorer，coser和Les. 想做大家的好朋友给人们带来快乐。zs, zc 相关话题  ×  N O，刷到相关推文会点not interested. 看到做得不好的实验会整个炸掉(然后亲自上手) 。😿 私信话题：源石会上调 IL6吗？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "prts.eterea.uk/?quickacc=bull…",
+                "end": 23,
+                "expanded_url": "http://prts.eterea.uk/?quickacc=bulletin",
+                "start": 0,
+                "url": "https://t.co/fVFEeZTH22"
+              }
+            ]
+          }
+        },
+        "id": "1864739862697644032",
+        "location": "California, USA",
+        "name": "凯尔希是猫猫",
+        "pinned_tweet_id": "1949626289104802165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952307711271735297/Kt15yKo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 834,
+          "like_count": 5199,
+          "listed_count": 4,
+          "media_count": 654,
+          "tweet_count": 4404
+        },
+        "url": "https://t.co/fVFEeZTH22",
+        "username": "2196F3",
+        "verified": true
+      }
+    ]
+  }
+}

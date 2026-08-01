@@ -1,0 +1,605 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957114774942011392"
+      ],
+      "media_source_tweet_id": [
+        "1957114816906068154"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1093271119849635840",
+          "name": "Honkai series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1093271119849635840",
+          "name": "Honkai series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "1957355904850145592",
+    "created_at": "2025-08-18T08:16:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T09:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957355904850145592"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 26,
+          "tag": "HonkaiStarRail"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912026502902018048",
+          "start": 3,
+          "username": "RaaiVault"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PuREKmk4kK",
+          "end": 65,
+          "expanded_url": "https://x.com/RaaiVault/status/1957114816906068154/photo/1",
+          "media_key": "3_1957114774942011392",
+          "start": 42,
+          "url": "https://t.co/PuREKmk4kK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957355904850145592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 532
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957114816906068154",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RaaiVault: Sparkle 花火\n#HonkaiStarRail https://t.co/PuREKmk4kK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1957114774942011392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GykRhMEWUAAKIL2.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957114774942011392"
+          ],
+          "media_source_tweet_id": [
+            "1957114816906068154"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1957355904850145592",
+        "created_at": "2025-08-18T08:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T09:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957355904850145592"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 26,
+              "tag": "HonkaiStarRail"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912026502902018048",
+              "start": 3,
+              "username": "RaaiVault"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PuREKmk4kK",
+              "end": 65,
+              "expanded_url": "https://x.com/RaaiVault/status/1957114816906068154/photo/1",
+              "media_key": "3_1957114774942011392",
+              "start": 42,
+              "url": "https://t.co/PuREKmk4kK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957355904850145592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 532
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957114816906068154",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RaaiVault: Sparkle 花火\n#HonkaiStarRail https://t.co/PuREKmk4kK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957114774942011392"
+          ]
+        },
+        "author_id": "1912026502902018048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1957114816906068154",
+        "created_at": "2025-08-17T16:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T17:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957114816906068154"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 11,
+              "tag": "HonkaiStarRail"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PuREKmk4kK",
+              "end": 50,
+              "expanded_url": "https://x.com/RaaiVault/status/1957114816906068154/photo/1",
+              "media_key": "3_1957114774942011392",
+              "start": 27,
+              "url": "https://t.co/PuREKmk4kK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957114816906068154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1658,
+          "impression_count": 140593,
+          "like_count": 10510,
+          "quote_count": 7,
+          "reply_count": 10,
+          "retweet_count": 532
+        },
+        "reply_settings": "everyone",
+        "text": "Sparkle 花火\n#HonkaiStarRail https://t.co/PuREKmk4kK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 69,
+          "like_count": 2130,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1116
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T06:13:52.000Z",
+        "description": "↓毎日60~300枚更新！60~300 pics/day!\nPatreon: https://t.co/LZk6q4ON1c\nDiscord: https://t.co/0nXEvK4lqi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/keDuk",
+                "end": 62,
+                "expanded_url": "https://x.gd/keDuk",
+                "start": 39,
+                "url": "https://t.co/LZk6q4ON1c"
+              },
+              {
+                "display_url": "x.gd/1DAmO",
+                "end": 95,
+                "expanded_url": "https://x.gd/1DAmO",
+                "start": 72,
+                "url": "https://t.co/0nXEvK4lqi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/raaicave",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/raaicave",
+                "start": 0,
+                "url": "https://t.co/TpbmTNpeWR"
+              }
+            ]
+          }
+        },
+        "id": "1912026502902018048",
+        "location": "New Eridu",
+        "name": "Raai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914573709219610624/uN9TBmjE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158153,
+          "following_count": 551,
+          "like_count": 2062,
+          "listed_count": 526,
+          "media_count": 621,
+          "tweet_count": 1380
+        },
+        "url": "https://t.co/TpbmTNpeWR",
+        "username": "RaaiVault",
+        "verified": true
+      }
+    ]
+  }
+}

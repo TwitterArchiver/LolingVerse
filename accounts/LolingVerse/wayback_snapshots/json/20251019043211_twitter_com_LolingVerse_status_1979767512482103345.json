@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979635714900803584"
+      ],
+      "media_source_tweet_id": [
+        "1979635813286855121"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1979767512482103345",
+    "created_at": "2025-10-19T04:32:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T05:32:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979767512482103345"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "だまちゃん",
+          "probability": 0.4966,
+          "start": 32,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 17,
+          "tag": "ふかふかけだま"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "551018232",
+          "start": 3,
+          "username": "Aoitori_775"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RMfdl19Yx6",
+          "end": 61,
+          "expanded_url": "https://x.com/Aoitori_775/status/1979635813286855121/photo/1",
+          "media_key": "3_1979635714900803584",
+          "start": 38,
+          "url": "https://t.co/RMfdl19Yx6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979767512482103345",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 129
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979635813286855121",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aoitori_775: #ふかふかけだま\nよその子　けだまちゃん https://t.co/RMfdl19Yx6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_1979635714900803584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3kUMbNWwAAQjgn.jpg",
+        "width": 1167
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979635714900803584"
+          ],
+          "media_source_tweet_id": [
+            "1979635813286855121"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1979767512482103345",
+        "created_at": "2025-10-19T04:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T05:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979767512482103345"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "だまちゃん",
+              "probability": 0.4966,
+              "start": 32,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "ふかふかけだま"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "551018232",
+              "start": 3,
+              "username": "Aoitori_775"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RMfdl19Yx6",
+              "end": 61,
+              "expanded_url": "https://x.com/Aoitori_775/status/1979635813286855121/photo/1",
+              "media_key": "3_1979635714900803584",
+              "start": 38,
+              "url": "https://t.co/RMfdl19Yx6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979767512482103345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 129
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979635813286855121",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aoitori_775: #ふかふかけだま\nよその子　けだまちゃん https://t.co/RMfdl19Yx6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979635714900803584"
+          ]
+        },
+        "author_id": "551018232",
+        "conversation_id": "1979635813286855121",
+        "created_at": "2025-10-18T19:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T20:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979635813286855121"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "ふかふかけだま"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RMfdl19Yx6",
+              "end": 44,
+              "expanded_url": "https://x.com/Aoitori_775/status/1979635813286855121/photo/1",
+              "media_key": "3_1979635714900803584",
+              "start": 21,
+              "url": "https://t.co/RMfdl19Yx6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979635813286855121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 9017,
+          "like_count": 970,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "#ふかふかけだま\nよその子　けだまちゃん https://t.co/RMfdl19Yx6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "『可怜楼上月徘徊，应照离人妆镜台』\n『身世浮沉雨打萍……一山放出一山拦』\n可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TMO0"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 73,
+          "like_count": 2911,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1413
+        },
+        "url": "https://t.co/Dggtj9TMO0",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-11T12:06:40.000Z",
+        "description": "Photo by @dmk0712\n絵を描いたり、3Dぐりぐりしたり、車弄ったり、弄った車でサーキット走ったりしてます。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "dmk0712"
+              }
+            ]
+          }
+        },
+        "id": "551018232",
+        "name": "とり",
+        "pinned_tweet_id": "1975272389446705263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886287786644570112/JoxSYqET_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20288,
+          "following_count": 988,
+          "like_count": 126363,
+          "listed_count": 246,
+          "media_count": 13054,
+          "tweet_count": 103029
+        },
+        "username": "Aoitori_775",
+        "verified": false
+      }
+    ]
+  }
+}

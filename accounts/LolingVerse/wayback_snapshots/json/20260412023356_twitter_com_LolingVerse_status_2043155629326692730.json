@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2042800225325318144"
+      ],
+      "media_source_tweet_id": [
+        "2042928396947329379"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2043155629326692730",
+    "created_at": "2026-04-12T02:33:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T03:33:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043155629326692730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "14486793",
+          "start": 3,
+          "username": "yonasawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HoPdgX6UHa",
+          "end": 64,
+          "expanded_url": "https://x.com/yonasawa/status/2042928396947329379/video/1",
+          "media_key": "13_2042800225325318144",
+          "start": 41,
+          "url": "https://t.co/HoPdgX6UHa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043155629326692730",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3387
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042928396947329379",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yonasawa: これはサメをこねこね、こねっっっこねしてるﾈｺﾁｬﾝ https://t.co/HoPdgX6UHa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30396,
+        "height": 1920,
+        "media_key": "13_2042800225325318144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042800225325318144/img/4J5poraw34PsegYG.jpg",
+        "public_metrics": {
+          "view_count": 166916
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042800225325318144/vid/avc1/720x1280/MEAmNH9jOFtODh65.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042800225325318144/vid/avc1/320x568/NMmEksBJw6LNFU5h.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042800225325318144/vid/avc1/480x852/0YLarOiEgbts48cV.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042800225325318144/vid/avc1/1080x1920/g3hUqUy_p4iSGC3g.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042800225325318144/pl/7OB8U7naKP9dyH00.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042800225325318144"
+          ],
+          "media_source_tweet_id": [
+            "2042928396947329379"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2043155629326692730",
+        "created_at": "2026-04-12T02:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T03:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043155629326692730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "14486793",
+              "start": 3,
+              "username": "yonasawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HoPdgX6UHa",
+              "end": 64,
+              "expanded_url": "https://x.com/yonasawa/status/2042928396947329379/video/1",
+              "media_key": "13_2042800225325318144",
+              "start": 41,
+              "url": "https://t.co/HoPdgX6UHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043155629326692730",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3387
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042928396947329379",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yonasawa: これはサメをこねこね、こねっっっこねしてるﾈｺﾁｬﾝ https://t.co/HoPdgX6UHa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042800225325318144"
+          ]
+        },
+        "author_id": "14486793",
+        "conversation_id": "2042928396947329379",
+        "created_at": "2026-04-11T11:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T12:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042928396947329379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HoPdgX6UHa",
+              "end": 50,
+              "expanded_url": "https://x.com/yonasawa/status/2042928396947329379/video/1",
+              "media_key": "13_2042800225325318144",
+              "start": 27,
+              "url": "https://t.co/HoPdgX6UHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042928396947329379",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1514,
+          "impression_count": 668264,
+          "like_count": 24952,
+          "quote_count": 159,
+          "reply_count": 61,
+          "retweet_count": 3387
+        },
+        "reply_settings": "everyone",
+        "text": "これはサメをこねこね、こねっっっこねしてるﾈｺﾁｬﾝ https://t.co/HoPdgX6UHa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 @nozomixlr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "nozomixlr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 132,
+          "like_count": 13859,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 2953
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2008-04-23T06:56:01.000Z",
+        "description": "◽️株式会社ゲームフリーク様  ポケモンアルセウス、スカーレットバイオレットにフィールドマップデザインの一部で参加\n◽️ねんどろ艦これ特製スリーブ担当\n◽️ケムリクサ背景作成\n◽️ﾆｺﾆｺ履歴 https://t.co/p6LGwP2UQ0\n◽️お仕事のご依頼はこちら↓まで",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/12715161",
+                "end": 120,
+                "expanded_url": "http://nicovideo.jp/mylist/12715161",
+                "start": 97,
+                "url": "https://t.co/p6LGwP2UQ0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yonasawa.com",
+                "end": 23,
+                "expanded_url": "https://www.yonasawa.com",
+                "start": 0,
+                "url": "https://t.co/oaChvI9trh"
+              }
+            ]
+          }
+        },
+        "id": "14486793",
+        "name": "マクー",
+        "pinned_tweet_id": "1593535257889734657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616331971160084480/_qSzXHav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32778,
+          "following_count": 1873,
+          "like_count": 6133,
+          "listed_count": 934,
+          "media_count": 10948,
+          "tweet_count": 389985
+        },
+        "url": "https://t.co/oaChvI9trh",
+        "username": "yonasawa",
+        "verified": true
+      }
+    ]
+  }
+}

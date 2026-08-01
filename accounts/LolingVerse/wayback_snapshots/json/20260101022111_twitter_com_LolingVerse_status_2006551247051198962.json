@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006381686272172032"
+      ],
+      "media_source_tweet_id": [
+        "2006381694480474460"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      }
+    ],
+    "conversation_id": "2006551247051198962",
+    "created_at": "2026-01-01T02:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T03:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006551247051198962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "505768081",
+          "start": 3,
+          "username": "genzyaku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d0YCH8pdP2",
+          "end": 70,
+          "expanded_url": "https://x.com/genzyaku/status/2006381694480474460/photo/1",
+          "media_key": "3_2006381686272172032",
+          "start": 47,
+          "url": "https://t.co/d0YCH8pdP2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006551247051198962",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 136
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006381694480474460",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @genzyaku: あけましておめでとうございます！\n今年もよろしくお願いします！！ https://t.co/d0YCH8pdP2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2122,
+        "media_key": "3_2006381686272172032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gZg24aIAAfNsP.jpg",
+        "width": 1461
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006381686272172032"
+          ],
+          "media_source_tweet_id": [
+            "2006381694480474460"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          }
+        ],
+        "conversation_id": "2006551247051198962",
+        "created_at": "2026-01-01T02:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T03:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006551247051198962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "505768081",
+              "start": 3,
+              "username": "genzyaku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d0YCH8pdP2",
+              "end": 70,
+              "expanded_url": "https://x.com/genzyaku/status/2006381694480474460/photo/1",
+              "media_key": "3_2006381686272172032",
+              "start": 47,
+              "url": "https://t.co/d0YCH8pdP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006551247051198962",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006381694480474460",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @genzyaku: あけましておめでとうございます！\n今年もよろしくお願いします！！ https://t.co/d0YCH8pdP2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006381686272172032"
+          ]
+        },
+        "author_id": "505768081",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          }
+        ],
+        "conversation_id": "2006381694480474460",
+        "created_at": "2025-12-31T15:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T16:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006381694480474460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d0YCH8pdP2",
+              "end": 56,
+              "expanded_url": "https://x.com/genzyaku/status/2006381694480474460/photo/1",
+              "media_key": "3_2006381686272172032",
+              "start": 33,
+              "url": "https://t.co/d0YCH8pdP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006381694480474460",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 9756,
+          "like_count": 759,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "あけましておめでとうございます！\n今年もよろしくお願いします！！ https://t.co/d0YCH8pdP2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153/48 | 没诗硬吟  | Fox | 另一只猫猫 @YekaseSuiso2022\n\n走过路过不要错过，填写一下《无处方HRT与医疗指导下规范HRT对中国跨性别女性抑郁和自杀意念的调节效应》喵！https://t.co/jqMkTpm2m5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "YekaseSuiso2022"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "suiso.kawaiis.in/researchs/h",
+                "end": 148,
+                "expanded_url": "http://suiso.kawaiis.in/researchs/h",
+                "start": 125,
+                "url": "https://t.co/jqMkTpm2m5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Suism.洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 91,
+          "like_count": 5657,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1962
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-27T11:28:12.000Z",
+        "description": "成人済。絵を描いたりしてます。\nススーロ合同誌２の参加者を募集してます。詳細はこちらをご覧ください（https://t.co/TmX5FDGqka）\n日常ﾂｲ、旅行ﾂｲ、RTましましでお送りします。\nススーロ(アークナイツ)、原神  \nイラストの無断転載及びAI学習目的での使用はご遠慮ください。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twipla.jp/events/704691",
+                "end": 73,
+                "expanded_url": "https://twipla.jp/events/704691",
+                "start": 50,
+                "url": "https://t.co/TmX5FDGqka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=3341984",
+                "start": 0,
+                "url": "https://t.co/CJuCrsrARM"
+              }
+            ]
+          }
+        },
+        "id": "505768081",
+        "location": "日本 山形",
+        "name": "幻雀@合同誌参加者募集中",
+        "pinned_tweet_id": "1990417583867048240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657368122339528704/4EeIALIv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4164,
+          "following_count": 748,
+          "like_count": 93206,
+          "listed_count": 40,
+          "media_count": 2430,
+          "tweet_count": 20723
+        },
+        "url": "https://t.co/CJuCrsrARM",
+        "username": "genzyaku",
+        "verified": true
+      }
+    ]
+  }
+}

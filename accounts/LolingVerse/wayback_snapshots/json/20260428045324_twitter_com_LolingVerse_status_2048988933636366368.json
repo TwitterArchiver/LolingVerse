@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2048988933636366368",
+    "created_at": "2026-04-28T04:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T05:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048988933636366368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1559904731434287108",
+          "start": 3,
+          "username": "jingyhn11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048988933636366368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048969681294545079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingyhn11: 向大家补充一下，我的弟弟是在医生劝阻无果后被切除了少量前额叶和部分大脑皮层，国家允许用这种手段来治疗严重情感障碍的病人，我对此感到非常震惊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2048988933636366368",
+        "created_at": "2026-04-28T04:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048988933636366368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1559904731434287108",
+              "start": 3,
+              "username": "jingyhn11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048988933636366368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048969681294545079",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jingyhn11: 向大家补充一下，我的弟弟是在医生劝阻无果后被切除了少量前额叶和部分大脑皮层，国家允许用这种手段来治疗严重情感障碍的病人，我对此感到非常震惊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559904731434287108",
+        "conversation_id": "2048969681294545079",
+        "created_at": "2026-04-28T03:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T04:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048969681294545079"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2048969681294545079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 5355,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "向大家补充一下，我的弟弟是在医生劝阻无果后被切除了少量前额叶和部分大脑皮层，国家允许用这种手段来治疗严重情感障碍的病人，我对此感到非常震惊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 @nozomixlr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "nozomixlr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 140,
+          "like_count": 16314,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 3147
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-17T14:07:37.000Z",
+        "description": "灰云，种族狼，furry爱好者。\n平时发些照片和稿件，是个老司机，时不时会开车，无雷点。☺️",
+        "id": "1559904731434287108",
+        "location": "南昌市",
+        "name": "灰云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001685366550806528/TPmPqtVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3968,
+          "following_count": 218,
+          "like_count": 659,
+          "listed_count": 6,
+          "media_count": 160,
+          "tweet_count": 314
+        },
+        "username": "jingyhn11",
+        "verified": false
+      }
+    ]
+  }
+}

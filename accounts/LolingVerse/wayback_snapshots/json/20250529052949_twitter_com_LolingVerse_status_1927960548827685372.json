@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927689169733918720",
+        "3_1927689169721331712",
+        "3_1927689169880674304",
+        "3_1927689172393013248"
+      ],
+      "media_source_tweet_id": [
+        "1927689175622398314",
+        "1927689175622398314",
+        "1927689175622398314",
+        "1927689175622398314"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1927960548827685372",
+    "created_at": "2025-05-29T05:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T06:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927960548827685372"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "ちびミクちゃん",
+          "probability": 0.3895,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1154949000778227713",
+          "start": 3,
+          "username": "hitodedenden"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CymtVSGCI4",
+          "end": 57,
+          "expanded_url": "https://x.com/hitodedenden/status/1927689175622398314/photo/1",
+          "media_key": "3_1927689169733918720",
+          "start": 34,
+          "url": "https://t.co/CymtVSGCI4"
+        },
+        {
+          "display_url": "pic.x.com/CymtVSGCI4",
+          "end": 57,
+          "expanded_url": "https://x.com/hitodedenden/status/1927689175622398314/photo/1",
+          "media_key": "3_1927689169721331712",
+          "start": 34,
+          "url": "https://t.co/CymtVSGCI4"
+        },
+        {
+          "display_url": "pic.x.com/CymtVSGCI4",
+          "end": 57,
+          "expanded_url": "https://x.com/hitodedenden/status/1927689175622398314/photo/1",
+          "media_key": "3_1927689169880674304",
+          "start": 34,
+          "url": "https://t.co/CymtVSGCI4"
+        },
+        {
+          "display_url": "pic.x.com/CymtVSGCI4",
+          "end": 57,
+          "expanded_url": "https://x.com/hitodedenden/status/1927689175622398314/photo/1",
+          "media_key": "3_1927689172393013248",
+          "start": 34,
+          "url": "https://t.co/CymtVSGCI4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927960548827685372",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 332
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927689175622398314",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hitodedenden: ちびミクちゃんと あそぼ♡ ⇦ https://t.co/CymtVSGCI4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1927689169733918720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsCHFidboAAgQYY.jpg",
+        "width": 1707
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1927689169721331712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsCHFiabkAA6-UR.jpg",
+        "width": 1707
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1927689169880674304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsCHFjAa8AAYQ7D.jpg",
+        "width": 1877
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1927689172393013248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsCHFsXaMAA_b-3.jpg",
+        "width": 1446
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927689169733918720",
+            "3_1927689169721331712",
+            "3_1927689169880674304",
+            "3_1927689172393013248"
+          ],
+          "media_source_tweet_id": [
+            "1927689175622398314",
+            "1927689175622398314",
+            "1927689175622398314",
+            "1927689175622398314"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1927960548827685372",
+        "created_at": "2025-05-29T05:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T06:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927960548827685372"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "ちびミクちゃん",
+              "probability": 0.3895,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1154949000778227713",
+              "start": 3,
+              "username": "hitodedenden"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CymtVSGCI4",
+              "end": 57,
+              "expanded_url": "https://x.com/hitodedenden/status/1927689175622398314/photo/1",
+              "media_key": "3_1927689169733918720",
+              "start": 34,
+              "url": "https://t.co/CymtVSGCI4"
+            },
+            {
+              "display_url": "pic.x.com/CymtVSGCI4",
+              "end": 57,
+              "expanded_url": "https://x.com/hitodedenden/status/1927689175622398314/photo/1",
+              "media_key": "3_1927689169721331712",
+              "start": 34,
+              "url": "https://t.co/CymtVSGCI4"
+            },
+            {
+              "display_url": "pic.x.com/CymtVSGCI4",
+              "end": 57,
+              "expanded_url": "https://x.com/hitodedenden/status/1927689175622398314/photo/1",
+              "media_key": "3_1927689169880674304",
+              "start": 34,
+              "url": "https://t.co/CymtVSGCI4"
+            },
+            {
+              "display_url": "pic.x.com/CymtVSGCI4",
+              "end": 57,
+              "expanded_url": "https://x.com/hitodedenden/status/1927689175622398314/photo/1",
+              "media_key": "3_1927689172393013248",
+              "start": 34,
+              "url": "https://t.co/CymtVSGCI4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927960548827685372",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 332
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927689175622398314",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hitodedenden: ちびミクちゃんと あそぼ♡ ⇦ https://t.co/CymtVSGCI4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927689169733918720",
+            "3_1927689169721331712",
+            "3_1927689169880674304",
+            "3_1927689172393013248"
+          ]
+        },
+        "author_id": "1154949000778227713",
+        "conversation_id": "1927689175622398314",
+        "created_at": "2025-05-28T11:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T12:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927689175622398314"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "ちびミクちゃん",
+              "probability": 0.4346,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CymtVSGCI4",
+              "end": 39,
+              "expanded_url": "https://x.com/hitodedenden/status/1927689175622398314/photo/1",
+              "media_key": "3_1927689169733918720",
+              "start": 16,
+              "url": "https://t.co/CymtVSGCI4"
+            },
+            {
+              "display_url": "pic.x.com/CymtVSGCI4",
+              "end": 39,
+              "expanded_url": "https://x.com/hitodedenden/status/1927689175622398314/photo/1",
+              "media_key": "3_1927689169721331712",
+              "start": 16,
+              "url": "https://t.co/CymtVSGCI4"
+            },
+            {
+              "display_url": "pic.x.com/CymtVSGCI4",
+              "end": 39,
+              "expanded_url": "https://x.com/hitodedenden/status/1927689175622398314/photo/1",
+              "media_key": "3_1927689169880674304",
+              "start": 16,
+              "url": "https://t.co/CymtVSGCI4"
+            },
+            {
+              "display_url": "pic.x.com/CymtVSGCI4",
+              "end": 39,
+              "expanded_url": "https://x.com/hitodedenden/status/1927689175622398314/photo/1",
+              "media_key": "3_1927689172393013248",
+              "start": 16,
+              "url": "https://t.co/CymtVSGCI4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927689175622398314",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 267,
+          "impression_count": 33041,
+          "like_count": 2562,
+          "quote_count": 6,
+          "reply_count": 7,
+          "retweet_count": 332
+        },
+        "reply_settings": "everyone",
+        "text": "ちびミクちゃんと あそぼ♡ ⇦ https://t.co/CymtVSGCI4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 61,
+          "like_count": 1114,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 525
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-27T02:57:54.000Z",
+        "description": "お菓子のような甘いイラストを描いていきたいです。 メイド喫茶さんとのコラボ、フィギュア化が夢です。☕・starfish.goirai☆https://t.co/B3p8DYIP1C(☆＝＠) ・https://t.co/Edlk2PBKtg ・https://t.co/QY5vA8ocKe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gmail.com",
+                "end": 90,
+                "expanded_url": "http://gmail.com",
+                "start": 67,
+                "url": "https://t.co/B3p8DYIP1C"
+              },
+              {
+                "display_url": "hitoden.fanbox.cc",
+                "end": 120,
+                "expanded_url": "http://hitoden.fanbox.cc",
+                "start": 97,
+                "url": "https://t.co/Edlk2PBKtg"
+              },
+              {
+                "display_url": "skeb.jp/@hitodedenden",
+                "end": 145,
+                "expanded_url": "http://skeb.jp/@hitodedenden",
+                "start": 122,
+                "url": "https://t.co/QY5vA8ocKe"
+              }
+            ]
+          }
+        },
+        "id": "1154949000778227713",
+        "location": "わたあめ。",
+        "name": "𝛩𝜄𝜏𝜊𝛿𝜀 ❁🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1263076210713583616/5ozb1oid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24046,
+          "following_count": 200,
+          "like_count": 143676,
+          "listed_count": 305,
+          "media_count": 163,
+          "tweet_count": 7122
+        },
+        "username": "hitodedenden",
+        "verified": false
+      }
+    ]
+  }
+}

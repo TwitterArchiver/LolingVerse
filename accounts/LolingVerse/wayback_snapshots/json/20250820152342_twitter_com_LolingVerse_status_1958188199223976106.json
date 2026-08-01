@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1129067985451118593",
+          "name": "Physical Education"
+        }
+      }
+    ],
+    "conversation_id": "1957795305510023359",
+    "created_at": "2025-08-20T15:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T16:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958188199223976106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1164569032323768320",
+          "start": 0,
+          "username": "a995b305d8df67f"
+        },
+        {
+          "end": 31,
+          "id": "1629058457222656001",
+          "start": 17,
+          "username": "nursenika1840"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958188199223976106",
+    "in_reply_to_user_id": "1164569032323768320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957983290956345432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a995b305d8df67f @nursenika1840 但是这种网赌和你提及的『欧洲杯世界杯体育』不一样，往往是一些小如小游戏般的平台，贱则甚于拼多多（砍一刀在此都算良心），不可道名（乱码记不住或太小不值得记忆）的“平台”。其实不是赌博平台，是诈骗平台。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1957795305510023359",
+        "created_at": "2025-08-20T15:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T16:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958188199223976106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1164569032323768320",
+              "start": 0,
+              "username": "a995b305d8df67f"
+            },
+            {
+              "end": 31,
+              "id": "1629058457222656001",
+              "start": 17,
+              "username": "nursenika1840"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958188199223976106",
+        "in_reply_to_user_id": "1164569032323768320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957983290956345432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a995b305d8df67f @nursenika1840 但是这种网赌和你提及的『欧洲杯世界杯体育』不一样，往往是一些小如小游戏般的平台，贱则甚于拼多多（砍一刀在此都算良心），不可道名（乱码记不住或太小不值得记忆）的“平台”。其实不是赌博平台，是诈骗平台。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164569032323768320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1957795305510023359",
+        "created_at": "2025-08-20T01:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T02:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957983290956345432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1629058457222656001",
+              "start": 0,
+              "username": "nursenika1840"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957983290956345432",
+        "in_reply_to_user_id": "1629058457222656001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7771,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957795305510023359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nursenika1840 真正对赌博有了解的人不会说这种风凉话，赌博的危害在于有些人无法控制自己，会病态下注。自己有 100 块就全部押上。他们不是傻子，而是无法控制自己的心态和行为。很多赌博项目比 A 股都公平，像欧洲杯世界杯体育，你能说有老千？以为赌场靠出千赚钱那才是傻子，这些人没进过赌场，全靠屏幕前臆想。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 69,
+          "like_count": 2153,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1133
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-22T16:06:45.000Z",
+        "description": "墙民请谨记：翻墙软件不会改变你的阶级，该屌丝还是屌丝。别以为翻个墙就了不起了，你还是你。",
+        "id": "1164569032323768320",
+        "name": "123",
+        "pinned_tweet_id": "1910190788170088544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841159136186351616/GNW-bzfW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 297,
+          "like_count": 4490,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1931
+        },
+        "username": "a995b305d8df67f",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-24T09:59:45.000Z",
+        "description": "如有移民问题可以私信，只能力所能及回答。",
+        "id": "1629058457222656001",
+        "name": "澳洲护士卡子弟",
+        "pinned_tweet_id": "1791700234860740900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648533563825082369/SW0QqoYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50753,
+          "following_count": 359,
+          "like_count": 6017,
+          "listed_count": 194,
+          "media_count": 641,
+          "tweet_count": 12069
+        },
+        "username": "nursenika1840",
+        "verified": true
+      }
+    ]
+  }
+}

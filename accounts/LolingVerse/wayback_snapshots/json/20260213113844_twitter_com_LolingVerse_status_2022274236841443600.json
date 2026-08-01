@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2022191867824418889",
+    "created_at": "2026-02-13T11:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T12:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022274236841443600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "4848269835",
+          "start": 0,
+          "username": "_FORAB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022274236841443600",
+    "in_reply_to_user_id": "4848269835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022191867824418889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_FORAB 味对了✓"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 179049,
+        "height": 1920,
+        "media_key": "13_2022191436645773314",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022191436645773314/img/Mymvi2Mm1g4a0e0H.jpg",
+        "public_metrics": {
+          "view_count": 20573
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022191436645773314/vid/avc1/1714x1920/FpVvFmU_JxBDPxgu.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022191436645773314/vid/avc1/320x358/RxZQWFUn-QanQ5zV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022191436645773314/vid/avc1/720x806/9nKb1z0hhA0Ivxrs.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022191436645773314/vid/avc1/1080x1208/dBo0hGfmp6sCErEi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022191436645773314/vid/avc1/480x536/m7ohSCErufcoWuNO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022191436645773314/pl/9FB7tnwyINMtGnVV.m3u8?v=992"
+          }
+        ],
+        "width": 1714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2022191867824418889",
+        "created_at": "2026-02-13T11:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022274236841443600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4848269835",
+              "start": 0,
+              "username": "_FORAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022274236841443600",
+        "in_reply_to_user_id": "4848269835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022191867824418889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_FORAB 味对了✓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022191436645773314"
+          ]
+        },
+        "author_id": "4848269835",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1370436971940642819",
+              "name": "Coinbase"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370436971940642819",
+              "name": "Coinbase"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390680741206368263",
+              "name": "Cryptocurrency exchanges"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2022191867824418889",
+        "created_at": "2026-02-13T06:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T07:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022191867824418889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7m2CJ36b9o",
+              "end": 112,
+              "expanded_url": "https://x.com/_FORAB/status/2022191867824418889/video/1",
+              "media_key": "13_2022191436645773314",
+              "start": 89,
+              "url": "https://t.co/7m2CJ36b9o"
+            },
+            {
+              "display_url": "x.com/coinbase/statu…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/coinbase/status/2022071447695634573",
+              "start": 113,
+              "url": "https://t.co/Zs1okjeODf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022191867824418889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 87365,
+          "like_count": 178,
+          "quote_count": 5,
+          "reply_count": 47,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022071447695634573",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太魔幻了。Coinbase 在发布第四季度财报后，老板进行业绩概览说明。\n\n为了防止大家看不下去，官方的账号，发了个 自家老板讲话 + 地铁跑酷 的视频，希望大家能把这个看完。 https://t.co/7m2CJ36b9o https://t.co/Zs1okjeODf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153/48 | 没诗硬吟  | Fox | 另一只猫猫 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Hydrogen.洛铃🔶Magic Caster",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 106,
+          "like_count": 8300,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 2393
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107906,
+          "following_count": 572,
+          "like_count": 9618,
+          "listed_count": 1820,
+          "media_count": 2515,
+          "tweet_count": 12908
+        },
+        "username": "_FORAB",
+        "verified": true
+      }
+    ]
+  }
+}

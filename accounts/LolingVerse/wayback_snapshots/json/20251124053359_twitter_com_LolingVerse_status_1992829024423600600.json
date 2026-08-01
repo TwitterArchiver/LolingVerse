@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1992798641988538459",
+    "created_at": "2025-11-24T05:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T06:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992829024423600600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "957544663275028481",
+          "start": 0,
+          "username": "SuBanXia1120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992829024423600600",
+    "in_reply_to_user_id": "957544663275028481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992798641988538459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuBanXia1120 看看牛子👀（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1992798641988538459",
+        "created_at": "2025-11-24T05:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T06:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992829024423600600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "957544663275028481",
+              "start": 0,
+              "username": "SuBanXia1120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992829024423600600",
+        "in_reply_to_user_id": "957544663275028481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992798641988538459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuBanXia1120 看看牛子👀（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "957544663275028481",
+        "conversation_id": "1992798641988538459",
+        "created_at": "2025-11-24T03:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T04:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992798641988538459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nande198900/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/nande198900/status/1992625455145402617",
+              "start": 31,
+              "url": "https://t.co/yuJB0MOxte"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992798641988538459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 554,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992625455145402617",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们这些足控真的是够了，本来发牛子的美女，现在脚一伸就完事了 https://t.co/yuJB0MOxte"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n155/47 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TeYs"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 正在贴贴",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 79,
+          "like_count": 4029,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1692
+        },
+        "url": "https://t.co/Dggtj9TeYs",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-28T09:23:32.000Z",
+        "description": "我居然是苏半夏🦋丨“我觉得现在的人生，就很幸福了。”好友🚪50丨性转幻想频道：https://t.co/AGPNZuMX3L丨SRS手术分享https://t.co/HLSHXOnt8E要是我们能永远留在夏天里，就好了。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/MuranAG",
+                "end": 62,
+                "expanded_url": "https://t.me/MuranAG",
+                "start": 39,
+                "url": "https://t.co/AGPNZuMX3L"
+              },
+              {
+                "display_url": "t.me/muranSRSinpai",
+                "end": 93,
+                "expanded_url": "https://t.me/muranSRSinpai",
+                "start": 70,
+                "url": "https://t.co/HLSHXOnt8E"
+              }
+            ]
+          }
+        },
+        "id": "957544663275028481",
+        "location": "Hong Kong",
+        "name": "苒🦊木狐",
+        "pinned_tweet_id": "1924371810130518218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1433839553748430851/2UH9XRNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18238,
+          "following_count": 848,
+          "like_count": 6112,
+          "listed_count": 55,
+          "media_count": 697,
+          "tweet_count": 4458
+        },
+        "username": "SuBanXia1120",
+        "verified": true
+      }
+    ]
+  }
+}

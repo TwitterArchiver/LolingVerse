@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2072272673535607155",
+    "created_at": "2026-07-01T13:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T14:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072317025775726668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054099511279296512",
+          "start": 0,
+          "username": "666666666ZT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072317025775726668",
+    "in_reply_to_user_id": "2054099511279296512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072272673535607155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@666666666ZT 支持爆杀tyw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072272668385013760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIxAzTW8AAoLbw.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072272658998161408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIxAQVW8AA6X8l.jpg",
+        "width": 917
+      },
+      {
+        "height": 1873,
+        "media_key": "3_2072272662236155904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIxAcZW0AAcKE7.jpg",
+        "width": 840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2072272673535607155",
+        "created_at": "2026-07-01T13:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072317025775726668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054099511279296512",
+              "start": 0,
+              "username": "666666666ZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072317025775726668",
+        "in_reply_to_user_id": "2054099511279296512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072272673535607155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@666666666ZT 支持爆杀tyw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072272668385013760",
+            "3_2072272658998161408",
+            "3_2072272662236155904"
+          ]
+        },
+        "author_id": "2054099511279296512",
+        "conversation_id": "2072272673535607155",
+        "created_at": "2026-07-01T10:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072272673535607155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UWP73aYKIN",
+              "end": 87,
+              "expanded_url": "https://x.com/666666666ZT/status/2072272673535607155/photo/1",
+              "media_key": "3_2072272668385013760",
+              "start": 64,
+              "url": "https://t.co/UWP73aYKIN"
+            },
+            {
+              "display_url": "pic.x.com/UWP73aYKIN",
+              "end": 87,
+              "expanded_url": "https://x.com/666666666ZT/status/2072272673535607155/photo/1",
+              "media_key": "3_2072272658998161408",
+              "start": 64,
+              "url": "https://t.co/UWP73aYKIN"
+            },
+            {
+              "display_url": "pic.x.com/UWP73aYKIN",
+              "end": 87,
+              "expanded_url": "https://x.com/666666666ZT/status/2072272673535607155/photo/1",
+              "media_key": "3_2072272662236155904",
+              "start": 64,
+              "url": "https://t.co/UWP73aYKIN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072272673535607155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 590,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两个机器人，主动跟我攀比，没赢过我，支付宝资金加起来没我零头多，这么招笑活着干啥呀，估计连最简单的一个烧水壶也不会修，纯文盲！ https://t.co/UWP73aYKIN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 158,
+          "like_count": 23711,
+          "listed_count": 3,
+          "media_count": 328,
+          "tweet_count": 4283
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-12T07:21:08.000Z",
+        "description": "我是清正，一名普通的MTF，生产日期2010年7月1日，生日是农历五月二十，身高1米8，体重61公斤，没有飞机账号，请注意！",
+        "id": "2054099511279296512",
+        "location": "湖北省",
+        "name": "电子爱好者清正🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071809309730557952/Z9aQ2M1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 195,
+          "like_count": 22,
+          "listed_count": 4,
+          "media_count": 58,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "666666666ZT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1928674224937508864"
+      ],
+      "media_source_tweet_id": [
+        "1928674284932641278"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1928798989287121058",
+    "created_at": "2025-05-31T13:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T14:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928798989287121058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "307353701",
+          "start": 3,
+          "username": "askaiwy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FIpZFVr22C",
+          "end": 44,
+          "expanded_url": "https://x.com/askaiwy/status/1928674284932641278/video/1",
+          "media_key": "13_1928674224937508864",
+          "start": 21,
+          "url": "https://t.co/FIpZFVr22C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928798989287121058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928674284932641278",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @askaiwy: 妈妈真会挑衣服 https://t.co/FIpZFVr22C"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54149,
+        "height": 1280,
+        "media_key": "13_1928674224937508864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1928674224937508864/img/Wo3XVFO3Zpdw5Z0d.jpg",
+        "public_metrics": {
+          "view_count": 14696
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928674224937508864/vid/avc1/320x568/vbSc4HqgvVB1BCdO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928674224937508864/vid/avc1/480x852/pFiqD-v7c_gWNkex.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928674224937508864/vid/avc1/720x1280/berr7wnrGtCQClqG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1928674224937508864/pl/4FtvEpAq7br3IRve.m3u8?v=0d5"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1928674224937508864"
+          ],
+          "media_source_tweet_id": [
+            "1928674284932641278"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1928798989287121058",
+        "created_at": "2025-05-31T13:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T14:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928798989287121058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "307353701",
+              "start": 3,
+              "username": "askaiwy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FIpZFVr22C",
+              "end": 44,
+              "expanded_url": "https://x.com/askaiwy/status/1928674284932641278/video/1",
+              "media_key": "13_1928674224937508864",
+              "start": 21,
+              "url": "https://t.co/FIpZFVr22C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928798989287121058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928674284932641278",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @askaiwy: 妈妈真会挑衣服 https://t.co/FIpZFVr22C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1928674224937508864"
+          ]
+        },
+        "author_id": "307353701",
+        "conversation_id": "1928674284932641278",
+        "created_at": "2025-05-31T04:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T05:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928674284932641278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FIpZFVr22C",
+              "end": 31,
+              "expanded_url": "https://x.com/askaiwy/status/1928674284932641278/video/1",
+              "media_key": "13_1928674224937508864",
+              "start": 8,
+              "url": "https://t.co/FIpZFVr22C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928674284932641278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 25097,
+          "like_count": 264,
+          "quote_count": 8,
+          "reply_count": 11,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈真会挑衣服 https://t.co/FIpZFVr22C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 61,
+          "like_count": 1171,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 548
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-29T13:51:12.000Z",
+        "description": "瓜田里上蹿下跳东奔西走的猹；牙尖嘴利古灵精怪的前白大褂 ；原教旨中医；",
+        "id": "307353701",
+        "location": "日本 神奈川",
+        "name": "飛鳥",
+        "pinned_tweet_id": "1788840262141374875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757782766920568832/Bs8jvrDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22393,
+          "following_count": 334,
+          "like_count": 55772,
+          "listed_count": 75,
+          "media_count": 4575,
+          "tweet_count": 16148
+        },
+        "username": "askaiwy",
+        "verified": true
+      }
+    ]
+  }
+}

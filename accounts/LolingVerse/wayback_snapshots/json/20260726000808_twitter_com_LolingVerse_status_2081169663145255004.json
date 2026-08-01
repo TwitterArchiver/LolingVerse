@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081103575997112320"
+      ],
+      "media_source_tweet_id": [
+        "2081103582569599356"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2081169663145255004",
+    "created_at": "2026-07-26T00:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T01:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081169663145255004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1480014211413540866",
+          "start": 3,
+          "username": "Worlda_Animals"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iUC8fuS76C",
+          "end": 43,
+          "expanded_url": "https://x.com/Worlda_Animals/status/2081103582569599356/photo/1",
+          "media_key": "3_2081103575997112320",
+          "start": 20,
+          "url": "https://t.co/iUC8fuS76C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081169663145255004",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081103582569599356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Worlda_Animals: https://t.co/iUC8fuS76C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2081103575997112320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOGQrRwaYAAqtlL.jpg",
+        "width": 467
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081103575997112320"
+          ]
+        },
+        "author_id": "1480014211413540866",
+        "conversation_id": "2081103582569599356",
+        "created_at": "2026-07-25T19:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T20:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081103582569599356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iUC8fuS76C",
+              "end": 23,
+              "expanded_url": "https://x.com/Worlda_Animals/status/2081103582569599356/photo/1",
+              "media_key": "3_2081103575997112320",
+              "start": 0,
+              "url": "https://t.co/iUC8fuS76C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081103582569599356",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iUC8fuS76C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081103575997112320"
+          ],
+          "media_source_tweet_id": [
+            "2081103582569599356"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2081169663145255004",
+        "created_at": "2026-07-26T00:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T01:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081169663145255004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1480014211413540866",
+              "start": 3,
+              "username": "Worlda_Animals"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iUC8fuS76C",
+              "end": 43,
+              "expanded_url": "https://x.com/Worlda_Animals/status/2081103582569599356/photo/1",
+              "media_key": "3_2081103575997112320",
+              "start": 20,
+              "url": "https://t.co/iUC8fuS76C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081169663145255004",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081103582569599356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Worlda_Animals: https://t.co/iUC8fuS76C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 164,
+          "like_count": 26321,
+          "listed_count": 4,
+          "media_count": 383,
+          "tweet_count": 4811
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-09T03:11:28.000Z",
+        "description": "NATURE🌟WOLF 🐺🐺",
+        "id": "1480014211413540866",
+        "location": "England, United Kingdom",
+        "name": "NATURE🌟WOLF🦊",
+        "pinned_tweet_id": "2080569704557772854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065719651359956992/jcxYXg1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9995,
+          "following_count": 7414,
+          "like_count": 1184,
+          "listed_count": 18,
+          "media_count": 8013,
+          "tweet_count": 10667
+        },
+        "url": "",
+        "username": "Worlda_Animals",
+        "verified": true
+      }
+    ]
+  }
+}

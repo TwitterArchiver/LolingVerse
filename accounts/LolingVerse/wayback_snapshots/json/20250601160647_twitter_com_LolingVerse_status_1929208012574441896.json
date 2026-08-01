@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1929123907233366379",
+    "created_at": "2025-06-01T16:06:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T17:06:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929208012574441896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1360161759257104384",
+          "start": 0,
+          "username": "AspiLin0"
+        },
+        {
+          "end": 24,
+          "id": "1748763011140169729",
+          "start": 10,
+          "username": "sxshuishuimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929208012574441896",
+    "in_reply_to_user_id": "1360161759257104384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929126958001975333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AspiLin0 @sxshuishuimao 否。上述不是逻辑上的类比，而是文字形式上的仿写。其中的含义（逻辑）是完全不同的。\n同时，这不是一个逻辑表达，而是经验公式或情感输出。\n因此猜测原逻辑不合理是不合理的，因为 NullPointerException"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1929123907233366379",
+        "created_at": "2025-06-01T16:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T17:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929208012574441896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            },
+            {
+              "end": 24,
+              "id": "1748763011140169729",
+              "start": 10,
+              "username": "sxshuishuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929208012574441896",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929126958001975333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 @sxshuishuimao 否。上述不是逻辑上的类比，而是文字形式上的仿写。其中的含义（逻辑）是完全不同的。\n同时，这不是一个逻辑表达，而是经验公式或情感输出。\n因此猜测原逻辑不合理是不合理的，因为 NullPointerException"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1929123907233366379",
+        "created_at": "2025-06-01T10:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T11:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929126958001975333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "sxshuishuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929126958001975333",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929123907233366379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sxshuishuimao 假设这个类比推断是合理的，那么我们能以类似的逻辑得到，如果某物在A得不到，在B也得不到\n由于B是作为A在全集的补集，得到如果某物在A得不到，某物得不到\n又因为我们可在时间轴上取一点，使任意一物在此时不存在\n于是我们得到，所有东西得不到。构成自指悖论，因此猜测原逻辑不合理是合理的（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 61,
+          "like_count": 1178,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 558
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Anxiety+Self-centred+Pretentious+Isolated+Lonely+Inferior+Nervous=AspiLin/神经科学爱好者，半吊子哲学家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 397,
+          "like_count": 7210,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 1548
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "07 ｜互fo｜HRT咨询｜提问箱链接↓｜拼图积木代拼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B42",
+                "start": 0,
+                "url": "https://t.co/WhstBgh4oE"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你1.7km",
+        "name": "神仙水水猫🍕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922116318553141248/h-kb4WKM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 732,
+          "like_count": 196,
+          "listed_count": 3,
+          "media_count": 927,
+          "tweet_count": 5252
+        },
+        "url": "https://t.co/WhstBgh4oE",
+        "username": "sxshuishuimao",
+        "verified": true
+      }
+    ]
+  }
+}

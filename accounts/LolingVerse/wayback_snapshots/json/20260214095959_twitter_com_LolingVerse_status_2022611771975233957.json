@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2022544400669139389",
+    "created_at": "2026-02-14T09:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T10:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022611771975233957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1403881130802225152",
+          "start": 0,
+          "username": "BTCdayu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022611771975233957",
+    "in_reply_to_user_id": "1403881130802225152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022544400669139389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BTCdayu 现货不怕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2022544400669139389",
+        "created_at": "2026-02-14T09:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T10:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022611771975233957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1403881130802225152",
+              "start": 0,
+              "username": "BTCdayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022611771975233957",
+        "in_reply_to_user_id": "1403881130802225152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022544400669139389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BTCdayu 现货不怕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1403881130802225152",
+        "conversation_id": "2022544400669139389",
+        "created_at": "2026-02-14T05:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T06:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022544400669139389"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022544400669139389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "上联：\n 三月前，意气风发，持十二万大饼笑看风云。\n\n下联：\n一转瞬，心如死灰，陷腰斩版币圈苦熬牛回。\n\n求横批。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4558,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "上联：\n 三月前，意气风发，持十二万大饼笑看风云。\n\n下联：\n一转瞬，心如死灰，陷腰斩版币圈苦熬牛回。\n\n求横批。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153/48 | 没诗硬吟  | Fox | 另一只猫猫 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Hydrogen.洛铃🔶Magic Caster",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 107,
+          "like_count": 8343,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 2399
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-13T01:05:28.000Z",
+        "description": "币圈宝典 https://t.co/EIMVhaC9IM\n\n💰省手续费注册交易所\n币安 https://t.co/ko3kej3ziu\n钱包 https://t.co/9M9a33fyFj\n\nOK  https://t.co/RxSNyyuxow\n钱包 https://t.co/OZPyv05YMc\n\n✈️免费投资频道\nhttps://t.co/f4KWsBAbzT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "dayu.xyz",
+                "end": 28,
+                "expanded_url": "http://dayu.xyz",
+                "start": 5,
+                "url": "https://t.co/EIMVhaC9IM"
+              },
+              {
+                "display_url": "bit.ly/dy789",
+                "end": 67,
+                "expanded_url": "http://bit.ly/dy789",
+                "start": 44,
+                "url": "https://t.co/ko3kej3ziu"
+              },
+              {
+                "display_url": "web3.binance.com/referral?ref=D…",
+                "end": 94,
+                "expanded_url": "http://web3.binance.com/referral?ref=DY789",
+                "start": 71,
+                "url": "https://t.co/9M9a33fyFj"
+              },
+              {
+                "display_url": "okx.com/join/dy789",
+                "end": 123,
+                "expanded_url": "http://okx.com/join/dy789",
+                "start": 100,
+                "url": "https://t.co/RxSNyyuxow"
+              },
+              {
+                "display_url": "web3.okx.com/join/dy789",
+                "end": 150,
+                "expanded_url": "http://web3.okx.com/join/dy789",
+                "start": 127,
+                "url": "https://t.co/OZPyv05YMc"
+              },
+              {
+                "display_url": "t.me/BTCdayu2",
+                "end": 184,
+                "expanded_url": "http://t.me/BTCdayu2",
+                "start": 161,
+                "url": "https://t.co/f4KWsBAbzT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forms.gle/fqcwMDdxVHizeW…",
+                "end": 23,
+                "expanded_url": "https://forms.gle/fqcwMDdxVHizeWQw8",
+                "start": 0,
+                "url": "https://t.co/ezDy9BJXAE"
+              }
+            ]
+          }
+        },
+        "id": "1403881130802225152",
+        "location": "收费群1688U/年，点链接",
+        "name": "大宇",
+        "pinned_tweet_id": "1597415699109990402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862767252400967680/mjEMe7kp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295243,
+          "following_count": 4156,
+          "like_count": 5143,
+          "listed_count": 4633,
+          "media_count": 2650,
+          "tweet_count": 20111
+        },
+        "url": "https://t.co/ezDy9BJXAE",
+        "username": "BTCdayu",
+        "verified": true
+      }
+    ]
+  }
+}

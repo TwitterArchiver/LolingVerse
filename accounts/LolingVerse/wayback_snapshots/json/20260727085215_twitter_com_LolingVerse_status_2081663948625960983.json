@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081663879327731712"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2081663948625960983",
+    "created_at": "2026-07-27T08:52:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T09:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081663948625960983"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 7,
+          "tag": "MINIMAX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b2G5WTItlG",
+          "end": 44,
+          "expanded_url": "https://x.com/LolingVerse/status/2081663948625960983/photo/1",
+          "media_key": "3_2081663879327731712",
+          "start": 21,
+          "url": "https://t.co/b2G5WTItlG"
+        },
+        {
+          "display_url": "x.com/yijiangren/sta…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/yijiangren/status/2081657065463033934",
+          "start": 45,
+          "url": "https://t.co/HKYEDSy2lU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081663948625960983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081657065463033934",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有没有人解释 #MINIMAX 发生啥了 https://t.co/b2G5WTItlG https://t.co/HKYEDSy2lU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 588,
+        "media_key": "3_2081663879327731712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOOROUXUAAi_0S.jpg",
+        "width": 1166
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081663879327731712"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2081663948625960983",
+        "created_at": "2026-07-27T08:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081663948625960983"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 7,
+              "tag": "MINIMAX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b2G5WTItlG",
+              "end": 44,
+              "expanded_url": "https://x.com/LolingVerse/status/2081663948625960983/photo/1",
+              "media_key": "3_2081663879327731712",
+              "start": 21,
+              "url": "https://t.co/b2G5WTItlG"
+            },
+            {
+              "display_url": "x.com/yijiangren/sta…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/yijiangren/status/2081657065463033934",
+              "start": 45,
+              "url": "https://t.co/HKYEDSy2lU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081663948625960983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081657065463033934",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有人解释 #MINIMAX 发生啥了 https://t.co/b2G5WTItlG https://t.co/HKYEDSy2lU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959136480535908352",
+        "conversation_id": "2081638100523233283",
+        "created_at": "2026-07-27T08:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081657065463033934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1799375232006078464",
+              "start": 0,
+              "username": "mackpeterm88538"
+            },
+            {
+              "end": 29,
+              "id": "2011693937560600582",
+              "start": 17,
+              "username": "ChengYi3629"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081657065463033934",
+        "in_reply_to_user_id": "1799375232006078464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081655625969479884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mackpeterm88538 @ChengYi3629 kimi和gpt也都很牛了 其实比minimax强"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 165,
+          "like_count": 26558,
+          "listed_count": 4,
+          "media_count": 387,
+          "tweet_count": 4851
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-23T06:12:13.000Z",
+        "description": "01年 / UI/UX Designer / Trader / INTJ\n8年交易经验，19年进Web3，24年A7，25年1011保住全部本金\n投资 ✖️ Web3 ✖️ AI\n不会做设计的内容创作者不是一名好的交易员\n三建理论创始人 建模 健身 建仓\nTG：@yijiangren",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 131,
+                "username": "yijiangren"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "share.ave.ai/?lang=zh-cn&co…",
+                "end": 23,
+                "expanded_url": "https://share.ave.ai?lang=zh-cn&code=yijiangren",
+                "start": 0,
+                "url": "https://t.co/WaQsvNv6Xq"
+              }
+            ]
+          }
+        },
+        "id": "1959136480535908352",
+        "location": "链上美股",
+        "name": "Metamental | 方外之域",
+        "pinned_tweet_id": "2063449846120677533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004767069213188096/1HFqUWd4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20775,
+          "following_count": 2639,
+          "like_count": 27009,
+          "listed_count": 232,
+          "media_count": 465,
+          "tweet_count": 6352
+        },
+        "url": "https://t.co/WaQsvNv6Xq",
+        "username": "yijiangren",
+        "verified": true
+      }
+    ]
+  }
+}

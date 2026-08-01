@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977163870004559876"
+      ],
+      "media_source_tweet_id": [
+        "1977164051315933358"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1977268973403308506",
+    "created_at": "2025-10-12T07:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T08:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977268973403308506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1692963782501556224",
+          "start": 3,
+          "username": "1mop1cs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d0iMmwSOEV",
+          "end": 38,
+          "expanded_url": "https://x.com/1mop1cs/status/1977164051315933358/photo/1",
+          "media_key": "3_1977163870004559876",
+          "start": 15,
+          "url": "https://t.co/d0iMmwSOEV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977268973403308506",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 208
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977164051315933358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1mop1cs: s https://t.co/d0iMmwSOEV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1160,
+        "media_key": "3_1977163870004559876",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3BMEHZbwAQuIh8.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977163870004559876"
+          ],
+          "media_source_tweet_id": [
+            "1977164051315933358"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1977268973403308506",
+        "created_at": "2025-10-12T07:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T08:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977268973403308506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1692963782501556224",
+              "start": 3,
+              "username": "1mop1cs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d0iMmwSOEV",
+              "end": 38,
+              "expanded_url": "https://x.com/1mop1cs/status/1977164051315933358/photo/1",
+              "media_key": "3_1977163870004559876",
+              "start": 15,
+              "url": "https://t.co/d0iMmwSOEV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977268973403308506",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 208
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977164051315933358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1mop1cs: s https://t.co/d0iMmwSOEV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977163870004559876"
+          ]
+        },
+        "author_id": "1692963782501556224",
+        "conversation_id": "1977164051315933358",
+        "created_at": "2025-10-12T00:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T01:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977164051315933358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d0iMmwSOEV",
+              "end": 25,
+              "expanded_url": "https://x.com/1mop1cs/status/1977164051315933358/photo/1",
+              "media_key": "3_1977163870004559876",
+              "start": 2,
+              "url": "https://t.co/d0iMmwSOEV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977164051315933358",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 322,
+          "impression_count": 28089,
+          "like_count": 3004,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 208
+        },
+        "reply_settings": "everyone",
+        "text": "s https://t.co/d0iMmwSOEV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "『可怜楼上月徘徊，应照离人妆镜台』\n『身世浮沉雨打萍……一山放出一山拦』\n可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TMO0"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 71,
+          "like_count": 2628,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 1355
+        },
+        "url": "https://t.co/Dggtj9TMO0",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-19T18:16:46.000Z",
+        "description": "絵、うごメモなど",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/1mop1cs",
+                "end": 23,
+                "expanded_url": "https://lit.link/1mop1cs",
+                "start": 0,
+                "url": "https://t.co/lAgZY3uANk"
+              }
+            ]
+          }
+        },
+        "id": "1692963782501556224",
+        "location": "棒バト",
+        "name": "ｲﾓ.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951843137175048192/oEXa_j2__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23996,
+          "following_count": 787,
+          "like_count": 50214,
+          "listed_count": 151,
+          "media_count": 264,
+          "tweet_count": 1094
+        },
+        "url": "https://t.co/lAgZY3uANk",
+        "username": "1mop1cs",
+        "verified": false
+      }
+    ]
+  }
+}

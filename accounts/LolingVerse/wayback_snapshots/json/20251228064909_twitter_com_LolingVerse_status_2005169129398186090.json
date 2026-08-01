@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2005169129398186090",
+    "created_at": "2025-12-28T06:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T07:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005169129398186090"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/immersivetran/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/immersivetran/status/2004423296138543589",
+          "start": 11,
+          "url": "https://t.co/XWcO1npIbs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005169129398186090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004423296138543589",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好哦，知识库耶，喜欢 https://t.co/XWcO1npIbs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2120,
+        "media_key": "3_2004423156283723778",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9EkPaHb0AIpbKP.jpg",
+        "width": 2002
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2005169129398186090",
+        "created_at": "2025-12-28T06:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T07:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005169129398186090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/immersivetran/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/immersivetran/status/2004423296138543589",
+              "start": 11,
+              "url": "https://t.co/XWcO1npIbs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005169129398186090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004423296138543589",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好哦，知识库耶，喜欢 https://t.co/XWcO1npIbs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004423156283723778"
+          ]
+        },
+        "author_id": "1652869746227040256",
+        "conversation_id": "2004423296138543589",
+        "created_at": "2025-12-26T05:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T06:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004423296138543589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "Edge.org",
+              "end": 39,
+              "expanded_url": "http://Edge.org",
+              "images": [
+                {
+                  "height": 678,
+                  "url": "https://pbs.twimg.com/news_img/2004084514469863424/YDPO3Nbw?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2004084514469863424/YDPO3Nbw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "Edge.org",
+              "unwound_url": "https://www.edge.org/",
+              "url": "https://t.co/lxbJyrf54H"
+            },
+            {
+              "display_url": "pic.x.com/rL9V7a0xKq",
+              "end": 177,
+              "expanded_url": "https://x.com/immersivetran/status/2004423296138543589/photo/1",
+              "media_key": "3_2004423156283723778",
+              "start": 154,
+              "url": "https://t.co/rL9V7a0xKq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004423296138543589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "Edge.org",
+                "end": 39,
+                "expanded_url": "http://Edge.org",
+                "start": 16,
+                "url": "https://t.co/Z5zkG0RKA6"
+              },
+              {
+                "display_url": "Edge.org",
+                "end": 353,
+                "expanded_url": "http://Edge.org",
+                "start": 330,
+                "url": "https://t.co/Z5zkG0RKA6"
+              }
+            ]
+          },
+          "text": "全球最聪明的大脑都在想什么？\n\nhttps://t.co/Z5zkG0RKA6 是一个把“世界最聪明的人都拉来聊天”的网站，可以第一时间看到顶尖科学家、思想家们是怎么思考世界的。\n\n1996 年上线至今，已经积累近 1,000 位贡献者、约 1,000 万字内容、350 多小时视频和 750 场对谈记录。\n\n内容阵容堪称“现实版诺贝尔朋友圈”，贡献者包含认知科学、物理学、人工智能、经济学等领域的一线学者和科技领袖，如 Scott Aaronson、Dan Ariely 等。\n\n所有讨论都围绕“最前沿、最难的问题”，但坚持用尽可能通俗的语言，让非专业读者也能跟得上，真正实现把学术界的新知识输送给好奇的大众。\n\n很多观点原本只存在于学术圈或专业会议上，而 https://t.co/Z5zkG0RKA6 把这些高密度思考“翻译”成普通人也能读懂的公开内容。\n\n让不同学科的人互相对话，比如物理学家和哲学家、神经科学家和艺术家，帮助读者打破“只懂自己专业”的视野限制。\n\n这是最能刺激思考的网站，喂养大脑的优质站点之一。\n\n这些内容不仅可以当知识输入，还非常适合当创作者“选题库”和“观点素材库”，无论是写作、播客还是视频脚本，都能从中挖出大量有深度又小众的角度。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1676,
+          "impression_count": 151472,
+          "like_count": 1567,
+          "quote_count": 9,
+          "reply_count": 20,
+          "retweet_count": 441
+        },
+        "reply_settings": "everyone",
+        "text": "全球最聪明的大脑都在想什么？\n\nhttps://t.co/lxbJyrf54H 是一个把“世界最聪明的人都拉来聊天”的网站，可以第一时间看到顶尖科学家、思想家们是怎么思考世界的。\n\n1996 年上线至今，已经积累近 1,000 位贡献者、约 1,000 万字内容、350 多小时视频和 750 场对谈记录。 https://t.co/rL9V7a0xKq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153/48 | 没诗硬吟  | Fox | 另一只猫猫 @YekaseSuiso2022\n\n走过路过不要错过，填写一下《无处方HRT与医疗指导下规范HRT对中国跨性别女性抑郁和自杀意念的调节效应》喵！https://t.co/CugWxZecnq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "YekaseSuiso2022"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "suiso.kawaiis.in/researchs/hrt/",
+                "end": 148,
+                "expanded_url": "http://suiso.kawaiis.in/researchs/hrt/",
+                "start": 125,
+                "url": "https://t.co/CugWxZecnq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Suism.洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 90,
+          "like_count": 5375,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1914
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T02:57:26.000Z",
+        "description": "AI 驱动的双语翻译扩展，千万用户之选，2024 年 Chrome 最佳扩展 & Edge 官方推荐，全平台主流浏览器支持。安装👉   https://t.co/ZWKdqdwWDL｜升级为 Pro 👉 https://t.co/ZSkee7xEdw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "immersivetranslate.com",
+                "end": 91,
+                "expanded_url": "https://immersivetranslate.com/",
+                "start": 68,
+                "url": "https://t.co/ZWKdqdwWDL"
+              },
+              {
+                "display_url": "immersivetranslate.com/pricing/",
+                "end": 125,
+                "expanded_url": "https://immersivetranslate.com/pricing/",
+                "start": 102,
+                "url": "https://t.co/ZSkee7xEdw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "immersivetranslate.com",
+                "end": 23,
+                "expanded_url": "https://immersivetranslate.com/",
+                "start": 0,
+                "url": "https://t.co/ZWKdqdwWDL"
+              }
+            ]
+          }
+        },
+        "id": "1652869746227040256",
+        "name": "沉浸式翻译",
+        "pinned_tweet_id": "2004060805202170054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654440272770781185/b1WGmhS-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26896,
+          "following_count": 102,
+          "like_count": 408,
+          "listed_count": 141,
+          "media_count": 454,
+          "tweet_count": 968
+        },
+        "url": "https://t.co/ZWKdqdwWDL",
+        "username": "immersivetran",
+        "verified": true
+      }
+    ]
+  }
+}

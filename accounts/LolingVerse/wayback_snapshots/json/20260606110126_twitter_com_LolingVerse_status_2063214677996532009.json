@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2063141594862370978",
+    "created_at": "2026-06-06T11:01:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T12:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063214677996532009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1489988682673434626",
+          "start": 0,
+          "username": "InterAnnihilate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063214677996532009",
+    "in_reply_to_user_id": "1489988682673434626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063166047478481218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@InterAnnihilate 因为你提及的api是解题过程中用的的，而这个是结局页面（可以选择token，区别在于base64的决定的显示名字）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2063141594862370978",
+        "created_at": "2026-06-06T11:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063214677996532009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1489988682673434626",
+              "start": 0,
+              "username": "InterAnnihilate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063214677996532009",
+        "in_reply_to_user_id": "1489988682673434626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063166047478481218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@InterAnnihilate 因为你提及的api是解题过程中用的的，而这个是结局页面（可以选择token，区别在于base64的决定的显示名字）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489988682673434626",
+        "conversation_id": "2063141594862370978",
+        "created_at": "2026-06-06T07:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063166047478481218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836041585475346432",
+              "start": 0,
+              "username": "LolingVerse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "api.desuwa.org/archive?token=",
+              "end": 43,
+              "expanded_url": "http://api.desuwa.org/archive?token=",
+              "start": 20,
+              "unwound_url": "https://api.desuwa.org/archive?token=",
+              "url": "https://t.co/VXks33CCcI"
+            },
+            {
+              "display_url": "api.desuwa.org/api/archive?to…",
+              "end": 70,
+              "expanded_url": "https://api.desuwa.org/api/archive?token=",
+              "start": 47,
+              "unwound_url": "https://api.desuwa.org/api/archive?token=",
+              "url": "https://t.co/dz895wFXsb"
+            },
+            {
+              "display_url": "bbs.desuwa.org/pride?token=",
+              "end": 100,
+              "expanded_url": "http://bbs.desuwa.org/pride?token=",
+              "start": 77,
+              "status": 200,
+              "title": "ECHO 回声站 - Pride",
+              "unwound_url": "https://bbs.desuwa.org/pride?token=",
+              "url": "https://t.co/aDDe2INT6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063166047478481218",
+        "in_reply_to_user_id": "1836041585475346432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063141594862370978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LolingVerse 为什么域名不是https://t.co/VXks33CCcI???或https://t.co/dz895wFXsb???\n而是 https://t.co/aDDe2INT6f\n\n🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZFvr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZFvr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster 和另外 114514 人",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 145,
+          "like_count": 21185,
+          "listed_count": 3,
+          "media_count": 269,
+          "tweet_count": 3699
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-05T15:46:18.000Z",
+        "description": "INTP (Incel, Nerd, Troll, Psychopath) & Alt-Left Nihilist & Denpa-kei Weirdo \n丨Post-SSRI Sexual Dysfunction & Anal Fistula丨最喜欢的动物是 赤狐 堪察加亚种(V. v. beringiana",
+        "id": "1489988682673434626",
+        "name": "Anarcho-Nihlist丨观左右乱斗归来丨⏰🧠⬆️",
+        "pinned_tweet_id": "1862613598939619464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866501379742941184/D_rUctNE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 3071,
+          "like_count": 10756,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 2135
+        },
+        "username": "InterAnnihilate",
+        "verified": false
+      }
+    ]
+  }
+}

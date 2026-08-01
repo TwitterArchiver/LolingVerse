@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970022216554491905"
+      ],
+      "media_source_tweet_id": [
+        "1970022388160188901"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1970134855892738468",
+    "created_at": "2025-09-22T14:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T15:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970134855892738468"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "えちゃん",
+          "probability": 0.4048,
+          "start": 24,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "506954243",
+          "start": 3,
+          "username": "ayanepuna"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z32tmpu9a1",
+          "end": 52,
+          "expanded_url": "https://x.com/ayanepuna/status/1970022388160188901/photo/1",
+          "media_key": "3_1970022216554491905",
+          "start": 29,
+          "url": "https://t.co/Z32tmpu9a1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970134855892738468",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 216
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970022388160188901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayanepuna: しろえさんちのこのえちゃん https://t.co/Z32tmpu9a1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3547,
+        "media_key": "3_1970022216554491905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1bsxLFbsAE3aJR.jpg",
+        "width": 2508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970022216554491905"
+          ],
+          "media_source_tweet_id": [
+            "1970022388160188901"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1970134855892738468",
+        "created_at": "2025-09-22T14:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T15:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970134855892738468"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "えちゃん",
+              "probability": 0.4048,
+              "start": 24,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "506954243",
+              "start": 3,
+              "username": "ayanepuna"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z32tmpu9a1",
+              "end": 52,
+              "expanded_url": "https://x.com/ayanepuna/status/1970022388160188901/photo/1",
+              "media_key": "3_1970022216554491905",
+              "start": 29,
+              "url": "https://t.co/Z32tmpu9a1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970134855892738468",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 216
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970022388160188901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayanepuna: しろえさんちのこのえちゃん https://t.co/Z32tmpu9a1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970022216554491905"
+          ]
+        },
+        "author_id": "506954243",
+        "conversation_id": "1970022388160188901",
+        "created_at": "2025-09-22T07:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T08:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970022388160188901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z32tmpu9a1",
+              "end": 37,
+              "expanded_url": "https://x.com/ayanepuna/status/1970022388160188901/photo/1",
+              "media_key": "3_1970022216554491905",
+              "start": 14,
+              "url": "https://t.co/Z32tmpu9a1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970022388160188901",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 20847,
+          "like_count": 1566,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 216
+        },
+        "reply_settings": "everyone",
+        "text": "しろえさんちのこのえちゃん https://t.co/Z32tmpu9a1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "『可怜楼上月徘徊，应照离人妆镜台』\n『身世浮沉雨打萍……一山放出一山拦』\n可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TMO0"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 71,
+          "like_count": 2432,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1241
+        },
+        "url": "https://t.co/Dggtj9TMO0",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-28T06:00:59.000Z",
+        "description": "ゆーねだよ。お絵描きするよ。馴れ馴れしいよ。サークル名「Citrus junos」。たまにR18のポストもするから注意してね。Misskey→https://t.co/WWVsMBju8n Skeb→https://t.co/aGUpMYiClx 干芋→https://t.co/emPgm8ekKL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "misskey.io/@ayanepuna",
+                "end": 94,
+                "expanded_url": "https://misskey.io/@ayanepuna",
+                "start": 71,
+                "url": "https://t.co/WWVsMBju8n"
+              },
+              {
+                "display_url": "skeb.jp/@ayanepuna",
+                "end": 123,
+                "expanded_url": "http://skeb.jp/@ayanepuna",
+                "start": 100,
+                "url": "https://t.co/aGUpMYiClx"
+              },
+              {
+                "display_url": "onl.tw/7rfzus9",
+                "end": 150,
+                "expanded_url": "http://onl.tw/7rfzus9",
+                "start": 127,
+                "url": "https://t.co/emPgm8ekKL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ayanepuna.fanbox.cc",
+                "end": 23,
+                "expanded_url": "http://ayanepuna.fanbox.cc",
+                "start": 0,
+                "url": "https://t.co/zLXsI8XPuS"
+              }
+            ]
+          }
+        },
+        "id": "506954243",
+        "location": "愛知県",
+        "name": "ゆーね🐾こみトレ5号館H15a",
+        "pinned_tweet_id": "1957644396675100904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953999130327658496/jXLsc5O9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43340,
+          "following_count": 832,
+          "like_count": 27040,
+          "listed_count": 490,
+          "media_count": 2149,
+          "tweet_count": 45920
+        },
+        "url": "https://t.co/zLXsI8XPuS",
+        "username": "ayanepuna",
+        "verified": true
+      }
+    ]
+  }
+}

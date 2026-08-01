@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1902742549691093345",
+    "created_at": "2025-03-23T16:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T17:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903851681022169448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1878225515561332736",
+          "start": 0,
+          "username": "EScanlon95354"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903851681022169448",
+    "in_reply_to_user_id": "1878225515561332736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902742549691093345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EScanlon95354 以为自欺欺人以自欺欺人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1902742549691093345",
+        "created_at": "2025-03-23T16:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T17:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903851681022169448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1878225515561332736",
+              "start": 0,
+              "username": "EScanlon95354"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903851681022169448",
+        "in_reply_to_user_id": "1878225515561332736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902742549691093345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EScanlon95354 以为自欺欺人以自欺欺人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878225515561332736",
+        "conversation_id": "1902742549691093345",
+        "created_at": "2025-03-20T15:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T16:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902742549691093345"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902742549691093345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10263,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我爸微信给我发了瑶瑶的一个视频，标题是跨性别就是自我欺骗。然后对我说：你一个大专生，买了印着名牌大学的书包，配了印着名牌大学的钢笔和草稿纸，做了这些后，你自己认为是名牌大学的学生，但在外人眼里你就是自欺欺人，你跟名牌大学的学生相比是天差地别。。既骂了我的学历，又指桑骂槐我跨性别🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "",
+        "id": "1836041585475346432",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836043660175269888/D4L90j0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 25,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 41
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T23:40:50.000Z",
+        "description": "大龄术娘，空间没锁的都会回fo，大专学历，不会玩抽象",
+        "id": "1878225515561332736",
+        "name": "Eun Scanlon",
+        "pinned_tweet_id": "1892806745778466928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878225590790258688/cN_UN5ak_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 405,
+          "like_count": 382,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 213
+        },
+        "username": "EScanlon95354",
+        "verified": false
+      }
+    ]
+  }
+}

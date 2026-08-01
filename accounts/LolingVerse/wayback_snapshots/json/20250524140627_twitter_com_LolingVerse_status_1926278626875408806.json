@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1926177618723766428",
+    "created_at": "2025-05-24T14:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T15:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926278626875408806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "_temryava"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926278626875408806",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 25,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926177618723766428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_temryava 有电子幽灵（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1926177618723766428",
+        "created_at": "2025-05-24T14:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T15:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926278626875408806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "_temryava"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926278626875408806",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926177618723766428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_temryava 有电子幽灵（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1926177618723766428",
+        "created_at": "2025-05-24T07:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T08:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926177618723766428"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1926177618723766428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2211,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人和我相互写电子邮件吗👀\n想要电子笔友了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 59,
+          "like_count": 1077,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 519
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "“那只不过是幻想，活着就是受苦，或者接受将来受苦的可能性。”",
+        "id": "1788485889225834496",
+        "name": "горизонт",
+        "pinned_tweet_id": "1927256335499796816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926372710872997888/IlhSHncQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3172,
+          "following_count": 1777,
+          "like_count": 18747,
+          "listed_count": 5,
+          "media_count": 321,
+          "tweet_count": 7654
+        },
+        "username": "horizon_tem",
+        "verified": false
+      }
+    ]
+  }
+}

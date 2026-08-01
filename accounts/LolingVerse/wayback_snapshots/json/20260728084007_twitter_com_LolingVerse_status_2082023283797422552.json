@@ -1,0 +1,510 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082023265975865344"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2081683132210991376",
+    "created_at": "2026-07-28T08:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T09:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082023283797422552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 28,
+          "id": "1928063239319080961",
+          "start": 16,
+          "username": "AlexChan258"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/LolingVerse/st…",
+          "end": 81,
+          "expanded_url": "https://x.com/LolingVerse/status/2077404072382976456?s=20",
+          "start": 58,
+          "url": "https://t.co/QPd3RoNDlS"
+        },
+        {
+          "display_url": "pic.x.com/4HlbDvxNvs",
+          "end": 105,
+          "expanded_url": "https://x.com/LolingVerse/status/2082023283797422552/photo/1",
+          "media_key": "3_2082023265975865344",
+          "start": 82,
+          "url": "https://t.co/4HlbDvxNvs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082023283797422552",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077404072382976456",
+        "type": "quoted"
+      },
+      {
+        "id": "2081698531858116685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen @AlexChan258 发完这个就吸引了锁推小号无互动的情况下私聊，难以思考了\n\nhttps://t.co/QPd3RoNDlS https://t.co/4HlbDvxNvs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 856,
+        "media_key": "3_2082023265975865344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTVIR6XEAAz258.jpg",
+        "width": 944
+      },
+      {
+        "height": 218,
+        "media_key": "3_2077404064883650560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRr_Y5XsAAeuay.jpg",
+        "width": 329
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082023265975865344"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2081683132210991376",
+        "created_at": "2026-07-28T08:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082023283797422552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 28,
+              "id": "1928063239319080961",
+              "start": 16,
+              "username": "AlexChan258"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/LolingVerse/st…",
+              "end": 81,
+              "expanded_url": "https://x.com/LolingVerse/status/2077404072382976456?s=20",
+              "start": 58,
+              "url": "https://t.co/QPd3RoNDlS"
+            },
+            {
+              "display_url": "pic.x.com/4HlbDvxNvs",
+              "end": 105,
+              "expanded_url": "https://x.com/LolingVerse/status/2082023283797422552/photo/1",
+              "media_key": "3_2082023265975865344",
+              "start": 82,
+              "url": "https://t.co/4HlbDvxNvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082023283797422552",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077404072382976456",
+            "type": "quoted"
+          },
+          {
+            "id": "2081698531858116685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @AlexChan258 发完这个就吸引了锁推小号无互动的情况下私聊，难以思考了\n\nhttps://t.co/QPd3RoNDlS https://t.co/4HlbDvxNvs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077404064883650560"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2077404072382976456",
+        "created_at": "2026-07-15T14:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077404072382976456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1973748660975587328",
+              "start": 11,
+              "username": "Recz3ww"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jCcdYqiunK",
+              "end": 43,
+              "expanded_url": "https://x.com/LolingVerse/status/2077404072382976456/photo/1",
+              "media_key": "3_2077404064883650560",
+              "start": 20,
+              "url": "https://t.co/jCcdYqiunK"
+            },
+            {
+              "display_url": "x.com/LolingVerse/st…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/LolingVerse/status/2077069043815633001",
+              "start": 44,
+              "url": "https://t.co/IEAhGvX83P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077404072382976456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 876,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077069043815633001",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "振奋人心呀这比特汇率\n@Recz3ww https://t.co/jCcdYqiunK https://t.co/IEAhGvX83P"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2081683132210991376",
+        "created_at": "2026-07-27T11:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081698531858116685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836041585475346432",
+              "start": 0,
+              "username": "LolingVerse"
+            },
+            {
+              "end": 25,
+              "id": "1928063239319080961",
+              "start": 13,
+              "username": "AlexChan258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081698531858116685",
+        "in_reply_to_user_id": "1836041585475346432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 249,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081698427570720787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LolingVerse @AlexChan258 坏欸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 164,
+          "like_count": 26622,
+          "listed_count": 4,
+          "media_count": 388,
+          "tweet_count": 4869
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12264,
+          "following_count": 881,
+          "like_count": 31834,
+          "listed_count": 20,
+          "media_count": 2283,
+          "tweet_count": 11144
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-29T12:18:05.000Z",
+        "description": "并不会说芬兰语的猫娘，逃生舱：@AlexChancd/目前账号主营：键政（理论水平不高求放过），梗图，日常，ai小短文，收集迷惑言论的各种tv/爱好：游戏，绘画（真的很烂）/温和建制派/可私信互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "AlexChancd"
+              }
+            ]
+          }
+        },
+        "id": "1928063239319080961",
+        "location": "Nearby 1.14km",
+        "name": "哈基雅尔维的波尔卡",
+        "pinned_tweet_id": "2068520765180510410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048600470227501056/9fK5FKrj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 518,
+          "like_count": 49136,
+          "listed_count": 3,
+          "media_count": 364,
+          "tweet_count": 2632
+        },
+        "url": "",
+        "username": "AlexChan258",
+        "verified": true
+      }
+    ]
+  }
+}

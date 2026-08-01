@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2039979208731144270",
+    "created_at": "2026-04-03T08:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T09:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039979208731144270"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FoxGazerTales/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/FoxGazerTales/status/2039914116840931663",
+          "start": 6,
+          "url": "https://t.co/SG3isKTWXQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039979208731144270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039914116840931663",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "狐狸晒太阳 https://t.co/SG3isKTWXQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19204,
+        "height": 640,
+        "media_key": "7_2039914099170279425",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2039914099170279425/pu/img/6LmqibC7wEgxMMl8.jpg",
+        "public_metrics": {
+          "view_count": 767
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039914099170279425/pu/vid/avc1/320x568/tklb8hSp4d3w_nh9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039914099170279425/pu/vid/avc1/360x640/KnjfwTHzcsWoZWBj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2039914099170279425/pu/pl/tDwerhXaKyD4wfof.m3u8?v=cfc"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2039979208731144270",
+        "created_at": "2026-04-03T08:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039979208731144270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FoxGazerTales/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/FoxGazerTales/status/2039914116840931663",
+              "start": 6,
+              "url": "https://t.co/SG3isKTWXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039979208731144270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039914116840931663",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "狐狸晒太阳 https://t.co/SG3isKTWXQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2039914099170279425"
+          ]
+        },
+        "author_id": "1722654138620604416",
+        "conversation_id": "2039914116840931663",
+        "created_at": "2026-04-03T03:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T04:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039914116840931663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jVQo5FQwe2",
+              "end": 45,
+              "expanded_url": "https://x.com/FoxGazerTales/status/2039914116840931663/video/1",
+              "media_key": "7_2039914099170279425",
+              "start": 22,
+              "url": "https://t.co/jVQo5FQwe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039914116840931663",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 3774,
+          "like_count": 311,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "Tiny blep, big dreams https://t.co/jVQo5FQwe2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 128,
+          "like_count": 13210,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 2914
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-09T16:35:51.000Z",
+        "description": "Unleashing Fur-real Madness One Fox At A Time! 🦊✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/foxgazertales",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/foxgazertales",
+                "start": 0,
+                "url": "https://t.co/foUJbY9IPu"
+              }
+            ]
+          }
+        },
+        "id": "1722654138620604416",
+        "location": "X",
+        "name": "千ㄖ乂 🦊",
+        "pinned_tweet_id": "2039290553242976288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722782029123911680/HkGRZ_7H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9088,
+          "following_count": 33,
+          "like_count": 3225,
+          "listed_count": 43,
+          "media_count": 1815,
+          "tweet_count": 2667
+        },
+        "url": "https://t.co/foUJbY9IPu",
+        "username": "FoxGazerTales",
+        "verified": true
+      }
+    ]
+  }
+}

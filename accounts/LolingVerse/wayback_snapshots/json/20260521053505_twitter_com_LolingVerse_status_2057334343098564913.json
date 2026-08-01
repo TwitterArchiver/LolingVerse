@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2057237573089759735",
+    "created_at": "2026-05-21T05:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T06:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057334343098564913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1823767079285350406",
+          "start": 0,
+          "username": "Faomocat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057334343098564913",
+    "in_reply_to_user_id": "1823767079285350406",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057237573089759735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Faomocat 抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1084,
+        "media_key": "3_2057237548272148480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIzGpoNbYAAw-kj.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1004,
+        "media_key": "16_2057237551094906880",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HIzGpyubQAAQ3oL.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HIzGpyubQAAQ3oL.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2057237573089759735",
+        "created_at": "2026-05-21T05:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057334343098564913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1823767079285350406",
+              "start": 0,
+              "username": "Faomocat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057334343098564913",
+        "in_reply_to_user_id": "1823767079285350406",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057237573089759735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Faomocat 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057237548272148480",
+            "16_2057237551094906880"
+          ]
+        },
+        "author_id": "1823767079285350406",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057237573089759735",
+        "created_at": "2026-05-20T23:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T00:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057237573089759735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4mYDFpiLZZ",
+              "end": 36,
+              "expanded_url": "https://x.com/Faomocat/status/2057237573089759735/photo/1",
+              "media_key": "3_2057237548272148480",
+              "start": 13,
+              "url": "https://t.co/4mYDFpiLZZ"
+            },
+            {
+              "display_url": "pic.x.com/4mYDFpiLZZ",
+              "end": 36,
+              "expanded_url": "https://x.com/Faomocat/status/2057237573089759735/photo/1",
+              "media_key": "16_2057237551094906880",
+              "start": 13,
+              "url": "https://t.co/4mYDFpiLZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057237573089759735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 327,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "百fo纪念，谢谢各位喵！ https://t.co/4mYDFpiLZZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n商务：https://t.co/dPyJDXZFvr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 112,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 89,
+                "url": "https://t.co/dPyJDXZFvr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 144,
+          "like_count": 19374,
+          "listed_count": 3,
+          "media_count": 236,
+          "tweet_count": 3505
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T17:02:42.000Z",
+        "description": "MTF 高三牲 物化地 备战高考ing 数学+物理求130 目前无钱买糖 172/62 2008/12/10出厂 半炸柜 求赞 互fo",
+        "id": "1823767079285350406",
+        "name": "寒月喵🍥🏳️‍⚧️~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053542630076866561/9rlS9Jmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 155,
+          "like_count": 1311,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 185
+        },
+        "username": "Faomocat",
+        "verified": false
+      }
+    ]
+  }
+}

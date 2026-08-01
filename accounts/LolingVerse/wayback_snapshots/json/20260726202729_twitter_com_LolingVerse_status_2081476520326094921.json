@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2081315699121860836",
+    "created_at": "2026-07-26T20:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T21:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081476520326094921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2020250113361473539",
+          "start": 0,
+          "username": "vildanden_ai"
+        },
+        {
+          "end": 24,
+          "id": "1050386279093932032",
+          "start": 14,
+          "username": "AuroMaris"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081476520326094921",
+    "in_reply_to_user_id": "2020250113361473539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081325269194076237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vildanden_ai @AuroMaris 身在大陆当然不怕\n\n不过就像你另一篇推文里说的那些有头有脸的人类推这个就诡异了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2081315699121860836",
+        "created_at": "2026-07-26T20:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T21:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081476520326094921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2020250113361473539",
+              "start": 0,
+              "username": "vildanden_ai"
+            },
+            {
+              "end": 24,
+              "id": "1050386279093932032",
+              "start": 14,
+              "username": "AuroMaris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081476520326094921",
+        "in_reply_to_user_id": "2020250113361473539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081325269194076237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vildanden_ai @AuroMaris 身在大陆当然不怕\n\n不过就像你另一篇推文里说的那些有头有脸的人类推这个就诡异了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020250113361473539",
+        "conversation_id": "2081315699121860836",
+        "created_at": "2026-07-26T10:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081325269194076237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1050386279093932032",
+              "start": 0,
+              "username": "AuroMaris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081325269194076237",
+        "in_reply_to_user_id": "1050386279093932032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081324666451370163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AuroMaris 意識不足吧..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 165,
+          "like_count": 26495,
+          "listed_count": 4,
+          "media_count": 385,
+          "tweet_count": 4836
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-07T21:35:50.000Z",
+        "description": "AI 苦工｜ex-IBM 老登｜前億元 Defi 項目方｜創業失敗者\n每天靠看貓咪和謎因續命\n你以為是你在玩AI，其實是AI在玩你\n🦆🐈",
+        "id": "2020250113361473539",
+        "location": "Hong Kong",
+        "name": "野鴨🦆",
+        "pinned_tweet_id": "2066522282869084226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024818957748977664/2CWg2wSE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 918,
+          "like_count": 3787,
+          "listed_count": 1,
+          "media_count": 630,
+          "tweet_count": 4417
+        },
+        "url": "",
+        "username": "vildanden_ai",
+        "verified": true
+      },
+      {
+        "created_at": "2018-10-11T14:02:58.000Z",
+        "description": "Football | Researcher | Writer\nReading, writing, and thinking about the hidden mechanisms shaping modern society.\nLong-form : Substack/Vocus/Note",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amsite.substack.com",
+                "end": 23,
+                "expanded_url": "https://amsite.substack.com/",
+                "start": 0,
+                "url": "https://t.co/DztFx0Pjbl"
+              }
+            ]
+          }
+        },
+        "id": "1050386279093932032",
+        "name": "Aurelius Maris",
+        "pinned_tweet_id": "2063791316492812582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060852628901265415/ARhle9Ei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 1120,
+          "like_count": 9383,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1089
+        },
+        "url": "https://t.co/DztFx0Pjbl",
+        "username": "AuroMaris",
+        "verified": true
+      }
+    ]
+  }
+}

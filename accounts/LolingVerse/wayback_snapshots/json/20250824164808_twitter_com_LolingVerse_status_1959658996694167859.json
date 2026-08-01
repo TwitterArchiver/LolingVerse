@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959628454116409344",
+        "3_1959628454057680896"
+      ],
+      "media_source_tweet_id": [
+        "1959628462312112180",
+        "1959628462312112180"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1959658996694167859",
+    "created_at": "2025-08-24T16:48:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T17:48:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959658996694167859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1558730611556175873",
+          "start": 3,
+          "username": "ChisakaKanako"
+        },
+        {
+          "end": 41,
+          "id": "1507726148188663814",
+          "start": 30,
+          "username": "Ryoluz1109"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3z7yNe7j0o",
+          "end": 69,
+          "expanded_url": "https://x.com/ChisakaKanako/status/1959628462312112180/photo/1",
+          "media_key": "3_1959628454116409344",
+          "start": 46,
+          "url": "https://t.co/3z7yNe7j0o"
+        },
+        {
+          "display_url": "pic.x.com/3z7yNe7j0o",
+          "end": 69,
+          "expanded_url": "https://x.com/ChisakaKanako/status/1959628462312112180/photo/1",
+          "media_key": "3_1959628454057680896",
+          "start": 46,
+          "url": "https://t.co/3z7yNe7j0o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959658996694167859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959628462312112180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChisakaKanako: 谁会开盒求你们救一下 @Ryoluz1109 🆘🆘🆘 https://t.co/3z7yNe7j0o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959628454116409344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzH_sktbQAAlOkv.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1959628454057680896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzH_skfbIAAodQ8.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959628454116409344",
+            "3_1959628454057680896"
+          ],
+          "media_source_tweet_id": [
+            "1959628462312112180",
+            "1959628462312112180"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1959658996694167859",
+        "created_at": "2025-08-24T16:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T17:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959658996694167859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1558730611556175873",
+              "start": 3,
+              "username": "ChisakaKanako"
+            },
+            {
+              "end": 41,
+              "id": "1507726148188663814",
+              "start": 30,
+              "username": "Ryoluz1109"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3z7yNe7j0o",
+              "end": 69,
+              "expanded_url": "https://x.com/ChisakaKanako/status/1959628462312112180/photo/1",
+              "media_key": "3_1959628454116409344",
+              "start": 46,
+              "url": "https://t.co/3z7yNe7j0o"
+            },
+            {
+              "display_url": "pic.x.com/3z7yNe7j0o",
+              "end": 69,
+              "expanded_url": "https://x.com/ChisakaKanako/status/1959628462312112180/photo/1",
+              "media_key": "3_1959628454057680896",
+              "start": 46,
+              "url": "https://t.co/3z7yNe7j0o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959658996694167859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959628462312112180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChisakaKanako: 谁会开盒求你们救一下 @Ryoluz1109 🆘🆘🆘 https://t.co/3z7yNe7j0o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959628454116409344",
+            "3_1959628454057680896"
+          ]
+        },
+        "author_id": "1558730611556175873",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1959628462312112180",
+        "created_at": "2025-08-24T14:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T15:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959628462312112180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1507726148188663814",
+              "start": 11,
+              "username": "Ryoluz1109"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3z7yNe7j0o",
+              "end": 50,
+              "expanded_url": "https://x.com/ChisakaKanako/status/1959628462312112180/photo/1",
+              "media_key": "3_1959628454116409344",
+              "start": 27,
+              "url": "https://t.co/3z7yNe7j0o"
+            },
+            {
+              "display_url": "pic.x.com/3z7yNe7j0o",
+              "end": 50,
+              "expanded_url": "https://x.com/ChisakaKanako/status/1959628462312112180/photo/1",
+              "media_key": "3_1959628454057680896",
+              "start": 27,
+              "url": "https://t.co/3z7yNe7j0o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959628462312112180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 705,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "谁会开盒求你们救一下 @Ryoluz1109 🆘🆘🆘 https://t.co/3z7yNe7j0o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 69,
+          "like_count": 2206,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 1153
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T08:22:12.000Z",
+        "description": "跨女 平面设计 互关only 锁推和默认头像关注即拉黑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chisakakanako.notion.site/96f67217a4c041…",
+                "end": 23,
+                "expanded_url": "https://chisakakanako.notion.site/96f67217a4c0410eb35c4200f835eafa?pvs=4",
+                "start": 0,
+                "url": "https://t.co/ot7AE8ZHyA"
+              }
+            ]
+          }
+        },
+        "id": "1558730611556175873",
+        "name": "千坂神奈子",
+        "pinned_tweet_id": "1959628462312112180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938162412697620481/84c4M-W4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5765,
+          "following_count": 1567,
+          "like_count": 42074,
+          "listed_count": 7,
+          "media_count": 54,
+          "tweet_count": 362
+        },
+        "url": "https://t.co/ot7AE8ZHyA",
+        "username": "ChisakaKanako",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-26T14:29:26.000Z",
+        "description": "F̷r̴o̶m̴“̶4̷0҉4̷ N̶o̷t̷ F̴o̸u̵n̷d̸”̸",
+        "id": "1507726148188663814",
+        "location": "Ø",
+        "name": "X̶̴I̶̸Γ̸̶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916916178884444160/D0kloiol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3859,
+          "following_count": 2487,
+          "like_count": 17452,
+          "listed_count": 7,
+          "media_count": 75,
+          "tweet_count": 6708
+        },
+        "username": "Ryoluz1109",
+        "verified": false
+      }
+    ]
+  }
+}

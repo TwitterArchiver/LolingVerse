@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2070042214584254673",
+    "created_at": "2026-06-25T11:12:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T12:12:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070102864752726182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1795785939438215168",
+          "start": 0,
+          "username": "EMeowSys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070102864752726182",
+    "in_reply_to_user_id": "1795785939438215168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070042214584254673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EMeowSys 末影猫不是影猫(x)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1025,
+        "media_key": "3_2070042203943231488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpEarwaYAAe7dH.jpg",
+        "width": 468
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2070042214584254673",
+        "created_at": "2026-06-25T11:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070102864752726182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1795785939438215168",
+              "start": 0,
+              "username": "EMeowSys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070102864752726182",
+        "in_reply_to_user_id": "1795785939438215168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070042214584254673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EMeowSys 末影猫不是影猫(x)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070042203943231488"
+          ]
+        },
+        "author_id": "1795785939438215168",
+        "conversation_id": "2070042214584254673",
+        "created_at": "2026-06-25T07:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070042214584254673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/98xPEgtwmN",
+              "end": 27,
+              "expanded_url": "https://x.com/EMeowSys/status/2070042214584254673/photo/1",
+              "media_key": "3_2070042203943231488",
+              "start": 4,
+              "url": "https://t.co/98xPEgtwmN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070042214584254673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（思考 https://t.co/98xPEgtwmN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 155,
+          "like_count": 22982,
+          "listed_count": 3,
+          "media_count": 305,
+          "tweet_count": 4092
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-29T11:55:18.000Z",
+        "description": "这里易喵系统/末影猫/BG5CYK\n自发型/创伤型多意识体\nCN/EN/JP学习中\n社交渴望\n墙内活跃\n二次元/业余无线电/轨道交通/程序设计/Minecraft/VRChat\n友跨顺女",
+        "id": "1795785939438215168",
+        "location": "虚空中的易喵系统",
+        "name": "易喵系统(末影猫Project)",
+        "pinned_tweet_id": "1968195420506771945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795786104316272640/IXVNkPY1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 2833,
+          "like_count": 12257,
+          "listed_count": 8,
+          "media_count": 460,
+          "tweet_count": 5544
+        },
+        "url": "",
+        "username": "EMeowSys",
+        "verified": false
+      }
+    ]
+  }
+}

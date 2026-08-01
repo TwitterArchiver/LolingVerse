@@ -1,0 +1,560 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2002282017082458324",
+    "created_at": "2025-12-20T08:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T09:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002294004692701401"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 50,
+          "normalized_text": "Pixel",
+          "probability": 0.9202,
+          "start": 46,
+          "type": "Other"
+        },
+        {
+          "end": 166,
+          "normalized_text": "Google",
+          "probability": 0.962,
+          "start": 161,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1608781688775245825",
+          "start": 0,
+          "username": "YekaseSuiso2022"
+        },
+        {
+          "end": 32,
+          "id": "1563038755455307777",
+          "start": 17,
+          "username": "GooglePixel_US"
+        },
+        {
+          "end": 40,
+          "id": "20536157",
+          "start": 33,
+          "username": "Google"
+        },
+        {
+          "end": 249,
+          "id": "1563038755455307777",
+          "start": 234,
+          "username": "GooglePixel_US"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002294004692701401",
+    "in_reply_to_user_id": "1608781688775245825",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002282017082458324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YekaseSuiso2022 @GooglePixel_US @Google Fuck Pixel! \n\nI’ve had this phone for a year and the volume button just fell off. How the fuck is that even possible? \n\nGoogle, you had better seriously reflect on your quality control issues.\n@GooglePixel_US"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2002282017082458324",
+        "created_at": "2025-12-20T08:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T09:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002294004692701401"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "Pixel",
+              "probability": 0.9202,
+              "start": 46,
+              "type": "Other"
+            },
+            {
+              "end": 166,
+              "normalized_text": "Google",
+              "probability": 0.962,
+              "start": 161,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1608781688775245825",
+              "start": 0,
+              "username": "YekaseSuiso2022"
+            },
+            {
+              "end": 32,
+              "id": "1563038755455307777",
+              "start": 17,
+              "username": "GooglePixel_US"
+            },
+            {
+              "end": 40,
+              "id": "20536157",
+              "start": 33,
+              "username": "Google"
+            },
+            {
+              "end": 249,
+              "id": "1563038755455307777",
+              "start": 234,
+              "username": "GooglePixel_US"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002294004692701401",
+        "in_reply_to_user_id": "1608781688775245825",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002282017082458324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YekaseSuiso2022 @GooglePixel_US @Google Fuck Pixel! \n\nI’ve had this phone for a year and the volume button just fell off. How the fuck is that even possible? \n\nGoogle, you had better seriously reflect on your quality control issues.\n@GooglePixel_US"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608781688775245825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Pixel",
+              "id": "1045759094756323328",
+              "name": "Google Pixel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2002282017082458324",
+        "created_at": "2025-12-20T07:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T08:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002282017082458324"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "Pixel",
+              "probability": 0.8852,
+              "start": 25,
+              "type": "Other"
+            },
+            {
+              "end": 151,
+              "normalized_text": "Google",
+              "probability": 0.9563,
+              "start": 146,
+              "type": "Organization"
+            },
+            {
+              "end": 157,
+              "normalized_text": "Pixel",
+              "probability": 0.5336,
+              "start": 153,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 236,
+              "id": "1563038755455307777",
+              "start": 221,
+              "username": "GooglePixel_US"
+            },
+            {
+              "end": 244,
+              "id": "20536157",
+              "start": 237,
+              "username": "Google"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002282017082458324",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Fuck your mother's cunt, Pixel!\n\nI bought this phone a year ago and the volume button just fell out already? How the fuck is that possible?\n\nYou (Google/Pixel team) really need to seriously reflect on your own problems.\n\n@GooglePixel_US @Google"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153/48 | 没诗硬吟｜阴暗爬行  | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TMO0"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Suism.洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 87,
+          "like_count": 5027,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 1868
+        },
+        "url": "https://t.co/Dggtj9TMO0",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T11:07:57.000Z",
+        "description": "15岁的前币圈玩家，谁的附庸？\nbitget一生推 | All in crypto | 10年 | 前币圈韭菜 | 退坑黑产 | 技术分析 | Osint | 2024 A8 ➡️ 2025 -A4 | 堕落.丢私钥.爆仓.出局 | 💙 | done...\n「crypto是无数次的谎话，吊唁着幼稚的信念」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/4249547",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/4249547",
+                "start": 0,
+                "url": "https://t.co/MO5uaxlMsd"
+              }
+            ]
+          }
+        },
+        "id": "1608781688775245825",
+        "location": "江东 NekoDay",
+        "name": "Yekase Suiso🍨|狐疑的大图书馆📖",
+        "pinned_tweet_id": "2001589709307613332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001970485001940992/Psvr8hfy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 460,
+          "like_count": 1326,
+          "listed_count": 5,
+          "media_count": 24,
+          "tweet_count": 90
+        },
+        "url": "https://t.co/MO5uaxlMsd",
+        "username": "YekaseSuiso2022",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-26T05:41:06.000Z",
+        "description": "We have a new 🏠 For updates, news, and more on all things Google Pixel, follow @madebygoogle.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 79,
+                "username": "madebygoogle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "goo.gle/4gEDat8",
+                "end": 23,
+                "expanded_url": "https://goo.gle/4gEDat8",
+                "start": 0,
+                "url": "https://t.co/L1KSCRuvnq"
+              }
+            ]
+          }
+        },
+        "id": "1563038755455307777",
+        "name": "Google Pixel",
+        "pinned_tweet_id": "1838647100730494997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838647220096172032/LyveTbsq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99508,
+          "following_count": 10,
+          "like_count": 13964,
+          "listed_count": 239,
+          "media_count": 692,
+          "tweet_count": 26433
+        },
+        "url": "https://t.co/L1KSCRuvnq",
+        "username": "GooglePixel_US",
+        "verified": true
+      },
+      {
+        "created_at": "2009-02-10T19:14:39.000Z",
+        "description": "Here to help.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.google/newsletter-sub…",
+                "end": 23,
+                "expanded_url": "https://blog.google/newsletter-subscribe/",
+                "start": 0,
+                "url": "https://t.co/RS3iU873QG"
+              }
+            ]
+          }
+        },
+        "id": "20536157",
+        "location": "Mountain View, CA",
+        "name": "Google",
+        "pinned_tweet_id": "2001322381533409733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972718204565811200/adTFhODz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31505608,
+          "following_count": 287,
+          "like_count": 3886,
+          "listed_count": 89543,
+          "media_count": 37669,
+          "tweet_count": 248751
+        },
+        "url": "https://t.co/RS3iU873QG",
+        "username": "Google",
+        "verified": true
+      }
+    ]
+  }
+}

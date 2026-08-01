@@ -1,0 +1,515 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081420882468286464"
+      ],
+      "media_source_tweet_id": [
+        "2081420961170211133"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "2081935739885863022",
+    "created_at": "2026-07-28T02:52:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T03:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081935739885863022"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 33,
+          "tag": "fox"
+        },
+        {
+          "end": 45,
+          "start": 38,
+          "tag": "animal"
+        },
+        {
+          "end": 50,
+          "start": 46,
+          "tag": "art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1938610270353723392",
+          "start": 3,
+          "username": "thecatidk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DBX65OYcJy",
+          "end": 74,
+          "expanded_url": "https://x.com/thecatidk/status/2081420961170211133/photo/1",
+          "media_key": "3_2081420882468286464",
+          "start": 51,
+          "url": "https://t.co/DBX65OYcJy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081935739885863022",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 303
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081420961170211133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thecatidk: weird ahh friends #fox #animal #art https://t.co/DBX65OYcJy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1748,
+        "media_key": "3_2081420882468286464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKxQ8eaMAAfhfv.jpg",
+        "width": 1748
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081420882468286464"
+          ]
+        },
+        "author_id": "1938610270353723392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2081420961170211133",
+        "created_at": "2026-07-26T16:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081420961170211133"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "fox"
+            },
+            {
+              "end": 30,
+              "start": 23,
+              "tag": "animal"
+            },
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DBX65OYcJy",
+              "end": 59,
+              "expanded_url": "https://x.com/thecatidk/status/2081420961170211133/photo/1",
+              "media_key": "3_2081420882468286464",
+              "start": 36,
+              "url": "https://t.co/DBX65OYcJy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081420961170211133",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 304,
+          "impression_count": 32085,
+          "like_count": 3787,
+          "quote_count": 12,
+          "reply_count": 4,
+          "retweet_count": 303
+        },
+        "reply_settings": "everyone",
+        "text": "weird ahh friends #fox #animal #art https://t.co/DBX65OYcJy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081420882468286464"
+          ],
+          "media_source_tweet_id": [
+            "2081420961170211133"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2081935739885863022",
+        "created_at": "2026-07-28T02:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081935739885863022"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "fox"
+            },
+            {
+              "end": 45,
+              "start": 38,
+              "tag": "animal"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1938610270353723392",
+              "start": 3,
+              "username": "thecatidk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DBX65OYcJy",
+              "end": 74,
+              "expanded_url": "https://x.com/thecatidk/status/2081420961170211133/photo/1",
+              "media_key": "3_2081420882468286464",
+              "start": 51,
+              "url": "https://t.co/DBX65OYcJy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081935739885863022",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 303
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081420961170211133",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thecatidk: weird ahh friends #fox #animal #art https://t.co/DBX65OYcJy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 164,
+          "like_count": 26609,
+          "listed_count": 4,
+          "media_count": 387,
+          "tweet_count": 4862
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-27T14:48:26.000Z",
+        "description": "He/him | gay | Yeah I like to draw anything | No commission sorry | DM open\n\nI'm also a graphic designer:\nhttps://t.co/fgnH1Pbrh0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "behance.net/thinlcnguynv",
+                "end": 129,
+                "expanded_url": "https://www.behance.net/thinlcnguynv",
+                "start": 106,
+                "url": "https://t.co/fgnH1Pbrh0"
+              }
+            ]
+          }
+        },
+        "id": "1938610270353723392",
+        "location": "Somewhere",
+        "name": "Meowcat",
+        "pinned_tweet_id": "2079612527760351616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061437676713291776/FJU-0f8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2947,
+          "following_count": 412,
+          "like_count": 1486,
+          "listed_count": 1,
+          "media_count": 371,
+          "tweet_count": 950
+        },
+        "url": "",
+        "username": "thecatidk",
+        "verified": true
+      }
+    ]
+  }
+}

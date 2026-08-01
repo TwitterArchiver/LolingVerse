@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1913526921754784186",
+    "created_at": "2025-04-20T15:23:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T16:23:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913976864034734323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1897976047779360768",
+          "start": 0,
+          "username": "Wuying333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913976864034734323",
+    "in_reply_to_user_id": "1897976047779360768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913526921754784186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wuying333 锁锁🔒你的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1913526921754784186",
+        "created_at": "2025-04-20T15:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T16:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913976864034734323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1897976047779360768",
+              "start": 0,
+              "username": "Wuying333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913976864034734323",
+        "in_reply_to_user_id": "1897976047779360768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913526921754784186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wuying333 锁锁🔒你的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897976047779360768",
+        "conversation_id": "1913526921754784186",
+        "created_at": "2025-04-19T09:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T10:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913526921754784186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913526921754784186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 561,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "锁推了，那个帖流量太大了，一大我就爱锁推，因为已经被顺直广泛看见的话就不是啥好事\n\n他们这帮人拿我的话当攻击跨女的武器，明明我们内部的事他过来凑什么热闹，锁喽锁喽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟 | 深柜",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 47,
+          "like_count": 572,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 311
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T11:42:23.000Z",
+        "description": "MTF｜跨圈文字型情感类专家与对应哲学思想抒发博主（人话：碎碎念推）｜爱点赞星人",
+        "id": "1897976047779360768",
+        "name": "吴Y影颖Ying",
+        "pinned_tweet_id": "1907314595267477908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908010815141380096/Xu2sGXEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 260,
+          "like_count": 4079,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 1142
+        },
+        "username": "Wuying333",
+        "verified": false
+      }
+    ]
+  }
+}

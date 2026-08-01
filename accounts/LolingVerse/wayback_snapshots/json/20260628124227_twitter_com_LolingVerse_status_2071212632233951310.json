@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2070991138820166074",
+    "created_at": "2026-06-28T12:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T13:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071212632233951310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1909562414162755584",
+          "start": 0,
+          "username": "ThirteenYizuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071212632233951310",
+    "in_reply_to_user_id": "1836041585475346432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071212451211702274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ThirteenYizuka 感觉上下文有限的reviewer也不一定能看出来，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2070991138820166074",
+        "created_at": "2026-06-28T12:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071212632233951310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1909562414162755584",
+              "start": 0,
+              "username": "ThirteenYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071212632233951310",
+        "in_reply_to_user_id": "1836041585475346432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071212451211702274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThirteenYizuka 感觉上下文有限的reviewer也不一定能看出来，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2070991138820166074",
+        "created_at": "2026-06-28T12:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071212451211702274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1909562414162755584",
+              "start": 0,
+              "username": "ThirteenYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071212451211702274",
+        "in_reply_to_user_id": "1909562414162755584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070991138820166074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThirteenYizuka 草，咱不熟悉这个项目没看出来……\n所以是多算了一个\ncfg.BalanceRechargeMultiplier\n而导致其在其他地方的应用相互重复，导致 multiple 实际上效果变成了\nmultiple^2嘛？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 158,
+          "like_count": 23438,
+          "listed_count": 3,
+          "media_count": 321,
+          "tweet_count": 4219
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-08T11:02:28.000Z",
+        "description": "Student & Developer | 🩵🩷🤍🩷🩵 @JyushitiYizuka\nBuilding https://t.co/LNSexePWro. Dedicated to making AI affordable for everyone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "JyushitiYizuka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tokenflux.dev",
+                "end": 76,
+                "expanded_url": "http://tokenflux.dev",
+                "start": 53,
+                "url": "https://t.co/LNSexePWro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/smartcmd",
+                "end": 23,
+                "expanded_url": "http://github.com/smartcmd",
+                "start": 0,
+                "url": "https://t.co/f9cf7yErtG"
+              }
+            ]
+          }
+        },
+        "id": "1909562414162755584",
+        "location": "クローゼットの中",
+        "name": "芒果刀🥭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006613894328885248/-OwVPnjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2576,
+          "following_count": 291,
+          "like_count": 7971,
+          "listed_count": 9,
+          "media_count": 180,
+          "tweet_count": 1679
+        },
+        "url": "https://t.co/f9cf7yErtG",
+        "username": "ThirteenYizuka",
+        "verified": true
+      }
+    ]
+  }
+}

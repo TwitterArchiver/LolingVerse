@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1918166106122191020",
+    "created_at": "2025-05-02T04:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T05:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918168234752381319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "957544663275028481",
+          "start": 0,
+          "username": "SuBanXia1120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918168234752381319",
+    "in_reply_to_user_id": "957544663275028481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918166106122191020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuBanXia1120 一个洞的地鼠坑（x"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5533,
+        "height": 1440,
+        "media_key": "13_1918165779432001536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1918165779432001536/img/hHdhNtA2XlADUO4r.jpg",
+        "public_metrics": {
+          "view_count": 31
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1918165779432001536/pl/z_HZtUtl2M3D2OpJ.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1918165779432001536/vid/avc1/480x640/j16ooptRnp_UTcjZ.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1918165779432001536/vid/avc1/320x426/J6IEI8FBfMqHssLR.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1918165779432001536/vid/avc1/1080x1440/5O3N3E-z__1c6D3R.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1918165779432001536/vid/avc1/720x960/YtX2MUr3c7hFV0tk.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1918166106122191020",
+        "created_at": "2025-05-02T04:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T05:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918168234752381319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "957544663275028481",
+              "start": 0,
+              "username": "SuBanXia1120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918168234752381319",
+        "in_reply_to_user_id": "957544663275028481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918166106122191020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuBanXia1120 一个洞的地鼠坑（x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1918165779432001536"
+          ]
+        },
+        "author_id": "957544663275028481",
+        "conversation_id": "1918166106122191020",
+        "created_at": "2025-05-02T04:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T05:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918166106122191020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K4XuHOzvKw",
+              "end": 60,
+              "expanded_url": "https://x.com/SuBanXia1120/status/1918166106122191020/video/1",
+              "media_key": "13_1918165779432001536",
+              "start": 37,
+              "url": "https://t.co/K4XuHOzvKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918166106122191020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和新男朋友（顾韦）去科技馆玩\n这个隐形人好好玩\n🦊扒住这里露个脑袋（偷感 https://t.co/K4XuHOzvKw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟 | 深柜",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 54,
+          "like_count": 723,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 382
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-28T09:23:32.000Z",
+        "description": "我居然是苏半夏🦋丨“我觉得现在的人生，就很幸福了。”好友🚪50丨性转幻想频道：https://t.co/AGPNZuMX3L丨SRS手术分享https://t.co/HLSHXOnt8E要是我们能永远留在夏天里，就好了。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/MuranAG",
+                "end": 62,
+                "expanded_url": "https://t.me/MuranAG",
+                "start": 39,
+                "url": "https://t.co/AGPNZuMX3L"
+              },
+              {
+                "display_url": "t.me/muranSRSinpai",
+                "end": 93,
+                "expanded_url": "https://t.me/muranSRSinpai",
+                "start": 70,
+                "url": "https://t.co/HLSHXOnt8E"
+              }
+            ]
+          }
+        },
+        "id": "957544663275028481",
+        "location": "Hong Kong",
+        "name": "苒🦊木狐",
+        "pinned_tweet_id": "1906248656321479019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1433839553748430851/2UH9XRNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17708,
+          "following_count": 900,
+          "like_count": 6627,
+          "listed_count": 55,
+          "media_count": 628,
+          "tweet_count": 4137
+        },
+        "username": "SuBanXia1120",
+        "verified": true
+      }
+    ]
+  }
+}

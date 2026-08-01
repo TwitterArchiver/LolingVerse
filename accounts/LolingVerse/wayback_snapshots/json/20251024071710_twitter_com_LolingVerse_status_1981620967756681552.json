@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1981572409200373846",
+    "created_at": "2025-10-24T07:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T08:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981620967756681552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "28530405",
+          "start": 0,
+          "username": "manateelazycat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981620967756681552",
+    "in_reply_to_user_id": "28530405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981572409200373846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manateelazycat 不想要微信逆向工具能不能不花钱🐱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1981572409200373846",
+        "created_at": "2025-10-24T07:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T08:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981620967756681552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "28530405",
+              "start": 0,
+              "username": "manateelazycat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981620967756681552",
+        "in_reply_to_user_id": "28530405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981572409200373846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manateelazycat 不想要微信逆向工具能不能不花钱🐱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "28530405",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1981572409200373846",
+        "created_at": "2025-10-24T04:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T05:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981572409200373846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GitHub_Daily/s…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/GitHub_Daily/status/1981299565367066736",
+              "start": 137,
+              "url": "https://t.co/d27FIQFAXh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981572409200373846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "逆向不是每个人都可以学习的\n\n我认识的一个人，国内微信逆向第一人，他的气质才适合做逆向\n\n锲而不舍的研究代码，看超级长的汇编，他为了攻克一个问题，可以十多天不出门，就一直死磕汇编和寄存器的变化。\n\n现在成为国内微信逆向工具的鼻祖，基本上你们要的所有微信的工具他都可以实现。\n\n卖货狂魔：想要大神微信的门槛就是买一台懒猫微服，不能白介绍，不花钱又想要微信逆向工具的朋友，私信不回哈 🤣"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 28756,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981299565367066736",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "逆向不是每个人都可以学习的\n\n我认识的一个人，国内微信逆向第一人，他的气质才适合做逆向\n\n锲而不舍的研究代码，看超级长的汇编，他为了攻克一个问题，可以十多天不出门，就一直死磕汇编和寄存器的变化。\n\n现在成为国内微信逆向工具的鼻祖，基本上你们要的所有微信的工具他都可以实现。 https://t.co/d27FIQFAXh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "『可怜楼上月徘徊，应照离人妆镜台』\n『身世浮沉雨打萍……一山放出一山拦』\n可爱赞美者，世界探索者 | \n155/47 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TeYs"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 距你 2.718 km",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 74,
+          "like_count": 3192,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1486
+        },
+        "url": "https://t.co/Dggtj9TeYs",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-03T09:01:38.000Z",
+        "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lazycat.cloud",
+                "end": 64,
+                "expanded_url": "https://lazycat.cloud/",
+                "start": 41,
+                "url": "https://t.co/KVqgWHDvJj"
+              },
+              {
+                "display_url": "x.com/manateelazycat…",
+                "end": 98,
+                "expanded_url": "https://x.com/manateelazycat/status/1970815014861930775",
+                "start": 75,
+                "url": "https://t.co/SF9p24BuTk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manateelazycat.github.io",
+                "end": 23,
+                "expanded_url": "https://manateelazycat.github.io",
+                "start": 0,
+                "url": "https://t.co/twDx1twu9o"
+              }
+            ]
+          }
+        },
+        "id": "28530405",
+        "location": "China",
+        "name": "Andy Stewart",
+        "pinned_tweet_id": "1968998079623041134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38806,
+          "following_count": 208,
+          "like_count": 11853,
+          "listed_count": 285,
+          "media_count": 3005,
+          "tweet_count": 23148
+        },
+        "url": "https://t.co/twDx1twu9o",
+        "username": "manateelazycat",
+        "verified": true
+      }
+    ]
+  }
+}

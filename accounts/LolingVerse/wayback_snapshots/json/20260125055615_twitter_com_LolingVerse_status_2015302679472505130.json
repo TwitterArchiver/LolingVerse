@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2015250481921356008",
+    "created_at": "2026-01-25T05:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T06:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015302679472505130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "SPRlumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015302679472505130",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015250481921356008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SPRlumi 👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2015250481921356008",
+        "created_at": "2026-01-25T05:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T06:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015302679472505130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "SPRlumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015302679472505130",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015250481921356008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SPRlumi 👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1579631776967688192",
+              "name": "Consulting"
+            }
+          }
+        ],
+        "conversation_id": "2015250481921356008",
+        "created_at": "2026-01-25T02:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T03:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015250481921356008"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015250481921356008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵，有什么中性休闲风格的且能上班见客户穿的穿搭（不能特别花里胡哨但也不是很正式）\ntech consulting行业这些，并非老登谈生意那种风格\n求淘宝链接啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153/48 | 没诗硬吟  | Fox | 另一只猫猫 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Hydrogen.洛铃🔶Magic Caster",
+        "pinned_tweet_id": "2012549856930529552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 105,
+          "like_count": 7619,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 2323
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6 @dontbesadforit @_furryfur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 25,
+                "start": 10,
+                "username": "dontbesadforit"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "username": "_furryfur_"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "𝘚𝘗𝘙𝘭𝘶𝘮𝘪.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015289534112829440/c55hHbFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3246,
+          "following_count": 893,
+          "like_count": 1742,
+          "listed_count": 6,
+          "media_count": 3,
+          "tweet_count": 22
+        },
+        "username": "SPRlumi",
+        "verified": false
+      }
+    ]
+  }
+}

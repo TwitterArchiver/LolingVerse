@@ -1,0 +1,667 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2011889169312764363",
+    "created_at": "2026-01-17T14:55:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T15:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012539160893010091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "43587108",
+          "start": 0,
+          "username": "ascetic0x"
+        },
+        {
+          "end": 22,
+          "id": "1261335549215989760",
+          "start": 11,
+          "username": "Polymarket"
+        },
+        {
+          "end": 39,
+          "id": "1965783030062022656",
+          "start": 23,
+          "username": "PolymarketTrade"
+        },
+        {
+          "end": 56,
+          "id": "1938262633871822848",
+          "start": 40,
+          "username": "PolymarketMoney"
+        },
+        {
+          "end": 69,
+          "id": "1971742954391064577",
+          "start": 57,
+          "username": "PolyBaddies"
+        },
+        {
+          "end": 77,
+          "id": "1607797430010920960",
+          "start": 70,
+          "username": "zscdao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012539160893010091",
+    "in_reply_to_user_id": "43587108",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011889169312764363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ascetic0x @Polymarket @PolymarketTrade @PolymarketMoney @PolyBaddies @zscdao it is a cool thing, how did you get it👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1201,
+        "media_key": "3_2011888502049554432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-up7uRbQAAjQMk.png",
+        "width": 823
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2011889169312764363",
+        "created_at": "2026-01-17T14:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T15:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012539160893010091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "43587108",
+              "start": 0,
+              "username": "ascetic0x"
+            },
+            {
+              "end": 22,
+              "id": "1261335549215989760",
+              "start": 11,
+              "username": "Polymarket"
+            },
+            {
+              "end": 39,
+              "id": "1965783030062022656",
+              "start": 23,
+              "username": "PolymarketTrade"
+            },
+            {
+              "end": 56,
+              "id": "1938262633871822848",
+              "start": 40,
+              "username": "PolymarketMoney"
+            },
+            {
+              "end": 69,
+              "id": "1971742954391064577",
+              "start": 57,
+              "username": "PolyBaddies"
+            },
+            {
+              "end": 77,
+              "id": "1607797430010920960",
+              "start": 70,
+              "username": "zscdao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012539160893010091",
+        "in_reply_to_user_id": "43587108",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011889169312764363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ascetic0x @Polymarket @PolymarketTrade @PolymarketMoney @PolyBaddies @zscdao it is a cool thing, how did you get it👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011888502049554432"
+          ]
+        },
+        "author_id": "43587108",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2011889169312764363",
+        "created_at": "2026-01-15T19:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T20:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011889169312764363"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 126,
+              "normalized_text": "BTC",
+              "probability": 0.4829,
+              "start": 124,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 240,
+              "id": "1261335549215989760",
+              "start": 229,
+              "username": "Polymarket"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TJmNOWrmko",
+              "end": 300,
+              "expanded_url": "https://x.com/ascetic0x/status/2011889169312764363/photo/1",
+              "media_key": "3_2011888502049554432",
+              "start": 277,
+              "url": "https://t.co/TJmNOWrmko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011889169312764363",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 240,
+                "id": "1261335549215989760",
+                "start": 229,
+                "username": "Polymarket"
+              },
+              {
+                "end": 417,
+                "id": "1261335549215989760",
+                "start": 406,
+                "username": "Polymarket"
+              },
+              {
+                "end": 512,
+                "id": "1607797430010920960",
+                "start": 505,
+                "username": "zscdao"
+              },
+              {
+                "end": 533,
+                "id": "1965783030062022656",
+                "start": 517,
+                "username": "PolymarketTrade"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "polymarket.com/@ascetic0x?via…",
+                "end": 599,
+                "expanded_url": "https://polymarket.com/@ascetic0x?via=share",
+                "start": 576,
+                "url": "https://t.co/9MOdfR72Nd"
+              }
+            ]
+          },
+          "text": "I DID IT!!! Turned $12 into $100,000 (over 8,300x) by going all-in and doubling my bankroll 16 times in a row on short-term BTC moves - while sharing my bets and the reasoning behind them along the way.\n\nThis is only possible on @Polymarket !!!\n\nIt took a lot of work and real skin in the game, so if you’re reading this, a simple RT or comment would really mean a lot.\n\nHuge shoutout to @shayne_coplanand @Polymarket team for building the best prediction market platform out there. And special thanks to @zscdao and @PolymarketTrade for the support🤝\n\nTrack my progress here: https://t.co/9MOdfR72Nd"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7931,
+          "impression_count": 3284028,
+          "like_count": 13126,
+          "quote_count": 414,
+          "reply_count": 1434,
+          "retweet_count": 1087
+        },
+        "reply_settings": "everyone",
+        "text": "I DID IT!!! Turned $12 into $100,000 (over 8,300x) by going all-in and doubling my bankroll 16 times in a row on short-term BTC moves - while sharing my bets and the reasoning behind them along the way.\n\nThis is only possible on @Polymarket !!!\n\nIt took a lot of work and real https://t.co/TJmNOWrmko"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153/48 | 没诗硬吟  | Fox | 另一只猫猫 @YekaseSuiso2022\n\n走过路过不要错过，填写一下《无处方HRT与医疗指导下规范HRT对中国跨性别女性抑郁和自杀意念的调节效应》喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Oriyuki.洛铃🔶Magic Caster",
+        "pinned_tweet_id": "2006674484762443890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 101,
+          "like_count": 7306,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2273
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-30T20:22:40.000Z",
+        "description": "building on @base | all in on @polymarket",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 12,
+                "username": "base"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "polymarket"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "polymarket.com/@ascetic0x?via…",
+                "end": 23,
+                "expanded_url": "https://polymarket.com/@ascetic0x?via=share",
+                "start": 0,
+                "url": "https://t.co/9MOdfR72Nd"
+              }
+            ]
+          }
+        },
+        "id": "43587108",
+        "location": "Montreal, QC",
+        "name": "ascetic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008662771752206336/taOoFWun_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15142,
+          "following_count": 1627,
+          "like_count": 18580,
+          "listed_count": 116,
+          "media_count": 475,
+          "tweet_count": 3205
+        },
+        "url": "https://t.co/9MOdfR72Nd",
+        "username": "ascetic0x",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-15T16:40:13.000Z",
+        "description": "The World's Largest Prediction Market. Trade politics, news, culture, sports & tech. Discord: https://t.co/tzKrbDf7dZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "polymarket.com/r/discord",
+                "end": 117,
+                "expanded_url": "http://polymarket.com/r/discord",
+                "start": 94,
+                "url": "https://t.co/tzKrbDf7dZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "polymarket.com",
+                "end": 23,
+                "expanded_url": "https://polymarket.com/",
+                "start": 0,
+                "url": "https://t.co/tO2XOjEYHw"
+              }
+            ]
+          }
+        },
+        "id": "1261335549215989760",
+        "name": "Polymarket",
+        "pinned_tweet_id": "2008928601182277721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005664281002491904/bz2ZO_nU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002206,
+          "following_count": 5563,
+          "like_count": 76465,
+          "listed_count": 4668,
+          "media_count": 4986,
+          "tweet_count": 21013
+        },
+        "url": "https://t.co/tO2XOjEYHw",
+        "username": "Polymarket",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-10T14:23:32.000Z",
+        "description": "Featuring @Polymarket's most prolific traders & community resources to give you an edge. Learn & earn from the best.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Polymarket"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "polymarket.com",
+                "end": 23,
+                "expanded_url": "http://polymarket.com",
+                "start": 0,
+                "url": "https://t.co/kkMru9ljf9"
+              }
+            ]
+          }
+        },
+        "id": "1965783030062022656",
+        "name": "Polymarket Traders",
+        "pinned_tweet_id": "1992639143164424479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984009470628761600/g0ajJ_4j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39037,
+          "following_count": 605,
+          "like_count": 18022,
+          "listed_count": 496,
+          "media_count": 71,
+          "tweet_count": 3429
+        },
+        "url": "https://t.co/kkMru9ljf9",
+        "username": "PolymarketTrade",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T15:47:07.000Z",
+        "description": "Financial news & insights from @Polymarket — the world's largest prediction market.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Polymarket"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "polymarket.com",
+                "end": 23,
+                "expanded_url": "https://polymarket.com",
+                "start": 0,
+                "url": "https://t.co/y7MlcXSXjm"
+              }
+            ]
+          }
+        },
+        "id": "1938262633871822848",
+        "name": "Polymarket Money",
+        "pinned_tweet_id": "2011861364529074545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992023020618092544/oixU2_L2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50271,
+          "following_count": 129,
+          "like_count": 2929,
+          "listed_count": 534,
+          "media_count": 973,
+          "tweet_count": 1819
+        },
+        "url": "https://t.co/y7MlcXSXjm",
+        "username": "PolymarketMoney",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-27T01:06:24.000Z",
+        "description": "Baddies of @Polymarket 🩷 \nJoin our Telegram: https://t.co/TNyBIjmXui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "Polymarket"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/BaddiesOnPM",
+                "end": 68,
+                "expanded_url": "https://t.me/BaddiesOnPM",
+                "start": 45,
+                "url": "https://t.co/TNyBIjmXui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "polymarket.com",
+                "end": 23,
+                "expanded_url": "http://polymarket.com",
+                "start": 0,
+                "url": "https://t.co/aYuRT6ypQG"
+              }
+            ]
+          }
+        },
+        "id": "1971742954391064577",
+        "location": "Polymarket",
+        "name": "PolyBaddies",
+        "pinned_tweet_id": "1977812735615492378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984018430417092611/G6Tqc-z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5286,
+          "following_count": 416,
+          "like_count": 5268,
+          "listed_count": 74,
+          "media_count": 157,
+          "tweet_count": 1142
+        },
+        "url": "https://t.co/aYuRT6ypQG",
+        "username": "PolyBaddies",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-27T17:56:02.000Z",
+        "description": "ZSC DAO is an organization building tools & community resources to bring Polymarket into the everyday lexicon.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zscdao.com",
+                "end": 23,
+                "expanded_url": "https://zscdao.com/",
+                "start": 0,
+                "url": "https://t.co/ZT8YkIrrvq"
+              }
+            ]
+          }
+        },
+        "id": "1607797430010920960",
+        "location": "Polymarket",
+        "name": "zerosupercycle",
+        "pinned_tweet_id": "2007494736278659457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007517758884347904/SYM4PQer_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7607,
+          "following_count": 187,
+          "like_count": 10848,
+          "listed_count": 167,
+          "media_count": 56,
+          "tweet_count": 1553
+        },
+        "url": "https://t.co/ZT8YkIrrvq",
+        "username": "zscdao",
+        "verified": true
+      }
+    ]
+  }
+}

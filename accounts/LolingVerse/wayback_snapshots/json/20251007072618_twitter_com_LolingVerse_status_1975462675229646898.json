@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975161235302711296"
+      ],
+      "media_source_tweet_id": [
+        "1975161273412092243"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1975462675229646898",
+    "created_at": "2025-10-07T07:26:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T08:26:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975462675229646898"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 30,
+          "tag": "お酒絵"
+        },
+        {
+          "end": 45,
+          "start": 35,
+          "tag": "kanpainik"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1778333314694139904",
+          "start": 3,
+          "username": "FluffyCataaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aa7oDFFBtV",
+          "end": 69,
+          "expanded_url": "https://x.com/FluffyCataaa/status/1975161273412092243/photo/1",
+          "media_key": "3_1975161235302711296",
+          "start": 46,
+          "url": "https://t.co/aa7oDFFBtV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975462675229646898",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 814
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975161273412092243",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FluffyCataaa: Going feral #お酒絵 #kanpainik https://t.co/aa7oDFFBtV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3724,
+        "media_key": "3_1975161235302711296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2kurbxXAAAcFjf.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975161235302711296"
+          ],
+          "media_source_tweet_id": [
+            "1975161273412092243"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1975462675229646898",
+        "created_at": "2025-10-07T07:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T08:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975462675229646898"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "お酒絵"
+            },
+            {
+              "end": 45,
+              "start": 35,
+              "tag": "kanpainik"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1778333314694139904",
+              "start": 3,
+              "username": "FluffyCataaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aa7oDFFBtV",
+              "end": 69,
+              "expanded_url": "https://x.com/FluffyCataaa/status/1975161273412092243/photo/1",
+              "media_key": "3_1975161235302711296",
+              "start": 46,
+              "url": "https://t.co/aa7oDFFBtV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975462675229646898",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 814
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975161273412092243",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FluffyCataaa: Going feral #お酒絵 #kanpainik https://t.co/aa7oDFFBtV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975161235302711296"
+          ]
+        },
+        "author_id": "1778333314694139904",
+        "conversation_id": "1975161273412092243",
+        "created_at": "2025-10-06T11:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T12:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975161273412092243"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "kanpainik",
+              "probability": 0.3434,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "お酒絵"
+            },
+            {
+              "end": 27,
+              "start": 17,
+              "tag": "kanpainik"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aa7oDFFBtV",
+              "end": 51,
+              "expanded_url": "https://x.com/FluffyCataaa/status/1975161273412092243/photo/1",
+              "media_key": "3_1975161235302711296",
+              "start": 28,
+              "url": "https://t.co/aa7oDFFBtV"
+            },
+            {
+              "display_url": "x.com/FluffyCataaa/s…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/FluffyCataaa/status/1975118784613753165",
+              "start": 52,
+              "url": "https://t.co/L8JVua79jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975161273412092243",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1249,
+          "impression_count": 157219,
+          "like_count": 11354,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 814
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975118784613753165",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Going feral #お酒絵 #kanpainik https://t.co/aa7oDFFBtV https://t.co/L8JVua79jp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "『可怜楼上月徘徊，应照离人妆镜台』\n『身世浮沉雨打萍……一山放出一山拦』\n可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TMO0"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 71,
+          "like_count": 2563,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 1332
+        },
+        "url": "https://t.co/Dggtj9TMO0",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T08:04:44.000Z",
+        "description": "My goal in life is to be an anime girl\n\nI draw girls wearing minion bikinis and other stuff \n\nENG/SPA/ITA",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fluffylotusart.carrd.co",
+                "end": 23,
+                "expanded_url": "http://fluffylotusart.carrd.co",
+                "start": 0,
+                "url": "https://t.co/Gvha2NzKPQ"
+              }
+            ]
+          }
+        },
+        "id": "1778333314694139904",
+        "location": "Vice City 1986",
+        "name": "✨Fluffy Commissions open✨",
+        "pinned_tweet_id": "1969952170272542977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955375916164468736/i1RLtsCM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6286,
+          "following_count": 500,
+          "like_count": 36181,
+          "listed_count": 29,
+          "media_count": 987,
+          "tweet_count": 2171
+        },
+        "url": "https://t.co/Gvha2NzKPQ",
+        "username": "FluffyCataaa",
+        "verified": false
+      }
+    ]
+  }
+}

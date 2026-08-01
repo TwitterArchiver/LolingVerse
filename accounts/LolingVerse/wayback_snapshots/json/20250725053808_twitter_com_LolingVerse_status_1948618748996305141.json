@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947594461942534144"
+      ],
+      "media_source_tweet_id": [
+        "1948073123733008839"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1948618748996305141",
+    "created_at": "2025-07-25T05:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T06:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948618748996305141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1853467748988338177",
+          "start": 3,
+          "username": "everyday_fox"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AdAMuMyT2y",
+          "end": 41,
+          "expanded_url": "https://x.com/everyday_fox/status/1948073123733008839/photo/1",
+          "media_key": "3_1947594461942534144",
+          "start": 18,
+          "url": "https://t.co/AdAMuMyT2y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948618748996305141",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948073123733008839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @everyday_fox: https://t.co/AdAMuMyT2y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 412,
+        "media_key": "3_1947594461942534144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwc-2CaaUAAUroI.jpg",
+        "width": 550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947594461942534144"
+          ],
+          "media_source_tweet_id": [
+            "1948073123733008839"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1948618748996305141",
+        "created_at": "2025-07-25T05:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T06:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948618748996305141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853467748988338177",
+              "start": 3,
+              "username": "everyday_fox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AdAMuMyT2y",
+              "end": 41,
+              "expanded_url": "https://x.com/everyday_fox/status/1948073123733008839/photo/1",
+              "media_key": "3_1947594461942534144",
+              "start": 18,
+              "url": "https://t.co/AdAMuMyT2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948618748996305141",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948073123733008839",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @everyday_fox: https://t.co/AdAMuMyT2y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947594461942534144"
+          ]
+        },
+        "author_id": "1853467748988338177",
+        "conversation_id": "1948073123733008839",
+        "created_at": "2025-07-23T17:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T18:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948073123733008839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AdAMuMyT2y",
+              "end": 23,
+              "expanded_url": "https://x.com/everyday_fox/status/1948073123733008839/photo/1",
+              "media_key": "3_1947594461942534144",
+              "start": 0,
+              "url": "https://t.co/AdAMuMyT2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948073123733008839",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 14460,
+          "like_count": 721,
+          "quote_count": 13,
+          "reply_count": 36,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AdAMuMyT2y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 64,
+          "like_count": 1778,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 861
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-04T16:02:22.000Z",
+        "description": "Assemble for everything Fox related! 🦊",
+        "id": "1853467748988338177",
+        "name": "Fox Everyday",
+        "pinned_tweet_id": "1942426304370073981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941538694579810304/fu3uXXmu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1991,
+          "following_count": 5,
+          "like_count": 7599,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 9274
+        },
+        "username": "everyday_fox",
+        "verified": true
+      }
+    ]
+  }
+}

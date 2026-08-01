@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2065309811248705706",
+    "created_at": "2026-06-12T10:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065388040600830025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "123617511",
+          "start": 0,
+          "username": "fexisnpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065388040600830025",
+    "in_reply_to_user_id": "123617511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065309811248705706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fexisnpc 这个好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2065309370746036224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlz7iKaYAA2g2g.jpg",
+        "width": 663
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2065309811248705706",
+        "created_at": "2026-06-12T10:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065388040600830025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "123617511",
+              "start": 0,
+              "username": "fexisnpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065388040600830025",
+        "in_reply_to_user_id": "123617511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065309811248705706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fexisnpc 这个好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065309370746036224"
+          ]
+        },
+        "author_id": "123617511",
+        "conversation_id": "2065309811248705706",
+        "created_at": "2026-06-12T05:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065309811248705706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mFIxq0WU8K",
+              "end": 147,
+              "expanded_url": "https://x.com/fexisnpc/status/2065309811248705706/photo/1",
+              "media_key": "3_2065309370746036224",
+              "start": 124,
+              "url": "https://t.co/mFIxq0WU8K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065309811248705706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1336,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "试了下瑞幸的MCP，大概唯一的问题是switchProduct的operation的值必须是3非常坑，这东西只有官网上的文档有写，其他任何地方都没提，所以agent不去看官网上的文档是不可能知道的，但是agent就是不去看官网，还得我去看了告诉它 https://t.co/mFIxq0WU8K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZFvr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZFvr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster 和另外 114514 人",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 148,
+          "like_count": 21676,
+          "listed_count": 3,
+          "media_count": 279,
+          "tweet_count": 3796
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-16T17:30:58.000Z",
+        "description": "OC设定来自夢夢 @Yayoi_no_yume\n本体是老年肥宅胶佬 aka. 入土二次元\n不要被推文的假象欺骗了实际是超级班味儿老登\n学院路某校基础医学PhD，已退圈——目前不从事科研\n老婆@Kirashmily33\n中医黑，华为黑，厌蠢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "Yayoi_no_yume"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Kirashmily33"
+              }
+            ]
+          }
+        },
+        "id": "123617511",
+        "location": "Sanctuary",
+        "name": "MonoFevc",
+        "pinned_tweet_id": "2004123312579059745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061290249788272640/4JxrrbLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 1179,
+          "like_count": 35116,
+          "listed_count": 8,
+          "media_count": 3733,
+          "tweet_count": 20349
+        },
+        "username": "fexisnpc",
+        "verified": false
+      }
+    ]
+  }
+}

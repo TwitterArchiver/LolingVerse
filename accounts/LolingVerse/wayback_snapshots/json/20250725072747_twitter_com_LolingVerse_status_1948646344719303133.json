@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948020725161644032"
+      ],
+      "media_source_tweet_id": [
+        "1948352715375153351"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1948646344719303133",
+    "created_at": "2025-07-25T07:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T08:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948646344719303133"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "Grumpy Girl",
+          "probability": 0.7797,
+          "start": 13,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "930084252758065153",
+          "start": 3,
+          "username": "Genzoh1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wduv3hTQfE",
+          "end": 48,
+          "expanded_url": "https://x.com/Genzoh1/status/1948352715375153351/photo/1",
+          "media_key": "3_1948020725161644032",
+          "start": 25,
+          "url": "https://t.co/Wduv3hTQfE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948646344719303133",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948352715375153351",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Genzoh1: Grumpy Girl https://t.co/Wduv3hTQfE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1948020725161644032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwjCh0pb0AAudAi.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948020725161644032"
+          ],
+          "media_source_tweet_id": [
+            "1948352715375153351"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1948646344719303133",
+        "created_at": "2025-07-25T07:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T08:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948646344719303133"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Grumpy Girl",
+              "probability": 0.7797,
+              "start": 13,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "930084252758065153",
+              "start": 3,
+              "username": "Genzoh1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wduv3hTQfE",
+              "end": 48,
+              "expanded_url": "https://x.com/Genzoh1/status/1948352715375153351/photo/1",
+              "media_key": "3_1948020725161644032",
+              "start": 25,
+              "url": "https://t.co/Wduv3hTQfE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948646344719303133",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948352715375153351",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Genzoh1: Grumpy Girl https://t.co/Wduv3hTQfE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948020725161644032"
+          ]
+        },
+        "author_id": "930084252758065153",
+        "conversation_id": "1948352715375153351",
+        "created_at": "2025-07-24T12:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T13:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948352715375153351"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Grumpy Girl",
+              "probability": 0.789,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wduv3hTQfE",
+              "end": 35,
+              "expanded_url": "https://x.com/Genzoh1/status/1948352715375153351/photo/1",
+              "media_key": "3_1948020725161644032",
+              "start": 12,
+              "url": "https://t.co/Wduv3hTQfE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948352715375153351",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 3514,
+          "like_count": 336,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "Grumpy Girl https://t.co/Wduv3hTQfE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 64,
+          "like_count": 1781,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 863
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-13T14:45:40.000Z",
+        "description": "「シンギュラリティを楽しもう」をコンセプトに、GenAIで遊んでいます！ 時代の流れが速すぎる..\nI’m having fun w/ GenAI under the concept of \"Enjoy the Singularity!\" The tide of the times is just too fast..",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/genzoh",
+                "end": 23,
+                "expanded_url": "https://lit.link/genzoh",
+                "start": 0,
+                "url": "https://t.co/c4o9DRvmwp"
+              }
+            ]
+          }
+        },
+        "id": "930084252758065153",
+        "location": "東京",
+        "name": "Genzoh",
+        "pinned_tweet_id": "1948245666293314001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900766210201186305/QdNJQhj8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21027,
+          "following_count": 2495,
+          "like_count": 26029,
+          "listed_count": 0,
+          "media_count": 3239,
+          "tweet_count": 14929
+        },
+        "url": "https://t.co/c4o9DRvmwp",
+        "username": "Genzoh1",
+        "verified": true
+      }
+    ]
+  }
+}

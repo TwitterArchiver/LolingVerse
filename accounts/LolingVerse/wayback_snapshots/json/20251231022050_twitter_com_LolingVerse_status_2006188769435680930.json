@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006021011209338881"
+      ],
+      "media_source_tweet_id": [
+        "2006021020306551182"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2006188769435680930",
+    "created_at": "2025-12-31T02:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T03:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006188769435680930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xMAenkNhFZ",
+          "end": 49,
+          "expanded_url": "https://x.com/hgds0/status/2006021020306551182/photo/1",
+          "media_key": "3_2006021011209338881",
+          "start": 26,
+          "url": "https://t.co/xMAenkNhFZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006188769435680930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 585
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006021020306551182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: 一辈子只能发一次的图，干杯！ https://t.co/xMAenkNhFZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2006021011209338881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9bRezkaQAE38C1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006021011209338881"
+          ],
+          "media_source_tweet_id": [
+            "2006021020306551182"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2006188769435680930",
+        "created_at": "2025-12-31T02:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T03:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006188769435680930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xMAenkNhFZ",
+              "end": 49,
+              "expanded_url": "https://x.com/hgds0/status/2006021020306551182/photo/1",
+              "media_key": "3_2006021011209338881",
+              "start": 26,
+              "url": "https://t.co/xMAenkNhFZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006188769435680930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 585
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006021020306551182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: 一辈子只能发一次的图，干杯！ https://t.co/xMAenkNhFZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006021011209338881"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2006021020306551182",
+        "created_at": "2025-12-30T15:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T16:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006021020306551182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xMAenkNhFZ",
+              "end": 38,
+              "expanded_url": "https://x.com/hgds0/status/2006021020306551182/photo/1",
+              "media_key": "3_2006021011209338881",
+              "start": 15,
+              "url": "https://t.co/xMAenkNhFZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006021020306551182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 207,
+          "impression_count": 155785,
+          "like_count": 5071,
+          "quote_count": 18,
+          "reply_count": 64,
+          "retweet_count": 585
+        },
+        "reply_settings": "everyone",
+        "text": "一辈子只能发一次的图，干杯！ https://t.co/xMAenkNhFZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153/48 | 没诗硬吟  | Fox | 另一只猫猫 @YekaseSuiso2022\n\n走过路过不要错过，填写一下《无处方HRT与医疗指导下规范HRT对中国跨性别女性抑郁和自杀意念的调节效应》喵！https://t.co/jqMkTpm2m5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "YekaseSuiso2022"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "suiso.kawaiis.in/researchs/h",
+                "end": 148,
+                "expanded_url": "http://suiso.kawaiis.in/researchs/h",
+                "start": 125,
+                "url": "https://t.co/jqMkTpm2m5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Suism.洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 91,
+          "like_count": 5558,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1942
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96080,
+          "following_count": 2609,
+          "like_count": 43893,
+          "listed_count": 137,
+          "media_count": 3481,
+          "tweet_count": 7826
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

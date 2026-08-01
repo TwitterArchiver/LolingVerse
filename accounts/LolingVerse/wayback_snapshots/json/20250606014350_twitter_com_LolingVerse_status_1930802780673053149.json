@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930601623572942848"
+      ],
+      "media_source_tweet_id": [
+        "1930603563765395550"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1930802780673053149",
+    "created_at": "2025-06-06T01:43:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T02:43:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930802780673053149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "961777541697581056",
+          "start": 3,
+          "username": "Azsn10"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iE8srLRflo",
+          "end": 35,
+          "expanded_url": "https://x.com/Azsn10/status/1930603563765395550/photo/1",
+          "media_key": "3_1930601623572942848",
+          "start": 12,
+          "url": "https://t.co/iE8srLRflo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930802780673053149",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 256
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930603563765395550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Azsn10: https://t.co/iE8srLRflo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1930601623572942848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsrf8qfbkAAPKsM.jpg",
+        "width": 2300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930601623572942848"
+          ],
+          "media_source_tweet_id": [
+            "1930603563765395550"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1930802780673053149",
+        "created_at": "2025-06-06T01:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T02:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930802780673053149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "961777541697581056",
+              "start": 3,
+              "username": "Azsn10"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iE8srLRflo",
+              "end": 35,
+              "expanded_url": "https://x.com/Azsn10/status/1930603563765395550/photo/1",
+              "media_key": "3_1930601623572942848",
+              "start": 12,
+              "url": "https://t.co/iE8srLRflo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930802780673053149",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 256
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930603563765395550",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Azsn10: https://t.co/iE8srLRflo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930601623572942848"
+          ]
+        },
+        "author_id": "961777541697581056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1930603563765395550",
+        "created_at": "2025-06-05T12:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T13:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930603563765395550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iE8srLRflo",
+              "end": 23,
+              "expanded_url": "https://x.com/Azsn10/status/1930603563765395550/photo/1",
+              "media_key": "3_1930601623572942848",
+              "start": 0,
+              "url": "https://t.co/iE8srLRflo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930603563765395550",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 31982,
+          "like_count": 2014,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 256
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iE8srLRflo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 62,
+          "like_count": 1235,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 584
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-09T01:43:29.000Z",
+        "description": "Illustrator ▽創作 (現代的×民族風ファッション) ▽Skeb：https://t.co/91vjqRvZQm ▽FANBOX：https://t.co/LjlcsrJvsj ⚠絵の使用・転載等は禁止 (Don't use my artworks.)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Azsn10",
+                "end": 61,
+                "expanded_url": "http://skeb.jp/@Azsn10",
+                "start": 38,
+                "url": "https://t.co/91vjqRvZQm"
+              },
+              {
+                "display_url": "azsn10.fanbox.cc",
+                "end": 93,
+                "expanded_url": "https://azsn10.fanbox.cc/",
+                "start": 70,
+                "url": "https://t.co/LjlcsrJvsj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fanme.link/@azsn10_",
+                "end": 23,
+                "expanded_url": "https://fanme.link/@azsn10_",
+                "start": 0,
+                "url": "https://t.co/mRcIF0kApN"
+              }
+            ]
+          }
+        },
+        "id": "961777541697581056",
+        "location": "連絡先⇒ aza04151011@gmail.com",
+        "name": "Az ii",
+        "pinned_tweet_id": "1930603563765395550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588493306916646912/piPGvH4w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72549,
+          "following_count": 171,
+          "like_count": 4122,
+          "listed_count": 769,
+          "media_count": 85,
+          "tweet_count": 6910
+        },
+        "url": "https://t.co/mRcIF0kApN",
+        "username": "Azsn10",
+        "verified": false
+      }
+    ]
+  }
+}

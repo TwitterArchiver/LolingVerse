@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1949759707025215751",
+    "created_at": "2025-07-28T10:38:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T11:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949781468122644902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1816082073863815168",
+          "start": 0,
+          "username": "MrZ1evel"
+        },
+        {
+          "end": 15,
+          "id": "1720665183188922368",
+          "start": 10,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949781468122644902",
+    "in_reply_to_user_id": "1816082073863815168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949759707025215751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MrZ1evel @grok 主义主义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1949759707025215751",
+        "created_at": "2025-07-28T10:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T11:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949781468122644902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1816082073863815168",
+              "start": 0,
+              "username": "MrZ1evel"
+            },
+            {
+              "end": 15,
+              "id": "1720665183188922368",
+              "start": 10,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949781468122644902",
+        "in_reply_to_user_id": "1816082073863815168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949759707025215751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MrZ1evel @grok 主义主义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816082073863815168",
+        "conversation_id": "1949759707025215751",
+        "created_at": "2025-07-28T09:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T10:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949759707025215751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949759707025215751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "根据我的推文，判断我是什么主义@grok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949506352654729216/PQtgxbMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 64,
+          "like_count": 1867,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 917
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T12:04:53.000Z",
+        "description": "Puff-shroom",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.ms/MrZ1evelChating",
+                "end": 23,
+                "expanded_url": "http://note.ms/MrZ1evelChating",
+                "start": 0,
+                "url": "https://t.co/tafh5spRHV"
+              }
+            ]
+          }
+        },
+        "id": "1816082073863815168",
+        "location": "People's Republic of China",
+        "name": "MrZ1evel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949515245120348160/Jc0h1wxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 118,
+          "like_count": 5733,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 405
+        },
+        "url": "https://t.co/tafh5spRHV",
+        "username": "MrZ1evel",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5582627,
+          "following_count": 3,
+          "like_count": 73,
+          "listed_count": 4506,
+          "media_count": 2406183,
+          "tweet_count": 28427213
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

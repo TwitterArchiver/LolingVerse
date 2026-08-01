@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980540878524387329",
+        "3_1980540878541201408",
+        "3_1980540878537035776"
+      ],
+      "media_source_tweet_id": [
+        "1980540888804978782",
+        "1980540888804978782",
+        "1980540888804978782"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1980626929482138005",
+    "created_at": "2025-10-21T13:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T14:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980626929482138005"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 15,
+          "tag": "贞操锁"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1800513274322337792",
+          "start": 3,
+          "username": "Li_just77"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h2uq0zpmQm",
+          "end": 102,
+          "expanded_url": "https://x.com/Li_just77/status/1980540888804978782/photo/1",
+          "media_key": "3_1980540878524387329",
+          "start": 79,
+          "url": "https://t.co/h2uq0zpmQm"
+        },
+        {
+          "display_url": "pic.x.com/h2uq0zpmQm",
+          "end": 102,
+          "expanded_url": "https://x.com/Li_just77/status/1980540888804978782/photo/1",
+          "media_key": "3_1980540878541201408",
+          "start": 79,
+          "url": "https://t.co/h2uq0zpmQm"
+        },
+        {
+          "display_url": "pic.x.com/h2uq0zpmQm",
+          "end": 102,
+          "expanded_url": "https://x.com/Li_just77/status/1980540888804978782/photo/1",
+          "media_key": "3_1980540878537035776",
+          "start": 79,
+          "url": "https://t.co/h2uq0zpmQm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980626929482138005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980540888804978782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Li_just77: #贞操锁\n点赞评论转发抽2套双生锁噢~\n戴上以后就更像女孩子辣！\n导尿管和贞操锁连体设计，尿尿只能从小穴中流出，真是太涩情了🥵 https://t.co/h2uq0zpmQm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1980626929482138005].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1980626929482138005",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1980626929482138005"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1980540878524387329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3xLb4eWEAEt22f.jpg",
+        "width": 800
+      },
+      {
+        "height": 2022,
+        "media_key": "3_1980540878541201408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3xLb4iWoAAehCC.jpg",
+        "width": 1206
+      },
+      {
+        "height": 800,
+        "media_key": "3_1980540878537035776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3xLb4hXEAAebXs.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980540878524387329",
+            "3_1980540878541201408",
+            "3_1980540878537035776"
+          ]
+        },
+        "author_id": "1800513274322337792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980540888804978782",
+        "created_at": "2025-10-21T07:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T08:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980540888804978782"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "贞操锁"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h2uq0zpmQm",
+              "end": 87,
+              "expanded_url": "https://x.com/Li_just77/status/1980540888804978782/photo/1",
+              "media_key": "3_1980540878524387329",
+              "start": 64,
+              "url": "https://t.co/h2uq0zpmQm"
+            },
+            {
+              "display_url": "pic.x.com/h2uq0zpmQm",
+              "end": 87,
+              "expanded_url": "https://x.com/Li_just77/status/1980540888804978782/photo/1",
+              "media_key": "3_1980540878541201408",
+              "start": 64,
+              "url": "https://t.co/h2uq0zpmQm"
+            },
+            {
+              "display_url": "pic.x.com/h2uq0zpmQm",
+              "end": 87,
+              "expanded_url": "https://x.com/Li_just77/status/1980540888804978782/photo/1",
+              "media_key": "3_1980540878537035776",
+              "start": 64,
+              "url": "https://t.co/h2uq0zpmQm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980540888804978782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 7835,
+          "like_count": 262,
+          "quote_count": 1,
+          "reply_count": 111,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "#贞操锁\n点赞评论转发抽2套双生锁噢~\n戴上以后就更像女孩子辣！\n导尿管和贞操锁连体设计，尿尿只能从小穴中流出，真是太涩情了🥵 https://t.co/h2uq0zpmQm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "『可怜楼上月徘徊，应照离人妆镜台』\n『身世浮沉雨打萍……一山放出一山拦』\n可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TMO0"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 74,
+          "like_count": 3023,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1447
+        },
+        "url": "https://t.co/Dggtj9TMO0",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-11T13:00:03.000Z",
+        "description": "致力于研究各种好看优质的情趣用品，有需要可以联系v: Sugar_beet1   合作推广，寄拍请私信噢🍤",
+        "id": "1800513274322337792",
+        "location": "中国🇨🇳",
+        "name": "Sugar beet 甜菜",
+        "pinned_tweet_id": "1968242959125786648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801296732351041539/MpFzL997_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17682,
+          "following_count": 94,
+          "like_count": 107,
+          "listed_count": 46,
+          "media_count": 82,
+          "tweet_count": 334
+        },
+        "username": "Li_just77",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2081549264103313695",
+    "created_at": "2026-07-28T21:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T22:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082211521409815033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1228804651",
+          "start": 0,
+          "username": "Dennyho2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082211521409815033",
+    "in_reply_to_user_id": "1228804651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081635734004609422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dennyho2 不，只是看看各个中转站能不能复刻这种德国支付，这回Claude没蹬够fable，上一轮则是x premium赠送"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2081549264103313695",
+        "created_at": "2026-07-28T21:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T22:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082211521409815033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1228804651",
+              "start": 0,
+              "username": "Dennyho2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082211521409815033",
+        "in_reply_to_user_id": "1228804651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081635734004609422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dennyho2 不，只是看看各个中转站能不能复刻这种德国支付，这回Claude没蹬够fable，上一轮则是x premium赠送"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1228804651",
+        "conversation_id": "2081549264103313695",
+        "created_at": "2026-07-27T07:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081635734004609422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836041585475346432",
+              "start": 0,
+              "username": "LolingVerse"
+            }
+          ],
+          "urls": [
+            {
+              "description": "API-Route is an OpenAI-compatible multi-model AI API gateway. Use one Base URL and API key to call GPT, Claude, Gemini, and other leading models.",
+              "display_url": "api-route.com",
+              "end": 85,
+              "expanded_url": "http://api-route.com",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2080986811288129536/101imGkA?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2080986811288129536/101imGkA?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 62,
+              "status": 200,
+              "title": "One API for the World's Leading AI Models | API-Route",
+              "unwound_url": "https://www.api-route.com/",
+              "url": "https://t.co/zBaRNIGLas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081635734004609422",
+        "in_reply_to_user_id": "1836041585475346432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081549264103313695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LolingVerse 啥？我后端都是用美元的啊。前端只显示当地货币，实际付款是后端自动换汇的，最终结算是美元。欢迎来蹬\nhttps://t.co/zBaRNIGLas"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 163,
+          "like_count": 26687,
+          "listed_count": 4,
+          "media_count": 397,
+          "tweet_count": 4898
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2013-03-01T01:56:57.000Z",
+        "description": "研究各种ai姿势\n欢迎来蹬我的中转站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "api-route.com",
+                "end": 23,
+                "expanded_url": "http://www.api-route.com",
+                "start": 0,
+                "url": "https://t.co/sZqPLgTkXy"
+              }
+            ]
+          }
+        },
+        "id": "1228804651",
+        "location": "仙女座群星环",
+        "name": "DennyHo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977742237464514560/VQoFS3g7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 172,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 856
+        },
+        "url": "https://t.co/sZqPLgTkXy",
+        "username": "Dennyho2",
+        "verified": true
+      }
+    ]
+  }
+}

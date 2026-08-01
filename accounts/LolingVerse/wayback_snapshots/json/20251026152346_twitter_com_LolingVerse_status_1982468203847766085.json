@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1982449819903037855",
+    "created_at": "2025-10-26T15:23:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T16:23:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982468203847766085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1360161759257104384",
+          "start": 0,
+          "username": "AspiLin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982468203847766085",
+    "in_reply_to_user_id": "1360161759257104384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982449819903037855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AspiLin0 非"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1982449819903037855].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1982449819903037855",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1982449819903037855"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1982449819903037855",
+        "created_at": "2025-10-26T15:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T16:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982468203847766085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982468203847766085",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982449819903037855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 非"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "『可怜楼上月徘徊，应照离人妆镜台』\n『身世浮沉雨打萍……一山放出一山拦』\n可爱赞美者，世界探索者 | \n155/47 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TeYs"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 距你 2.718 km",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 74,
+          "like_count": 3262,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1507
+        },
+        "url": "https://t.co/Dggtj9TeYs",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 505,
+          "like_count": 13373,
+          "listed_count": 3,
+          "media_count": 293,
+          "tweet_count": 3419
+        },
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

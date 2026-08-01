@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968065322214117376"
+      ],
+      "media_source_tweet_id": [
+        "1968065325800493249"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1968337057329389738",
+    "created_at": "2025-09-17T15:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T16:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968337057329389738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1353169870691549184",
+          "start": 3,
+          "username": "iPaulCanada"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k3ENRSTLAH",
+          "end": 51,
+          "expanded_url": "https://x.com/iPaulCanada/status/1968065325800493249/photo/1",
+          "media_key": "3_1968065322214117376",
+          "start": 28,
+          "url": "https://t.co/k3ENRSTLAH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968337057329389738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 177
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968065325800493249",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iPaulCanada: 本质上还是996的锅 https://t.co/k3ENRSTLAH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1484,
+        "media_key": "3_1968065322214117376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0_4-7lWUAAV__z.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968065322214117376"
+          ],
+          "media_source_tweet_id": [
+            "1968065325800493249"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1968337057329389738",
+        "created_at": "2025-09-17T15:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T16:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968337057329389738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353169870691549184",
+              "start": 3,
+              "username": "iPaulCanada"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k3ENRSTLAH",
+              "end": 51,
+              "expanded_url": "https://x.com/iPaulCanada/status/1968065325800493249/photo/1",
+              "media_key": "3_1968065322214117376",
+              "start": 28,
+              "url": "https://t.co/k3ENRSTLAH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968337057329389738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 177
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968065325800493249",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iPaulCanada: 本质上还是996的锅 https://t.co/k3ENRSTLAH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968065322214117376"
+          ]
+        },
+        "author_id": "1353169870691549184",
+        "conversation_id": "1968065325800493249",
+        "created_at": "2025-09-16T21:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T22:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968065325800493249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k3ENRSTLAH",
+              "end": 34,
+              "expanded_url": "https://x.com/iPaulCanada/status/1968065325800493249/photo/1",
+              "media_key": "3_1968065322214117376",
+              "start": 11,
+              "url": "https://t.co/k3ENRSTLAH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968065325800493249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 225,
+          "impression_count": 227585,
+          "like_count": 1907,
+          "quote_count": 5,
+          "reply_count": 50,
+          "retweet_count": 177
+        },
+        "reply_settings": "everyone",
+        "text": "本质上还是996的锅 https://t.co/k3ENRSTLAH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "『可怜楼上月徘徊，应照离人妆镜台』\n『今朝剑指叠云处……一山放出一山拦』\n可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TMO0"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 70,
+          "like_count": 2372,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1219
+        },
+        "url": "https://t.co/Dggtj9TMO0",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-24T02:37:27.000Z",
+        "description": "自由万岁",
+        "id": "1353169870691549184",
+        "location": "Canada",
+        "name": "iPaul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353172142502809601/a03iLOp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139977,
+          "following_count": 506,
+          "like_count": 7504,
+          "listed_count": 583,
+          "media_count": 9656,
+          "tweet_count": 15993
+        },
+        "username": "iPaulCanada",
+        "verified": true
+      }
+    ]
+  }
+}

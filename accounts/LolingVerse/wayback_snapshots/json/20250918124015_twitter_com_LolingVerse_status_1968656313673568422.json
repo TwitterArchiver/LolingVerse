@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1964313254529814606",
+    "created_at": "2025-09-18T12:40:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T13:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968656313673568422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1360161759257104384",
+          "start": 0,
+          "username": "AspiLin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968656313673568422",
+    "in_reply_to_user_id": "1360161759257104384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964313254529814606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AspiLin0 如果某个割手力度是不会让人感到不快的，在此之上增加一个极轻的力度是同样不会让人感到不快的\n\n如何实现呢👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1964313254529814606",
+        "created_at": "2025-09-18T12:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T13:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968656313673568422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968656313673568422",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964313254529814606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 如果某个割手力度是不会让人感到不快的，在此之上增加一个极轻的力度是同样不会让人感到不快的\n\n如何实现呢👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1964313254529814606",
+        "created_at": "2025-09-06T13:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T14:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964313254529814606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964313254529814606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 658,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "割手悖论：\n1）用刀片在手上极轻的掠过几乎是不会感到不快的\n2）如果某个割手力度是不会让人感到不快的，在此之上增加一个极轻的力度是同样不会让人感到不快的\n3）由1）、2）递推可得，所有的割手都不会让人感到不快"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "『可怜楼上月徘徊，应照离人妆镜台』\n『今朝剑指叠云处……一山放出一山拦』\n可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TMO0"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 70,
+          "like_count": 2379,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1223
+        },
+        "url": "https://t.co/Dggtj9TMO0",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 490,
+          "like_count": 12987,
+          "listed_count": 4,
+          "media_count": 270,
+          "tweet_count": 3264
+        },
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

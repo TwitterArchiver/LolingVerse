@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2069620685681598863",
+    "created_at": "2026-06-24T03:30:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T04:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069624127376515447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1867207378774753280",
+          "start": 0,
+          "username": "Olive718390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069624127376515447",
+    "in_reply_to_user_id": "1867207378774753280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069620685681598863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Olive718390 抱抱小橄榄🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2069620685681598863].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2069620685681598863",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2069620685681598863"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2069620685681598863",
+        "created_at": "2026-06-24T03:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069624127376515447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1867207378774753280",
+              "start": 0,
+              "username": "Olive718390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069624127376515447",
+        "in_reply_to_user_id": "1867207378774753280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069620685681598863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olive718390 抱抱小橄榄🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 153,
+          "like_count": 22778,
+          "listed_count": 3,
+          "media_count": 299,
+          "tweet_count": 4040
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-12T13:58:35.000Z",
+        "description": "记录变化 ；mtx；183/120；可以叫我小榄；血图转发 @yan_kenno",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "yan_kenno"
+              }
+            ]
+          }
+        },
+        "id": "1867207378774753280",
+        "name": "Olive",
+        "pinned_tweet_id": "1877546970006319107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870479803410960384/xxMn_OB-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 1201,
+          "like_count": 43967,
+          "listed_count": 10,
+          "media_count": 356,
+          "tweet_count": 3344
+        },
+        "url": "",
+        "username": "Olive718390",
+        "verified": false
+      }
+    ]
+  }
+}

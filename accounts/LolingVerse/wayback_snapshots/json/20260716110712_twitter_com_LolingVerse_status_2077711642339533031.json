@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2077279129263886695",
+    "created_at": "2026-07-16T11:07:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T12:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077711642339533031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2027569321023836162",
+          "start": 0,
+          "username": "kiguur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077711642339533031",
+    "in_reply_to_user_id": "2027569321023836162",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077279129263886695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiguur 好哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077279117947629568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNP6WhSa8AAUjfT.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077279117956030464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNP6WhUbIAAkHIE.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2077279129263886695",
+        "created_at": "2026-07-16T11:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077711642339533031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2027569321023836162",
+              "start": 0,
+              "username": "kiguur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077711642339533031",
+        "in_reply_to_user_id": "2027569321023836162",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077279129263886695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiguur 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077279117947629568",
+            "3_2077279117956030464"
+          ]
+        },
+        "author_id": "2027569321023836162",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2077279129263886695",
+        "created_at": "2026-07-15T06:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077279129263886695"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 118,
+              "tag": "kigurumi"
+            }
+          ],
+          "urls": [
+            {
+              "description": "KIG.TO 随机短链生成器",
+              "display_url": "kig.to",
+              "end": 48,
+              "expanded_url": "http://kig.to",
+              "start": 25,
+              "status": 200,
+              "title": "KIG.TO - 短链",
+              "unwound_url": "http://kig.to",
+              "url": "https://t.co/f61TZDG5VX"
+            },
+            {
+              "display_url": "pic.x.com/WSAXCZTwCQ",
+              "end": 151,
+              "expanded_url": "https://x.com/kiguur/status/2077279129263886695/photo/1",
+              "media_key": "3_2077279117947629568",
+              "start": 128,
+              "url": "https://t.co/WSAXCZTwCQ"
+            },
+            {
+              "display_url": "pic.x.com/WSAXCZTwCQ",
+              "end": 151,
+              "expanded_url": "https://x.com/kiguur/status/2077279129263886695/photo/1",
+              "media_key": "3_2077279117956030464",
+              "start": 128,
+              "url": "https://t.co/WSAXCZTwCQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077279129263886695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 7685,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "使用codex用了3个小时开发了一个短链接生成器：https://t.co/f61TZDG5VX，依托于github和cloudflare 😎，codex开发完又手把手教部署，真不错。做名片之类的会很方便（kig无关链接将被定期清理）\n#kigurumi https://t.co/WSAXCZTwCQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 163,
+          "like_count": 25165,
+          "listed_count": 4,
+          "media_count": 356,
+          "tweet_count": 4600
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-28T02:32:09.000Z",
+        "description": "kigurumi\n萌新（？\n清水（？\n扶她（@kigero18",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "kigero18"
+              }
+            ]
+          }
+        },
+        "id": "2027569321023836162",
+        "name": "UUR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058890647101386752/ISeOVJlq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 211,
+          "like_count": 481,
+          "listed_count": 3,
+          "media_count": 15,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "kiguur",
+        "verified": false
+      }
+    ]
+  }
+}

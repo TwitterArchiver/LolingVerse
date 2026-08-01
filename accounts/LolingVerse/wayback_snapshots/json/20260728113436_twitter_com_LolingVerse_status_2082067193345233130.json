@@ -1,0 +1,442 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2078160365276319826",
+    "created_at": "2026-07-28T11:34:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T12:34:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082067193345233130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2073701393542602753",
+          "start": 0,
+          "username": "Appica_dev"
+        },
+        {
+          "end": 19,
+          "id": "587614785",
+          "start": 12,
+          "username": "source"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082067193345233130",
+    "in_reply_to_user_id": "2073701393542602753",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082065666295701879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Appica_dev @source yes. but this is just the doc of plain text. no instructions and harness"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2078160365276319826",
+        "created_at": "2026-07-28T11:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082067193345233130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2073701393542602753",
+              "start": 0,
+              "username": "Appica_dev"
+            },
+            {
+              "end": 19,
+              "id": "587614785",
+              "start": 12,
+              "username": "source"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082067193345233130",
+        "in_reply_to_user_id": "2073701393542602753",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082065666295701879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Appica_dev @source yes. but this is just the doc of plain text. no instructions and harness"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073701393542602753",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "TXT (투모로우바이투게더)",
+              "id": "1083397690140971008",
+              "name": "TOMORROW X TOGETHER"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "TXT (투모로우바이투게더)",
+              "id": "1083397690140971008",
+              "name": "TOMORROW X TOGETHER"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "TXT (투모로우바이투게더)",
+              "id": "1083397690140971008",
+              "name": "TOMORROW X TOGETHER"
+            }
+          }
+        ],
+        "conversation_id": "2078160365276319826",
+        "created_at": "2026-07-28T11:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082065666295701879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836041585475346432",
+              "start": 0,
+              "username": "LolingVerse"
+            },
+            {
+              "end": 249,
+              "id": "587614785",
+              "start": 242,
+              "username": "source"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "appica.dev/llms.txt",
+              "end": 151,
+              "expanded_url": "http://appica.dev/llms.txt",
+              "start": 128,
+              "status": 200,
+              "unwound_url": "https://appica.dev/llms.txt",
+              "url": "https://t.co/mWy0ZWsNrn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082065666295701879",
+        "in_reply_to_user_id": "1836041585475346432",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 236,
+                "id": "587614785",
+                "start": 229,
+                "username": "source"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "appica.dev/llms.txt",
+                "end": 138,
+                "expanded_url": "http://appica.dev/llms.txt",
+                "start": 115,
+                "url": "https://t.co/c9ImKFRPTN"
+              }
+            ]
+          },
+          "text": "Really appreciate this feedback.\n\nTwo quick questions so we can fix the right thing:\n1. Did you point the agent at https://t.co/c9ImKFRPTN / llms-full.txt, or did you let it browse the docs site directly?\n2. Was your Tailwind v4 @source line set up before the agent started? If the components render unstyled, agents \"fix\" it by writing their own CSS — that's the fastest path to slop, and it's on my docs, not you."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082039555000049719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LolingVerse Really appreciate this feedback.\n\nTwo quick questions so we can fix the right thing:\n1. Did you point the agent at https://t.co/mWy0ZWsNrn / llms-full.txt, or did you let it browse the docs site directly?\n2. Was your Tailwind v4 @source line set up before the agent started? If"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 164,
+          "like_count": 26643,
+          "listed_count": 4,
+          "media_count": 392,
+          "tweet_count": 4883
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-05T09:34:24.000Z",
+        "description": "Open-source UI library for React. \nhttps://t.co/nTMSYxtL4g\n60+ free, polished components built for humans and AI agents.\nShip more. Save time. Burn fewer tokens.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "appica.dev",
+                "end": 58,
+                "expanded_url": "https://appica.dev",
+                "start": 35,
+                "url": "https://t.co/nTMSYxtL4g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "appica.dev",
+                "end": 23,
+                "expanded_url": "https://appica.dev",
+                "start": 0,
+                "url": "https://t.co/nTMSYxtL4g"
+              }
+            ]
+          }
+        },
+        "id": "2073701393542602753",
+        "location": "Global",
+        "name": "Appica",
+        "pinned_tweet_id": "2077470208332034502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077354503645306880/pxHVbcXv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 53,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 26
+        },
+        "url": "https://t.co/nTMSYxtL4g",
+        "username": "Appica_dev",
+        "verified": true
+      },
+      {
+        "created_at": "2012-05-22T16:04:22.000Z",
+        "description": "Projects and process from teams in newsrooms. Security, transparency, design, ethics. From @OpenNews (incubated @mozilla, project @CommunityPrtnrs).",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "OpenNews"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "mozilla"
+              },
+              {
+                "end": 146,
+                "start": 130,
+                "username": "CommunityPrtnrs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "source.opennews.org",
+                "end": 22,
+                "expanded_url": "http://source.opennews.org/",
+                "start": 0,
+                "url": "http://t.co/MnTNkmXWTr"
+              }
+            ]
+          }
+        },
+        "id": "587614785",
+        "name": "OpenNews Source",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2435479093/szvjfuegdy1n2tzxuh6l_normal.gif",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7864,
+          "following_count": 2436,
+          "like_count": 538,
+          "listed_count": 486,
+          "media_count": 35,
+          "tweet_count": 2774
+        },
+        "url": "http://t.co/MnTNkmXWTr",
+        "username": "source",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947622929161981955"
+      ],
+      "media_source_tweet_id": [
+        "1947622931884085761"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1947969865395892466",
+    "created_at": "2025-07-23T10:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T11:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947969865395892466"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 17,
+          "tag": "東方Project"
+        },
+        {
+          "end": 34,
+          "start": 29,
+          "tag": "博麗霊夢"
+        },
+        {
+          "end": 41,
+          "start": 35,
+          "tag": "霧雨魔理沙"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1839892011828293635",
+          "start": 3,
+          "username": "Settei33989"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rVENs6tKvl",
+          "end": 65,
+          "expanded_url": "https://x.com/Settei33989/status/1947622931884085761/photo/1",
+          "media_key": "3_1947622929161981955",
+          "start": 42,
+          "url": "https://t.co/rVENs6tKvl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947969865395892466",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 408
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947622931884085761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Settei33989: #東方Project \n#博麗霊夢 #霧雨魔理沙 https://t.co/rVENs6tKvl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1947622929161981955",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwdYvDEbEAM7QVk.jpg",
+        "width": 1463
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947622929161981955"
+          ],
+          "media_source_tweet_id": [
+            "1947622931884085761"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1947969865395892466",
+        "created_at": "2025-07-23T10:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T11:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947969865395892466"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 17,
+              "tag": "東方Project"
+            },
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "博麗霊夢"
+            },
+            {
+              "end": 41,
+              "start": 35,
+              "tag": "霧雨魔理沙"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1839892011828293635",
+              "start": 3,
+              "username": "Settei33989"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rVENs6tKvl",
+              "end": 65,
+              "expanded_url": "https://x.com/Settei33989/status/1947622931884085761/photo/1",
+              "media_key": "3_1947622929161981955",
+              "start": 42,
+              "url": "https://t.co/rVENs6tKvl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947969865395892466",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 408
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947622931884085761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Settei33989: #東方Project \n#博麗霊夢 #霧雨魔理沙 https://t.co/rVENs6tKvl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947622929161981955"
+          ]
+        },
+        "author_id": "1839892011828293635",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1947622931884085761",
+        "created_at": "2025-07-22T11:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T12:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947622931884085761"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "東方Project"
+            },
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "博麗霊夢"
+            },
+            {
+              "end": 24,
+              "start": 18,
+              "tag": "霧雨魔理沙"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rVENs6tKvl",
+              "end": 48,
+              "expanded_url": "https://x.com/Settei33989/status/1947622931884085761/photo/1",
+              "media_key": "3_1947622929161981955",
+              "start": 25,
+              "url": "https://t.co/rVENs6tKvl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947622931884085761",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 461,
+          "impression_count": 41929,
+          "like_count": 3285,
+          "quote_count": 6,
+          "reply_count": 7,
+          "retweet_count": 408
+        },
+        "reply_settings": "everyone",
+        "text": "#東方Project \n#博麗霊夢 #霧雨魔理沙 https://t.co/rVENs6tKvl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 64,
+          "like_count": 1748,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 841
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T04:57:04.000Z",
+        "description": "あなたならどうやって先へと進みますか。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/58427257",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/58427257",
+                "start": 0,
+                "url": "https://t.co/tP9GyknNH7"
+              }
+            ]
+          }
+        },
+        "id": "1839892011828293635",
+        "name": "せってい",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939261127768113152/YNlUucmn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6155,
+          "following_count": 13,
+          "like_count": 33,
+          "listed_count": 56,
+          "media_count": 54,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/tP9GyknNH7",
+        "username": "Settei33989",
+        "verified": false
+      }
+    ]
+  }
+}

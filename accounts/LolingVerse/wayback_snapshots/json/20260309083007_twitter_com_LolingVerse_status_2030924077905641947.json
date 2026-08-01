@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2030874357699080304",
+    "created_at": "2026-03-09T08:30:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T09:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030924077905641947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929159802477010944",
+          "start": 0,
+          "username": "1207auggnoD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030924077905641947",
+    "in_reply_to_user_id": "1929159802477010944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030874357699080304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1207auggnoD 麦当当！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030874350371635201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC8ddi1agAESsGS.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2030874357699080304",
+        "created_at": "2026-03-09T08:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T09:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030924077905641947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929159802477010944",
+              "start": 0,
+              "username": "1207auggnoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030924077905641947",
+        "in_reply_to_user_id": "1929159802477010944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030874357699080304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1207auggnoD 麦当当！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030874350371635201"
+          ]
+        },
+        "author_id": "1929159802477010944",
+        "conversation_id": "2030874357699080304",
+        "created_at": "2026-03-09T05:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T06:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030874357699080304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JyRDhPvabS",
+              "end": 33,
+              "expanded_url": "https://x.com/1207auggnoD/status/2030874357699080304/photo/1",
+              "media_key": "3_2030874350371635201",
+              "start": 10,
+              "url": "https://t.co/JyRDhPvabS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030874357699080304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 470,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麦当劳很不高兴您来 https://t.co/JyRDhPvabS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | 另一只猫猫 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 52,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Hydrogen.洛铃🍥Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 114,
+          "like_count": 10447,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 2638
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-01T12:55:39.000Z",
+        "description": "压制喵、手法喵、绝境喵、突破喵、自我喵、证明喵、巅峰喵、枷锁喵、答案喵、依赖喵、尽头喵、诠释喵、糖喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dgtea.site/about",
+                "end": 23,
+                "expanded_url": "http://dgtea.site/about",
+                "start": 0,
+                "url": "https://t.co/SDjyjwPqh6"
+              }
+            ]
+          }
+        },
+        "id": "1929159802477010944",
+        "location": "OL63",
+        "name": "Benincasa pruriens",
+        "pinned_tweet_id": "2008588788411625920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991500844714598400/LWmbvH_1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 258,
+          "like_count": 24111,
+          "listed_count": 1,
+          "media_count": 1035,
+          "tweet_count": 4393
+        },
+        "url": "https://t.co/SDjyjwPqh6",
+        "username": "1207auggnoD",
+        "verified": false
+      }
+    ]
+  }
+}

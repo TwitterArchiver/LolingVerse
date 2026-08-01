@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1931600754940182586",
+    "created_at": "2025-06-09T03:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T04:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931923594155835585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678769453654511617",
+          "start": 0,
+          "username": "Bestmcmuffin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931923594155835585",
+    "in_reply_to_user_id": "1678769453654511617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931600754940182586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bestmcmuffin 好耶，是大水（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1931600754940182586",
+        "created_at": "2025-06-09T03:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T04:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931923594155835585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678769453654511617",
+              "start": 0,
+              "username": "Bestmcmuffin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931923594155835585",
+        "in_reply_to_user_id": "1678769453654511617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931600754940182586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bestmcmuffin 好耶，是大水（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678769453654511617",
+        "conversation_id": "1931600754940182586",
+        "created_at": "2025-06-08T06:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T07:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931600754940182586"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931600754940182586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10594,
+          "like_count": 203,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "自从看韦神喝的是大瓶矿泉水，我就再也没买过小瓶的了，因为我相信他一定是算出来大瓶的划算"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 62,
+          "like_count": 1316,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 620
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T14:13:34.000Z",
+        "description": "🚪520，除口令不回，发骚扰私信死死死死",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kugou.cloud/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://kugou.cloud/#/register?code=zMMqItfI",
+                "start": 0,
+                "url": "https://t.co/yeyHsuKLjA"
+              }
+            ]
+          }
+        },
+        "id": "1678769453654511617",
+        "location": "自用🪜➡️",
+        "name": "麦",
+        "pinned_tweet_id": "1822552131607683498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846992327921025024/AVL_zln5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41280,
+          "following_count": 511,
+          "like_count": 16629,
+          "listed_count": 149,
+          "media_count": 267,
+          "tweet_count": 8362
+        },
+        "url": "https://t.co/yeyHsuKLjA",
+        "username": "Bestmcmuffin",
+        "verified": false
+      }
+    ]
+  }
+}

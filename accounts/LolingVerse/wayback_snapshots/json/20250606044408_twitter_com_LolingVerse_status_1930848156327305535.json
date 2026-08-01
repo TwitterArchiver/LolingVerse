@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930795878585118720"
+      ],
+      "media_source_tweet_id": [
+        "1930795903633563762"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1930848156327305535",
+    "created_at": "2025-06-06T04:44:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T05:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930848156327305535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "18151253",
+          "start": 3,
+          "username": "chobi800"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QiCcO0hmxG",
+          "end": 56,
+          "expanded_url": "https://x.com/chobi800/status/1930795903633563762/photo/1",
+          "media_key": "3_1930795878585118720",
+          "start": 33,
+          "url": "https://t.co/QiCcO0hmxG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930848156327305535",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930795903633563762",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chobi800: Skebのリクエストありがとでした！ https://t.co/QiCcO0hmxG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1414,
+        "media_key": "3_1930795878585118720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsuQnyzasAALMb8.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930795878585118720"
+          ],
+          "media_source_tweet_id": [
+            "1930795903633563762"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1930848156327305535",
+        "created_at": "2025-06-06T04:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T05:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930848156327305535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "18151253",
+              "start": 3,
+              "username": "chobi800"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QiCcO0hmxG",
+              "end": 56,
+              "expanded_url": "https://x.com/chobi800/status/1930795903633563762/photo/1",
+              "media_key": "3_1930795878585118720",
+              "start": 33,
+              "url": "https://t.co/QiCcO0hmxG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930848156327305535",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930795903633563762",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chobi800: Skebのリクエストありがとでした！ https://t.co/QiCcO0hmxG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930795878585118720"
+          ]
+        },
+        "author_id": "18151253",
+        "conversation_id": "1930795903633563762",
+        "created_at": "2025-06-06T01:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T02:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930795903633563762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QiCcO0hmxG",
+              "end": 42,
+              "expanded_url": "https://x.com/chobi800/status/1930795903633563762/photo/1",
+              "media_key": "3_1930795878585118720",
+              "start": 19,
+              "url": "https://t.co/QiCcO0hmxG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930795903633563762",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 5058,
+          "like_count": 372,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "Skebのリクエストありがとでした！ https://t.co/QiCcO0hmxG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 62,
+          "like_count": 1252,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 592
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2008-12-16T00:18:57.000Z",
+        "description": "柿の種とゲームが好きな絵の仕事してる人。艦これ『海色のアルトサックス』等。お仕事についてはHPを要確認で\n絵=https://t.co/LyAG6bVPSY　、　https://t.co/CR1pJewzp1　\nSkeb＝https://t.co/yWF1gmaYmf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/11166",
+                "end": 78,
+                "expanded_url": "http://pixiv.net/users/11166",
+                "start": 55,
+                "url": "https://t.co/LyAG6bVPSY"
+              },
+              {
+                "display_url": "xfolio.jp/portfolio/oznet",
+                "end": 104,
+                "expanded_url": "https://xfolio.jp/portfolio/oznet",
+                "start": 81,
+                "url": "https://t.co/CR1pJewzp1"
+              },
+              {
+                "display_url": "skeb.jp/@chobi800",
+                "end": 134,
+                "expanded_url": "http://skeb.jp/@chobi800",
+                "start": 111,
+                "url": "https://t.co/yWF1gmaYmf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuzuyu-pre-do.theblog.me",
+                "end": 23,
+                "expanded_url": "https://yuzuyu-pre-do.theblog.me/",
+                "start": 0,
+                "url": "https://t.co/40HiuwinQ3"
+              }
+            ]
+          }
+        },
+        "id": "18151253",
+        "location": "青森在住",
+        "name": "柚木ガオ",
+        "pinned_tweet_id": "1888878615028187146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1456522698075836416/THtPQvuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41843,
+          "following_count": 1190,
+          "like_count": 3,
+          "listed_count": 774,
+          "media_count": 5472,
+          "tweet_count": 49535
+        },
+        "url": "https://t.co/40HiuwinQ3",
+        "username": "chobi800",
+        "verified": false
+      }
+    ]
+  }
+}

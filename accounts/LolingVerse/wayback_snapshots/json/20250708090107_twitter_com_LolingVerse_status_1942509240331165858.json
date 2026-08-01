@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942134566787096576"
+      ],
+      "media_source_tweet_id": [
+        "1942134581467209985"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1942509240331165858",
+    "created_at": "2025-07-08T09:01:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T10:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942509240331165858"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "水色天使ちゃん",
+          "probability": 0.3296,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1228194521042653184",
+          "start": 3,
+          "username": "NOYU23386566"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6PgChNTrPv",
+          "end": 50,
+          "expanded_url": "https://x.com/NOYU23386566/status/1942134581467209985/photo/1",
+          "media_key": "3_1942134566787096576",
+          "start": 27,
+          "url": "https://t.co/6PgChNTrPv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942509240331165858",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 890
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942134581467209985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @NOYU23386566: 水色天使ちゃん🪽 https://t.co/6PgChNTrPv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3787,
+        "media_key": "3_1942134566787096576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvPZGT9aIAA56t-.jpg",
+        "width": 2334
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942134566787096576"
+          ],
+          "media_source_tweet_id": [
+            "1942134581467209985"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1942509240331165858",
+        "created_at": "2025-07-08T09:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T10:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942509240331165858"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "水色天使ちゃん",
+              "probability": 0.3296,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1228194521042653184",
+              "start": 3,
+              "username": "NOYU23386566"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6PgChNTrPv",
+              "end": 50,
+              "expanded_url": "https://x.com/NOYU23386566/status/1942134581467209985/photo/1",
+              "media_key": "3_1942134566787096576",
+              "start": 27,
+              "url": "https://t.co/6PgChNTrPv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942509240331165858",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 890
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942134581467209985",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @NOYU23386566: 水色天使ちゃん🪽 https://t.co/6PgChNTrPv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942134566787096576"
+          ]
+        },
+        "author_id": "1228194521042653184",
+        "conversation_id": "1942134581467209985",
+        "created_at": "2025-07-07T08:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T09:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942134581467209985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6PgChNTrPv",
+              "end": 32,
+              "expanded_url": "https://x.com/NOYU23386566/status/1942134581467209985/photo/1",
+              "media_key": "3_1942134566787096576",
+              "start": 9,
+              "url": "https://t.co/6PgChNTrPv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942134581467209985",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 933,
+          "impression_count": 162582,
+          "like_count": 8809,
+          "quote_count": 12,
+          "reply_count": 1,
+          "retweet_count": 890
+        },
+        "reply_settings": "following",
+        "text": "水色天使ちゃん🪽 https://t.co/6PgChNTrPv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 63,
+          "like_count": 1549,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 721
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-14T05:49:34.000Z",
+        "description": "Illustrator🌟 自創作プロジェクト⇨@Frostica_pj ご依頼に関してはこちらから⇨https://t.co/QQodtozKIC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "Frostica_pj"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/26040235",
+                "end": 73,
+                "expanded_url": "http://pixiv.net/users/26040235",
+                "start": 50,
+                "url": "https://t.co/QQodtozKIC"
+              }
+            ]
+          }
+        },
+        "id": "1228194521042653184",
+        "location": "イラストの使用、機械学習禁止",
+        "name": "Noyu",
+        "pinned_tweet_id": "1778982577061412976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710838721149648896/4hov_wRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259729,
+          "following_count": 245,
+          "like_count": 31936,
+          "listed_count": 1890,
+          "media_count": 338,
+          "tweet_count": 11104
+        },
+        "username": "NOYU23386566",
+        "verified": false
+      }
+    ]
+  }
+}

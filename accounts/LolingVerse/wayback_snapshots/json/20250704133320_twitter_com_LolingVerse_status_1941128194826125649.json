@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1443277565393719296",
+          "name": "Hello Kitty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1443277565393719296",
+          "name": "Hello Kitty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1443277565393719296",
+          "name": "Hello Kitty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1443277565393719296",
+          "name": "Hello Kitty"
+        }
+      }
+    ],
+    "conversation_id": "1941128194826125649",
+    "created_at": "2025-07-04T13:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T14:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941128194826125649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1666862952027127831",
+          "start": 3,
+          "username": "kangyeon91"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941128194826125649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940591001493819509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kangyeon91: 有个同事名字叫kitty，每次开会为了那句“hello kitty”我都要给一圈人打招呼铺垫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1443277565393719296",
+              "name": "Hello Kitty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1443277565393719296",
+              "name": "Hello Kitty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1443277565393719296",
+              "name": "Hello Kitty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1443277565393719296",
+              "name": "Hello Kitty"
+            }
+          }
+        ],
+        "conversation_id": "1941128194826125649",
+        "created_at": "2025-07-04T13:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T14:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941128194826125649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1666862952027127831",
+              "start": 3,
+              "username": "kangyeon91"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941128194826125649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940591001493819509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kangyeon91: 有个同事名字叫kitty，每次开会为了那句“hello kitty”我都要给一圈人打招呼铺垫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666862952027127831",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1443277565393719296",
+              "name": "Hello Kitty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1443277565393719296",
+              "name": "Hello Kitty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1443277565393719296",
+              "name": "Hello Kitty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1443277565393719296",
+              "name": "Hello Kitty"
+            }
+          }
+        ],
+        "conversation_id": "1940591001493819509",
+        "created_at": "2025-07-03T01:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T02:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940591001493819509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1940591001493819509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 41996,
+          "like_count": 620,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "有个同事名字叫kitty，每次开会为了那句“hello kitty”我都要给一圈人打招呼铺垫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 63,
+          "like_count": 1516,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 697
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T17:41:17.000Z",
+        "description": "饼干中的坏蛋 | 已婚@nishibigsb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "nishibigsb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kangyeon",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kangyeon",
+                "start": 0,
+                "url": "https://t.co/HxUouXzPSL"
+              }
+            ]
+          }
+        },
+        "id": "1666862952027127831",
+        "name": "险恶曲奇",
+        "pinned_tweet_id": "1801474813023678805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883397638835343360/0fMsaWsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8317,
+          "following_count": 363,
+          "like_count": 8837,
+          "listed_count": 22,
+          "media_count": 1230,
+          "tweet_count": 16389
+        },
+        "url": "https://t.co/HxUouXzPSL",
+        "username": "kangyeon91",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2079995064244429218",
+    "created_at": "2026-07-23T02:31:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T03:31:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080118660736131415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1942368986051796992",
+          "start": 0,
+          "username": "CunZai1069"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080118660736131415",
+    "in_reply_to_user_id": "1942368986051796992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079995064244429218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CunZai1069 羡慕变白"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 771,
+        "media_key": "3_2079995057344806912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2ge_-bAAABr8h.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2079995064244429218",
+        "created_at": "2026-07-23T02:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080118660736131415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080118660736131415",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079995064244429218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 羡慕变白"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079995057344806912"
+          ]
+        },
+        "author_id": "1942368986051796992",
+        "conversation_id": "2079995064244429218",
+        "created_at": "2026-07-22T18:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T19:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079995064244429218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eiccd9Eq6P",
+              "end": 23,
+              "expanded_url": "https://x.com/CunZai1069/status/2079995064244429218/photo/1",
+              "media_key": "3_2079995057344806912",
+              "start": 0,
+              "url": "https://t.co/Eiccd9Eq6P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079995064244429218",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 656,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Eiccd9Eq6P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 164,
+          "like_count": 25929,
+          "listed_count": 4,
+          "media_count": 369,
+          "tweet_count": 4727
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "CS专业 | INTP | 重抑重焦 | 一切艺术 | 艰苦求生中…… | 私信看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……@Guanyiwlz7是给",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "Guanyiwlz7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 75,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 52,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 1290,
+          "like_count": 4516,
+          "listed_count": 4,
+          "media_count": 101,
+          "tweet_count": 1326
+        },
+        "url": "",
+        "username": "CunZai1069",
+        "verified": false
+      }
+    ]
+  }
+}

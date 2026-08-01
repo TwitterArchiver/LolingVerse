@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979804170573029376"
+      ],
+      "media_source_tweet_id": [
+        "1979804215653568515"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1979824724705419649",
+    "created_at": "2025-10-19T08:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T09:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979824724705419649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "873579011682705408",
+          "start": 3,
+          "username": "Miyuki_Symphony"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z9u8Uxx6pe",
+          "end": 64,
+          "expanded_url": "https://x.com/Miyuki_Symphony/status/1979804215653568515/photo/1",
+          "media_key": "3_1979804170573029376",
+          "start": 41,
+          "url": "https://t.co/z9u8Uxx6pe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979824724705419649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979804215653568515",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miyuki_Symphony: クレープの日～💖(*´🌯｀*)ﾉ)\"🎶 https://t.co/z9u8Uxx6pe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_1979804170573029376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3mtZ1fXoAAgB_E.jpg",
+        "width": 1792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979804170573029376"
+          ],
+          "media_source_tweet_id": [
+            "1979804215653568515"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1979824724705419649",
+        "created_at": "2025-10-19T08:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T09:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979824724705419649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "873579011682705408",
+              "start": 3,
+              "username": "Miyuki_Symphony"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z9u8Uxx6pe",
+              "end": 64,
+              "expanded_url": "https://x.com/Miyuki_Symphony/status/1979804215653568515/photo/1",
+              "media_key": "3_1979804170573029376",
+              "start": 41,
+              "url": "https://t.co/z9u8Uxx6pe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979824724705419649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979804215653568515",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miyuki_Symphony: クレープの日～💖(*´🌯｀*)ﾉ)\"🎶 https://t.co/z9u8Uxx6pe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979804170573029376"
+          ]
+        },
+        "author_id": "873579011682705408",
+        "conversation_id": "1979804215653568515",
+        "created_at": "2025-10-19T06:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T07:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979804215653568515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z9u8Uxx6pe",
+              "end": 43,
+              "expanded_url": "https://x.com/Miyuki_Symphony/status/1979804215653568515/photo/1",
+              "media_key": "3_1979804170573029376",
+              "start": 20,
+              "url": "https://t.co/z9u8Uxx6pe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979804215653568515",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 213,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "クレープの日～💖(*´🌯｀*)ﾉ)\"🎶 https://t.co/z9u8Uxx6pe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "『可怜楼上月徘徊，应照离人妆镜台』\n『身世浮沉雨打萍……一山放出一山拦』\n可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TMO0"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 73,
+          "like_count": 2932,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1421
+        },
+        "url": "https://t.co/Dggtj9TMO0",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-10T16:34:01.000Z",
+        "description": "長髪狐娘、着物、ロングドレスが好きです。\n通知見落としや、フォロバ等対応遅いかもしれません。\n主にAIイラストとドールさん(ハイライトに",
+        "id": "873579011682705408",
+        "name": "み ゆ き",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781987244498378752/qv9pa9bA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4311,
+          "following_count": 1320,
+          "like_count": 33879,
+          "listed_count": 74,
+          "media_count": 5234,
+          "tweet_count": 104250
+        },
+        "username": "Miyuki_Symphony",
+        "verified": false
+      }
+    ]
+  }
+}

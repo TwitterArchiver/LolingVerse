@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2075224148691812695",
+    "created_at": "2026-07-09T14:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T15:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075224985862279642"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "一个使X.com支持全功能MarkDown渲染与受限的LaTeX混合渲染的富文本显示扩展. Contribute to CheeseGhostfox/Marked-X-Down development by creating an account on GitHub.",
+          "display_url": "github.com/CheeseGhostfox…",
+          "end": 39,
+          "expanded_url": "https://github.com/CheeseGhostfox/Marked-X-Down/",
+          "start": 16,
+          "status": 200,
+          "title": "GitHub - CheeseGhostfox/Marked-X-Down: 一个使X.com支持全功能MarkDown渲染与受限的LaTeX混合渲染的富文本显示扩展",
+          "unwound_url": "https://github.com/CheeseGhostfox/Marked-X-Down/",
+          "url": "https://t.co/B2w4jh8D6f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075224985862279642",
+    "in_reply_to_user_id": "1836041585475346432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075224148691812695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "[Marked X down](https://t.co/B2w4jh8D6f) 大胜利！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2075224148691812695",
+        "created_at": "2026-07-09T14:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075224985862279642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一个使X.com支持全功能MarkDown渲染与受限的LaTeX混合渲染的富文本显示扩展. Contribute to CheeseGhostfox/Marked-X-Down development by creating an account on GitHub.",
+              "display_url": "github.com/CheeseGhostfox…",
+              "end": 39,
+              "expanded_url": "https://github.com/CheeseGhostfox/Marked-X-Down/",
+              "start": 16,
+              "status": 200,
+              "title": "GitHub - CheeseGhostfox/Marked-X-Down: 一个使X.com支持全功能MarkDown渲染与受限的LaTeX混合渲染的富文本显示扩展",
+              "unwound_url": "https://github.com/CheeseGhostfox/Marked-X-Down/",
+              "url": "https://t.co/B2w4jh8D6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075224985862279642",
+        "in_reply_to_user_id": "1836041585475346432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075224148691812695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "[Marked X down](https://t.co/B2w4jh8D6f) 大胜利！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1372588659346612225",
+              "name": "Binance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390680741206368263",
+              "name": "Cryptocurrency exchanges"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2075224148691812695",
+        "created_at": "2026-07-09T14:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075224148691812695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cheese_Ghostfo…",
+              "end": 216,
+              "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/2075222190660915368",
+              "start": 193,
+              "url": "https://t.co/b9fFaafd9b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075224148691812695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "**好的，我帮你系统整理一下目前主流的地址类型：**\n\n主要可以分成下面这几大类（按实际使用频率和兼容性分）：\n\n### 1. **EVM 类型**（最常见）\n**地址格式**：`0x` 开头 + 40位十六进制字符（共42字符）\n\n**包含的链**：\n- **Ethereum 主网** + **几乎所有 Ethereum L2**：\n  - Arbitrum, Optimism, Base, zkSync, Linea, Blast, Scroll, Polygon zkEVM 等\n- **其他 EVM 兼容链**：\n  - BSC（BNB Chain）\n  - Polygon PoS\n  - Avalanche C-Chain\n  - Fantom, Gnosis, Moonbeam 等\n\n**特点**：同一个私钥/助记词，在所有这些链上**地址完全一样**。  \n这是目前用户接触最多的类型（MetaMask 主要支持的就是这一类）。\n\n### 2. **Solana 类型**\n**地址格式**：没有 `0x`，Base58 编码，32~44 字符（看起来像一串乱码）\n\n**包含的链**：\n- Solana 主网\n- 部分 Solana 生态的 L2 / 并行链（目前还不多）\n\n**特点**：必须用 Phantom、Solflare 这类 Solana 专用钱包。私钥和 EVM 完全不通用。\n\n### 3. **Bitcoin 类型**\n**地址格式**：\n- Legacy：`1...`\n- SegWit：`bc1q...`\n- Taproot：`bc1p...`\n\n**包含的链**：\n- Bitcoin 主网\n- 部分 Bitcoin L2 / 侧链（Lightning Network 还是用 BTC 地址）\n\n**特点**：和 EVM、Solana 完全不同。\n\n### 4. **Tron 类型**（TRC20）\n**地址格式**：`T` 开头 + Base58 编码\n\n**包含的链**：\n- Tron 主网\n\n**特点**：和 Bitcoin 地址有点像，但不是同一个体系。USDT 在 Tron 上很常用。\n\n### 5. **其他比较常见的类型**\n\n| 类型          | 地址特征                  | 代表链                  | 备注 |\n|---------------|---------------------------|-------------------------|------|\n| **TON**       | `UQ...` 或 `EQ...`       | The Open Network       | Telegram 生态 |\n| **Cosmos 系** | `cosmos1...`、`osmo1...` 等 | Cosmos, Osmosis, dYdX 等 | IBC 跨链生态 |\n| **Polkadot 系** | `1...` 或 `5...`（SS58） | Polkadot, Kusama       | Substrate 框架 |\n| **Sui**       | `0x` + 64位十六进制      | Sui                    | 和 EVM 的 `0x` 看起来像，但长度不同（64位） |\n| **Aptos**     | `0x` + 64位十六进制      | Aptos                  | 和 Sui 类似 |\n| **Cardano**   | `addr1...`（Bech32）     | Cardano                | 比较独特 |\n| **Ripple**    | `r...`                   | XRP                    | 老牌链 |\n\n### 总结（实用分类）\n\n| 地址类型     | 代表链                  | 是否和 ETH 地址一样 | 常用钱包          | 备注 |\n|--------------|-------------------------|---------------------|-------------------|------|\n| **EVM**      | ETH + 几乎所有 L2 + BSC | 是                  | MetaMask          | 最推荐新手先熟悉 |\n| **Solana**   | SOL                     | 否                  | Phantom           | 速度快、手续费低 |\n| **Bitcoin**  | BTC                     | 否                  | Electrum / Sparrow| 价值存储为主 |\n| **Tron**     | TRON                    | 否                  | TronLink          | USDT 转账很便宜 |\n| **其他**     | TON / Cosmos / Sui 等   | 基本否              | 对应专用钱包      | 按需使用 |\n\n---\n\n**给你建议**：\n- 大部分人日常用 **EVM 类型** 就够了（ETH L2 + BSC）。\n- 想玩 meme 币或低费用 → 加 **Solana**。\n- 想存大价值 → **Bitcoin**。\n\n你现在主要在玩哪几条链？或者想重点了解哪一类的地址/私钥规则？我可以再给你细讲。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075222190660915368",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "**好的，我帮你系统整理一下目前主流的地址类型：**\n\n主要可以分成下面这几大类（按实际使用频率和兼容性分）：\n\n### 1. **EVM 类型**（最常见）\n**地址格式**：`0x` 开头 + 40位十六进制字符（共42字符）\n\n**包含的链**：\n- **Ethereum 主网** + **几乎所有 Ethereum L2**：\n  - Arbitrum, Optimism, https://t.co/b9fFaafd9b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 162,
+          "like_count": 24607,
+          "listed_count": 4,
+          "media_count": 344,
+          "tweet_count": 4468
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      }
+    ]
+  }
+}

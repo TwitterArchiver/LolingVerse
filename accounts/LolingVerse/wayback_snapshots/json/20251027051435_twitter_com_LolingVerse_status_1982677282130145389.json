@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1982673571588796789",
+    "created_at": "2025-10-27T05:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T06:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982677282130145389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "LumiCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982677282130145389",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982673571588796789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LumiCatRoll 应该会有奶子👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6941,
+        "height": 848,
+        "media_key": "7_1982673550755422208",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1982673550755422208/pu/img/n21bg5dovR2eRnmn.jpg",
+        "public_metrics": {
+          "view_count": 52
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982673550755422208/pu/vid/avc1/320x434/db730pjJXKCFj1nN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982673550755422208/pu/vid/avc1/480x652/Olsh69XWkE_C8D2N.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982673550755422208/pu/vid/avc1/624x848/I190gV5nXvzEGGq3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1982673550755422208/pu/pl/C_KCk485cSULjQUd.m3u8?tag=12"
+          }
+        ],
+        "width": 624
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1982673571588796789",
+        "created_at": "2025-10-27T05:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T06:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982677282130145389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "LumiCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982677282130145389",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982673571588796789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LumiCatRoll 应该会有奶子👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1982673550755422208"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "1982673571588796789",
+        "created_at": "2025-10-27T04:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T05:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982673571588796789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IRxDAhjlfd",
+              "end": 71,
+              "expanded_url": "https://x.com/LumiCatRoll/status/1982673571588796789/video/1",
+              "media_key": "7_1982673550755422208",
+              "start": 48,
+              "url": "https://t.co/IRxDAhjlfd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982673571588796789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "《恭喜发财》 - 池鱼 (吴相泽self cover alternative version) https://t.co/IRxDAhjlfd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "『可怜楼上月徘徊，应照离人妆镜台』\n『身世浮沉雨打萍……一山放出一山拦』\n可爱赞美者，世界探索者 | \n155/47 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TeYs"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 距你 2.718 km",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 74,
+          "like_count": 3278,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1515
+        },
+        "url": "https://t.co/Dggtj9TeYs",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "传送门 @Chiyuyu520 如果能在百忙之中抽空看一眼你的老朋友发给你的推文，我想必会受宠若惊。诉求：唯一解决方式是自己联系债主归还19535元 别找别人跟我扯皮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "Chiyuyu520"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "Lumi & 猫卷 Co. (日雌泰补诺",
+        "pinned_tweet_id": "1982121107500175769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981599824827838464/S98pBSrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1949,
+          "following_count": 762,
+          "like_count": 597,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 1624
+        },
+        "username": "LumiCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

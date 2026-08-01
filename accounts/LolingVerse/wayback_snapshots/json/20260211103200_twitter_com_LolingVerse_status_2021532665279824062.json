@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2021532665279824062",
+    "created_at": "2026-02-11T10:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T11:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021532665279824062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813971881990742016",
+          "start": 3,
+          "username": "TXTYYDZ"
+        },
+        {
+          "end": 24,
+          "id": "1929964027960233984",
+          "start": 13,
+          "username": "HXD3D_8028"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021532665279824062",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021261561789022697",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @TXTYYDZ: @HXD3D_8028 主要NFC果汁太贵了😜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2021532665279824062",
+        "created_at": "2026-02-11T10:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T11:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021532665279824062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813971881990742016",
+              "start": 3,
+              "username": "TXTYYDZ"
+            },
+            {
+              "end": 24,
+              "id": "1929964027960233984",
+              "start": 13,
+              "username": "HXD3D_8028"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021532665279824062",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021261561789022697",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @TXTYYDZ: @HXD3D_8028 主要NFC果汁太贵了😜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813971881990742016",
+        "conversation_id": "2021258774955098144",
+        "created_at": "2026-02-10T16:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T17:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021261561789022697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1929964027960233984",
+              "start": 0,
+              "username": "HXD3D_8028"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021261561789022697",
+        "in_reply_to_user_id": "1929964027960233984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2179,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021258774955098144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@HXD3D_8028 主要NFC果汁太贵了😜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153/48 | 没诗硬吟  | Fox | 另一只猫猫 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Hydrogen.洛铃🔶Magic Caster",
+        "pinned_tweet_id": "2012549856930529552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 105,
+          "like_count": 8185,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 2376
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-18T16:19:41.000Z",
+        "description": "ISFP。热爱抽象艺术的精神状态令人担忧的不正常人类，也可能不是人类。\n县城社畜一枚，不爱干活，经常辞职。\n唯一单推：@snhrlinglu\n废话小账:@TianXiaoTangDLZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "snhrlinglu"
+              },
+              {
+                "end": 92,
+                "start": 76,
+                "username": "TianXiaoTangDLZ"
+              }
+            ]
+          }
+        },
+        "id": "1813971881990742016",
+        "location": "全中国空气最埋汰的地方",
+        "name": "田小唐",
+        "pinned_tweet_id": "2005533298286788873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005950803585191936/RxKI6nYT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1656,
+          "following_count": 1065,
+          "like_count": 59079,
+          "listed_count": 8,
+          "media_count": 2502,
+          "tweet_count": 16075
+        },
+        "username": "TXTYYDZ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-03T18:11:02.000Z",
+        "description": "平和版芝麻凛厂长，专注于过日子，岁月静好万岁🙏🏼\n\n在这里你会看到\n⭕各种摄影作品\n⭕日常生活的点点滴滴\n⭕高品质二次元内容品鉴\n⭕各种话题的理性友好讨论\n\n在这里不允许出现\n❌吵架谩骂\n❌无理取闹\n❌造谣抹黑\n\n互相尊重，和平共处，三观不合请取关，给脸不要直接拉黑🔨\n\n私人会所：@EvilCatShimaRin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 141,
+                "username": "EvilCatShimaRin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/DF4D_0486",
+                "end": 23,
+                "expanded_url": "https://twitter.com/DF4D_0486",
+                "start": 0,
+                "url": "https://t.co/66znFRHKHN"
+              }
+            ]
+          }
+        },
+        "id": "1929964027960233984",
+        "location": "站长办公室",
+        "name": "🛠你滴#Biantai#老凛🚂",
+        "pinned_tweet_id": "2021253731363274850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009698648523931648/UF0tJhjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1966,
+          "following_count": 2140,
+          "like_count": 65712,
+          "listed_count": 8,
+          "media_count": 11553,
+          "tweet_count": 58577
+        },
+        "url": "https://t.co/66znFRHKHN",
+        "username": "HXD3D_8028",
+        "verified": false
+      }
+    ]
+  }
+}

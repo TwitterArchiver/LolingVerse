@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944344737315442688"
+      ],
+      "media_source_tweet_id": [
+        "1944344747901960261"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "1944659795417674176",
+    "created_at": "2025-07-14T07:26:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T08:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944659795417674176"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 76,
+          "start": 70,
+          "tag": "AIart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1926439815139983360",
+          "start": 3,
+          "username": "amane_shirofox"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rVsdjQHgIO",
+          "end": 100,
+          "expanded_url": "https://x.com/amane_shirofox/status/1944344747901960261/photo/1",
+          "media_key": "3_1944344737315442688",
+          "start": 77,
+          "url": "https://t.co/rVsdjQHgIO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944659795417674176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944344747901960261",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amane_shirofox: こんばんわ🦊\nまもなくお仕事終わります🤭\n今日は少し体調悪くて大変でした😇\n日曜日お疲れ様でした🤗\n#AIart https://t.co/rVsdjQHgIO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_1944344737315442688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvuzPKyWUAA1G81.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944344737315442688"
+          ],
+          "media_source_tweet_id": [
+            "1944344747901960261"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1944659795417674176",
+        "created_at": "2025-07-14T07:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T08:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944659795417674176"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 70,
+              "tag": "AIart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1926439815139983360",
+              "start": 3,
+              "username": "amane_shirofox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rVsdjQHgIO",
+              "end": 100,
+              "expanded_url": "https://x.com/amane_shirofox/status/1944344747901960261/photo/1",
+              "media_key": "3_1944344737315442688",
+              "start": 77,
+              "url": "https://t.co/rVsdjQHgIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944659795417674176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944344747901960261",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amane_shirofox: こんばんわ🦊\nまもなくお仕事終わります🤭\n今日は少し体調悪くて大変でした😇\n日曜日お疲れ様でした🤗\n#AIart https://t.co/rVsdjQHgIO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944344737315442688"
+          ]
+        },
+        "author_id": "1926439815139983360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1944344747901960261",
+        "created_at": "2025-07-13T10:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T11:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944344747901960261"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 50,
+              "tag": "AIart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rVsdjQHgIO",
+              "end": 80,
+              "expanded_url": "https://x.com/amane_shirofox/status/1944344747901960261/photo/1",
+              "media_key": "3_1944344737315442688",
+              "start": 57,
+              "url": "https://t.co/rVsdjQHgIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944344747901960261",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 842,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "こんばんわ🦊\nまもなくお仕事終わります🤭\n今日は少し体調悪くて大変でした😇\n日曜日お疲れ様でした🤗\n#AIart https://t.co/rVsdjQHgIO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 63,
+          "like_count": 1635,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 761
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T00:47:08.000Z",
+        "description": "AIイラスト用アカウントです🦊 別アカのアイコン作りがきっかけでハマってしまいました。まだまだ下手くそなので暖かい目で見ていただけるとありがたいです🙏※無言フォロー失礼します🙇‍♀️🙏",
+        "id": "1926439815139983360",
+        "name": "アマネ",
+        "pinned_tweet_id": "1942559214192452002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937306175323934720/hVTAtrdp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 206,
+          "like_count": 7568,
+          "listed_count": 2,
+          "media_count": 363,
+          "tweet_count": 1988
+        },
+        "username": "amane_shirofox",
+        "verified": false
+      }
+    ]
+  }
+}

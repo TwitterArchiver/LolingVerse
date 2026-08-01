@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596731871232",
+          "name": "Banking - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10044592030",
+          "name": "HSBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      }
+    ],
+    "conversation_id": "2007018934915211279",
+    "created_at": "2026-01-02T09:27:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T10:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007020899279741396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1608781688775245825",
+          "start": 0,
+          "username": "YekaseSuiso2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007020899279741396",
+    "in_reply_to_user_id": "1608781688775245825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007018934915211279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YekaseSuiso2022 HSBC Premier\n羡慕有钱入"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044592030",
+              "name": "HSBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "2007018934915211279",
+        "created_at": "2026-01-02T09:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T10:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007020899279741396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1608781688775245825",
+              "start": 0,
+              "username": "YekaseSuiso2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007020899279741396",
+        "in_reply_to_user_id": "1608781688775245825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007018934915211279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YekaseSuiso2022 HSBC Premier\n羡慕有钱入"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608781688775245825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044592030",
+              "name": "HSBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "2007018934915211279",
+        "created_at": "2026-01-02T09:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T10:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007018934915211279"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007018934915211279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "快过年了，别再讨论什么港卡、美卡、esim。你把钱电汇出去再回来消费并没有什么实际作用，朋友们用着微信支付宝吃喝玩乐，你默默在银行和RM对线。亲戚朋友吃饭问你收获了什么，你说我0开了个HSBC Premier。你还在心里默默嘲笑他们，笑他们不懂怎么资金出海，不懂怎么忽悠客户经理。你父母的同事都在说自己子女一年的收获，儿子买了个房，女儿买了个车，姑娘升职加薪了。你的父母默默无言，说我的小孩天天跑银行，投诉这个那个，开了一堆境外账户、电话号码堪比诈骗分子。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "快过年了，别再讨论什么港卡、美卡、esim。你把钱电汇出去再回来消费并没有什么实际作用，朋友们用着微信支付宝吃喝玩乐，你默默在银行和RM对线。亲戚朋友吃饭问你收获了什么，你说我0开了个HSBC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153/48 | 没诗硬吟  | Fox | 另一只猫猫 @YekaseSuiso2022\n\n走过路过不要错过，填写一下《无处方HRT与医疗指导下规范HRT对中国跨性别女性抑郁和自杀意念的调节效应》喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Suism.洛铃",
+        "pinned_tweet_id": "2006674484762443890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 87,
+          "like_count": 5867,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 2023
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-30T11:07:57.000Z",
+        "description": "15岁的前币圈玩家，谁的附庸？\nbitget一生推 | All in crypto | 10年生 | 前币圈韭菜 | 技术分析 | Osint | 2024 A8 ➡️ 2025 -A4 | 丢私钥.爆仓.出局 | 大狐狸 @LolingVerse |done...\n「crypto是无数次的谎话，吊唁着幼稚的信念」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 112,
+                "username": "LolingVerse"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tulpa.cn",
+                "end": 23,
+                "expanded_url": "https://tulpa.cn/",
+                "start": 0,
+                "url": "https://t.co/S4DPPxjEeP"
+              }
+            ]
+          }
+        },
+        "id": "1608781688775245825",
+        "location": "NekoDay/「你知道Ishihara Mayi吗？」",
+        "name": "葉加瀬 水素Yekase Suiso🍨",
+        "pinned_tweet_id": "2006339765633962464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001970485001940992/Psvr8hfy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 369,
+          "like_count": 1866,
+          "listed_count": 6,
+          "media_count": 103,
+          "tweet_count": 342
+        },
+        "url": "https://t.co/S4DPPxjEeP",
+        "username": "YekaseSuiso2022",
+        "verified": true
+      }
+    ]
+  }
+}

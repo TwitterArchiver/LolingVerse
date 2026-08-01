@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1954159421434806273"
+      ],
+      "media_source_tweet_id": [
+        "1954159474463343048"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1954423429941400017",
+    "created_at": "2025-08-10T06:03:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T07:03:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954423429941400017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "954036687071363072",
+          "start": 3,
+          "username": "ComikeMaster"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9wseyfcaYt",
+          "end": 68,
+          "expanded_url": "https://x.com/ComikeMaster/status/1954159474463343048/video/1",
+          "media_key": "13_1954159421434806273",
+          "start": 45,
+          "url": "https://t.co/9wseyfcaYt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954423429941400017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954159474463343048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ComikeMaster: ハグの日なので当然のようにやって来るキツネちゃん🦊✨ https://t.co/9wseyfcaYt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5208,
+        "height": 720,
+        "media_key": "13_1954159421434806273",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1954159421434806273/img/Xf-1ra6K7mC1bzR5.jpg",
+        "public_metrics": {
+          "view_count": 1236
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954159421434806273/vid/avc1/320x422/i0N2YsaNyYMkByov.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954159421434806273/vid/avc1/480x634/pVQjmeJztg3-bKKO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954159421434806273/vid/avc1/544x720/XF68Uk8cKYa8B9JT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1954159421434806273/pl/_o4nixh3HYzJPaA0.m3u8"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1954159421434806273"
+          ],
+          "media_source_tweet_id": [
+            "1954159474463343048"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1954423429941400017",
+        "created_at": "2025-08-10T06:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T07:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954423429941400017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "954036687071363072",
+              "start": 3,
+              "username": "ComikeMaster"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9wseyfcaYt",
+              "end": 68,
+              "expanded_url": "https://x.com/ComikeMaster/status/1954159474463343048/video/1",
+              "media_key": "13_1954159421434806273",
+              "start": 45,
+              "url": "https://t.co/9wseyfcaYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954423429941400017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954159474463343048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ComikeMaster: ハグの日なので当然のようにやって来るキツネちゃん🦊✨ https://t.co/9wseyfcaYt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1954159421434806273"
+          ]
+        },
+        "author_id": "954036687071363072",
+        "conversation_id": "1954159474463343048",
+        "created_at": "2025-08-09T12:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T13:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954159474463343048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9wseyfcaYt",
+              "end": 50,
+              "expanded_url": "https://x.com/ComikeMaster/status/1954159474463343048/video/1",
+              "media_key": "13_1954159421434806273",
+              "start": 27,
+              "url": "https://t.co/9wseyfcaYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954159474463343048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 3991,
+          "like_count": 378,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "ハグの日なので当然のようにやって来るキツネちゃん🦊✨ https://t.co/9wseyfcaYt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 68,
+          "like_count": 1985,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1016
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-18T17:04:06.000Z",
+        "description": "夏コミ参加予定🌟ケモミミのイラスト好き🐾ゲーム作ったり、ネコちゃんキツネちゃんのイラスト投稿してます🌻Nijijourneyメイン、たまに二次創作絵もあります",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/comikemaster",
+                "end": 23,
+                "expanded_url": "https://lit.link/comikemaster",
+                "start": 0,
+                "url": "https://t.co/4qccNLNxIv"
+              }
+            ]
+          }
+        },
+        "id": "954036687071363072",
+        "name": "鳳凰院ナギ🐈 C106日曜東Ｕ07b",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748708921362276352/tguOQQxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9900,
+          "following_count": 171,
+          "like_count": 32782,
+          "listed_count": 97,
+          "media_count": 2302,
+          "tweet_count": 11554
+        },
+        "url": "https://t.co/4qccNLNxIv",
+        "username": "ComikeMaster",
+        "verified": true
+      }
+    ]
+  }
+}

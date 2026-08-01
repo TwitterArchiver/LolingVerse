@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1927699816332636401",
+    "created_at": "2025-05-28T16:52:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T17:52:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927769972786221178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1071094209749417984",
+          "start": 0,
+          "username": "BeiyanNa3AlF6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927769972786221178",
+    "in_reply_to_user_id": "1071094209749417984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 16,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927699816332636401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeiyanNa3AlF6 我也有幻觉（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1927699816332636401",
+        "created_at": "2025-05-28T16:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T17:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927769972786221178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1071094209749417984",
+              "start": 0,
+              "username": "BeiyanNa3AlF6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927769972786221178",
+        "in_reply_to_user_id": "1071094209749417984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927699816332636401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeiyanNa3AlF6 我也有幻觉（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1071094209749417984",
+        "conversation_id": "1927699816332636401",
+        "created_at": "2025-05-28T12:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T13:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927699816332636401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BeiyanNa3AlF6/…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/BeiyanNa3AlF6/status/1927661910545367061",
+              "start": 38,
+              "url": "https://t.co/8PboRIuusv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927699816332636401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1848,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927661910545367061",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "切记，大语言模型的幻觉不可消除，切勿使用大语言模型进行任何严谨的学术研究😇 https://t.co/8PboRIuusv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 60,
+          "like_count": 1096,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 523
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-07T17:28:54.000Z",
+        "description": "MtX-MtF振荡器，member of @MtFwiki 。我吃糖手术但我是好友跨顺男，木饭桶/INTP/Ingress/HAM/NixOS maintainer/中文 Vocaloid/索尼大法好。爱的人 @yifusuyi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "MtFwiki"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "yifusuyi"
+              }
+            ]
+          }
+        },
+        "id": "1071094209749417984",
+        "location": "Rhineland-Palatinate, Germany",
+        "name": "北雁 Na₃AlF₆🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620498439485403137/zPt4c0Rp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1847,
+          "following_count": 1363,
+          "like_count": 104704,
+          "listed_count": 12,
+          "media_count": 264,
+          "tweet_count": 5828
+        },
+        "username": "BeiyanNa3AlF6",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943980329422753792"
+      ],
+      "media_source_tweet_id": [
+        "1943980566312788182"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1944064053569327112",
+    "created_at": "2025-07-12T15:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T16:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944064053569327112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "873579011682705408",
+          "start": 3,
+          "username": "Miyuki_Symphony"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UP7APICZGL",
+          "end": 79,
+          "expanded_url": "https://x.com/Miyuki_Symphony/status/1943980566312788182/photo/1",
+          "media_key": "3_1943980329422753792",
+          "start": 56,
+          "url": "https://t.co/UP7APICZGL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944064053569327112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943980566312788182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miyuki_Symphony: こんこん～新作、記念イラストが…間に合わなかった…\n頑張る(≧◇≦) https://t.co/UP7APICZGL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1943980329422753792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvpnz1mXEAAjuWl.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943980329422753792"
+          ],
+          "media_source_tweet_id": [
+            "1943980566312788182"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1944064053569327112",
+        "created_at": "2025-07-12T15:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T16:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944064053569327112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "873579011682705408",
+              "start": 3,
+              "username": "Miyuki_Symphony"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UP7APICZGL",
+              "end": 79,
+              "expanded_url": "https://x.com/Miyuki_Symphony/status/1943980566312788182/photo/1",
+              "media_key": "3_1943980329422753792",
+              "start": 56,
+              "url": "https://t.co/UP7APICZGL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944064053569327112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943980566312788182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miyuki_Symphony: こんこん～新作、記念イラストが…間に合わなかった…\n頑張る(≧◇≦) https://t.co/UP7APICZGL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943980329422753792"
+          ]
+        },
+        "author_id": "873579011682705408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          }
+        ],
+        "conversation_id": "1943980566312788182",
+        "created_at": "2025-07-12T10:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T11:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943980566312788182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UP7APICZGL",
+              "end": 58,
+              "expanded_url": "https://x.com/Miyuki_Symphony/status/1943980566312788182/photo/1",
+              "media_key": "3_1943980329422753792",
+              "start": 35,
+              "url": "https://t.co/UP7APICZGL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943980566312788182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1251,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "こんこん～新作、記念イラストが…間に合わなかった…\n頑張る(≧◇≦) https://t.co/UP7APICZGL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 63,
+          "like_count": 1593,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 739
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-10T16:34:01.000Z",
+        "description": "長髪狐娘、着物、ロングドレスが好きです。\n通知見落としや、フォロバ等対応遅いかもしれません。\n主にAIイラストとドールさん(ハイライトに",
+        "id": "873579011682705408",
+        "name": "み ゆ き",
+        "pinned_tweet_id": "1941807280565150133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781987244498378752/qv9pa9bA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4086,
+          "following_count": 1270,
+          "like_count": 31257,
+          "listed_count": 71,
+          "media_count": 5090,
+          "tweet_count": 101593
+        },
+        "username": "Miyuki_Symphony",
+        "verified": true
+      }
+    ]
+  }
+}

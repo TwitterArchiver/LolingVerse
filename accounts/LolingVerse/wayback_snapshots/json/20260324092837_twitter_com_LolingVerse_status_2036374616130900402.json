@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2033150712641880064"
+      ],
+      "media_source_tweet_id": [
+        "2033150806296527253"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2036374616130900402",
+    "created_at": "2026-03-24T09:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T10:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036374616130900402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1287977244023914496",
+          "start": 3,
+          "username": "birdman46049238"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ISZ4URxRy9",
+          "end": 50,
+          "expanded_url": "https://x.com/birdman46049238/status/2033150806296527253/photo/1",
+          "media_key": "16_2033150712641880064",
+          "start": 27,
+          "url": "https://t.co/ISZ4URxRy9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036374616130900402",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1597
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033150806296527253",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @birdman46049238: FOX!💕 https://t.co/ISZ4URxRy9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "16_2033150712641880064",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HDczzRHaAAALxRA.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HDczzRHaAAALxRA.mp4"
+          }
+        ],
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2033150712641880064"
+          ],
+          "media_source_tweet_id": [
+            "2033150806296527253"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2036374616130900402",
+        "created_at": "2026-03-24T09:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T10:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036374616130900402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1287977244023914496",
+              "start": 3,
+              "username": "birdman46049238"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ISZ4URxRy9",
+              "end": 50,
+              "expanded_url": "https://x.com/birdman46049238/status/2033150806296527253/photo/1",
+              "media_key": "16_2033150712641880064",
+              "start": 27,
+              "url": "https://t.co/ISZ4URxRy9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036374616130900402",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1597
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033150806296527253",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @birdman46049238: FOX!💕 https://t.co/ISZ4URxRy9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2033150712641880064"
+          ]
+        },
+        "author_id": "1287977244023914496",
+        "conversation_id": "2033150806296527253",
+        "created_at": "2026-03-15T11:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T12:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033150806296527253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ISZ4URxRy9",
+              "end": 29,
+              "expanded_url": "https://x.com/birdman46049238/status/2033150806296527253/photo/1",
+              "media_key": "16_2033150712641880064",
+              "start": 6,
+              "url": "https://t.co/ISZ4URxRy9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033150806296527253",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2064,
+          "impression_count": 197772,
+          "like_count": 18627,
+          "quote_count": 8,
+          "reply_count": 37,
+          "retweet_count": 1597
+        },
+        "reply_settings": "everyone",
+        "text": "FOX!💕 https://t.co/ISZ4URxRy9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox Only",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 121,
+          "like_count": 12311,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 2835
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-28T05:05:22.000Z",
+        "description": "ご連絡はDMかmailにお願いします\ncommission→https://t.co/6LXHtBNfI9\nhttps://t.co/wtS8AVjwUc\nhttps://t.co/nd3Fw5RL0y\n✉:birdtokitsune@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@birdman460492…",
+                "end": 53,
+                "expanded_url": "https://skeb.jp/@birdman46049238",
+                "start": 30,
+                "url": "https://t.co/6LXHtBNfI9"
+              },
+              {
+                "display_url": "patreon.com/birdman342",
+                "end": 77,
+                "expanded_url": "https://www.patreon.com/birdman342",
+                "start": 54,
+                "url": "https://t.co/wtS8AVjwUc"
+              },
+              {
+                "display_url": "birdman.fanbox.cc",
+                "end": 101,
+                "expanded_url": "https://birdman.fanbox.cc/",
+                "start": 78,
+                "url": "https://t.co/nd3Fw5RL0y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/birdman",
+                "end": 23,
+                "expanded_url": "https://potofu.me/birdman",
+                "start": 0,
+                "url": "https://t.co/dZLVEgOGxW"
+              }
+            ]
+          }
+        },
+        "id": "1287977244023914496",
+        "location": "pixel",
+        "name": "birdman🦊",
+        "pinned_tweet_id": "1908844083969413303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642141882447986693/SdCLuLpz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242015,
+          "following_count": 528,
+          "like_count": 17353,
+          "listed_count": 1290,
+          "media_count": 538,
+          "tweet_count": 4561
+        },
+        "url": "https://t.co/dZLVEgOGxW",
+        "username": "birdman46049238",
+        "verified": true
+      }
+    ]
+  }
+}

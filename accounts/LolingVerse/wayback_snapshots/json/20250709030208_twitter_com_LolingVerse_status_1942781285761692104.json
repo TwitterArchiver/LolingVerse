@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pasta",
+          "id": "825056348412862464",
+          "name": "Pasta"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Pasta",
+          "id": "825056348412862464",
+          "name": "Pasta"
+        }
+      }
+    ],
+    "conversation_id": "1942781285761692104",
+    "created_at": "2025-07-09T03:02:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T04:02:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942781285761692104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "873579011682705408",
+          "start": 3,
+          "username": "Miyuki_Symphony"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942781285761692104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942421288104124816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miyuki_Symphony: こんこん～✨🦊✨ｺﾝｺ~ﾝ\n\n午前中お疲れ様～パスタの日～\n取り皿使えばお上品に～✨(*´ω,,｀*)ﾉ)\"\n\n中の狐は、カルボナーラが好きです🦊♪\n\n別構図作り出してしまって、\nおはポスト予定の新作は、間に合いませんでした…\n作り置き…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_1942419637443960832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvTcXm6XIAA0TpZ.jpg",
+        "width": 1792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pasta",
+              "id": "825056348412862464",
+              "name": "Pasta"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Pasta",
+              "id": "825056348412862464",
+              "name": "Pasta"
+            }
+          }
+        ],
+        "conversation_id": "1942781285761692104",
+        "created_at": "2025-07-09T03:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T04:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942781285761692104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "873579011682705408",
+              "start": 3,
+              "username": "Miyuki_Symphony"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942781285761692104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942421288104124816",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miyuki_Symphony: こんこん～✨🦊✨ｺﾝｺ~ﾝ\n\n午前中お疲れ様～パスタの日～\n取り皿使えばお上品に～✨(*´ω,,｀*)ﾉ)\"\n\n中の狐は、カルボナーラが好きです🦊♪\n\n別構図作り出してしまって、\nおはポスト予定の新作は、間に合いませんでした…\n作り置き…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942419637443960832"
+          ]
+        },
+        "author_id": "873579011682705408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Pasta",
+              "id": "825056348412862464",
+              "name": "Pasta"
+            }
+          }
+        ],
+        "conversation_id": "1942421288104124816",
+        "created_at": "2025-07-08T03:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T04:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942421288104124816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8DY6iaSw4Y",
+              "end": 159,
+              "expanded_url": "https://x.com/Miyuki_Symphony/status/1942421288104124816/photo/1",
+              "media_key": "3_1942419637443960832",
+              "start": 136,
+              "url": "https://t.co/8DY6iaSw4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942421288104124816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "こんこん～✨🦊✨ｺﾝｺ~ﾝ\n\n午前中お疲れ様～パスタの日～\n取り皿使えばお上品に～✨(*´ω,,｀*)ﾉ)\"\n\n中の狐は、カルボナーラが好きです🦊♪\n\n別構図作り出してしまって、\nおはポスト予定の新作は、間に合いませんでした…\n作り置きしないとダメですね(;´▽｀A``\n\n実は、とある方のイラストのオマージュなのですが、\n画面に手を伸ばし青い炎攻撃\n狐型の炎を出せないかと…"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1161,
+          "like_count": 92,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "こんこん～✨🦊✨ｺﾝｺ~ﾝ\n\n午前中お疲れ様～パスタの日～\n取り皿使えばお上品に～✨(*´ω,,｀*)ﾉ)\"\n\n中の狐は、カルボナーラが好きです🦊♪\n\n別構図作り出してしまって、\nおはポスト予定の新作は、間に合いませんでした…\n作り置きしないとダメですね(;´▽｀A`` https://t.co/8DY6iaSw4Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 63,
+          "like_count": 1561,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 730
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-10T16:34:01.000Z",
+        "description": "長髪狐娘、着物、ロングドレスが好きです。\n通知見落としや、フォロバ等対応遅いかもしれません。\n主にAIイラストとドールさん(ハイライトに",
+        "id": "873579011682705408",
+        "name": "み ゆ き",
+        "pinned_tweet_id": "1941807280565150133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781987244498378752/qv9pa9bA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4033,
+          "following_count": 1262,
+          "like_count": 30690,
+          "listed_count": 71,
+          "media_count": 5065,
+          "tweet_count": 100967
+        },
+        "username": "Miyuki_Symphony",
+        "verified": true
+      }
+    ]
+  }
+}

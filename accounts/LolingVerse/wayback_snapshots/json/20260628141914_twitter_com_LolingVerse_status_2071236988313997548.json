@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2071194500064825615",
+    "created_at": "2026-06-28T14:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T15:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071236988313997548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2048045804959436800",
+          "start": 0,
+          "username": "shifengshua0717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071236988313997548",
+    "in_reply_to_user_id": "2048045804959436800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071194500064825615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shifengshua0717 其实根本性的问题还是消费端，既把孩子送进去的低认知家长……\n\n不过现在生育率在降，或许是好事\n\n也或许并非，因为低认知群体繁殖显然高于精英……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1131,
+        "media_key": "3_2071194495107137536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5ca22bAAA1FSz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1135,
+        "media_key": "3_2071194495937609728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5ca58bAAAwSfB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2071194500064825615",
+        "created_at": "2026-06-28T14:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071236988313997548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2048045804959436800",
+              "start": 0,
+              "username": "shifengshua0717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071236988313997548",
+        "in_reply_to_user_id": "2048045804959436800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071194500064825615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shifengshua0717 其实根本性的问题还是消费端，既把孩子送进去的低认知家长……\n\n不过现在生育率在降，或许是好事\n\n也或许并非，因为低认知群体繁殖显然高于精英……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071194495107137536",
+            "3_2071194495937609728"
+          ]
+        },
+        "author_id": "2048045804959436800",
+        "conversation_id": "2071194500064825615",
+        "created_at": "2026-06-28T11:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071194500064825615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KNqAiAiuyV",
+              "end": 27,
+              "expanded_url": "https://x.com/shifengshua0717/status/2071194500064825615/photo/1",
+              "media_key": "3_2071194495107137536",
+              "start": 4,
+              "url": "https://t.co/KNqAiAiuyV"
+            },
+            {
+              "display_url": "pic.x.com/KNqAiAiuyV",
+              "end": 27,
+              "expanded_url": "https://x.com/shifengshua0717/status/2071194500064825615/photo/1",
+              "media_key": "3_2071194495937609728",
+              "start": 4,
+              "url": "https://t.co/KNqAiAiuyV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071194500064825615",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 519,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天亮了 https://t.co/KNqAiAiuyV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 158,
+          "like_count": 23452,
+          "listed_count": 3,
+          "media_count": 321,
+          "tweet_count": 4220
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-25T14:26:01.000Z",
+        "description": "来自中国的视频创作者,致力于曝光戒网瘾学校和扭转机构等黑心教育机构",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sfsa.mrgzs.top",
+                "end": 23,
+                "expanded_url": "https://sfsa.mrgzs.top",
+                "start": 0,
+                "url": "https://t.co/TkxUTTp1Rs"
+              }
+            ]
+          }
+        },
+        "id": "2048045804959436800",
+        "location": "Hong Kong",
+        "name": "枫书",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059337950232825856/-b-SRyMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 22,
+          "like_count": 570,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 22
+        },
+        "url": "https://t.co/TkxUTTp1Rs",
+        "username": "shifengshua0717",
+        "verified": false
+      }
+    ]
+  }
+}

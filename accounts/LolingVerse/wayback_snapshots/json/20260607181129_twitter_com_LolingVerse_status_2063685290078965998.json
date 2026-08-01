@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2063657204083994846",
+    "created_at": "2026-06-07T18:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T19:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063685290078965998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1227265979735887874",
+          "start": 0,
+          "username": "LuminaFable2020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063685290078965998",
+    "in_reply_to_user_id": "1227265979735887874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063657204083994846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuminaFable2020 新安卓读取应用列表好像是需要设置授权的，不过国产的应用基本都经常弹出来就容易点到始终允许"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2208,
+        "media_key": "3_2063657195783487488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOVSSzagAAOnPW.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2063657204083994846",
+        "created_at": "2026-06-07T18:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063685290078965998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1227265979735887874",
+              "start": 0,
+              "username": "LuminaFable2020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063685290078965998",
+        "in_reply_to_user_id": "1227265979735887874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063657204083994846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuminaFable2020 新安卓读取应用列表好像是需要设置授权的，不过国产的应用基本都经常弹出来就容易点到始终允许"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063657195783487488"
+          ]
+        },
+        "author_id": "1227265979735887874",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2063657204083994846",
+        "created_at": "2026-06-07T16:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063657204083994846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qoLa4u1ua5",
+              "end": 86,
+              "expanded_url": "https://x.com/LuminaFable2020/status/2063657204083994846/photo/1",
+              "media_key": "3_2063657195783487488",
+              "start": 63,
+              "url": "https://t.co/qoLa4u1ua5"
+            },
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2063489584026325184",
+              "start": 87,
+              "url": "https://t.co/v9AArPFCvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063657204083994846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063489584026325184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "遗憾离场\n\n另外说个事：Android App能获取到的信息比iOS要多多了 比如在不申请权限的情况下读取你所有已安装的应用 https://t.co/qoLa4u1ua5 https://t.co/v9AArPFCvr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZFvr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZFvr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster 和另外 114514 人",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 145,
+          "like_count": 21329,
+          "listed_count": 3,
+          "media_count": 269,
+          "tweet_count": 3720
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-11T16:19:55.000Z",
+        "description": "社恐 /  Dev /  碎碎念 /  可爱 / No politics / Transport fans / Prev acc @frankxka05 / 🤤 /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "frankxka05"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LuminaSaki",
+                "end": 23,
+                "expanded_url": "https://t.me/LuminaSaki",
+                "start": 0,
+                "url": "https://t.co/tXNFqGvWTa"
+              }
+            ]
+          }
+        },
+        "id": "1227265979735887874",
+        "name": "LuminaSaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055610164711985152/Dga6BtlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 314,
+          "like_count": 955,
+          "listed_count": 4,
+          "media_count": 108,
+          "tweet_count": 661
+        },
+        "url": "https://t.co/tXNFqGvWTa",
+        "username": "LuminaFable2020",
+        "verified": true
+      }
+    ]
+  }
+}

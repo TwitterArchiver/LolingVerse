@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2031590884756906009",
+    "created_at": "2026-03-11T04:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T05:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031593458146971910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "147786784",
+          "start": 0,
+          "username": "yetone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031593458146971910",
+    "in_reply_to_user_id": "147786784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031590884756906009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yetone 为啥呢你的这只 Alma 这么可爱😭👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2031590884756906009",
+        "created_at": "2026-03-11T04:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T05:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031593458146971910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "147786784",
+              "start": 0,
+              "username": "yetone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031593458146971910",
+        "in_reply_to_user_id": "147786784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031590884756906009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yetone 为啥呢你的这只 Alma 这么可爱😭👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "147786784",
+        "conversation_id": "2031590884756906009",
+        "created_at": "2026-03-11T04:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T05:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031590884756906009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yetone/status/…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/yetone/status/2031587467531522486",
+              "start": 39,
+              "url": "https://t.co/tmfyhvBNE2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031590884756906009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 551,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031587467531522486",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Alma 是纯靠操作浏览器像人一样去完成推特的刷推跟回复的，你们心疼一下她吧 https://t.co/tmfyhvBNE2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Hydrogen.洛铃🍥Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 118,
+          "like_count": 10726,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 2678
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2010-05-25T01:52:30.000Z",
+        "description": "Work at @isoformai\n\nBuilt a Coding Agent for Vim: avante.nvim\n\nBuilding: https://t.co/pfq9srNgsd\n\nBuilding: https://t.co/fpGnPR5t9C\n\nBuilding: https://t.co/cBN1yzJPIG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "isoformai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "alma.now",
+                "end": 96,
+                "expanded_url": "https://alma.now",
+                "start": 73,
+                "url": "https://t.co/pfq9srNgsd"
+              },
+              {
+                "display_url": "confirmo.love",
+                "end": 131,
+                "expanded_url": "https://confirmo.love",
+                "start": 108,
+                "url": "https://t.co/fpGnPR5t9C"
+              },
+              {
+                "display_url": "swordgame.ai",
+                "end": 166,
+                "expanded_url": "https://swordgame.ai",
+                "start": 143,
+                "url": "https://t.co/cBN1yzJPIG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/yetone",
+                "end": 23,
+                "expanded_url": "https://github.com/yetone",
+                "start": 0,
+                "url": "https://t.co/KfyoeaqTKV"
+              }
+            ]
+          }
+        },
+        "id": "147786784",
+        "location": "无",
+        "name": "yetone",
+        "pinned_tweet_id": "1996646348964413572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458663772017491971/h1-KC--K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79324,
+          "following_count": 4480,
+          "like_count": 18835,
+          "listed_count": 904,
+          "media_count": 2126,
+          "tweet_count": 18614
+        },
+        "url": "https://t.co/KfyoeaqTKV",
+        "username": "yetone",
+        "verified": true
+      }
+    ]
+  }
+}

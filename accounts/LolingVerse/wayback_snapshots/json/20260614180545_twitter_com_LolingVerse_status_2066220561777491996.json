@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2066207491659293178",
+    "created_at": "2026-06-14T18:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T19:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066220561777491996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "itsCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066220561777491996",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066207491659293178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@itsCatRoll 怪"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50038,
+        "height": 1920,
+        "media_key": "13_2066207264785178625",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066207264785178625/img/4G2PUenBFgFz6UFq.jpg",
+        "public_metrics": {
+          "view_count": 51
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066207264785178625/vid/avc1/720x1280/A3RPlQIrCnnI1PkR.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066207264785178625/vid/avc1/1080x1920/QW33RAV9BHTaIMHf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066207264785178625/vid/avc1/480x852/SULo5gM8AOgAls6F.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066207264785178625/pl/PMjOGNpc3HsLloYs.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066207264785178625/vid/avc1/320x568/ahTvqkqSf0OHcfGj.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2066207491659293178",
+        "created_at": "2026-06-14T18:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066220561777491996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066220561777491996",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066207491659293178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@itsCatRoll 怪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066207264785178625"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2066207491659293178",
+        "created_at": "2026-06-14T17:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066207491659293178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UTVUBljlV0",
+              "end": 64,
+              "expanded_url": "https://x.com/itsCatRoll/status/2066207491659293178/video/1",
+              "media_key": "13_2066207264785178625",
+              "start": 41,
+              "url": "https://t.co/UTVUBljlV0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066207491659293178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "草昨天吃完sns发疯刚才看手机发现一段无意义视频也不知道什么时候拍的\n\n警钟长鸣 https://t.co/UTVUBljlV0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZFvr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZFvr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster 和另外 114514 人",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 149,
+          "like_count": 21849,
+          "listed_count": 3,
+          "media_count": 282,
+          "tweet_count": 3816
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "里账号@LTSxn0z",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "LTSxn0z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/linker2k",
+                "end": 23,
+                "expanded_url": "http://t.me/linker2k",
+                "start": 0,
+                "url": "https://t.co/9ukBrb4ybC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺 ➡️",
+        "name": "衍星猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060910085187219456/yA1wVEhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4081,
+          "following_count": 843,
+          "like_count": 4181,
+          "listed_count": 9,
+          "media_count": 85,
+          "tweet_count": 598
+        },
+        "url": "https://t.co/9ukBrb4ybC",
+        "username": "itsCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

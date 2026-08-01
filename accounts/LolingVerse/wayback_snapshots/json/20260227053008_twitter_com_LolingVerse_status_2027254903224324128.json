@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2027053547842666881",
+    "created_at": "2026-02-27T05:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T06:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027254903224324128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2007397795532333056",
+          "start": 0,
+          "username": "shaoxiancao1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027254903224324128",
+    "in_reply_to_user_id": "1836041585475346432",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027254877051838648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shaoxiancao1314 awa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2027053547842666881",
+        "created_at": "2026-02-27T05:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T06:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027254903224324128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2007397795532333056",
+              "start": 0,
+              "username": "shaoxiancao1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027254903224324128",
+        "in_reply_to_user_id": "1836041585475346432",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027254877051838648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaoxiancao1314 awa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2027053547842666881",
+        "created_at": "2026-02-27T05:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T06:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027254877051838648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2007397795532333056",
+              "start": 0,
+              "username": "shaoxiancao1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027254877051838648",
+        "in_reply_to_user_id": "2007397795532333056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027053547842666881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaoxiancao1314 原来你也是小孩子嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | 另一只猫猫 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 52,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Hydrogen.洛铃🍥Magic Caster",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 111,
+          "like_count": 9514,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 2521
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-03T10:25:12.000Z",
+        "description": "10倍凝胶请联系TG https://t.co/eQ5f55oGxr丨\nmtf地雷系女子丨09年161cm药娘丨曾20小时内极限逃离扭转机构丨坐标郑州丨照片在亮点丨对象兼闺蜜@YuwenT233丨姐姐@Delusions6515 @Snegur0chk 丨纯绿交友🚪18私信口令 同类免丨蓝V互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 87,
+                "username": "YuwenT233"
+              },
+              {
+                "end": 114,
+                "start": 100,
+                "username": "Delusions6515"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "Snegur0chk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/shaoxiancao1314",
+                "end": 34,
+                "expanded_url": "http://t.me/shaoxiancao1314",
+                "start": 11,
+                "url": "https://t.co/eQ5f55oGxr"
+              }
+            ]
+          }
+        },
+        "id": "2007397795532333056",
+        "location": "坐在唐毓文无敌几把上",
+        "name": "烧仙草🍥🏳️‍⚧️（出10倍凝胶）",
+        "pinned_tweet_id": "2021027137004896416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007399225236361216/pD-sGP7Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 407,
+          "like_count": 2864,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 201
+        },
+        "username": "shaoxiancao1314",
+        "verified": true
+      }
+    ]
+  }
+}

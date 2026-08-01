@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2038167680877019300",
+    "created_at": "2026-03-29T14:57:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T15:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038269400550408517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038269400550408517",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038167680877019300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech 然后再被搜索引擎抓……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2178,
+        "media_key": "3_2038167666784157696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkGsbtbQAAUu6w.jpg",
+        "width": 3626
+      },
+      {
+        "height": 1338,
+        "media_key": "3_2038167667744575488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkGsfSaEAACl3W.jpg",
+        "width": 2430
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2038167680877019300",
+        "created_at": "2026-03-29T14:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038269400550408517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038269400550408517",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038167680877019300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech 然后再被搜索引擎抓……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038167666784157696",
+            "3_2038167667744575488"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2038167680877019300",
+        "created_at": "2026-03-29T08:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T09:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038167680877019300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "ourl.co/112400?x",
+              "end": 149,
+              "expanded_url": "https://ourl.co/112400?x",
+              "start": 126,
+              "unwound_url": "https://www.landiannews.com/archives/112400.html?utm_source=x.com&utm_medium=default&utm_campaign=%E9%BB%91%E7%81%B0%E4%BA%A7%E5%9B%A2%E4%BC%99%E5%9C%A8GitHub%E5%8F%91%E5%B8%83%E6%B5%B7%E9%87%8F%E8%8F%A0%E8%8F%9C%E5%B9%BF%E5%91%8A+WSL%E7%AD%89%E5%A4%9A%E4%B8%AA%E9%A1%B9%E7%9B%AE%E7%9A%84Issue%E8%A2%AB%E7%88%86%E7%A0%B4",
+              "url": "https://t.co/s9XJW7HqGC"
+            },
+            {
+              "display_url": "pic.x.com/IGL5Lget81",
+              "end": 173,
+              "expanded_url": "https://x.com/landiantech/status/2038167680877019300/photo/1",
+              "media_key": "3_2038167666784157696",
+              "start": 150,
+              "url": "https://t.co/IGL5Lget81"
+            },
+            {
+              "display_url": "pic.x.com/IGL5Lget81",
+              "end": 173,
+              "expanded_url": "https://x.com/landiantech/status/2038167680877019300/photo/1",
+              "media_key": "3_2038167667744575488",
+              "start": 150,
+              "url": "https://t.co/IGL5Lget81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038167680877019300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 30761,
+          "like_count": 127,
+          "quote_count": 11,
+          "reply_count": 26,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "黑灰产团伙盯上 GitHub，在大量知名项目例如微软 WSL 的 Issue 里发布海量菠菜网站广告，每个账号都发布数千条广告。\n\n这已经超出 WSL 或其他项目团队的处理范畴，估计很快 GitHub 官方就会出手封禁这些账号并清理记录。\n\n查看全文：https://t.co/s9XJW7HqGC https://t.co/IGL5Lget81"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 125,
+          "like_count": 12705,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 2875
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / OpenClaw 重度用户🦞🦞🦞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34286,
+          "following_count": 718,
+          "like_count": 4606,
+          "listed_count": 272,
+          "media_count": 5152,
+          "tweet_count": 14707
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

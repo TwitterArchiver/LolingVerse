@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948588150370291712"
+      ],
+      "media_source_tweet_id": [
+        "1948588165390106639"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1948605588122075347",
+    "created_at": "2025-07-25T04:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T05:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948605588122075347"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "れいまりrkgk",
+          "probability": 0.324,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1881696457457291264",
+          "start": 3,
+          "username": "suteru_ko47"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RvqkI4EaWN",
+          "end": 49,
+          "expanded_url": "https://x.com/suteru_ko47/status/1948588165390106639/photo/1",
+          "media_key": "3_1948588150370291712",
+          "start": 26,
+          "url": "https://t.co/RvqkI4EaWN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948605588122075347",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 102
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948588165390106639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suteru_ko47: れいまりrkgk https://t.co/RvqkI4EaWN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2893,
+        "media_key": "3_1948588150370291712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwrGmURbUAAxJ1K.jpg",
+        "width": 1329
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948588150370291712"
+          ],
+          "media_source_tweet_id": [
+            "1948588165390106639"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1948605588122075347",
+        "created_at": "2025-07-25T04:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T05:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948605588122075347"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "れいまりrkgk",
+              "probability": 0.324,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1881696457457291264",
+              "start": 3,
+              "username": "suteru_ko47"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RvqkI4EaWN",
+              "end": 49,
+              "expanded_url": "https://x.com/suteru_ko47/status/1948588165390106639/photo/1",
+              "media_key": "3_1948588150370291712",
+              "start": 26,
+              "url": "https://t.co/RvqkI4EaWN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948605588122075347",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 102
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948588165390106639",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suteru_ko47: れいまりrkgk https://t.co/RvqkI4EaWN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948588150370291712"
+          ]
+        },
+        "author_id": "1881696457457291264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1948588165390106639",
+        "created_at": "2025-07-25T03:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T04:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948588165390106639"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "れいまりrkgk",
+              "probability": 0.4256,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RvqkI4EaWN",
+              "end": 32,
+              "expanded_url": "https://x.com/suteru_ko47/status/1948588165390106639/photo/1",
+              "media_key": "3_1948588150370291712",
+              "start": 9,
+              "url": "https://t.co/RvqkI4EaWN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948588165390106639",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 6513,
+          "like_count": 708,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "れいまりrkgk https://t.co/RvqkI4EaWN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 64,
+          "like_count": 1775,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 859
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T13:33:08.000Z",
+        "description": "東方のｒｋｇｋばかり",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/11308…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/en/users/113088782",
+                "start": 0,
+                "url": "https://t.co/xuiRTdgTzg"
+              }
+            ]
+          }
+        },
+        "id": "1881696457457291264",
+        "location": "幻想郷",
+        "name": "すてる子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938916262853173248/gooin48l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2141,
+          "following_count": 69,
+          "like_count": 3792,
+          "listed_count": 16,
+          "media_count": 91,
+          "tweet_count": 142
+        },
+        "url": "https://t.co/xuiRTdgTzg",
+        "username": "suteru_ko47",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942551375801425920"
+      ],
+      "media_source_tweet_id": [
+        "1942551401416253551"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1942772694786924812",
+    "created_at": "2025-07-09T02:28:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T03:28:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942772694786924812"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 26,
+          "tag": "maimai_art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "771338195300601857",
+          "start": 3,
+          "username": "Blue_U0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wa7jLpKOLN",
+          "end": 61,
+          "expanded_url": "https://x.com/Blue_U0/status/1942551401416253551/photo/1",
+          "media_key": "3_1942551375801425920",
+          "start": 38,
+          "url": "https://t.co/Wa7jLpKOLN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942772694786924812",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 123
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942551401416253551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Blue_U0: ソルト  ໒꒱  ̖́-\n#maimai_art https://t.co/Wa7jLpKOLN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942551375801425920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvVULyiXIAAtK9-.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942551375801425920"
+          ],
+          "media_source_tweet_id": [
+            "1942551401416253551"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1942772694786924812",
+        "created_at": "2025-07-09T02:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T03:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942772694786924812"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 26,
+              "tag": "maimai_art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "771338195300601857",
+              "start": 3,
+              "username": "Blue_U0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wa7jLpKOLN",
+              "end": 61,
+              "expanded_url": "https://x.com/Blue_U0/status/1942551401416253551/photo/1",
+              "media_key": "3_1942551375801425920",
+              "start": 38,
+              "url": "https://t.co/Wa7jLpKOLN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942772694786924812",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 123
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942551401416253551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Blue_U0: ソルト  ໒꒱  ̖́-\n#maimai_art https://t.co/Wa7jLpKOLN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942551375801425920"
+          ]
+        },
+        "author_id": "771338195300601857",
+        "conversation_id": "1942551401416253551",
+        "created_at": "2025-07-08T11:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T12:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942551401416253551"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 13,
+              "tag": "maimai_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wa7jLpKOLN",
+              "end": 48,
+              "expanded_url": "https://x.com/Blue_U0/status/1942551401416253551/photo/1",
+              "media_key": "3_1942551375801425920",
+              "start": 25,
+              "url": "https://t.co/Wa7jLpKOLN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942551401416253551",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 8823,
+          "like_count": 632,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "ソルト  ໒꒱  ̖́-\n#maimai_art https://t.co/Wa7jLpKOLN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 63,
+          "like_count": 1552,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 725
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-01T13:25:31.000Z",
+        "description": "水色",
+        "id": "771338195300601857",
+        "location": "Taiwan",
+        "name": "U0o",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926721427278905344/Fq_5wPUz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 519,
+          "like_count": 16125,
+          "listed_count": 14,
+          "media_count": 104,
+          "tweet_count": 1029
+        },
+        "username": "Blue_U0",
+        "verified": false
+      }
+    ]
+  }
+}

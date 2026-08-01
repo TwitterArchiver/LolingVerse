@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942493060849627136"
+      ],
+      "media_source_tweet_id": [
+        "1942493282787017002"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1942504861981147219",
+    "created_at": "2025-07-08T08:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T09:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942504861981147219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "551018232",
+          "start": 3,
+          "username": "Aoitori_775"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SWh2Gh0sdH",
+          "end": 40,
+          "expanded_url": "https://x.com/Aoitori_775/status/1942493282787017002/photo/1",
+          "media_key": "3_1942493060849627136",
+          "start": 17,
+          "url": "https://t.co/SWh2Gh0sdH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942504861981147219",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942493282787017002",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aoitori_775: https://t.co/SWh2Gh0sdH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 550,
+        "media_key": "3_1942493060849627136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvUfJaaacAArqbe.jpg",
+        "width": 985
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942493060849627136"
+          ],
+          "media_source_tweet_id": [
+            "1942493282787017002"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1942504861981147219",
+        "created_at": "2025-07-08T08:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T09:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942504861981147219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "551018232",
+              "start": 3,
+              "username": "Aoitori_775"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SWh2Gh0sdH",
+              "end": 40,
+              "expanded_url": "https://x.com/Aoitori_775/status/1942493282787017002/photo/1",
+              "media_key": "3_1942493060849627136",
+              "start": 17,
+              "url": "https://t.co/SWh2Gh0sdH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942504861981147219",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942493282787017002",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aoitori_775: https://t.co/SWh2Gh0sdH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942493060849627136"
+          ]
+        },
+        "author_id": "551018232",
+        "conversation_id": "1942493282787017002",
+        "created_at": "2025-07-08T07:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T08:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942493282787017002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SWh2Gh0sdH",
+              "end": 23,
+              "expanded_url": "https://x.com/Aoitori_775/status/1942493282787017002/photo/1",
+              "media_key": "3_1942493060849627136",
+              "start": 0,
+              "url": "https://t.co/SWh2Gh0sdH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942493282787017002",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 3099,
+          "like_count": 247,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SWh2Gh0sdH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 63,
+          "like_count": 1547,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 718
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-11T12:06:40.000Z",
+        "description": "Photo by @dmk0712\n👻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "dmk0712"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aoitori-jpn.booth.pm",
+                "end": 23,
+                "expanded_url": "https://aoitori-jpn.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/S4hRnkFyhJ"
+              }
+            ]
+          }
+        },
+        "id": "551018232",
+        "name": "とり",
+        "pinned_tweet_id": "1929962376650277367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886287786644570112/JoxSYqET_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19691,
+          "following_count": 966,
+          "like_count": 125715,
+          "listed_count": 243,
+          "media_count": 12921,
+          "tweet_count": 102676
+        },
+        "url": "https://t.co/S4hRnkFyhJ",
+        "username": "Aoitori_775",
+        "verified": false
+      }
+    ]
+  }
+}

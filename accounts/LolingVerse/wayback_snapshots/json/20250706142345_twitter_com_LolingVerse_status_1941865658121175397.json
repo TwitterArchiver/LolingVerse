@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941496293869617152"
+      ],
+      "media_source_tweet_id": [
+        "1941496307451121815"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "1941865658121175397",
+    "created_at": "2025-07-06T14:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T15:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941865658121175397"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "初音ミク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1538518821312421888",
+          "start": 3,
+          "username": "nayutarikawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K2UyLLRM23",
+          "end": 51,
+          "expanded_url": "https://x.com/nayutarikawa/status/1941496307451121815/photo/1",
+          "media_key": "3_1941496293869617152",
+          "start": 28,
+          "url": "https://t.co/K2UyLLRM23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941865658121175397",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 832
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941496307451121815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nayutarikawa: #初音ミク　\n🍷🌟 https://t.co/K2UyLLRM23"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2051,
+        "media_key": "3_1941496293869617152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvGUl8DWAAAIZsc.jpg",
+        "width": 1577
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941496293869617152"
+          ],
+          "media_source_tweet_id": [
+            "1941496307451121815"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1941865658121175397",
+        "created_at": "2025-07-06T14:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T15:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941865658121175397"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "初音ミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1538518821312421888",
+              "start": 3,
+              "username": "nayutarikawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K2UyLLRM23",
+              "end": 51,
+              "expanded_url": "https://x.com/nayutarikawa/status/1941496307451121815/photo/1",
+              "media_key": "3_1941496293869617152",
+              "start": 28,
+              "url": "https://t.co/K2UyLLRM23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941865658121175397",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 832
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941496307451121815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nayutarikawa: #初音ミク　\n🍷🌟 https://t.co/K2UyLLRM23"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941496293869617152"
+          ]
+        },
+        "author_id": "1538518821312421888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1941496307451121815",
+        "created_at": "2025-07-05T13:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T14:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941496307451121815"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K2UyLLRM23",
+              "end": 33,
+              "expanded_url": "https://x.com/nayutarikawa/status/1941496307451121815/photo/1",
+              "media_key": "3_1941496293869617152",
+              "start": 10,
+              "url": "https://t.co/K2UyLLRM23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941496307451121815",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 488,
+          "impression_count": 68492,
+          "like_count": 6518,
+          "quote_count": 5,
+          "reply_count": 11,
+          "retweet_count": 832
+        },
+        "reply_settings": "everyone",
+        "text": "#初音ミク　\n🍷🌟 https://t.co/K2UyLLRM23"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 63,
+          "like_count": 1526,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 705
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-19T13:48:16.000Z",
+        "description": "illustrator✏️|初音ミクが好き｜ご依頼の相談はDM又はnayutarikawa@gmail.comまで(※プロフ必読)｜スケブ→https://t.co/0xNyF8cGsz│⚠️AI学習禁止、転載禁止、Repost is prohibited.　禁止转载",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@nayutarikawa",
+                "end": 93,
+                "expanded_url": "https://skeb.jp/@nayutarikawa",
+                "start": 70,
+                "url": "https://t.co/0xNyF8cGsz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/2VNvoQ7Nsbea…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/2VNvoQ7NsbeaMm4Fs4l5p2eIiNt1",
+                "start": 0,
+                "url": "https://t.co/6mFQxK165r"
+              }
+            ]
+          }
+        },
+        "id": "1538518821312421888",
+        "location": "新規ご依頼　8月~着手",
+        "name": "なゆた",
+        "pinned_tweet_id": "1617140349700571137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1540326560493776896/9a5hSSoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22541,
+          "following_count": 249,
+          "like_count": 8757,
+          "listed_count": 204,
+          "media_count": 197,
+          "tweet_count": 3343
+        },
+        "url": "https://t.co/6mFQxK165r",
+        "username": "nayutarikawa",
+        "verified": false
+      }
+    ]
+  }
+}

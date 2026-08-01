@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1948032563303616512"
+      ],
+      "media_source_tweet_id": [
+        "1948032933224431976"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1948584259926507725",
+    "created_at": "2025-07-25T03:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T04:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948584259926507725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1827204308519284737",
+          "start": 3,
+          "username": "WildNature01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wjlkSfwqlZ",
+          "end": 41,
+          "expanded_url": "https://x.com/WildNature01/status/1948032933224431976/video/1",
+          "media_key": "7_1948032563303616512",
+          "start": 18,
+          "url": "https://t.co/wjlkSfwqlZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948584259926507725",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 214
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948032933224431976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WildNature01: https://t.co/wjlkSfwqlZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6533,
+        "height": 1280,
+        "media_key": "7_1948032563303616512",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1948032563303616512/pu/img/tCffxaQ_siGEB5cm.jpg",
+        "public_metrics": {
+          "view_count": 5044
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1948032563303616512/pu/vid/avc1/320x568/Lk6Optl2_qFmUQx4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1948032563303616512/pu/vid/avc1/480x852/a7pzwF2nE19_hxNB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1948032563303616512/pu/vid/avc1/720x1280/jJXkRlELrC2aQgh7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1948032563303616512/pu/pl/1L7HDapjlAFzdVnP.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1948032563303616512"
+          ],
+          "media_source_tweet_id": [
+            "1948032933224431976"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1948584259926507725",
+        "created_at": "2025-07-25T03:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T04:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948584259926507725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1827204308519284737",
+              "start": 3,
+              "username": "WildNature01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wjlkSfwqlZ",
+              "end": 41,
+              "expanded_url": "https://x.com/WildNature01/status/1948032933224431976/video/1",
+              "media_key": "7_1948032563303616512",
+              "start": 18,
+              "url": "https://t.co/wjlkSfwqlZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948584259926507725",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 214
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948032933224431976",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WildNature01: https://t.co/wjlkSfwqlZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1948032563303616512"
+          ]
+        },
+        "author_id": "1827204308519284737",
+        "conversation_id": "1948032933224431976",
+        "created_at": "2025-07-23T14:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T15:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948032933224431976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wjlkSfwqlZ",
+              "end": 23,
+              "expanded_url": "https://x.com/WildNature01/status/1948032933224431976/video/1",
+              "media_key": "7_1948032563303616512",
+              "start": 0,
+              "url": "https://t.co/wjlkSfwqlZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948032933224431976",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 154,
+          "impression_count": 17308,
+          "like_count": 1411,
+          "quote_count": 14,
+          "reply_count": 4,
+          "retweet_count": 214
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wjlkSfwqlZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 64,
+          "like_count": 1774,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 858
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T04:41:29.000Z",
+        "description": "AnimalPhoto 🐢 Wild Nature 🦁",
+        "id": "1827204308519284737",
+        "location": " 🌎 india",
+        "name": "Wild Nature",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866132413564284928/QBRGnkyA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 13,
+          "like_count": 31,
+          "listed_count": 2,
+          "media_count": 707,
+          "tweet_count": 729
+        },
+        "username": "WildNature01",
+        "verified": true
+      }
+    ]
+  }
+}

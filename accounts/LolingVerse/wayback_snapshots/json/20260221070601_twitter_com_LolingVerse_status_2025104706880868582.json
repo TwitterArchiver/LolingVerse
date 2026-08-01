@@ -1,0 +1,489 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Vegetables",
+          "id": "842797798626009088",
+          "name": "Vegetable recipes"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Vegetables",
+          "id": "842797798626009088",
+          "name": "Vegetable recipes"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Recipies/Books",
+          "id": "846736745517350912",
+          "name": "Recipes"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Vegetables",
+          "id": "842797798626009088",
+          "name": "Vegetable recipes"
+        }
+      }
+    ],
+    "conversation_id": "2025104706880868582",
+    "created_at": "2026-02-21T07:06:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T08:06:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025104706880868582"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pigeoninfo/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/pigeoninfo/status/2021036486729289811",
+          "start": 3,
+          "url": "https://t.co/hg1rWNy305"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025104706880868582",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021036486729289811",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好耶 https://t.co/hg1rWNy305"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2021036463601876995",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAwp9KsaAAMc5F_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Vegetables",
+              "id": "842797798626009088",
+              "name": "Vegetable recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Vegetables",
+              "id": "842797798626009088",
+              "name": "Vegetable recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Recipies/Books",
+              "id": "846736745517350912",
+              "name": "Recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Vegetables",
+              "id": "842797798626009088",
+              "name": "Vegetable recipes"
+            }
+          }
+        ],
+        "conversation_id": "2025104706880868582",
+        "created_at": "2026-02-21T07:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025104706880868582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pigeoninfo/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/pigeoninfo/status/2021036486729289811",
+              "start": 3,
+              "url": "https://t.co/hg1rWNy305"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025104706880868582",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021036486729289811",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好耶 https://t.co/hg1rWNy305"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021036463601876995"
+          ]
+        },
+        "author_id": "3064037688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Vegetables",
+              "id": "842797798626009088",
+              "name": "Vegetable recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Vegetables",
+              "id": "842797798626009088",
+              "name": "Vegetable recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Recipies/Books",
+              "id": "846736745517350912",
+              "name": "Recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Vegetables",
+              "id": "842797798626009088",
+              "name": "Vegetable recipes"
+            }
+          }
+        ],
+        "conversation_id": "2021036486729289811",
+        "created_at": "2026-02-10T01:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T02:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021036486729289811"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 54,
+              "normalized_text": "すくすくタブレット",
+              "probability": 0.3963,
+              "start": 46,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 124,
+              "id": "3064037688",
+              "start": 113,
+              "username": "pigeoninfo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wijANZvYXz",
+              "end": 182,
+              "expanded_url": "https://x.com/pigeoninfo/status/2021036486729289811/photo/1",
+              "media_key": "3_2021036463601876995",
+              "start": 159,
+              "url": "https://t.co/wijANZvYXz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021036486729289811",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 593437,
+          "like_count": 295,
+          "quote_count": 419,
+          "reply_count": 10,
+          "retweet_count": 522
+        },
+        "reply_settings": "everyone",
+        "text": "＼発売記念キャンペーン🎁／\n野菜が不足しがちなお子さまの栄養サポートに！\n1才6ヵ月頃～「すくすくタブレット」が2月9日(火)新発売！🎉\n✨50名様✨に商品をプレゼントいたします！\n\n📝応募方法📝\n①ピジョンX公式アカウント（@pigeoninfo）をフォロー\n②この投稿を「引用リポスト」\n\n2/24(火)10時〆 https://t.co/wijANZvYXz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | 另一只猫猫 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 52,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Hydrogen.洛铃🍥Magic Caster",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 110,
+          "like_count": 8944,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 2463
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2015-03-06T06:06:00.000Z",
+        "description": "ピジョン公式アカウントです🍼👶 マタニティ・ベビー・キッズの妊娠出産や子育てに役立つ情報を発信中📣ピジョン商品を使ってくださった感想や嬉しいお声はリポストでご紹介させていただきます😊商品に関するお問合せはピジョンお客様サポート https://t.co/ASTjP9sCbc までお願いします。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "support.pigeon.co.jp",
+                "end": 137,
+                "expanded_url": "http://support.pigeon.co.jp",
+                "start": 114,
+                "url": "https://t.co/ASTjP9sCbc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/pigeon_officia…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/pigeon_official.jp",
+                "start": 0,
+                "url": "https://t.co/8hJ7tI9YYg"
+              }
+            ]
+          }
+        },
+        "id": "3064037688",
+        "name": "ピジョンインフォ【公式】",
+        "pinned_tweet_id": "2024747141240168626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947523640079355906/87fI4SfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50506,
+          "following_count": 103,
+          "like_count": 30982,
+          "listed_count": 96,
+          "media_count": 1149,
+          "tweet_count": 5330
+        },
+        "url": "https://t.co/8hJ7tI9YYg",
+        "username": "pigeoninfo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2031494683449565184",
+    "created_at": "2026-03-11T07:39:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T08:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031636233907220880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2031417570398785536",
+          "start": 0,
+          "username": "almaishuman"
+        },
+        {
+          "end": 23,
+          "id": "1265957219612258307",
+          "start": 13,
+          "username": "ewind_dev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031636233907220880",
+    "in_reply_to_user_id": "2031417570398785536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031517934519202144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@almaishuman @ewind_dev 不要链式😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2031494683449565184",
+        "created_at": "2026-03-11T07:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T08:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031636233907220880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2031417570398785536",
+              "start": 0,
+              "username": "almaishuman"
+            },
+            {
+              "end": 23,
+              "id": "1265957219612258307",
+              "start": 13,
+              "username": "ewind_dev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031636233907220880",
+        "in_reply_to_user_id": "2031417570398785536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031517934519202144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@almaishuman @ewind_dev 不要链式😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031417570398785536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          }
+        ],
+        "conversation_id": "2031494683449565184",
+        "created_at": "2026-03-10T23:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T00:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031517934519202144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1265957219612258307",
+              "start": 0,
+              "username": "ewind_dev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031517934519202144",
+        "in_reply_to_user_id": "1265957219612258307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031494683449565184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ewind_dev Prisma：打不过就加入 😂 不过说真的，链式 API 在 AI 时代确实更香，AI 写 .where().orderBy() 比写那坨 JSON 嵌套靠谱多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Hydrogen.洛铃🍥Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 118,
+          "like_count": 10766,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 2679
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-10T17:14:00.000Z",
+        "description": "",
+        "id": "2031417570398785536",
+        "name": "alma",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031418365621972997/e44O0XaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 3,
+          "like_count": 5,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 60
+        },
+        "username": "almaishuman",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-28T10:45:06.000Z",
+        "description": "building design agent @lovart_ai - Hiring! / ex-cofounder @AffineOfficial / created https://t.co/QKc9j3nHVu / aka 雪碧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "lovart_ai"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "AffineOfficial"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "typedgrammar.com",
+                "end": 107,
+                "expanded_url": "http://typedgrammar.com",
+                "start": 84,
+                "url": "https://t.co/QKc9j3nHVu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/doodlewind",
+                "end": 23,
+                "expanded_url": "https://github.com/doodlewind",
+                "start": 0,
+                "url": "https://t.co/gRTdn1DNE0"
+              }
+            ]
+          }
+        },
+        "id": "1265957219612258307",
+        "location": "Singapore",
+        "name": "Yifeng Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949275362262913024/r3t_A4R2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10506,
+          "following_count": 1167,
+          "like_count": 5473,
+          "listed_count": 82,
+          "media_count": 306,
+          "tweet_count": 1188
+        },
+        "url": "https://t.co/gRTdn1DNE0",
+        "username": "ewind_dev",
+        "verified": false
+      }
+    ]
+  }
+}

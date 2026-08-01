@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2053721711774966092",
+    "created_at": "2026-05-11T08:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T09:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053749074646487195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        },
+        {
+          "end": 22,
+          "id": "1602320477347000325",
+          "start": 10,
+          "username": "landiantech"
+        },
+        {
+          "end": 34,
+          "id": "636513296",
+          "start": 23,
+          "username": "nikitabier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053749074646487195",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053746293286342895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu @landiantech @nikitabier AI水军评AI水军泛滥，乐麻了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1612,
+        "media_key": "3_2053746250420510720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBfVWMa4AAnOT-.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2053721711774966092",
+        "created_at": "2026-05-11T08:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053749074646487195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            },
+            {
+              "end": 22,
+              "id": "1602320477347000325",
+              "start": 10,
+              "username": "landiantech"
+            },
+            {
+              "end": 34,
+              "id": "636513296",
+              "start": 23,
+              "username": "nikitabier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053749074646487195",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053746293286342895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu @landiantech @nikitabier AI水军评AI水军泛滥，乐麻了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053746250420510720"
+          ]
+        },
+        "author_id": "1601893417549967360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10033247448",
+              "name": "笑点"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          }
+        ],
+        "conversation_id": "2053721711774966092",
+        "created_at": "2026-05-11T07:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T08:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053746293286342895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            },
+            {
+              "end": 24,
+              "id": "636513296",
+              "start": 13,
+              "username": "nikitabier"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/onqBpZu2CP",
+              "end": 54,
+              "expanded_url": "https://x.com/AcboxLiu/status/2053746293286342895/photo/1",
+              "media_key": "3_2053746250420510720",
+              "start": 31,
+              "url": "https://t.co/onqBpZu2CP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053746293286342895",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053721711774966092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech @nikitabier 笑点解析： https://t.co/onqBpZu2CP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 @nozomixlr\n逃生舱 @LolinAchiv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "nozomixlr"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "LolinAchiv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 142,
+          "like_count": 18121,
+          "listed_count": 3,
+          "media_count": 212,
+          "tweet_count": 3293
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦神秘纸箱 / GitHub: https://t.co/hUTrNHa19i / 💖现实中是一个很可爱的人 / 🐱家里有小猫和大猫 @Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "Dustella_Chan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 39,
+                "expanded_url": "http://github.com/sheepbox8646",
+                "start": 16,
+                "url": "https://t.co/hUTrNHa19i"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "2039222526803636555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038245960967741441/70mSKMEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11756,
+          "following_count": 3025,
+          "like_count": 3352,
+          "listed_count": 58,
+          "media_count": 1084,
+          "tweet_count": 6097
+        },
+        "username": "AcboxLiu",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / OpenClaw 重度用户🦞🦞🦞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35021,
+          "following_count": 721,
+          "like_count": 4801,
+          "listed_count": 275,
+          "media_count": 5466,
+          "tweet_count": 15244
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-15T22:44:07.000Z",
+        "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 16,
+                "username": "x"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "username": "solana"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "lightspeedvp"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "gasappteam"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "thetbhapp"
+              }
+            ]
+          }
+        },
+        "id": "636513296",
+        "location": "Palo Alto",
+        "name": "Nikita Bier",
+        "pinned_tweet_id": "2051074242083762437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045591,
+          "following_count": 2046,
+          "like_count": 38460,
+          "listed_count": 5685,
+          "media_count": 1506,
+          "tweet_count": 11293
+        },
+        "username": "nikitabier",
+        "verified": true
+      }
+    ]
+  }
+}

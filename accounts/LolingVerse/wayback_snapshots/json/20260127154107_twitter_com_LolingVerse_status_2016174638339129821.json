@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2016174638339129821",
+    "created_at": "2026-01-27T15:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T16:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016174638339129821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cheese_Ghostfo…",
+          "end": 35,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2016154454580724134?s=20",
+          "start": 12,
+          "url": "https://t.co/OeZyugLtdM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016174638339129821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016154454580724134",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么不直接买一台手机\nhttps://t.co/OeZyugLtdM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2016154454580724134].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2016154454580724134",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2016154454580724134"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2016174638339129821",
+        "created_at": "2026-01-27T15:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T16:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016174638339129821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cheese_Ghostfo…",
+              "end": 35,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2016154454580724134?s=20",
+              "start": 12,
+              "url": "https://t.co/OeZyugLtdM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016174638339129821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016154454580724134",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么不直接买一台手机\nhttps://t.co/OeZyugLtdM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153/48 | 没诗硬吟  | Fox | 另一只猫猫 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Hydrogen.洛铃🔶Magic Caster",
+        "pinned_tweet_id": "2012549856930529552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 104,
+          "like_count": 7714,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 2332
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      }
+    ]
+  }
+}

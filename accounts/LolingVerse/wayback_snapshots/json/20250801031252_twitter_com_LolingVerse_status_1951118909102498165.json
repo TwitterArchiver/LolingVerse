@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951118906392977412"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1951108339351560690",
+    "created_at": "2025-08-01T03:12:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T04:12:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951118909102498165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1360161759257104384",
+          "start": 0,
+          "username": "AspiLin0"
+        },
+        {
+          "end": 22,
+          "id": "1878389699456516096",
+          "start": 10,
+          "username": "JinXing0721"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gEQbnURQDU",
+          "end": 54,
+          "expanded_url": "https://x.com/LolingVerse/status/1951118909102498165/photo/1",
+          "media_key": "3_1951118906392977412",
+          "start": 31,
+          "url": "https://t.co/gEQbnURQDU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951118909102498165",
+    "in_reply_to_user_id": "1360161759257104384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951111280875757710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AspiLin0 @JinXing0721 这好像是引用： https://t.co/gEQbnURQDU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 469,
+        "media_key": "3_1951118906392977412",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxPETtIaIAQVYDX.jpg",
+        "width": 859
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951118906392977412"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1951108339351560690",
+        "created_at": "2025-08-01T03:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T04:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951118909102498165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            },
+            {
+              "end": 22,
+              "id": "1878389699456516096",
+              "start": 10,
+              "username": "JinXing0721"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gEQbnURQDU",
+              "end": 54,
+              "expanded_url": "https://x.com/LolingVerse/status/1951118909102498165/photo/1",
+              "media_key": "3_1951118906392977412",
+              "start": 31,
+              "url": "https://t.co/gEQbnURQDU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951118909102498165",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951111280875757710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 @JinXing0721 这好像是引用： https://t.co/gEQbnURQDU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1951108339351560690",
+        "created_at": "2025-08-01T02:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T03:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951111280875757710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878389699456516096",
+              "start": 0,
+              "username": "JinXing0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951111280875757710",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951110302231306292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JinXing0721 主播看这段文字自己不尴尬吗（（（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 67,
+          "like_count": 1897,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 944
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 451,
+          "like_count": 10262,
+          "listed_count": 3,
+          "media_count": 201,
+          "tweet_count": 2601
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T10:33:06.000Z",
+        "description": "这里是烬星（08.02.29）\n一个线下超社恐用手机和别人交流的\nArcaea | maimai | 三角洲行动 | 明日方舟 |星穹铁道 | 多边关系 | galgame | 东方project | 术力口 |\n生理性别及心理性别皆为男性（历史吃糖od史）",
+        "id": "1878389699456516096",
+        "name": "-烬星-",
+        "pinned_tweet_id": "1881015558847725814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950943846613110784/tDO5bLls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 121,
+          "like_count": 1169,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 658
+        },
+        "username": "JinXing0721",
+        "verified": false
+      }
+    ]
+  }
+}

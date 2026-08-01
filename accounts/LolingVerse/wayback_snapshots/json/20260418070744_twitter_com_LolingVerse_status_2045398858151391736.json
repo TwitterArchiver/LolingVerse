@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2045357607259721754",
+    "created_at": "2026-04-18T07:07:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T08:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045398858151391736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1240256590717972486",
+          "start": 0,
+          "username": "LongtailAE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045398858151391736",
+    "in_reply_to_user_id": "1240256590717972486",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045357607259721754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LongtailAE aw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2045357607259721754",
+        "created_at": "2026-04-18T07:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T08:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045398858151391736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1240256590717972486",
+              "start": 0,
+              "username": "LongtailAE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045398858151391736",
+        "in_reply_to_user_id": "1240256590717972486",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045357607259721754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LongtailAE aw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1240256590717972486",
+        "conversation_id": "2045357607259721754",
+        "created_at": "2026-04-18T04:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T05:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045357607259721754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cathy_eko/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/cathy_eko/status/2045264610190873052",
+              "start": 13,
+              "url": "https://t.co/uZcqWPDIhp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045357607259721754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045264610190873052",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "绑完自己就不想玩了怎么办 https://t.co/uZcqWPDIhp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 @nozomixlr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "nozomixlr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 135,
+          "like_count": 14981,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 3037
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-18T12:40:00.000Z",
+        "description": "Longtail.A.E and Demitail.A.E the Cyberneko(s) ₍˄·͈༝·͈˄*₎◞ ̑̑ EN(Primary), 简体中文, 繁體中文; Politically related prohibited.",
+        "id": "1240256590717972486",
+        "location": "Selympha Eralbrun",
+        "name": "Longtail Amethyst Eralbrunia",
+        "pinned_tweet_id": "2019093685120692679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019093534654230533/ERhsDcTa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 182,
+          "like_count": 6292,
+          "listed_count": 1,
+          "media_count": 796,
+          "tweet_count": 3163
+        },
+        "username": "LongtailAE",
+        "verified": false
+      }
+    ]
+  }
+}

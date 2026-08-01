@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081498210103611392"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2081407518526554327",
+    "created_at": "2026-07-26T21:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T22:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081498244425666968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1386539491054088198",
+          "start": 0,
+          "username": "yoooyoyooy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FH6am1d4NM",
+          "end": 39,
+          "expanded_url": "https://x.com/LolingVerse/status/2081498244425666968/photo/1",
+          "media_key": "3_2081498210103611392",
+          "start": 16,
+          "url": "https://t.co/FH6am1d4NM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081498244425666968",
+    "in_reply_to_user_id": "1386539491054088198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081407518526554327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoooyoyooy 悲报： https://t.co/FH6am1d4NM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 406,
+        "media_key": "3_2081498210103611392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOL3mAXWUAAxllF.jpg",
+        "width": 1517
+      },
+      {
+        "height": 1120,
+        "media_key": "3_2081407508762206208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKlGfiaIAA4DU2.jpg",
+        "width": 2132
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081498210103611392"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2081407518526554327",
+        "created_at": "2026-07-26T21:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T22:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081498244425666968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1386539491054088198",
+              "start": 0,
+              "username": "yoooyoyooy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FH6am1d4NM",
+              "end": 39,
+              "expanded_url": "https://x.com/LolingVerse/status/2081498244425666968/photo/1",
+              "media_key": "3_2081498210103611392",
+              "start": 16,
+              "url": "https://t.co/FH6am1d4NM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081498244425666968",
+        "in_reply_to_user_id": "1386539491054088198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081407518526554327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoooyoyooy 悲报： https://t.co/FH6am1d4NM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081407508762206208"
+          ]
+        },
+        "author_id": "1386539491054088198",
+        "conversation_id": "2081407518526554327",
+        "created_at": "2026-07-26T15:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081407518526554327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dlCRmJUSbJ",
+              "end": 62,
+              "expanded_url": "https://x.com/yoooyoyooy/status/2081407518526554327/photo/1",
+              "media_key": "3_2081407508762206208",
+              "start": 39,
+              "url": "https://t.co/dlCRmJUSbJ"
+            },
+            {
+              "display_url": "x.com/yoooyoyooy/sta…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/yoooyoyooy/status/2081358072136790231",
+              "start": 63,
+              "url": "https://t.co/7AIGVVwre4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081407518526554327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 6811,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081358072136790231",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那么我们这里是人民币计费，实际上相当于是官价的0.007倍喵，只赚个流量钱😉 https://t.co/dlCRmJUSbJ https://t.co/7AIGVVwre4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 165,
+          "like_count": 26511,
+          "listed_count": 4,
+          "media_count": 386,
+          "tweet_count": 4842
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-26T04:36:01.000Z",
+        "description": "一般通过｜AI集合站绝赞建设中 https://t.co/t72Bt0t6TY ｜CN/EN/JP｜请在置顶查看自我介绍 ｜可爱小女友🥰@LannchanOwo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "LannchanOwo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "oproxy.world",
+                "end": 39,
+                "expanded_url": "http://oproxy.world",
+                "start": 16,
+                "url": "https://t.co/t72Bt0t6TY"
+              }
+            ]
+          }
+        },
+        "id": "1386539491054088198",
+        "name": "佑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014169201640894464/W-mxPe5l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 983,
+          "like_count": 258291,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 5829
+        },
+        "url": "",
+        "username": "yoooyoyooy",
+        "verified": true
+      }
+    ]
+  }
+}

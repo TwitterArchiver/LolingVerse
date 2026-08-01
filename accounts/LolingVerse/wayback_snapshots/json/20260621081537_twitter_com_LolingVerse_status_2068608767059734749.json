@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2068581160662474804",
+    "created_at": "2026-06-21T08:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T09:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068608767059734749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841306675674075136",
+          "start": 0,
+          "username": "suishoucrystal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068608767059734749",
+    "in_reply_to_user_id": "1841306675674075136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068581160662474804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suishoucrystal 怪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2068581158250782720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUTmoaaoAATiFy.jpg",
+        "width": 1021
+      },
+      {
+        "height": 225,
+        "media_key": "3_2068581157797863424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUTmmuboAAGrTj.jpg",
+        "width": 225
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2068581160662474804",
+        "created_at": "2026-06-21T08:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T09:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068608767059734749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841306675674075136",
+              "start": 0,
+              "username": "suishoucrystal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068608767059734749",
+        "in_reply_to_user_id": "1841306675674075136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068581160662474804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suishoucrystal 怪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068581158250782720",
+            "3_2068581157797863424"
+          ]
+        },
+        "author_id": "1841306675674075136",
+        "conversation_id": "2068581160662474804",
+        "created_at": "2026-06-21T06:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068581160662474804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sw4ExxMCah",
+              "end": 150,
+              "expanded_url": "https://x.com/suishoucrystal/status/2068581160662474804/photo/1",
+              "media_key": "3_2068581158250782720",
+              "start": 127,
+              "url": "https://t.co/Sw4ExxMCah"
+            },
+            {
+              "display_url": "pic.x.com/Sw4ExxMCah",
+              "end": 150,
+              "expanded_url": "https://x.com/suishoucrystal/status/2068581160662474804/photo/1",
+              "media_key": "3_2068581157797863424",
+              "start": 127,
+              "url": "https://t.co/Sw4ExxMCah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068581160662474804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一件事我很好奇，感觉是AI对法律发起的一次挑战，有没有人能解释？\n\n首先“奶蛙”这个形象是被AI强奸过的奶龙，第一个搞出它的人是谁已无从得知，并且奶龙官方不可能说奶蛙属于奶龙公司。\n那我把奶蛙这个形象申请商标并拿去盈利，是不是法律也没法拿我怎么样了？ https://t.co/Sw4ExxMCah"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZFvr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZFvr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster 和另外 114514 人",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 151,
+          "like_count": 22546,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 3983
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-02T02:38:35.000Z",
+        "description": "日本語+データサイエンス専攻 JPOP夢中 ミセス一番好き🍏📰日本人向く中国速報🌗友跨🍥中推圈锐评家，独立时评人🌗钻研 数码科技/经济社会/跨境支付与理财 跨境引路人:@bailyLU 我出色的老乡:@realNyarime 中文区头部数码推主:@jlxc2001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 84,
+                "username": "bailyLU"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "realNyarime"
+              },
+              {
+                "end": 132,
+                "start": 123,
+                "username": "jlxc2001"
+              }
+            ]
+          }
+        },
+        "id": "1841306675674075136",
+        "location": "金門縣",
+        "name": "水晶クリスタル | Bird🕊️",
+        "pinned_tweet_id": "2059949086720319970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031032589721767938/0nMI0xGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1179,
+          "following_count": 1569,
+          "like_count": 2542,
+          "listed_count": 3,
+          "media_count": 454,
+          "tweet_count": 4767
+        },
+        "url": "",
+        "username": "suishoucrystal",
+        "verified": true
+      }
+    ]
+  }
+}

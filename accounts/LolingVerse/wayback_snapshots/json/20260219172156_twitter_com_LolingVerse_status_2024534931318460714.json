@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024534923605131264"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2024534931318460714",
+    "created_at": "2026-02-19T17:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T18:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024534931318460714"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DU6cCOpiuw",
+          "end": 23,
+          "expanded_url": "https://x.com/LolingVerse/status/2024534931318460714/photo/1",
+          "media_key": "3_2024534923605131264",
+          "start": 0,
+          "url": "https://t.co/DU6cCOpiuw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024534931318460714",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/DU6cCOpiuw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 541,
+        "media_key": "3_2024534923605131264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBiXyVzbQAAgz_G.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024534923605131264"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2024534931318460714",
+        "created_at": "2026-02-19T17:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024534931318460714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DU6cCOpiuw",
+              "end": 23,
+              "expanded_url": "https://x.com/LolingVerse/status/2024534931318460714/photo/1",
+              "media_key": "3_2024534923605131264",
+              "start": 0,
+              "url": "https://t.co/DU6cCOpiuw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024534931318460714",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DU6cCOpiuw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | 另一只猫猫 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 52,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Hydrogen.洛铃🍥Magic Caster",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 108,
+          "like_count": 8819,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 2454
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      }
+    ]
+  }
+}

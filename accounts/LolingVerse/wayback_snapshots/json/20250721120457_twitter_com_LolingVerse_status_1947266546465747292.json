@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947242486012989440"
+      ],
+      "media_source_tweet_id": [
+        "1947242599397445905"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1947266546465747292",
+    "created_at": "2025-07-21T12:04:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T13:04:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947266546465747292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "505768081",
+          "start": 3,
+          "username": "genzyaku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CLOOpK7q1n",
+          "end": 44,
+          "expanded_url": "https://x.com/genzyaku/status/1947242599397445905/photo/1",
+          "media_key": "3_1947242486012989440",
+          "start": 21,
+          "url": "https://t.co/CLOOpK7q1n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947266546465747292",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 168
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947242599397445905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @genzyaku: 湿潤ススーロ https://t.co/CLOOpK7q1n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2246,
+        "media_key": "3_1947242486012989440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwX-uV5aUAAlK_q.jpg",
+        "width": 1580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947242486012989440"
+          ],
+          "media_source_tweet_id": [
+            "1947242599397445905"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1947266546465747292",
+        "created_at": "2025-07-21T12:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T13:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947266546465747292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "505768081",
+              "start": 3,
+              "username": "genzyaku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CLOOpK7q1n",
+              "end": 44,
+              "expanded_url": "https://x.com/genzyaku/status/1947242599397445905/photo/1",
+              "media_key": "3_1947242486012989440",
+              "start": 21,
+              "url": "https://t.co/CLOOpK7q1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947266546465747292",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 168
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947242599397445905",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @genzyaku: 湿潤ススーロ https://t.co/CLOOpK7q1n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947242486012989440"
+          ]
+        },
+        "author_id": "505768081",
+        "conversation_id": "1947242599397445905",
+        "created_at": "2025-07-21T10:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T11:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947242599397445905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CLOOpK7q1n",
+              "end": 30,
+              "expanded_url": "https://x.com/genzyaku/status/1947242599397445905/photo/1",
+              "media_key": "3_1947242486012989440",
+              "start": 7,
+              "url": "https://t.co/CLOOpK7q1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947242599397445905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 7137,
+          "like_count": 862,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 168
+        },
+        "reply_settings": "everyone",
+        "text": "湿潤ススーロ https://t.co/CLOOpK7q1n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 64,
+          "like_count": 1728,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 828
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-27T11:28:12.000Z",
+        "description": "成人済。絵を描いたりしてます。\n日常ﾂｲ、旅行ﾂｲ、RTましましでお送りします。\nススーロ(アークナイツ)、原神  🩵💎️️🩵⚡💫⚡\nSkeb→https://t.co/CbWQNdDg8P（一時停止中）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@genzyaku",
+                "end": 95,
+                "expanded_url": "http://skeb.jp/@genzyaku",
+                "start": 72,
+                "url": "https://t.co/CbWQNdDg8P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=3341984",
+                "start": 0,
+                "url": "https://t.co/CJuCrss8Hk"
+              }
+            ]
+          }
+        },
+        "id": "505768081",
+        "location": "日本 山形",
+        "name": "幻雀＠C106(土/1日目)東4_マ-23a",
+        "pinned_tweet_id": "1938593938363015625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657368122339528704/4EeIALIv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3368,
+          "following_count": 735,
+          "like_count": 92157,
+          "listed_count": 37,
+          "media_count": 2293,
+          "tweet_count": 19593
+        },
+        "url": "https://t.co/CJuCrss8Hk",
+        "username": "genzyaku",
+        "verified": true
+      }
+    ]
+  }
+}

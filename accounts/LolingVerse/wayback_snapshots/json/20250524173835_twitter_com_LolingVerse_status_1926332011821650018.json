@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1925910513755602983",
+    "created_at": "2025-05-24T17:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T18:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926332011821650018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1690570637499154432",
+          "start": 0,
+          "username": "saonanaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926332011821650018",
+    "in_reply_to_user_id": "1690570637499154432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925910513755602983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saonanaa 底下是空的，可能单纯作者没做标记？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1925910513755602983",
+        "created_at": "2025-05-24T17:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T18:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926332011821650018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "saonanaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926332011821650018",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925910513755602983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saonanaa 底下是空的，可能单纯作者没做标记？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "1925910513755602983",
+        "created_at": "2025-05-23T13:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T14:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925910513755602983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/saonanaa/statu…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/saonanaa/status/1925902316307157095",
+              "start": 127,
+              "url": "https://t.co/Js6EzaHxVH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925910513755602983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925902316307157095",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "搜索模组并一键下载添加的功能做出来了\n不过呢有几个问题\n就是fabric生态太小了没啥模组可以玩，更重要的是modrinth模组库也没多少，最重要的是modrinth给我返回的数据tmd不全我都不知道这个模组需要什么依赖项有的启动就报错有的进去了没反应 https://t.co/Js6EzaHxVH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 59,
+          "like_count": 1065,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 514
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "想要看简介？多翻翻推文其实可以查找印象！",
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921431206236712960/Y1-TRkVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2934,
+          "following_count": 355,
+          "like_count": 22438,
+          "listed_count": 13,
+          "media_count": 1370,
+          "tweet_count": 12459
+        },
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037208003913347073"
+      ],
+      "media_source_tweet_id": [
+        "2037212990307504496"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2037555012226945323",
+    "created_at": "2026-03-27T15:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T16:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037555012226945323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1298228918885978112",
+          "start": 3,
+          "username": "DailyArcticFox"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7uY7BjM8C1",
+          "end": 47,
+          "expanded_url": "https://x.com/DailyArcticFox/status/2037212990307504496/photo/1",
+          "media_key": "3_2037208003913347073",
+          "start": 24,
+          "url": "https://t.co/7uY7BjM8C1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037555012226945323",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 220
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037212990307504496",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DailyArcticFox: ❄️🦊 https://t.co/7uY7BjM8C1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 744,
+        "media_key": "3_2037208003913347073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWd4s7WcAE3t24.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037208003913347073"
+          ],
+          "media_source_tweet_id": [
+            "2037212990307504496"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2037555012226945323",
+        "created_at": "2026-03-27T15:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T16:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037555012226945323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1298228918885978112",
+              "start": 3,
+              "username": "DailyArcticFox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7uY7BjM8C1",
+              "end": 47,
+              "expanded_url": "https://x.com/DailyArcticFox/status/2037212990307504496/photo/1",
+              "media_key": "3_2037208003913347073",
+              "start": 24,
+              "url": "https://t.co/7uY7BjM8C1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037555012226945323",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 220
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037212990307504496",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DailyArcticFox: ❄️🦊 https://t.co/7uY7BjM8C1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037208003913347073"
+          ]
+        },
+        "author_id": "1298228918885978112",
+        "conversation_id": "2037212990307504496",
+        "created_at": "2026-03-26T17:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T18:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037212990307504496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7uY7BjM8C1",
+              "end": 27,
+              "expanded_url": "https://x.com/DailyArcticFox/status/2037212990307504496/photo/1",
+              "media_key": "3_2037208003913347073",
+              "start": 4,
+              "url": "https://t.co/7uY7BjM8C1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037212990307504496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 16281,
+          "like_count": 1109,
+          "quote_count": 24,
+          "reply_count": 1,
+          "retweet_count": 220
+        },
+        "reply_settings": "everyone",
+        "text": "❄️🦊 https://t.co/7uY7BjM8C1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 125,
+          "like_count": 12483,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 2856
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-25T12:01:22.000Z",
+        "description": "your no. 1 source for cute arctic fox content. ❄️🦊 / account run by: https://t.co/lf6XUCqcE3 / image removal available upon request",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "blepfox.bsky.social",
+                "end": 92,
+                "expanded_url": "http://blepfox.bsky.social",
+                "start": 69,
+                "url": "https://t.co/lf6XUCqcE3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dailyarcticfox.bsky.social",
+                "end": 23,
+                "expanded_url": "http://dailyarcticfox.bsky.social",
+                "start": 0,
+                "url": "https://t.co/R8Vq9QAMUl"
+              }
+            ]
+          }
+        },
+        "id": "1298228918885978112",
+        "location": "🇨🇦🇬🇱🇧🇻🇮🇸🇷🇺",
+        "name": "Daily Arctic Fox",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1416472298702376960/IIU47gyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9897,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 97,
+          "media_count": 619,
+          "tweet_count": 625
+        },
+        "url": "https://t.co/R8Vq9QAMUl",
+        "username": "DailyArcticFox",
+        "verified": false
+      }
+    ]
+  }
+}

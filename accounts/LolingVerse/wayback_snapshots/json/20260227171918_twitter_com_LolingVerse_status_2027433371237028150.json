@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2027431289952104500",
+    "created_at": "2026-02-27T17:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T18:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027433371237028150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "itsCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027433371237028150",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027431289952104500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsCatRoll 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2027431289952104500",
+        "created_at": "2026-02-27T17:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027433371237028150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027433371237028150",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027431289952104500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsCatRoll 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2027431289952104500",
+        "created_at": "2026-02-27T17:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027431289952104500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/orisam123/stat…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/orisam123/status/2027429219119337745",
+              "start": 20,
+              "url": "https://t.co/BBkB86UDCM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027431289952104500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027429219119337745",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们知道的猫卷很少开团也很少追着人骂的 https://t.co/BBkB86UDCM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | 另一只猫猫 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 52,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Hydrogen.洛铃🍥Magic Caster",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 111,
+          "like_count": 9577,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 2530
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "⚠️ cylinder misfire | @hobartr6 @_furryfur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hobartr6"
+              },
+              {
+                "end": 43,
+                "start": 32,
+                "username": "_furryfur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/x00000b",
+                "end": 23,
+                "expanded_url": "https://t.me/x00000b",
+                "start": 0,
+                "url": "https://t.co/mRz7zqhPGe"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "猫卷",
+        "pinned_tweet_id": "2025485352354640337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019893963415851008/GaYGREEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3352,
+          "following_count": 836,
+          "like_count": 2570,
+          "listed_count": 7,
+          "media_count": 38,
+          "tweet_count": 447
+        },
+        "url": "https://t.co/mRz7zqhPGe",
+        "username": "itsCatRoll",
+        "verified": false
+      }
+    ]
+  }
+}

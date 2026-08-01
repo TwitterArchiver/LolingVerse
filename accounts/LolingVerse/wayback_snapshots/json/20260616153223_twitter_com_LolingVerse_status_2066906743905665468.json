@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066883007672397824",
+        "3_2066883007672393728"
+      ],
+      "media_source_tweet_id": [
+        "2066883033089839230",
+        "2066883033089839230"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2066906743905665468",
+    "created_at": "2026-06-16T15:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T16:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066906743905665468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054196065172344832",
+          "start": 3,
+          "username": "GptRainy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K0b1mBCoJI",
+          "end": 43,
+          "expanded_url": "https://x.com/GptRainy/status/2066883033089839230/photo/1",
+          "media_key": "3_2066883007672397824",
+          "start": 20,
+          "url": "https://t.co/K0b1mBCoJI"
+        },
+        {
+          "display_url": "pic.x.com/K0b1mBCoJI",
+          "end": 43,
+          "expanded_url": "https://x.com/GptRainy/status/2066883033089839230/photo/1",
+          "media_key": "3_2066883007672393728",
+          "start": 20,
+          "url": "https://t.co/K0b1mBCoJI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066906743905665468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066883033089839230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GptRainy: 这就是中国 https://t.co/K0b1mBCoJI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 769,
+        "media_key": "3_2066883007672397824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8LJQiasAAY5Dp.jpg",
+        "width": 1249
+      },
+      {
+        "height": 819,
+        "media_key": "3_2066883007672393728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8LJQiaoAAXSnU.png",
+        "width": 727
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066883007672397824",
+            "3_2066883007672393728"
+          ],
+          "media_source_tweet_id": [
+            "2066883033089839230",
+            "2066883033089839230"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2066906743905665468",
+        "created_at": "2026-06-16T15:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066906743905665468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054196065172344832",
+              "start": 3,
+              "username": "GptRainy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K0b1mBCoJI",
+              "end": 43,
+              "expanded_url": "https://x.com/GptRainy/status/2066883033089839230/photo/1",
+              "media_key": "3_2066883007672397824",
+              "start": 20,
+              "url": "https://t.co/K0b1mBCoJI"
+            },
+            {
+              "display_url": "pic.x.com/K0b1mBCoJI",
+              "end": 43,
+              "expanded_url": "https://x.com/GptRainy/status/2066883033089839230/photo/1",
+              "media_key": "3_2066883007672393728",
+              "start": 20,
+              "url": "https://t.co/K0b1mBCoJI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066906743905665468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066883033089839230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GptRainy: 这就是中国 https://t.co/K0b1mBCoJI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066883007672397824",
+            "3_2066883007672393728"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2066883033089839230",
+        "created_at": "2026-06-16T13:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066883033089839230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K0b1mBCoJI",
+              "end": 29,
+              "expanded_url": "https://x.com/GptRainy/status/2066883033089839230/photo/1",
+              "media_key": "3_2066883007672397824",
+              "start": 6,
+              "url": "https://t.co/K0b1mBCoJI"
+            },
+            {
+              "display_url": "pic.x.com/K0b1mBCoJI",
+              "end": 29,
+              "expanded_url": "https://x.com/GptRainy/status/2066883033089839230/photo/1",
+              "media_key": "3_2066883007672393728",
+              "start": 6,
+              "url": "https://t.co/K0b1mBCoJI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066883033089839230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 164,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这就是中国 https://t.co/K0b1mBCoJI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZFvr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZFvr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster 和另外 114514 人",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 149,
+          "like_count": 22008,
+          "listed_count": 3,
+          "media_count": 282,
+          "tweet_count": 3844
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/queer leftist/CS Dev💻/休学治双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 347,
+          "like_count": 504,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 275
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      }
+    ]
+  }
+}

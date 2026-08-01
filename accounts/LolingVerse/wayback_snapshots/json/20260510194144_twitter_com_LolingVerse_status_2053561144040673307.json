@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2053421797098582435",
+    "created_at": "2026-05-10T19:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T20:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053561144040673307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1682793693630304260",
+          "start": 0,
+          "username": "gpSillyB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053561144040673307",
+    "in_reply_to_user_id": "1682793693630304260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053421797098582435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gpSillyB 不会怎么样，除非像Acbox，雨晴那样本身能力出众，否则普通人的话，会发现没有什么其它很好的地方可以投入，特别是未成年人，实际上没有更好的选择，除非现在就需要变现。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2053421797098582435",
+        "created_at": "2026-05-10T19:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T20:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053561144040673307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682793693630304260",
+              "start": 0,
+              "username": "gpSillyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053561144040673307",
+        "in_reply_to_user_id": "1682793693630304260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053421797098582435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gpSillyB 不会怎么样，除非像Acbox，雨晴那样本身能力出众，否则普通人的话，会发现没有什么其它很好的地方可以投入，特别是未成年人，实际上没有更好的选择，除非现在就需要变现。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2053421797098582435",
+        "created_at": "2026-05-10T10:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053421797098582435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053421797098582435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 605,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "学历真的那么重要吗?我知道学历很有用，但我想知道我值得付出那么多为了这个学历吗?如果同样的投入在别的地方收益又怎么样呢?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 @nozomixlr\n逃生舱 @LolinAchiv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "nozomixlr"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "LolinAchiv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 142,
+          "like_count": 18143,
+          "listed_count": 3,
+          "media_count": 212,
+          "tweet_count": 3290
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 157,
+          "like_count": 4024,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 880
+        },
+        "username": "gpSillyB",
+        "verified": false
+      }
+    ]
+  }
+}

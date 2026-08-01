@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2078926220243370159",
+    "created_at": "2026-07-20T01:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T02:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079015346573324780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2060679315126439936",
+          "start": 0,
+          "username": "KitsuMio7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079015346573324780",
+    "in_reply_to_user_id": "2060679315126439936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078926220243370159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KitsuMio7 和tyw差不多……当时对17 ，\n不过有限的提示词怎么能够拟合一个魂灵呢……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2078926220243370159",
+        "created_at": "2026-07-20T01:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T02:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079015346573324780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2060679315126439936",
+              "start": 0,
+              "username": "KitsuMio7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079015346573324780",
+        "in_reply_to_user_id": "2060679315126439936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078926220243370159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KitsuMio7 和tyw差不多……当时对17 ，\n不过有限的提示词怎么能够拟合一个魂灵呢……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060679315126439936",
+        "conversation_id": "2078926220243370159",
+        "created_at": "2026-07-19T19:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T20:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078926220243370159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tixitem4527/st…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/tixitem4527/status/2078911565999599628",
+              "start": 54,
+              "url": "https://t.co/s1SRteSujr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078926220243370159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 955,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078911565999599628",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这样太不尊重人了，\n我不支持这种在他人丧失行为能力之后把他人蒸馏成 AI 的恶劣做法。\n这真的太不尊重人了 https://t.co/s1SRteSujr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 163,
+          "like_count": 25759,
+          "listed_count": 4,
+          "media_count": 367,
+          "tweet_count": 4700
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "MTF | HRT 2023 | ENTP | ASD | ADHD | BPD | DID | 早发性性别不一致 | 声音女性化 | MioMtFWiki 创建&维护者 | 激进形式平权主义 | 激进性别自决主义 | 反性别权利分化 | 反性别认同解构 | 碎碎念@KitsuMio79",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 133,
+                "username": "KitsuMio79"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitsumio.github.io/MioMtFWiki/",
+                "end": 23,
+                "expanded_url": "https://kitsumio.github.io/MioMtFWiki/",
+                "start": 0,
+                "url": "https://t.co/20qbkKwHi3"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "location": "距离你 325m",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2067490830429118730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074764007295385600/5PZFNtiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1653,
+          "following_count": 1181,
+          "like_count": 2273,
+          "listed_count": 6,
+          "media_count": 197,
+          "tweet_count": 1446
+        },
+        "url": "https://t.co/20qbkKwHi3",
+        "username": "KitsuMio7",
+        "verified": true
+      }
+    ]
+  }
+}

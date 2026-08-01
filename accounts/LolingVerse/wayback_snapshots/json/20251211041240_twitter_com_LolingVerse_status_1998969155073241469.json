@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998607355748167684"
+      ],
+      "media_source_tweet_id": [
+        "1998708772597018886"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1998969155073241469",
+    "created_at": "2025-12-11T04:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T05:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998969155073241469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1905853363604037632",
+          "start": 3,
+          "username": "nekozyake_game"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HJy4nnwYXJ",
+          "end": 49,
+          "expanded_url": "https://x.com/nekozyake_game/status/1998708772597018886/photo/1",
+          "media_key": "3_1998607355748167684",
+          "start": 26,
+          "url": "https://t.co/HJy4nnwYXJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998969155073241469",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 97
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998708772597018886",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nekozyake_game: ちょい加筆 https://t.co/HJy4nnwYXJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_1998607355748167684",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7x6zQzaMAQ0W-r.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998607355748167684"
+          ],
+          "media_source_tweet_id": [
+            "1998708772597018886"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1998969155073241469",
+        "created_at": "2025-12-11T04:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T05:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998969155073241469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1905853363604037632",
+              "start": 3,
+              "username": "nekozyake_game"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HJy4nnwYXJ",
+              "end": 49,
+              "expanded_url": "https://x.com/nekozyake_game/status/1998708772597018886/photo/1",
+              "media_key": "3_1998607355748167684",
+              "start": 26,
+              "url": "https://t.co/HJy4nnwYXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998969155073241469",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 97
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998708772597018886",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nekozyake_game: ちょい加筆 https://t.co/HJy4nnwYXJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998607355748167684"
+          ]
+        },
+        "author_id": "1905853363604037632",
+        "conversation_id": "1998708772597018886",
+        "created_at": "2025-12-10T10:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T11:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998708772597018886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HJy4nnwYXJ",
+              "end": 29,
+              "expanded_url": "https://x.com/nekozyake_game/status/1998708772597018886/photo/1",
+              "media_key": "3_1998607355748167684",
+              "start": 6,
+              "url": "https://t.co/HJy4nnwYXJ"
+            },
+            {
+              "display_url": "x.com/nekozyake_game…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/nekozyake_game/status/1998347886090764498",
+              "start": 30,
+              "url": "https://t.co/qlkcObQRXc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998708772597018886",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 12395,
+          "like_count": 923,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 97
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998347886090764498",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ちょい加筆 https://t.co/HJy4nnwYXJ https://t.co/qlkcObQRXc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153/48 | 没诗硬吟｜阴暗爬行  | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TMO0"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Lovely.洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 85,
+          "like_count": 4812,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 1839
+        },
+        "url": "https://t.co/Dggtj9TMO0",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T05:24:02.000Z",
+        "description": "和風絵描きです。ほぼ美少年と狐。自主制作ゲーム「KEEP Reading!」https://t.co/lrdiyxsLIs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skima.jp/profile?id=429…",
+                "end": 61,
+                "expanded_url": "https://skima.jp/profile?id=429136&sh=4k0qe79",
+                "start": 38,
+                "url": "https://t.co/lrdiyxsLIs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/nekozyake_ga…",
+                "end": 23,
+                "expanded_url": "https://odaibako.net/u/nekozyake_game",
+                "start": 0,
+                "url": "https://t.co/7hl6Pjdvqa"
+              }
+            ]
+          }
+        },
+        "id": "1905853363604037632",
+        "name": "猫半纏(ねこはんてん)",
+        "pinned_tweet_id": "1972977568665276611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919423984791429120/cwnsVrKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7486,
+          "following_count": 711,
+          "like_count": 3553,
+          "listed_count": 55,
+          "media_count": 199,
+          "tweet_count": 1669
+        },
+        "url": "https://t.co/7hl6Pjdvqa",
+        "username": "nekozyake_game",
+        "verified": true
+      }
+    ]
+  }
+}

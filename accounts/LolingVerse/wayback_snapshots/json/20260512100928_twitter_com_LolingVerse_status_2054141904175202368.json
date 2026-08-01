@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2053787075770786294",
+    "created_at": "2026-05-12T10:09:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T11:09:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054141904175202368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "28530405",
+          "start": 0,
+          "username": "manateelazycat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054141904175202368",
+    "in_reply_to_user_id": "28530405",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053787075770786294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manateelazycat 嗑瓜子碟呗aw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053787073581395969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICEdkUbsAEa9O3.jpg",
+        "width": 663
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2053787075770786294",
+        "created_at": "2026-05-12T10:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054141904175202368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "28530405",
+              "start": 0,
+              "username": "manateelazycat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054141904175202368",
+        "in_reply_to_user_id": "28530405",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053787075770786294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manateelazycat 嗑瓜子碟呗aw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053787073581395969"
+          ]
+        },
+        "author_id": "28530405",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2053787075770786294",
+        "created_at": "2026-05-11T10:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053787075770786294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E4RixZ1CQp",
+              "end": 87,
+              "expanded_url": "https://x.com/manateelazycat/status/2053787075770786294/photo/1",
+              "media_key": "3_2053787073581395969",
+              "start": 64,
+              "url": "https://t.co/E4RixZ1CQp"
+            },
+            {
+              "display_url": "x.com/manateelazycat…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/manateelazycat/status/2053728149901652375",
+              "start": 88,
+              "url": "https://t.co/4dWKhBnmOq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053787075770786294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 11463,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053728149901652375",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "兄弟们，我已经帮你们问了拓竹的官方了，这个食用级别的耗材不能长期盛水或当食物的容器\n\n所以还是不要剁手了，我就打点玩具就好了🤣 https://t.co/E4RixZ1CQp https://t.co/4dWKhBnmOq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 @nozomixlr\n逃生舱 @LolinAchiv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "nozomixlr"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "LolinAchiv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 143,
+          "like_count": 18296,
+          "listed_count": 3,
+          "media_count": 213,
+          "tweet_count": 3316
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-03T09:01:38.000Z",
+        "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lazycat.cloud",
+                "end": 64,
+                "expanded_url": "https://lazycat.cloud/",
+                "start": 41,
+                "url": "https://t.co/KVqgWHE3yR"
+              },
+              {
+                "display_url": "x.com/manateelazycat…",
+                "end": 97,
+                "expanded_url": "https://x.com/manateelazycat/status/1970815014861930775",
+                "start": 74,
+                "url": "https://t.co/SF9p24C2IS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manateelazycat.github.io",
+                "end": 23,
+                "expanded_url": "https://manateelazycat.github.io",
+                "start": 0,
+                "url": "https://t.co/twDx1tx1YW"
+              }
+            ]
+          }
+        },
+        "id": "28530405",
+        "location": "China",
+        "name": "Andy Stewart",
+        "pinned_tweet_id": "2039939966281920843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53022,
+          "following_count": 320,
+          "like_count": 20080,
+          "listed_count": 377,
+          "media_count": 7563,
+          "tweet_count": 55145
+        },
+        "url": "https://t.co/twDx1tx1YW",
+        "username": "manateelazycat",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979873428535443456"
+      ],
+      "media_source_tweet_id": [
+        "1979873435024281727"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1979930502540021812",
+    "created_at": "2025-10-19T15:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T16:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979930502540021812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1208670230467108864",
+          "start": 3,
+          "username": "keyki_izumo0426"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xJ4tuc4kNo",
+          "end": 65,
+          "expanded_url": "https://x.com/keyki_izumo0426/status/1979873435024281727/photo/1",
+          "media_key": "3_1979873428535443456",
+          "start": 42,
+          "url": "https://t.co/xJ4tuc4kNo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979930502540021812",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979873435024281727",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @keyki_izumo0426: 他の事してて何も進んでない…(´ω`;) https://t.co/xJ4tuc4kNo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1673,
+        "media_key": "3_1979873428535443456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3nsZLgXAAAoWJt.jpg",
+        "width": 1372
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979873428535443456"
+          ],
+          "media_source_tweet_id": [
+            "1979873435024281727"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1979930502540021812",
+        "created_at": "2025-10-19T15:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T16:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979930502540021812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1208670230467108864",
+              "start": 3,
+              "username": "keyki_izumo0426"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xJ4tuc4kNo",
+              "end": 65,
+              "expanded_url": "https://x.com/keyki_izumo0426/status/1979873435024281727/photo/1",
+              "media_key": "3_1979873428535443456",
+              "start": 42,
+              "url": "https://t.co/xJ4tuc4kNo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979930502540021812",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979873435024281727",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @keyki_izumo0426: 他の事してて何も進んでない…(´ω`;) https://t.co/xJ4tuc4kNo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979873428535443456"
+          ]
+        },
+        "author_id": "1208670230467108864",
+        "conversation_id": "1979873435024281727",
+        "created_at": "2025-10-19T11:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T12:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979873435024281727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xJ4tuc4kNo",
+              "end": 44,
+              "expanded_url": "https://x.com/keyki_izumo0426/status/1979873435024281727/photo/1",
+              "media_key": "3_1979873428535443456",
+              "start": 21,
+              "url": "https://t.co/xJ4tuc4kNo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979873435024281727",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 453,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "他の事してて何も進んでない…(´ω`;) https://t.co/xJ4tuc4kNo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "『可怜楼上月徘徊，应照离人妆镜台』\n『身世浮沉雨打萍……一山放出一山拦』\n可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TMO0"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 73,
+          "like_count": 2954,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1426
+        },
+        "url": "https://t.co/Dggtj9TMO0",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-22T08:47:25.000Z",
+        "description": "フリーのイラストレーターです🦊(色鉛筆&デジタル) 依頼募集中！\nRTやリプくれたらめっちゃ嬉しいです(*´▽｀*)✨ 創作タグ #狐山創作語 ※ヘッダー→ネフが編集 skebはこちら https://t.co/OOUrI4rcdF",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 65,
+                "tag": "狐山創作語"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@keyki_izumo04…",
+                "end": 116,
+                "expanded_url": "https://skeb.jp/@keyki_izumo0426",
+                "start": 93,
+                "url": "https://t.co/OOUrI4rcdF"
+              }
+            ]
+          }
+        },
+        "id": "1208670230467108864",
+        "location": "夢想空間と現実の狭間",
+        "name": "🦊狐山 槻(ケヤキ)🦊",
+        "pinned_tweet_id": "1263769464371200000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1376909209594261507/NRwIIG6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5731,
+          "following_count": 4821,
+          "like_count": 568154,
+          "listed_count": 97,
+          "media_count": 8119,
+          "tweet_count": 52289
+        },
+        "username": "keyki_izumo0426",
+        "verified": false
+      }
+    ]
+  }
+}

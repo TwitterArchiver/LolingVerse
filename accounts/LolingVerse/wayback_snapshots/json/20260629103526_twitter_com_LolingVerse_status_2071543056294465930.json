@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2071124547542323568",
+    "created_at": "2026-06-29T10:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T11:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071543056294465930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3318278592",
+          "start": 0,
+          "username": "BigglesworthX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071543056294465930",
+    "in_reply_to_user_id": "3318278592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071160397080740263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BigglesworthX 现在有了👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2071124547542323568",
+        "created_at": "2026-06-29T10:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071543056294465930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3318278592",
+              "start": 0,
+              "username": "BigglesworthX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071543056294465930",
+        "in_reply_to_user_id": "3318278592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071160397080740263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BigglesworthX 现在有了👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3318278592",
+        "conversation_id": "2071124547542323568",
+        "created_at": "2026-06-28T09:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071160397080740263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071160397080740263",
+        "in_reply_to_user_id": "3318278592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071124547542323568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这次终于没人加书签了 害怕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 158,
+          "like_count": 23534,
+          "listed_count": 3,
+          "media_count": 323,
+          "tweet_count": 4241
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-18T04:24:26.000Z",
+        "description": "Unfriendly neighborhood spider | Banned in 106 Chinese transgender chat group for posting spider pictures.",
+        "id": "3318278592",
+        "location": "San Francisco",
+        "name": "Hoggicosa bisexsual",
+        "pinned_tweet_id": "2038488362190020638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929429379127574528/USN-Qd2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1994,
+          "following_count": 927,
+          "like_count": 3261,
+          "listed_count": 4,
+          "media_count": 1456,
+          "tweet_count": 7279
+        },
+        "url": "",
+        "username": "BigglesworthX",
+        "verified": true
+      }
+    ]
+  }
+}

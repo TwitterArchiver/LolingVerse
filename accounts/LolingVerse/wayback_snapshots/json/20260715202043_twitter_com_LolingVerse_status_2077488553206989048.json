@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2076817982777602187",
+    "created_at": "2026-07-15T20:20:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T21:20:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077488553206989048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1864739862697644032",
+          "start": 0,
+          "username": "2196F3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077488553206989048",
+    "in_reply_to_user_id": "1864739862697644032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076817982777602187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2196F3 草，这个绝美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076817980617535488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJW8y3aMAAJ-Xv.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2076817982777602187",
+        "created_at": "2026-07-15T20:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T21:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077488553206989048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1864739862697644032",
+              "start": 0,
+              "username": "2196F3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077488553206989048",
+        "in_reply_to_user_id": "1864739862697644032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076817982777602187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2196F3 草，这个绝美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076817980617535488"
+          ]
+        },
+        "author_id": "1864739862697644032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2076817982777602187",
+        "created_at": "2026-07-13T23:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T00:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076817982777602187"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 79,
+              "tag": "arknights"
+            },
+            {
+              "end": 95,
+              "start": 90,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 103,
+              "start": 96,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 111,
+              "start": 104,
+              "tag": "mon3tr"
+            },
+            {
+              "end": 120,
+              "start": 112,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OgyFi1rr5J",
+              "end": 144,
+              "expanded_url": "https://x.com/2196F3/status/2076817982777602187/photo/1",
+              "media_key": "3_2076817980617535488",
+              "start": 121,
+              "url": "https://t.co/OgyFi1rr5J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076817982777602187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 8054,
+          "like_count": 496,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "没有吃到endfieldxbreadpapa collab 的蛋糕 _\n\n​后期: Kaz\n​摄影: 岁\n\n​Mon3tr from arknights \n\n#arknights #明日方舟 #アークナイツ #mon3tr #cosplay https://t.co/OgyFi1rr5J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 163,
+          "like_count": 25069,
+          "listed_count": 4,
+          "media_count": 354,
+          "tweet_count": 4581
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-05T18:33:59.000Z",
+        "description": "研究生物医学/病毒，Candidacy↑。\n\n是explorer，coser和Les，有时做点平面设计。\n\n看到做得不好的实验会整个炸掉(然后亲自上手) 。😿 \n\n私信话题：今天凯尔希发nature 了吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "prts.eterea.uk/?quickacc=bull…",
+                "end": 23,
+                "expanded_url": "http://prts.eterea.uk/?quickacc=bulletin",
+                "start": 0,
+                "url": "https://t.co/fVFEeZUeRA"
+              }
+            ]
+          }
+        },
+        "id": "1864739862697644032",
+        "location": "CA, US-WEST-01",
+        "name": "凯尔希是猫猫",
+        "pinned_tweet_id": "1949626289104802165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952307711271735297/Kt15yKo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 1016,
+          "like_count": 5780,
+          "listed_count": 6,
+          "media_count": 783,
+          "tweet_count": 4873
+        },
+        "url": "https://t.co/fVFEeZUeRA",
+        "username": "2196F3",
+        "verified": true
+      }
+    ]
+  }
+}

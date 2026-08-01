@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1928311866058477919",
+    "created_at": "2025-05-30T04:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T05:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928311866058477919"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 152,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1928122915293385071",
+          "start": 129,
+          "url": "https://t.co/UWIiYztlI6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928311866058477919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928122915293385071",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之前看过一个视频讨论国内为什么没有分级制度，大抵从两面展开，\n一说负影响，说国外分级制度是逃避责任而非真的好东西\n二说没必要，质疑是否真的禁绝，反问“真的找不到资源了吗”\n就二而言，确实没有禁绝。多以坐视不管，但也不是不可以管，，，\n这就看业绩了\n兔死狐悲 https://t.co/UWIiYztlI6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1618,
+        "media_key": "3_1928119999106895872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsIO7G8X0AAQdER.jpg",
+        "width": 1487
+      },
+      {
+        "height": 1617,
+        "media_key": "3_1928120037845471232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsIO9XQXkAA_1kJ.jpg",
+        "width": 1489
+      },
+      {
+        "height": 1619,
+        "media_key": "3_1928120073341849601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsIO_bfXUAEz4ss.jpg",
+        "width": 1487
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1928311866058477919",
+        "created_at": "2025-05-30T04:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T05:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928311866058477919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1928122915293385071",
+              "start": 129,
+              "url": "https://t.co/UWIiYztlI6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928311866058477919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928122915293385071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前看过一个视频讨论国内为什么没有分级制度，大抵从两面展开，\n一说负影响，说国外分级制度是逃避责任而非真的好东西\n二说没必要，质疑是否真的禁绝，反问“真的找不到资源了吗”\n就二而言，确实没有禁绝。多以坐视不管，但也不是不可以管，，，\n这就看业绩了\n兔死狐悲 https://t.co/UWIiYztlI6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928119999106895872",
+            "3_1928120037845471232",
+            "3_1928120073341849601"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1928122915293385071",
+        "created_at": "2025-05-29T16:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T17:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928122915293385071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GcbsE7wdiq",
+              "end": 121,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1928122915293385071/photo/1",
+              "media_key": "3_1928119999106895872",
+              "start": 98,
+              "url": "https://t.co/GcbsE7wdiq"
+            },
+            {
+              "display_url": "pic.x.com/GcbsE7wdiq",
+              "end": 121,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1928122915293385071/photo/1",
+              "media_key": "3_1928120037845471232",
+              "start": 98,
+              "url": "https://t.co/GcbsE7wdiq"
+            },
+            {
+              "display_url": "pic.x.com/GcbsE7wdiq",
+              "end": 121,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1928122915293385071/photo/1",
+              "media_key": "3_1928120073341849601",
+              "start": 98,
+              "url": "https://t.co/GcbsE7wdiq"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1846545565212885490",
+              "start": 122,
+              "url": "https://t.co/sNZdxDG0YC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928122915293385071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "5月29日，又有一名海棠作者发长文讲述自己因在海棠写小说被抓的过程。被抓的作者是一名985大学生，据她讲她写的小说比较受欢迎，“在三个榜上挂着，点击、金额都不少”，现在被以写黄色小说的名义调查。\n事发时警察直接进入学校把她带走，当着朋友的面进寝室搜查。作者称其家境就比较贫困，从小到大就是学习好。现在因为有案底，将来工作也找不到了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 160,
+          "impression_count": 318772,
+          "like_count": 788,
+          "quote_count": 25,
+          "reply_count": 75,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846545565212885490",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5月29日，又有一名海棠作者发长文讲述自己因在海棠写小说被抓的过程。被抓的作者是一名985大学生，据她讲她写的小说比较受欢迎，“在三个榜上挂着，点击、金额都不少”，现在被以写黄色小说的名义调查。 https://t.co/GcbsE7wdiq https://t.co/sNZdxDG0YC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 61,
+          "like_count": 1122,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 529
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1928054426180206731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2000254,
+          "following_count": 949,
+          "like_count": 6583,
+          "listed_count": 8160,
+          "media_count": 28966,
+          "tweet_count": 35471
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

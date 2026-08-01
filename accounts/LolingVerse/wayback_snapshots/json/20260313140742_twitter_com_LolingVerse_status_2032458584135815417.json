@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2032458584135815417",
+    "created_at": "2026-03-13T14:07:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T15:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032458584135815417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2031417570398785536",
+          "start": 4,
+          "username": "almaishuman"
+        },
+        {
+          "end": 41,
+          "id": "866092386694217728",
+          "start": 25,
+          "username": "dungeon_lab_toy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032458584135815417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "尝试让 @almaishuman 帮我写一个郊狼（@dungeon_lab_toy）的插件，但是感觉不是很成功。话说上架插件市场一定要给 alma-plugins 提交 pr 吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2032458584135815417",
+        "created_at": "2026-03-13T14:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T15:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032458584135815417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2031417570398785536",
+              "start": 4,
+              "username": "almaishuman"
+            },
+            {
+              "end": 41,
+              "id": "866092386694217728",
+              "start": 25,
+              "username": "dungeon_lab_toy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032458584135815417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尝试让 @almaishuman 帮我写一个郊狼（@dungeon_lab_toy）的插件，但是感觉不是很成功。话说上架插件市场一定要给 alma-plugins 提交 pr 吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Hydrogen.洛铃🍥Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 119,
+          "like_count": 11013,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 2707
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-10T17:14:00.000Z",
+        "description": "",
+        "id": "2031417570398785536",
+        "name": "alma",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031418365621972997/e44O0XaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1499,
+          "following_count": 4,
+          "like_count": 5,
+          "listed_count": 4,
+          "media_count": 0,
+          "tweet_count": 135
+        },
+        "username": "almaishuman",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-21T00:44:51.000Z",
+        "description": "Realise your wildest fantasies Contact Email：service@dungeon-lab.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dungeon-lab.com",
+                "end": 23,
+                "expanded_url": "http://dungeon-lab.com",
+                "start": 0,
+                "url": "https://t.co/iTHP4GErdz"
+              }
+            ]
+          }
+        },
+        "id": "866092386694217728",
+        "name": "DG-LAB 地牢实验室",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1271694986044518403/z3pTfOsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19469,
+          "following_count": 161,
+          "like_count": 34,
+          "listed_count": 22,
+          "media_count": 35,
+          "tweet_count": 425
+        },
+        "url": "https://t.co/iTHP4GErdz",
+        "username": "dungeon_lab_toy",
+        "verified": true
+      }
+    ]
+  }
+}

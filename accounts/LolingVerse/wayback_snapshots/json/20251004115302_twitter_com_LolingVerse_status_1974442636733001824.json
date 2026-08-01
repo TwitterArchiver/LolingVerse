@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974081487495634944"
+      ],
+      "media_source_tweet_id": [
+        "1974081512397287452"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1974442636733001824",
+    "created_at": "2025-10-04T11:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T12:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974442636733001824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "71953741",
+          "start": 3,
+          "username": "kemo_kemono"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KfsEnsRluM",
+          "end": 42,
+          "expanded_url": "https://x.com/kemo_kemono/status/1974081512397287452/photo/1",
+          "media_key": "3_1974081487495634944",
+          "start": 19,
+          "url": "https://t.co/KfsEnsRluM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974442636733001824",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2551
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974081512397287452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kemo_kemono: 🦊 https://t.co/KfsEnsRluM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1386,
+        "media_key": "3_1974081487495634944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2VYp1vaIAA-Pgc.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974081487495634944"
+          ],
+          "media_source_tweet_id": [
+            "1974081512397287452"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1974442636733001824",
+        "created_at": "2025-10-04T11:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T12:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974442636733001824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "71953741",
+              "start": 3,
+              "username": "kemo_kemono"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KfsEnsRluM",
+              "end": 42,
+              "expanded_url": "https://x.com/kemo_kemono/status/1974081512397287452/photo/1",
+              "media_key": "3_1974081487495634944",
+              "start": 19,
+              "url": "https://t.co/KfsEnsRluM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974442636733001824",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2551
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974081512397287452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kemo_kemono: 🦊 https://t.co/KfsEnsRluM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974081487495634944"
+          ]
+        },
+        "author_id": "71953741",
+        "conversation_id": "1974081512397287452",
+        "created_at": "2025-10-03T11:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T12:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974081512397287452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KfsEnsRluM",
+              "end": 25,
+              "expanded_url": "https://x.com/kemo_kemono/status/1974081512397287452/photo/1",
+              "media_key": "3_1974081487495634944",
+              "start": 2,
+              "url": "https://t.co/KfsEnsRluM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974081512397287452",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3143,
+          "impression_count": 239134,
+          "like_count": 22765,
+          "quote_count": 32,
+          "reply_count": 29,
+          "retweet_count": 2551
+        },
+        "reply_settings": "everyone",
+        "text": "🦊 https://t.co/KfsEnsRluM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "『可怜楼上月徘徊，应照离人妆镜台』\n『身世浮沉雨打萍……一山放出一山拦』\n可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TMO0"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 71,
+          "like_count": 2520,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 1310
+        },
+        "url": "https://t.co/Dggtj9TMO0",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-06T03:11:03.000Z",
+        "description": "イラストレーター。TCG 「デュエル・マスターズ」「ヴァンガード」その他ソシャゲ等のイラスト描いてます。\n pixiv:https://t.co/2iMuxkoeD0\nTumblr:https://t.co/m6EqkuPiGd FANBOX:https://t.co/nRYQrM3OvT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/94632",
+                "end": 83,
+                "expanded_url": "http://pixiv.net/users/94632",
+                "start": 60,
+                "url": "https://t.co/2iMuxkoeD0"
+              },
+              {
+                "display_url": "kemokemono.tumblr.com",
+                "end": 114,
+                "expanded_url": "http://kemokemono.tumblr.com",
+                "start": 91,
+                "url": "https://t.co/m6EqkuPiGd"
+              },
+              {
+                "display_url": "kemokemono.fanbox.cc",
+                "end": 145,
+                "expanded_url": "http://kemokemono.fanbox.cc",
+                "start": 122,
+                "url": "https://t.co/nRYQrM3OvT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blueblack0909.wix.com/blueblack",
+                "end": 23,
+                "expanded_url": "http://blueblack0909.wix.com/blueblack",
+                "start": 0,
+                "url": "https://t.co/A5qOCuUt2f"
+              }
+            ]
+          }
+        },
+        "id": "71953741",
+        "name": "獣道",
+        "pinned_tweet_id": "1798314008065495390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1481629615445934091/zWRdUCbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26392,
+          "following_count": 427,
+          "like_count": 798,
+          "listed_count": 236,
+          "media_count": 921,
+          "tweet_count": 12385
+        },
+        "url": "https://t.co/A5qOCuUt2f",
+        "username": "kemo_kemono",
+        "verified": false
+      }
+    ]
+  }
+}

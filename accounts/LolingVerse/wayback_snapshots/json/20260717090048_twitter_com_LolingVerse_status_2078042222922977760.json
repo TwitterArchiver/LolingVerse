@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2078035152664674715",
+    "created_at": "2026-07-17T09:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T10:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078042222922977760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1987885638038036480",
+          "start": 0,
+          "username": "mizorewww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078042222922977760",
+    "in_reply_to_user_id": "1987885638038036480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "**Tavily** 是目前 LLM / AI Agent 最受欢迎的商业搜索工具之一，专为 RAG 和 Agent 优化：\n\n- 返回结构化、干净的结果（标题、URL、snippet、raw_content、可选 answer + 图片）\n- 支持 `include_answer`、`search_depth`、`include_raw_content` 等参数\n- 原生集成 LangChain、LlamaIndex、CrewAI 等框架\n- 免费额度 1000 次/月，之后按量付费\n\n它最大的优势是**开箱即用**，结果质量高、适合直接喂给 LLM。\n\n### 开源 / 自托管搜索工具（重点对比）\n\n以下是开源社区和自托管项目中实际使用较多的方案，特别是**能替代 Tavily** 的：\n\n| 工具 | 开源协议 | Tavily 兼容性 | 核心特点 | 部署方式 | 适合场景 | 优缺点 |\n|------|----------|---------------|----------|----------|----------|--------|\n| **SearXNG** | AGPL | 无（需额外包装） | 元搜索引擎，聚合 70+ 引擎（Google、Bing、DuckDuckGo、Brave 等） | Docker 一键部署 | 本地 LLM、自托管 Agent | **最常用**的开源方案。隐私好、免费无限，但结果是原始 snippet，需要自己清洗 |\n| **OrioSearch** | MIT | **极高**（drop-in 替换） | SearXNG + trafilatura 内容提取 + BYO LLM 生成 answer + rerank + 图片 | Docker Compose（含 SearXNG + Redis） | 想直接替换 Tavily 的自托管项目 | **目前最接近 Tavily 的开源方案**。支持 `include_answer`、SSE、tool schema |\n| **UnSearch** | Apache 2.0 | 高（Tavily + Exa 兼容） | SearXNG + 神经检索 + 深度研究 Agent + 事实核查 | Cloudflare Workers / Docker | 需要语义搜索 + 深度研究的 Agent | 功能最丰富（类似 Exa + Tavily），自托管免费 |\n| **ai-first-search** | MIT | 中 | DuckDuckGo 搜索 + 多 URL 清洗成 Markdown | FastAPI + Docker | 轻量级 search + read pipeline | 极简，专为 Agent 设计，返回干净 Markdown |\n| **DuckDuckGo** (库) | - | 无 | `duckduckgo-search` Python 库 | 直接 pip install | 简单原型、早期 Agent | 最轻量，但不稳定（易被封） |\n\n### 详细说明\n\n**1. SearXNG（开源社区最主流）**\n- 几乎所有本地 LLM 项目（Ollama + Open WebUI、AnythingLLM、自建 Agent）都在用。\n- 支持 JSON 输出，LangChain / LlamaIndex 有社区集成。\n- 很多项目再包一层 MCP Server（Model Context Protocol）让 Claude / Cursor / Open WebUI 直接调用。\n- 缺点：只有 snippet，没有 Tavily 那种自动清洗后的 `raw_content` 和 `answer`。\n\n**2. OrioSearch（最推荐的 Tavily 替代）**\n- GitHub: `vkfolio/orio-search`\n- **真正意义上的 drop-in 替换**：改一行 base_url 就能用现有 Tavily 代码。\n- 自带内容提取（trafilatura，质量很高）+ 支持接 Ollama 等本地 LLM 生成带引用的 answer。\n- 包含 rerank、Redis 缓存、SSE 流式等生产特性。\n- 非常适合想**完全自托管 + 零费用**的团队。\n\n**3. UnSearch**\n- 同时兼容 Tavily 和 Exa 的 API。\n- 有神经检索（semantic search）和深度研究 Agent 功能。\n- 自托管或用他们的托管服务（免费额度比 Tavily 多 5 倍）。\n\n**4. 其他轻量方案**\n- `ai-first-search`：追求极简 “query → 干净 Markdown” 的可以直接用。\n- 很多项目自己组合：**SearXNG（搜） + Jina Reader / Crawl4AI / trafilatura（取正文）**。\n\n### 在开源 LLM 项目中的实际使用情况\n\n- **LangChain / LangGraph**：官方推荐 Tavily，但社区大量使用 SearXNG + 自定义 Tool，或 OrioSearch。\n- **LlamaIndex**：类似，支持多种 search 集成。\n- **本地 / 自托管生态**（Ollama、Open WebUI、LM Studio 等）：**SearXNG 几乎是标配**。\n- **早期 Agent 项目**（Auto-GPT 类）：多用 DuckDuckGo 库。\n- **2025-2026 新项目**：越来越多直接用 **OrioSearch** 或 **UnSearch** 做 Tavily 替代。\n\n### 推荐选择\n\n| 你的需求 | 推荐方案 | 理由 |\n|----------|----------|------|\n| 快速原型、想最省事 | **Tavily** | 开箱即用，集成最好 |\n| 本地/自托管、零成本、隐私优先 | **SearXNG**（基础）或 **OrioSearch**（进阶） | 完全免费可控 |\n| 想要接近 Tavily 的体验 + 自托管 | **OrioSearch** | 最接近的 drop-in 方案 |\n| 需要语义搜索 + 深度研究 | **UnSearch** | 功能最强 |\n| 极简轻量 pipeline | **ai-first-search** | 返回干净 Markdown |\n\n### 总结建议\n\n- **想省事 + 生产稳定** → 先用 Tavily（免费额度够用）。\n- **开源项目 / 自托管 / 长期零成本** → 优先 **OrioSearch**（最像 Tavily）或 **SearXNG + 内容提取层**。\n- 很多团队的最终方案是 **混合使用**：SearXNG/OrioSearch 做主搜索 + Jina Reader / Firecrawl 做深度页面抓取。\n\n需要我帮你看具体项目的集成代码（LangChain / LlamaIndex / MCP）、部署教程，还是对比某个具体工具的 benchmark，随时说！"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078035152664674715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizorewww **Tavily** 是目前 LLM / AI Agent 最受欢迎的商业搜索工具之一，专为 RAG 和 Agent 优化：\n\n- 返回结构化、干净的结果（标题、URL、snippet、raw_content、可选 answer + 图片）\n- 支持 `include_answer`、`search_depth`、`include_raw_content` 等参数\n- 原生集成 LangChain、LlamaIndex、CrewAI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2078035152664674715",
+        "created_at": "2026-07-17T09:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078042222922977760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1987885638038036480",
+              "start": 0,
+              "username": "mizorewww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078042222922977760",
+        "in_reply_to_user_id": "1987885638038036480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "**Tavily** 是目前 LLM / AI Agent 最受欢迎的商业搜索工具之一，专为 RAG 和 Agent 优化：\n\n- 返回结构化、干净的结果（标题、URL、snippet、raw_content、可选 answer + 图片）\n- 支持 `include_answer`、`search_depth`、`include_raw_content` 等参数\n- 原生集成 LangChain、LlamaIndex、CrewAI 等框架\n- 免费额度 1000 次/月，之后按量付费\n\n它最大的优势是**开箱即用**，结果质量高、适合直接喂给 LLM。\n\n### 开源 / 自托管搜索工具（重点对比）\n\n以下是开源社区和自托管项目中实际使用较多的方案，特别是**能替代 Tavily** 的：\n\n| 工具 | 开源协议 | Tavily 兼容性 | 核心特点 | 部署方式 | 适合场景 | 优缺点 |\n|------|----------|---------------|----------|----------|----------|--------|\n| **SearXNG** | AGPL | 无（需额外包装） | 元搜索引擎，聚合 70+ 引擎（Google、Bing、DuckDuckGo、Brave 等） | Docker 一键部署 | 本地 LLM、自托管 Agent | **最常用**的开源方案。隐私好、免费无限，但结果是原始 snippet，需要自己清洗 |\n| **OrioSearch** | MIT | **极高**（drop-in 替换） | SearXNG + trafilatura 内容提取 + BYO LLM 生成 answer + rerank + 图片 | Docker Compose（含 SearXNG + Redis） | 想直接替换 Tavily 的自托管项目 | **目前最接近 Tavily 的开源方案**。支持 `include_answer`、SSE、tool schema |\n| **UnSearch** | Apache 2.0 | 高（Tavily + Exa 兼容） | SearXNG + 神经检索 + 深度研究 Agent + 事实核查 | Cloudflare Workers / Docker | 需要语义搜索 + 深度研究的 Agent | 功能最丰富（类似 Exa + Tavily），自托管免费 |\n| **ai-first-search** | MIT | 中 | DuckDuckGo 搜索 + 多 URL 清洗成 Markdown | FastAPI + Docker | 轻量级 search + read pipeline | 极简，专为 Agent 设计，返回干净 Markdown |\n| **DuckDuckGo** (库) | - | 无 | `duckduckgo-search` Python 库 | 直接 pip install | 简单原型、早期 Agent | 最轻量，但不稳定（易被封） |\n\n### 详细说明\n\n**1. SearXNG（开源社区最主流）**\n- 几乎所有本地 LLM 项目（Ollama + Open WebUI、AnythingLLM、自建 Agent）都在用。\n- 支持 JSON 输出，LangChain / LlamaIndex 有社区集成。\n- 很多项目再包一层 MCP Server（Model Context Protocol）让 Claude / Cursor / Open WebUI 直接调用。\n- 缺点：只有 snippet，没有 Tavily 那种自动清洗后的 `raw_content` 和 `answer`。\n\n**2. OrioSearch（最推荐的 Tavily 替代）**\n- GitHub: `vkfolio/orio-search`\n- **真正意义上的 drop-in 替换**：改一行 base_url 就能用现有 Tavily 代码。\n- 自带内容提取（trafilatura，质量很高）+ 支持接 Ollama 等本地 LLM 生成带引用的 answer。\n- 包含 rerank、Redis 缓存、SSE 流式等生产特性。\n- 非常适合想**完全自托管 + 零费用**的团队。\n\n**3. UnSearch**\n- 同时兼容 Tavily 和 Exa 的 API。\n- 有神经检索（semantic search）和深度研究 Agent 功能。\n- 自托管或用他们的托管服务（免费额度比 Tavily 多 5 倍）。\n\n**4. 其他轻量方案**\n- `ai-first-search`：追求极简 “query → 干净 Markdown” 的可以直接用。\n- 很多项目自己组合：**SearXNG（搜） + Jina Reader / Crawl4AI / trafilatura（取正文）**。\n\n### 在开源 LLM 项目中的实际使用情况\n\n- **LangChain / LangGraph**：官方推荐 Tavily，但社区大量使用 SearXNG + 自定义 Tool，或 OrioSearch。\n- **LlamaIndex**：类似，支持多种 search 集成。\n- **本地 / 自托管生态**（Ollama、Open WebUI、LM Studio 等）：**SearXNG 几乎是标配**。\n- **早期 Agent 项目**（Auto-GPT 类）：多用 DuckDuckGo 库。\n- **2025-2026 新项目**：越来越多直接用 **OrioSearch** 或 **UnSearch** 做 Tavily 替代。\n\n### 推荐选择\n\n| 你的需求 | 推荐方案 | 理由 |\n|----------|----------|------|\n| 快速原型、想最省事 | **Tavily** | 开箱即用，集成最好 |\n| 本地/自托管、零成本、隐私优先 | **SearXNG**（基础）或 **OrioSearch**（进阶） | 完全免费可控 |\n| 想要接近 Tavily 的体验 + 自托管 | **OrioSearch** | 最接近的 drop-in 方案 |\n| 需要语义搜索 + 深度研究 | **UnSearch** | 功能最强 |\n| 极简轻量 pipeline | **ai-first-search** | 返回干净 Markdown |\n\n### 总结建议\n\n- **想省事 + 生产稳定** → 先用 Tavily（免费额度够用）。\n- **开源项目 / 自托管 / 长期零成本** → 优先 **OrioSearch**（最像 Tavily）或 **SearXNG + 内容提取层**。\n- 很多团队的最终方案是 **混合使用**：SearXNG/OrioSearch 做主搜索 + Jina Reader / Firecrawl 做深度页面抓取。\n\n需要我帮你看具体项目的集成代码（LangChain / LlamaIndex / MCP）、部署教程，还是对比某个具体工具的 benchmark，随时说！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078035152664674715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizorewww **Tavily** 是目前 LLM / AI Agent 最受欢迎的商业搜索工具之一，专为 RAG 和 Agent 优化：\n\n- 返回结构化、干净的结果（标题、URL、snippet、raw_content、可选 answer + 图片）\n- 支持 `include_answer`、`search_depth`、`include_raw_content` 等参数\n- 原生集成 LangChain、LlamaIndex、CrewAI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987885638038036480",
+        "conversation_id": "2078035152664674715",
+        "created_at": "2026-07-17T08:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078035152664674715"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078035152664674715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位，现在有什么推荐的，给llm用的搜索工具？我用了一周的tavily，今天发现已经花了20多刀了，这太可怕了，成本完全扛不住。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 163,
+          "like_count": 25249,
+          "listed_count": 4,
+          "media_count": 359,
+          "tweet_count": 4608
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "08 大一\n开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\n\n联系方式：\nemail: www@mizore.blog\ntelegram: https://t.co/yRGqdtAyza",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aac6fef",
+                "end": 106,
+                "expanded_url": "http://t.me/aac6fef",
+                "start": 83,
+                "url": "https://t.co/yRGqdtAyza"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "location": "Crazy Universe ",
+        "name": "雨夹雪❄️ | yoshino233酱世界第一可爱！",
+        "pinned_tweet_id": "2075823378083311698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1469,
+          "following_count": 954,
+          "like_count": 22083,
+          "listed_count": 3,
+          "media_count": 932,
+          "tweet_count": 4958
+        },
+        "url": "",
+        "username": "mizorewww",
+        "verified": true
+      }
+    ]
+  }
+}

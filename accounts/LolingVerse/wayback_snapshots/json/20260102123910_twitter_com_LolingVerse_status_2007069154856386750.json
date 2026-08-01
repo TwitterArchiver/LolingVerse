@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2007036011550068791",
+    "created_at": "2026-01-02T12:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T13:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007069154856386750"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "Grok",
+          "probability": 0.5515,
+          "start": 12,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1618557658163970049",
+          "start": 0,
+          "username": "qqqqqf5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007069154856386750",
+    "in_reply_to_user_id": "1618557658163970049",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {},
+      "text": "by Grok:\n中国脑机接口2025年末进展总结（截至2025年12月底）2025年，中国脑机接口（BCI）领域加速从实验室向临床和产业化转型，被业界称为“超级元年”。在国家多部委政策密集支持下，侵入式、半侵入式、非侵入式技术路线全面突破，临床试验数量大幅增加，企业融资活跃，市场规模突破38亿元。以下聚焦主要项目年末最新动态：主要项目年末进展脑智卓越中心高通量无线侵入式系统（WRS系列）：第二例临床试验圆满成功：高位截瘫患者实现从二维屏幕操控到三维物理交互跨越，端到端响应延迟<100ms，可意念操控智能轮椅出行、机器狗取物等真实生活场景。\n系统性能提升：混合解码模型将脑控性能提高15%-20%，引入神经流形对齐和在线重校准技术，提升环境适应性和跨天稳定性。\n患者反馈：术后恢复良好，“越用越顺畅”，显著拓展生活边界。\n\n清华大学NEO无线微创半侵入式系统：多例植入持续推进：与宣武医院、天坛医院、华山医院合作，完成多中心临床验证。患者实现脑控喝水、光标移动、抓握等功能，准确率>90%，并改善肢体感觉/运动。\n进入创新医疗器械特别审查程序：计划2026年开展更大规模试验（30-50例），有望成为全球首批上市产品。\n\n北脑一号半侵入式无线全植入系统（北京脑科学与类脑研究所/芯智达）：已完成5例人体植入，第6例即将开展：患者包括脊髓损伤、渐冻症等，术后恢复良好。\n临床效果显著：瘫痪患者恢复行走、脑控机械臂；渐冻症患者实现中文语言实时解码（准确率>60%），说出“我想吃饭”等句子。\n计划扩展：2026年启动注册临床试验，目标年内100例规模。\n\n阶梯医疗侵入式系统：第二、三例临床试验成功：患者实现三维物理交互、机械臂稳定操控。\n第二代产品发布：通道数提升至256，交互效率提高60%。计划2026年多中心试验，2028年上市。\n\n其他亮点：南开大学介入式脑机接口：全球首例人体试验，帮助偏瘫患者恢复肢体功能。\n非侵入式领域：多款设备量产，用于康复、情绪识别等消费/工业场景。\n\n政策与产业支持（2025年重点）7月，多部委发布《关于推动脑机接口产业创新发展的实施意见》：目标2027年关键技术突破，2030年综合实力世界前列。\n北京、上海等地方方案落地：设立产业集聚区、孵化基金，推动标准化和医保收费项目（侵入式/非侵入式单独立项）。\n融资与生态：全年投融资超10亿元，企业超200家，形成“脑智天地”等集聚区。\n\n与国际比较中国在柔性电极、无线微创、临床案例数量上领先Neuralink部分指标（如手术友好度、汉语言解码）。Neuralink2025年植入超10例，聚焦运动/言语；中国强调康复应用，转化更快。全球市场预计2025-2030年复合增长18%+，中国份额快速上升。2025年末，中国脑机接口正从医疗康复向生活增强转型，伦理、安全、标准化仍是重点。未来潜力巨大，有望惠及数百万神经疾病患者，并扩展至消费领域。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007036011550068791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqf5 by Grok:"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2599,
+        "media_key": "3_2007036009121230848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9psndcWsAAOAro.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2007036011550068791",
+        "created_at": "2026-01-02T12:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T13:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007069154856386750"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "Grok",
+              "probability": 0.5515,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1618557658163970049",
+              "start": 0,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007069154856386750",
+        "in_reply_to_user_id": "1618557658163970049",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "by Grok:\n中国脑机接口2025年末进展总结（截至2025年12月底）2025年，中国脑机接口（BCI）领域加速从实验室向临床和产业化转型，被业界称为“超级元年”。在国家多部委政策密集支持下，侵入式、半侵入式、非侵入式技术路线全面突破，临床试验数量大幅增加，企业融资活跃，市场规模突破38亿元。以下聚焦主要项目年末最新动态：主要项目年末进展脑智卓越中心高通量无线侵入式系统（WRS系列）：第二例临床试验圆满成功：高位截瘫患者实现从二维屏幕操控到三维物理交互跨越，端到端响应延迟<100ms，可意念操控智能轮椅出行、机器狗取物等真实生活场景。\n系统性能提升：混合解码模型将脑控性能提高15%-20%，引入神经流形对齐和在线重校准技术，提升环境适应性和跨天稳定性。\n患者反馈：术后恢复良好，“越用越顺畅”，显著拓展生活边界。\n\n清华大学NEO无线微创半侵入式系统：多例植入持续推进：与宣武医院、天坛医院、华山医院合作，完成多中心临床验证。患者实现脑控喝水、光标移动、抓握等功能，准确率>90%，并改善肢体感觉/运动。\n进入创新医疗器械特别审查程序：计划2026年开展更大规模试验（30-50例），有望成为全球首批上市产品。\n\n北脑一号半侵入式无线全植入系统（北京脑科学与类脑研究所/芯智达）：已完成5例人体植入，第6例即将开展：患者包括脊髓损伤、渐冻症等，术后恢复良好。\n临床效果显著：瘫痪患者恢复行走、脑控机械臂；渐冻症患者实现中文语言实时解码（准确率>60%），说出“我想吃饭”等句子。\n计划扩展：2026年启动注册临床试验，目标年内100例规模。\n\n阶梯医疗侵入式系统：第二、三例临床试验成功：患者实现三维物理交互、机械臂稳定操控。\n第二代产品发布：通道数提升至256，交互效率提高60%。计划2026年多中心试验，2028年上市。\n\n其他亮点：南开大学介入式脑机接口：全球首例人体试验，帮助偏瘫患者恢复肢体功能。\n非侵入式领域：多款设备量产，用于康复、情绪识别等消费/工业场景。\n\n政策与产业支持（2025年重点）7月，多部委发布《关于推动脑机接口产业创新发展的实施意见》：目标2027年关键技术突破，2030年综合实力世界前列。\n北京、上海等地方方案落地：设立产业集聚区、孵化基金，推动标准化和医保收费项目（侵入式/非侵入式单独立项）。\n融资与生态：全年投融资超10亿元，企业超200家，形成“脑智天地”等集聚区。\n\n与国际比较中国在柔性电极、无线微创、临床案例数量上领先Neuralink部分指标（如手术友好度、汉语言解码）。Neuralink2025年植入超10例，聚焦运动/言语；中国强调康复应用，转化更快。全球市场预计2025-2030年复合增长18%+，中国份额快速上升。2025年末，中国脑机接口正从医疗康复向生活增强转型，伦理、安全、标准化仍是重点。未来潜力巨大，有望惠及数百万神经疾病患者，并扩展至消费领域。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007036011550068791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf5 by Grok:"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007036009121230848"
+          ]
+        },
+        "author_id": "1618557658163970049",
+        "conversation_id": "2007036011550068791",
+        "created_at": "2026-01-02T10:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T11:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007036011550068791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SvRAWKaY5r",
+              "end": 23,
+              "expanded_url": "https://x.com/qqqqqf5/status/2007036011550068791/photo/1",
+              "media_key": "3_2007036009121230848",
+              "start": 0,
+              "url": "https://t.co/SvRAWKaY5r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007036011550068791",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4947,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SvRAWKaY5r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153/48 | 没诗硬吟  | Fox | 另一只猫猫 @YekaseSuiso2022\n\n走过路过不要错过，填写一下《无处方HRT与医疗指导下规范HRT对中国跨性别女性抑郁和自杀意念的调节效应》喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Suism.洛铃",
+        "pinned_tweet_id": "2006674484762443890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 87,
+          "like_count": 5885,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 2031
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "不键政不od不割手\n爱发梗图和生活日常 ｜ 偶尔爆照\nPython/Rust/JS个人开发者 | 学生\n大模型微调 | 量化 | 交易\nGithub求follow\n都是转发的图!!! 如果图片让你生气了 请不要骂我好不好\n逃生舱:@qqqqqf_\nNGL匿名提问箱:https://t.co/vkfKFLuaCO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 115,
+                "username": "qqqqqf_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/qqqqqf51",
+                "end": 156,
+                "expanded_url": "https://ngl.link/qqqqqf51",
+                "start": 133,
+                "url": "https://t.co/vkfKFLuaCO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTQP7z"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "2003460020361707767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998731259082846208/hLjeArGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5124,
+          "following_count": 2041,
+          "like_count": 10688,
+          "listed_count": 13,
+          "media_count": 1375,
+          "tweet_count": 3704
+        },
+        "url": "https://t.co/Qfc6ZTQP7z",
+        "username": "qqqqqf5",
+        "verified": true
+      }
+    ]
+  }
+}

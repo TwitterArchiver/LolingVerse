@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971925286112710656"
+      ],
+      "media_source_tweet_id": [
+        "1971925397853127071"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1972210111021195714",
+    "created_at": "2025-09-28T08:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T09:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972210111021195714"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "白狐夢境"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "112386595",
+          "start": 3,
+          "username": "Haku1923"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AuOkSdZKu9",
+          "end": 55,
+          "expanded_url": "https://x.com/Haku1923/status/1971925397853127071/photo/1",
+          "media_key": "3_1971925286112710656",
+          "start": 32,
+          "url": "https://t.co/AuOkSdZKu9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972210111021195714",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 393
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971925397853127071",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Haku1923: 新しいキセルよきかな🦊\n#白狐夢境 https://t.co/AuOkSdZKu9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1971925286112710656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G12vmZpb0AA9NBP.jpg",
+        "width": 2732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971925286112710656"
+          ],
+          "media_source_tweet_id": [
+            "1971925397853127071"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1972210111021195714",
+        "created_at": "2025-09-28T08:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T09:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972210111021195714"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "白狐夢境"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "112386595",
+              "start": 3,
+              "username": "Haku1923"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AuOkSdZKu9",
+              "end": 55,
+              "expanded_url": "https://x.com/Haku1923/status/1971925397853127071/photo/1",
+              "media_key": "3_1971925286112710656",
+              "start": 32,
+              "url": "https://t.co/AuOkSdZKu9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972210111021195714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 393
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971925397853127071",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Haku1923: 新しいキセルよきかな🦊\n#白狐夢境 https://t.co/AuOkSdZKu9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971925286112710656"
+          ]
+        },
+        "author_id": "112386595",
+        "conversation_id": "1971925397853127071",
+        "created_at": "2025-09-27T13:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T14:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971925397853127071"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "白狐夢境"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AuOkSdZKu9",
+              "end": 41,
+              "expanded_url": "https://x.com/Haku1923/status/1971925397853127071/photo/1",
+              "media_key": "3_1971925286112710656",
+              "start": 18,
+              "url": "https://t.co/AuOkSdZKu9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971925397853127071",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 737,
+          "impression_count": 53438,
+          "like_count": 4591,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 393
+        },
+        "reply_settings": "everyone",
+        "text": "新しいキセルよきかな🦊\n#白狐夢境 https://t.co/AuOkSdZKu9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "『可怜楼上月徘徊，应照离人妆镜台』\n『身世浮沉雨打萍……一山放出一山拦』\n可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TMO0"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 71,
+          "like_count": 2464,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1265
+        },
+        "url": "https://t.co/Dggtj9TMO0",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-08T09:18:05.000Z",
+        "description": "ドール写真を撮るヒカセン。ご質問等はDMにて(EN/JP OK) / サブ:@Haku_Alter",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "Haku_Alter"
+              }
+            ]
+          }
+        },
+        "id": "112386595",
+        "location": "EORZEA / TOKYO",
+        "name": "Haku",
+        "pinned_tweet_id": "1971925397853127071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954989495868329986/DMIcFblv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40854,
+          "following_count": 1172,
+          "like_count": 19065,
+          "listed_count": 453,
+          "media_count": 1176,
+          "tweet_count": 37303
+        },
+        "username": "Haku1923",
+        "verified": true
+      }
+    ]
+  }
+}

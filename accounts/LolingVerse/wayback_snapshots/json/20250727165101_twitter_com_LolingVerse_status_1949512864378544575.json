@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948051779973005312"
+      ],
+      "media_source_tweet_id": [
+        "1949486184155025483"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1949512864378544575",
+    "created_at": "2025-07-27T16:51:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T17:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949512864378544575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "26884499",
+          "start": 3,
+          "username": "suki_suke"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SqVZxI0hlw",
+          "end": 38,
+          "expanded_url": "https://x.com/suki_suke/status/1949486184155025483/photo/1",
+          "media_key": "3_1948051779973005312",
+          "start": 15,
+          "url": "https://t.co/SqVZxI0hlw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949512864378544575",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949486184155025483",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suki_suke: https://t.co/SqVZxI0hlw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 582,
+        "media_key": "3_1948051779973005312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwjexc1bwAAWz_K.jpg",
+        "width": 1126
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948051779973005312"
+          ],
+          "media_source_tweet_id": [
+            "1949486184155025483"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1949512864378544575",
+        "created_at": "2025-07-27T16:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T17:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949512864378544575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "26884499",
+              "start": 3,
+              "username": "suki_suke"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SqVZxI0hlw",
+              "end": 38,
+              "expanded_url": "https://x.com/suki_suke/status/1949486184155025483/photo/1",
+              "media_key": "3_1948051779973005312",
+              "start": 15,
+              "url": "https://t.co/SqVZxI0hlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949512864378544575",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949486184155025483",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suki_suke: https://t.co/SqVZxI0hlw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948051779973005312"
+          ]
+        },
+        "author_id": "26884499",
+        "conversation_id": "1949486184155025483",
+        "created_at": "2025-07-27T15:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T16:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949486184155025483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SqVZxI0hlw",
+              "end": 23,
+              "expanded_url": "https://x.com/suki_suke/status/1949486184155025483/photo/1",
+              "media_key": "3_1948051779973005312",
+              "start": 0,
+              "url": "https://t.co/SqVZxI0hlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949486184155025483",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 17345,
+          "like_count": 956,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SqVZxI0hlw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949506352654729216/PQtgxbMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 64,
+          "like_count": 1858,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 909
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-26T23:20:38.000Z",
+        "description": "「すきま」とも言います。\n いつも応援ありがとうございます。\n漫画やイラストを描いております。\n※mail：paniplus_sukima@hotmail.co.jp\n※fanbox：https://t.co/x30SoXbNCx\n※マシュマロ：https://t.co/nEyGw8Nvt4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sukima.fanbox.cc",
+                "end": 115,
+                "expanded_url": "https://sukima.fanbox.cc",
+                "start": 92,
+                "url": "https://t.co/x30SoXbNCx"
+              },
+              {
+                "display_url": "marshmallow-qa.com/suki_suke",
+                "end": 146,
+                "expanded_url": "https://marshmallow-qa.com/suki_suke",
+                "start": 123,
+                "url": "https://t.co/nEyGw8Nvt4"
+              }
+            ]
+          }
+        },
+        "id": "26884499",
+        "location": "乳幼児よりも賢くて強い。",
+        "name": "すき@C106（土）東ア55a₍₍(ง˘ω˘)ว⁾⁾",
+        "pinned_tweet_id": "1904152334617244140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928903929632559104/ie76fUe9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203272,
+          "following_count": 3841,
+          "like_count": 79959,
+          "listed_count": 1540,
+          "media_count": 7036,
+          "tweet_count": 32553
+        },
+        "username": "suki_suke",
+        "verified": true
+      }
+    ]
+  }
+}

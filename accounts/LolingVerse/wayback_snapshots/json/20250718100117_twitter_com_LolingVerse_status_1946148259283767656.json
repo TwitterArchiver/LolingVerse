@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945785855789899776"
+      ],
+      "media_source_tweet_id": [
+        "1945785857941889486"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1946148259283767656",
+    "created_at": "2025-07-18T10:01:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T11:01:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946148259283767656"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 23,
+          "tag": "北きつね牧場"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2914738909",
+          "start": 3,
+          "username": "fox_info_net"
+        }
+      ],
+      "urls": [
+        {
+          "description": "神社狐",
+          "display_url": "fox-info.net/fox-photo/arch…",
+          "end": 54,
+          "expanded_url": "https://fox-info.net/fox-photo/archives/27936",
+          "images": [
+            {
+              "height": 900,
+              "url": "https://pbs.twimg.com/news_img/1945785868071178240/hW5HAHAp?format=jpg&name=orig",
+              "width": 600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1945785868071178240/hW5HAHAp?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 31,
+          "status": 200,
+          "title": "神社狐 | スタンダード | キツネ写真館",
+          "unwound_url": "https://fox-info.net/fox-photo/archives/27936",
+          "url": "https://t.co/5mQpE3LyJA"
+        },
+        {
+          "display_url": "pic.x.com/wBA2ikabqZ",
+          "end": 78,
+          "expanded_url": "https://x.com/fox_info_net/status/1945785857941889486/photo/1",
+          "media_key": "3_1945785855789899776",
+          "start": 55,
+          "url": "https://t.co/wBA2ikabqZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946148259283767656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 187
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945785857941889486",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fox_info_net: 神社狐\n #北きつね牧場 https://t.co/5mQpE3LyJA https://t.co/wBA2ikabqZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1945785855789899776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwDR7TdWIAAA8We.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945785855789899776"
+          ],
+          "media_source_tweet_id": [
+            "1945785857941889486"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1946148259283767656",
+        "created_at": "2025-07-18T10:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T11:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946148259283767656"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 23,
+              "tag": "北きつね牧場"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2914738909",
+              "start": 3,
+              "username": "fox_info_net"
+            }
+          ],
+          "urls": [
+            {
+              "description": "神社狐",
+              "display_url": "fox-info.net/fox-photo/arch…",
+              "end": 54,
+              "expanded_url": "https://fox-info.net/fox-photo/archives/27936",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/1945785868071178240/hW5HAHAp?format=jpg&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1945785868071178240/hW5HAHAp?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 31,
+              "status": 200,
+              "title": "神社狐 | スタンダード | キツネ写真館",
+              "unwound_url": "https://fox-info.net/fox-photo/archives/27936",
+              "url": "https://t.co/5mQpE3LyJA"
+            },
+            {
+              "display_url": "pic.x.com/wBA2ikabqZ",
+              "end": 78,
+              "expanded_url": "https://x.com/fox_info_net/status/1945785857941889486/photo/1",
+              "media_key": "3_1945785855789899776",
+              "start": 55,
+              "url": "https://t.co/wBA2ikabqZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946148259283767656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 187
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945785857941889486",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fox_info_net: 神社狐\n #北きつね牧場 https://t.co/5mQpE3LyJA https://t.co/wBA2ikabqZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945785855789899776"
+          ]
+        },
+        "author_id": "2914738909",
+        "conversation_id": "1945785857941889486",
+        "created_at": "2025-07-17T10:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T11:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945785857941889486"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 5,
+              "tag": "北きつね牧場"
+            }
+          ],
+          "urls": [
+            {
+              "description": "神社狐",
+              "display_url": "fox-info.net/fox-photo/arch…",
+              "end": 36,
+              "expanded_url": "https://fox-info.net/fox-photo/archives/27936",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/1945785868071178240/hW5HAHAp?format=jpg&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1945785868071178240/hW5HAHAp?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 13,
+              "status": 200,
+              "title": "神社狐 | スタンダード | キツネ写真館",
+              "unwound_url": "https://fox-info.net/fox-photo/archives/27936",
+              "url": "https://t.co/5mQpE3LyJA"
+            },
+            {
+              "display_url": "pic.x.com/wBA2ikabqZ",
+              "end": 60,
+              "expanded_url": "https://x.com/fox_info_net/status/1945785857941889486/photo/1",
+              "media_key": "3_1945785855789899776",
+              "start": 37,
+              "url": "https://t.co/wBA2ikabqZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945785857941889486",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 19798,
+          "like_count": 1234,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 187
+        },
+        "reply_settings": "everyone",
+        "text": "神社狐\n #北きつね牧場 https://t.co/5mQpE3LyJA https://t.co/wBA2ikabqZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 63,
+          "like_count": 1683,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 790
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-30T12:39:05.000Z",
+        "description": "キツネ写真館のCONTAです。蔵王キツネ村で「もふみキツネパン」発売中！北きつね牧場で「キツネ界報」発売中！写真集＆グッズ通販🦊https://t.co/720IGiqPeR🦊ホンドギツネ保護中。お仕事→info@fox-info.net アイコンはフォクトちゃんです！イラストは@shimabo様より！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 140,
+                "username": "shimabo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fox-info.net/shop",
+                "end": 87,
+                "expanded_url": "https://fox-info.net/shop",
+                "start": 64,
+                "url": "https://t.co/720IGiqPeR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fox-info.net",
+                "end": 23,
+                "expanded_url": "https://fox-info.net/",
+                "start": 0,
+                "url": "https://t.co/mXAt6o1gCh"
+              }
+            ]
+          }
+        },
+        "id": "2914738909",
+        "location": "misskey.io：@fox_info_net",
+        "name": "キツネ写真館@キツネ飼養中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/798478214544793600/Y2ChBzfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74953,
+          "following_count": 499,
+          "like_count": 13827,
+          "listed_count": 1244,
+          "media_count": 8282,
+          "tweet_count": 17719
+        },
+        "url": "https://t.co/mXAt6o1gCh",
+        "username": "fox_info_net",
+        "verified": true
+      }
+    ]
+  }
+}

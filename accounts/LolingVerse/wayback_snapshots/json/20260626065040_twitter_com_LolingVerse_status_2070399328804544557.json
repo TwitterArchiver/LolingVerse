@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2070326967132369287",
+    "created_at": "2026-06-26T06:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T07:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070399328804544557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2050253104935997440",
+          "start": 0,
+          "username": "auspiceshirley"
+        },
+        {
+          "end": 28,
+          "id": "2049152504542449664",
+          "start": 16,
+          "username": "hasaki_sama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Cheese_Ghostfo…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/2065001816073683420",
+          "start": 36,
+          "url": "https://t.co/gvHLyGHyDd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070399328804544557",
+    "in_reply_to_user_id": "2050253104935997440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065001816073683420",
+        "type": "quoted"
+      },
+      {
+        "id": "2070333847992955302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auspiceshirley @hasaki_sama 但是其实可以 https://t.co/gvHLyGHyDd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2070326967132369287",
+        "created_at": "2026-06-26T06:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070399328804544557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2050253104935997440",
+              "start": 0,
+              "username": "auspiceshirley"
+            },
+            {
+              "end": 28,
+              "id": "2049152504542449664",
+              "start": 16,
+              "username": "hasaki_sama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Cheese_Ghostfo…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/2065001816073683420",
+              "start": 36,
+              "url": "https://t.co/gvHLyGHyDd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070399328804544557",
+        "in_reply_to_user_id": "2050253104935997440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065001816073683420",
+            "type": "quoted"
+          },
+          {
+            "id": "2070333847992955302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auspiceshirley @hasaki_sama 但是其实可以 https://t.co/gvHLyGHyDd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2065001816073683420",
+        "created_at": "2026-06-11T09:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065001816073683420"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 161,
+              "start": 159,
+              "tag": "E"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 25,
+              "tag": "LaTeXed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065001816073683420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "cashtags": [
+              {
+                "end": 161,
+                "start": 159,
+                "tag": "E"
+              },
+              {
+                "end": 299,
+                "start": 295,
+                "tag": "x_i"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 25,
+                "tag": "LaTeXed"
+              }
+            ]
+          },
+          "text": "这不仅是一个普通的扩展测试推文，我还加上了触发词 #LaTeXed ！\n现在让我们来看看数学的力量：\n独立行间公式：\n$$ \\int_{-\\infty}^{\\infty} e^{-x^2} dx = \\sqrt{\\pi} $$\n或者经典的牛顿定律： \\[ F = ma \\]\n还有复杂的行内公式：爱因斯坦的质能方程是 $E = mc^2$，而在量子力学中，薛定谔方程可以写作 \\( i\\hbar\\frac{\\partial}{\\partial t}\\Psi = \\hat{H}\\Psi \\)。\n如果需要输入正常的美元符号，只需要加反斜杠：我花了 \\$5 买了一杯咖啡。\n注意到了吗？下划线 $x_i$ 完美作为下标显示了，并没有变成Markdown的斜体！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 409,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这不仅是一个普通的扩展测试推文，我还加上了触发词 #LaTeXed ！\n现在让我们来看看数学的力量：\n独立行间公式：\n$$ \\int_{-\\infty}^{\\infty} e^{-x^2} dx = \\sqrt{\\pi} $$\n或者经典的牛顿定律： \\[ F = ma \\]\n还有复杂的行内公式：爱因斯坦的质能方程是 $E ="
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050253104935997440",
+        "conversation_id": "2070326967132369287",
+        "created_at": "2026-06-26T02:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070333847992955302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2049152504542449664",
+              "start": 0,
+              "username": "hasaki_sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070333847992955302",
+        "in_reply_to_user_id": "2049152504542449664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070333493041864775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hasaki_sama **对啊，这玩意儿谁会用呢**"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 155,
+          "like_count": 23161,
+          "listed_count": 3,
+          "media_count": 309,
+          "tweet_count": 4131
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "ENG/中文 | Daily life & Technology &「魔法少女ノ魔女裁判」🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/auspiceshirley",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/auspiceshirley",
+                "start": 0,
+                "url": "https://t.co/2Fyt0qKe8z"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "location": "Hong Kong",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2065781030783472110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 503,
+          "like_count": 842,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 1365
+        },
+        "url": "https://t.co/2Fyt0qKe8z",
+        "username": "auspiceshirley",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-28T15:48:05.000Z",
+        "description": "An graduated junior high student from China ( ^ω^ )\n爱好 AI科技/信息技术/日本語/ACG/羽球🏸\nLGBTQ+/友跨🍥/键政❌\n目前正励志成为一名合格的Developer！",
+        "id": "2049152504542449664",
+        "location": "Sapporo City Higashi Ward",
+        "name": "Neko 🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065503629424095233/2n7J0sWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 262,
+          "like_count": 1141,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 648
+        },
+        "url": "",
+        "username": "hasaki_sama",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 1516,
+          "like_count": 21472,
+          "listed_count": 7,
+          "media_count": 777,
+          "tweet_count": 6763
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

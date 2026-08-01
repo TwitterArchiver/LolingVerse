@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946595282843779072"
+      ],
+      "media_source_tweet_id": [
+        "1946595291529884136"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1946814318860808395",
+    "created_at": "2025-07-20T06:07:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T07:07:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946814318860808395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1434112530683609091",
+          "start": 3,
+          "username": "Pesirxy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/waeYsO5wpJ",
+          "end": 36,
+          "expanded_url": "https://x.com/Pesirxy/status/1946595291529884136/photo/1",
+          "media_key": "3_1946595282843779072",
+          "start": 13,
+          "url": "https://t.co/waeYsO5wpJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946814318860808395",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 271
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946595291529884136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pesirxy: https://t.co/waeYsO5wpJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946595282843779072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwOyGKNawAAhS-u.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946595282843779072"
+          ],
+          "media_source_tweet_id": [
+            "1946595291529884136"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1946814318860808395",
+        "created_at": "2025-07-20T06:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T07:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946814318860808395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1434112530683609091",
+              "start": 3,
+              "username": "Pesirxy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/waeYsO5wpJ",
+              "end": 36,
+              "expanded_url": "https://x.com/Pesirxy/status/1946595291529884136/photo/1",
+              "media_key": "3_1946595282843779072",
+              "start": 13,
+              "url": "https://t.co/waeYsO5wpJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946814318860808395",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 271
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946595291529884136",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pesirxy: https://t.co/waeYsO5wpJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946595282843779072"
+          ]
+        },
+        "author_id": "1434112530683609091",
+        "conversation_id": "1946595291529884136",
+        "created_at": "2025-07-19T15:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T16:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946595291529884136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/waeYsO5wpJ",
+              "end": 23,
+              "expanded_url": "https://x.com/Pesirxy/status/1946595291529884136/photo/1",
+              "media_key": "3_1946595282843779072",
+              "start": 0,
+              "url": "https://t.co/waeYsO5wpJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946595291529884136",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 56534,
+          "like_count": 2318,
+          "quote_count": 4,
+          "reply_count": 24,
+          "retweet_count": 271
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/waeYsO5wpJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 63,
+          "like_count": 1704,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 808
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-04T11:14:18.000Z",
+        "description": "喜歡バンドリ、少歌 \n是個喜歡畫畫但畫技超爛的廢人\n夢想被弦卷心包養 \n椎名立希你給我下了什麼魔咒啊啊啊！！！！！\nPoppin'Party 天下第一！！！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/89338303",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/89338303",
+                "start": 0,
+                "url": "https://t.co/JrMd52ykyr"
+              }
+            ]
+          }
+        },
+        "id": "1434112530683609091",
+        "name": "Pesirxy",
+        "pinned_tweet_id": "1860019448205471960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934310756407001088/YWatut5l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2648,
+          "following_count": 99,
+          "like_count": 79336,
+          "listed_count": 7,
+          "media_count": 331,
+          "tweet_count": 800
+        },
+        "url": "https://t.co/JrMd52ykyr",
+        "username": "Pesirxy",
+        "verified": false
+      }
+    ]
+  }
+}

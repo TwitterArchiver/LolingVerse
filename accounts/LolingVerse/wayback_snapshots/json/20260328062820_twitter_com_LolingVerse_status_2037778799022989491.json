@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2037600292116762624"
+      ],
+      "media_source_tweet_id": [
+        "2037600326044512430"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2037778799022989491",
+    "created_at": "2026-03-28T06:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T07:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037778799022989491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1329990373020553216",
+          "start": 3,
+          "username": "FalconryFinance"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KlAItwYGNr",
+          "end": 44,
+          "expanded_url": "https://x.com/FalconryFinance/status/2037600326044512430/video/1",
+          "media_key": "7_2037600292116762624",
+          "start": 21,
+          "url": "https://t.co/KlAItwYGNr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037778799022989491",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1333
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037600326044512430",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FalconryFinance: https://t.co/KlAItwYGNr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42329,
+        "height": 1024,
+        "media_key": "7_2037600292116762624",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2037600292116762624/pu/img/7yhWJrfHSbKSPSyI.jpg",
+        "public_metrics": {
+          "view_count": 455959
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037600292116762624/pu/vid/avc1/320x568/Rm7XIH3ybuyJJL-3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037600292116762624/pu/vid/avc1/480x852/_ff083ltqTbILVCj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037600292116762624/pu/vid/avc1/576x1024/r5J2aJ8neridV8Ec.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2037600292116762624/pu/pl/eUvc_IeWKru3ljCY.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2037600292116762624"
+          ],
+          "media_source_tweet_id": [
+            "2037600326044512430"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037778799022989491",
+        "created_at": "2026-03-28T06:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T07:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037778799022989491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1329990373020553216",
+              "start": 3,
+              "username": "FalconryFinance"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KlAItwYGNr",
+              "end": 44,
+              "expanded_url": "https://x.com/FalconryFinance/status/2037600326044512430/video/1",
+              "media_key": "7_2037600292116762624",
+              "start": 21,
+              "url": "https://t.co/KlAItwYGNr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037778799022989491",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1333
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037600326044512430",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FalconryFinance: https://t.co/KlAItwYGNr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2037600292116762624"
+          ]
+        },
+        "author_id": "1329990373020553216",
+        "conversation_id": "2037600326044512430",
+        "created_at": "2026-03-27T18:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T19:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037600326044512430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KlAItwYGNr",
+              "end": 23,
+              "expanded_url": "https://x.com/FalconryFinance/status/2037600326044512430/video/1",
+              "media_key": "7_2037600292116762624",
+              "start": 0,
+              "url": "https://t.co/KlAItwYGNr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037600326044512430",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1294,
+          "impression_count": 878522,
+          "like_count": 9366,
+          "quote_count": 138,
+          "reply_count": 68,
+          "retweet_count": 1333
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KlAItwYGNr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 125,
+          "like_count": 12611,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 2865
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-21T03:30:06.000Z",
+        "description": "Our Firm provides Falcon Backed Securities for large institutional clients and sovereign funds. FBS consist of prime bird, subprime bird, and junk bird.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@falconryfinan…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@falconryfinance",
+                "start": 0,
+                "url": "https://t.co/zFDUvTpeg7"
+              }
+            ]
+          }
+        },
+        "id": "1329990373020553216",
+        "location": "Dubai, United Arab Emirates",
+        "name": "𓅃 UAE Exotic Falconry & Finance",
+        "pinned_tweet_id": "1873741973796110764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946563535238283264/Egv7o0UZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160249,
+          "following_count": 3219,
+          "like_count": 442312,
+          "listed_count": 350,
+          "media_count": 38855,
+          "tweet_count": 159527
+        },
+        "url": "https://t.co/zFDUvTpeg7",
+        "username": "FalconryFinance",
+        "verified": true
+      }
+    ]
+  }
+}

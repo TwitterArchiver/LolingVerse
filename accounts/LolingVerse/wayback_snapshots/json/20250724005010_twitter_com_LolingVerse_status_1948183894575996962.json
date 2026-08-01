@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1947914097749807104"
+      ],
+      "media_source_tweet_id": [
+        "1947914161562038392"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1948183894575996962",
+    "created_at": "2025-07-24T00:50:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T01:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948183894575996962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1240967112660848641",
+          "start": 3,
+          "username": "ilovecatlovecar"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JZphgHpKeh",
+          "end": 63,
+          "expanded_url": "https://x.com/ilovecatlovecar/status/1947914161562038392/video/1",
+          "media_key": "7_1947914097749807104",
+          "start": 40,
+          "url": "https://t.co/JZphgHpKeh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948183894575996962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947914161562038392",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ilovecatlovecar: 当面一套背后一套的邪恶阴险小猫咪🤭🤭 https://t.co/JZphgHpKeh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25402,
+        "height": 1280,
+        "media_key": "7_1947914097749807104",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1947914097749807104/pu/img/lcDyi14SiWhBnAmt.jpg",
+        "public_metrics": {
+          "view_count": 17837
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1947914097749807104/pu/vid/avc1/320x568/y7dRwS2_D39sJYKS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1947914097749807104/pu/vid/avc1/480x852/aqYGCq5xvbGYWCuy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1947914097749807104/pu/vid/avc1/720x1280/I4VdRdmICgNnkHiu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1947914097749807104/pu/pl/rGax7evX2Bk77gm_.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1947914097749807104"
+          ],
+          "media_source_tweet_id": [
+            "1947914161562038392"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1948183894575996962",
+        "created_at": "2025-07-24T00:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T01:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948183894575996962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1240967112660848641",
+              "start": 3,
+              "username": "ilovecatlovecar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JZphgHpKeh",
+              "end": 63,
+              "expanded_url": "https://x.com/ilovecatlovecar/status/1947914161562038392/video/1",
+              "media_key": "7_1947914097749807104",
+              "start": 40,
+              "url": "https://t.co/JZphgHpKeh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948183894575996962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947914161562038392",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ilovecatlovecar: 当面一套背后一套的邪恶阴险小猫咪🤭🤭 https://t.co/JZphgHpKeh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1947914097749807104"
+          ]
+        },
+        "author_id": "1240967112660848641",
+        "conversation_id": "1947914161562038392",
+        "created_at": "2025-07-23T06:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T07:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947914161562038392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JZphgHpKeh",
+              "end": 42,
+              "expanded_url": "https://x.com/ilovecatlovecar/status/1947914161562038392/video/1",
+              "media_key": "7_1947914097749807104",
+              "start": 19,
+              "url": "https://t.co/JZphgHpKeh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947914161562038392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 34315,
+          "like_count": 367,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "当面一套背后一套的邪恶阴险小猫咪🤭🤭 https://t.co/JZphgHpKeh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 64,
+          "like_count": 1753,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 844
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-20T11:43:24.000Z",
+        "description": "幸福生活的奥秘，养只猫😼。 我是中年油腻大叔。80%的推文是猫.车，和乱七八糟。佛，道，基督三教施主。只有猫咪才能拯救世界😼🫶",
+        "id": "1240967112660848641",
+        "location": " 大凉山",
+        "name": "阿米爱猫咪",
+        "pinned_tweet_id": "1939231351980671088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812072310062354432/7plaUVX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15139,
+          "following_count": 752,
+          "like_count": 147798,
+          "listed_count": 56,
+          "media_count": 7454,
+          "tweet_count": 36108
+        },
+        "username": "ilovecatlovecar",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2070991138820166074",
+    "created_at": "2026-06-28T12:41:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T13:41:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071212376104559005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1909562414162755584",
+          "start": 0,
+          "username": "ThirteenYizuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071212376104559005",
+    "in_reply_to_user_id": "1909562414162755584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070991138820166074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ThirteenYizuka 草，咱不熟悉这个项目没看出来……\n所以是多算了一个\ncfg.BalanceRechargeMultiplier\n而导致其在其他地方的应用相互重复，导致 multiple 实际上效果变成了\nmultiple^2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2070989963068645376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL2iZhobIAAvLKA.jpg",
+        "width": 1442
+      },
+      {
+        "height": 964,
+        "media_key": "3_2070990800968966144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL2jKTDbYAAvwAg.jpg",
+        "width": 1924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2070991138820166074",
+        "created_at": "2026-06-28T12:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071212376104559005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1909562414162755584",
+              "start": 0,
+              "username": "ThirteenYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071212376104559005",
+        "in_reply_to_user_id": "1909562414162755584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070991138820166074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThirteenYizuka 草，咱不熟悉这个项目没看出来……\n所以是多算了一个\ncfg.BalanceRechargeMultiplier\n而导致其在其他地方的应用相互重复，导致 multiple 实际上效果变成了\nmultiple^2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070989963068645376",
+            "3_2070990800968966144"
+          ]
+        },
+        "author_id": "1909562414162755584",
+        "conversation_id": "2070991138820166074",
+        "created_at": "2026-06-27T22:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T23:01:00.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070990809680515289",
+          "2070991138820166074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "背景 Issue #3376 反馈配置 BALANCE_RECHARGE_MULTIPLIER（例如 0.14，1 CNY = 0.14 USD）并使用 CNY 支付通道时，订阅套餐订单的 pay_amount 直接等于 USD 计价的套餐 price，导致支付宝等 CNY 通道实际收款金额严重偏低（约少收 86%）。余额充值订单已在 #1655 中按相同 multiplier 正确换算。 ...",
+              "display_url": "github.com/Wei-Shaw/sub2a…",
+              "end": 119,
+              "expanded_url": "http://github.com/Wei-Shaw/sub2api/pull/3405",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2070990853003501568/WsoQj97U?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2070990853003501568/WsoQj97U?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 96,
+              "status": 200,
+              "title": "fix(payment): 订阅套餐订单应用 BALANCE_RECHARGE_MULTIPLIER 汇率换算 by wucm667 · Pull Request #3405 · Wei-Shaw/sub2api",
+              "unwound_url": "https://github.com/Wei-Shaw/sub2api/pull/3405",
+              "url": "https://t.co/xLSPh2gOFU"
+            },
+            {
+              "display_url": "pic.x.com/HxmVGb7B5y",
+              "end": 192,
+              "expanded_url": "https://x.com/ThirteenYizuka/status/2070991138820166074/photo/1",
+              "media_key": "3_2070989963068645376",
+              "start": 169,
+              "url": "https://t.co/HxmVGb7B5y"
+            },
+            {
+              "display_url": "pic.x.com/HxmVGb7B5y",
+              "end": 192,
+              "expanded_url": "https://x.com/ThirteenYizuka/status/2070991138820166074/photo/1",
+              "media_key": "3_2070990800968966144",
+              "start": 169,
+              "url": "https://t.co/HxmVGb7B5y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070991138820166074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/Wei-Shaw/sub2a…",
+                "end": 119,
+                "expanded_url": "http://github.com/Wei-Shaw/sub2api/pull/3405",
+                "start": 96,
+                "url": "https://t.co/UbRvpMn5vS"
+              }
+            ]
+          },
+          "text": "笑死了，继上次的逆天重置按钮后，我们 Sub2API 最新版本又出了个奇异搞笑支付 bug。订阅套餐应付 69.9 元，实付却变成了 6.99 元（差额 60.3 元）😅\n\n导致bug的pr：https://t.co/UbRvpMn5vS\n\n我们奇异搞笑的 PR 作者 vibe coding 完以后完全不 review，直接就开 PR 了，即使改的是最重要的支付系统。加上我们奇异搞笑的项目作者，合并 PR 也完全不看的，最后造成了如此抽象的一个 bug，真是无力吐槽。。。\n\n感觉这个 bug 会造成巨大的损失，请各位中转站老板如果在使用 Sub2API 并且更新到了最新版本，一定要注意一下：\n1. 马上想办法回退到旧版本\n2. 或者关闭订阅购买入口\n\n无语。。。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 15125,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "笑死了，继上次的逆天重置按钮后，我们 Sub2API 最新版本又出了个奇异搞笑支付 bug。订阅套餐应付 69.9 元，实付却变成了 6.99 元（差额 60.3 元）😅\n\n导致bug的pr：https://t.co/xLSPh2gOFU\n\n我们奇异搞笑的 PR 作者 vibe coding 完以后完全不 review，直接就开 PR https://t.co/HxmVGb7B5y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 158,
+          "like_count": 23438,
+          "listed_count": 3,
+          "media_count": 321,
+          "tweet_count": 4218
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-08T11:02:28.000Z",
+        "description": "Student & Developer | 🩵🩷🤍🩷🩵 @JyushitiYizuka\nBuilding https://t.co/LNSexePWro. Dedicated to making AI affordable for everyone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "JyushitiYizuka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tokenflux.dev",
+                "end": 76,
+                "expanded_url": "http://tokenflux.dev",
+                "start": 53,
+                "url": "https://t.co/LNSexePWro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/smartcmd",
+                "end": 23,
+                "expanded_url": "http://github.com/smartcmd",
+                "start": 0,
+                "url": "https://t.co/f9cf7yErtG"
+              }
+            ]
+          }
+        },
+        "id": "1909562414162755584",
+        "location": "クローゼットの中",
+        "name": "芒果刀🥭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006613894328885248/-OwVPnjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2576,
+          "following_count": 291,
+          "like_count": 7971,
+          "listed_count": 9,
+          "media_count": 180,
+          "tweet_count": 1679
+        },
+        "url": "https://t.co/f9cf7yErtG",
+        "username": "ThirteenYizuka",
+        "verified": true
+      }
+    ]
+  }
+}

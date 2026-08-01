@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970422277545304068"
+      ],
+      "media_source_tweet_id": [
+        "1970422318532059584"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1970705169798308038",
+    "created_at": "2025-09-24T04:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T05:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970705169798308038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1954530416666513409",
+          "start": 3,
+          "username": "moepukun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SgmVV3FNax",
+          "end": 42,
+          "expanded_url": "https://x.com/moepukun/status/1970422318532059584/photo/1",
+          "media_key": "3_1970422277545304068",
+          "start": 19,
+          "url": "https://t.co/SgmVV3FNax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970705169798308038",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970422318532059584",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moepukun: らくがき https://t.co/SgmVV3FNax"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4051,
+        "media_key": "3_1970422277545304068",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1hYnyaaoAQWVIX.jpg",
+        "width": 2656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970422277545304068"
+          ],
+          "media_source_tweet_id": [
+            "1970422318532059584"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1970705169798308038",
+        "created_at": "2025-09-24T04:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T05:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970705169798308038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1954530416666513409",
+              "start": 3,
+              "username": "moepukun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SgmVV3FNax",
+              "end": 42,
+              "expanded_url": "https://x.com/moepukun/status/1970422318532059584/photo/1",
+              "media_key": "3_1970422277545304068",
+              "start": 19,
+              "url": "https://t.co/SgmVV3FNax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970705169798308038",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970422318532059584",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moepukun: らくがき https://t.co/SgmVV3FNax"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970422277545304068"
+          ]
+        },
+        "author_id": "1954530416666513409",
+        "conversation_id": "1970422318532059584",
+        "created_at": "2025-09-23T09:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T10:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970422318532059584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SgmVV3FNax",
+              "end": 28,
+              "expanded_url": "https://x.com/moepukun/status/1970422318532059584/photo/1",
+              "media_key": "3_1970422277545304068",
+              "start": 5,
+              "url": "https://t.co/SgmVV3FNax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970422318532059584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 4930,
+          "like_count": 494,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "らくがき https://t.co/SgmVV3FNax"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "『可怜楼上月徘徊，应照离人妆镜台』\n『身世浮沉雨打萍……一山放出一山拦』\n可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TMO0"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 71,
+          "like_count": 2442,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1257
+        },
+        "url": "https://t.co/Dggtj9TMO0",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T13:09:07.000Z",
+        "description": "イラスト、漫画、アニメーション制作。   \nAI学習禁止                                                                    \n各種リンク→https://t.co/wy5BXdkOI2  　　　\nお仕事はＤＭかmoepuchann@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/moepu",
+                "end": 126,
+                "expanded_url": "https://lit.link/moepu",
+                "start": 103,
+                "url": "https://t.co/wy5BXdkOI2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@moepukun",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@moepukun",
+                "start": 0,
+                "url": "https://t.co/zThP1SV9ke"
+              }
+            ]
+          }
+        },
+        "id": "1954530416666513409",
+        "location": "skeb現在停止中",
+        "name": "もえぷ＠2代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954532054059864064/2TPWZQ9-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5775,
+          "following_count": 158,
+          "like_count": 632,
+          "listed_count": 31,
+          "media_count": 51,
+          "tweet_count": 266
+        },
+        "url": "https://t.co/zThP1SV9ke",
+        "username": "moepukun",
+        "verified": false
+      }
+    ]
+  }
+}

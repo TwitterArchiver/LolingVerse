@@ -1,0 +1,245 @@
+<!-- Source: https://web.archive.org/web/20260723062229if_/twitter_com_LolingVerse_status_2080176708951437448 -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<title>
+Wayback Machine
+</title>
+<style type="text/css">
+body {
+				margin:0;
+				padding: 20px;
+				background-color: #000;
+				min-height: 100vh;
+				box-sizing: border-box;
+			}
+  .notice {
+    border: 2px solid #c9ae00;
+    background-color: #ffff00;
+    padding: 12px;
+    position: sticky;
+    top: 20px;
+    z-index: 1000;
+  }
+
+  .tweet-container {
+    font-family: Helvetica, Arial, sans-serif;
+    padding: 12px 16px;
+    border: 1px solid #cfd9de;
+    border-radius: 12px;
+    margin-top: 20px;
+				margin-left: auto;
+				margin-right: auto;
+				background-color: white;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: max-content;
+  }
+
+  .tweet-container > #nonjsonview {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+  .tweet-author {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 0.75rem;
+  }
+
+  .tweet-author-profile-image img {
+    width: 48px;
+    max-width: 48px;
+    height: 48px;
+    max-height: 48px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-right: 5px;
+  }
+
+  .tweet-author-info {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .tweet-author-name {
+    font-weight: bold;
+  }
+
+  .tweet-content {
+    font-size: 1.25rem;
+  }
+
+			.tweet-image {
+				width: 100%;
+				height: auto;
+				margin-top: 12px;
+				border-radius: 12px;
+			}
+
+			.embedded-tweet-container {
+				box-sizing: border-box;
+				margin-top: 12px;
+				padding: 12px;
+				border: 1px solid #cfd9de;
+    border-radius: 12px;
+				background-color: white;
+				max-width: 100%;
+			}
+			.date {
+				font-size: 0.75rem;
+				color: #657786;
+				margin-top: 12px;
+			}
+			.date a {
+				color: #657786;
+				text-decoration: none;
+			}
+			.date a:hover {
+				text-decoration: underline;
+			}
+  .on {
+    display: block;
+  }
+  .off {
+    display: none;
+  }
+</style>
+</head>
+<body>
+<div class="tweet-container on">
+<div id="nonjsonview">
+  <div class="tweet-author">
+  <div class="tweet-author-profile-image">
+  <img alt="洛铃🦊Magic Caster" src="../avatar/avatar_1949784927089876992.jpg"/>
+  </div>
+  <div class="tweet-author-info">
+  <div class="tweet-author-name">
+  洛铃🦊Magic Caster
+  </div>
+  <div class="tweet-author-username">
+  @LolingVerse
+  </div>
+  </div>
+  </div>
+  <div class="tweet-content">
+  ### DNSSEC 到底防什么
+  <br/>
+  DNSSEC（DNS Security Extensions）通过数字签名给 DNS 记录加上“防伪标签”。
+  <br/>
+  它保证的是：**你拿到的 A/AAAA 记录确实是域名所有者签过名的，中途没被篡改**。
+  <br/>
+  <br/>
+  所以针对**运营商 DNS 劫持**（运营商递归解析器直接返回假 IP）：
+  <br/>
+  <br/>
+  | 场景 | DNSSEC 是否有效 | 说明 |
+  <br/>
+  |------|----------------|------|
+  <br/>
+  | 域名**已启用 DNSSEC** + 客户端**本地验证** | ✅ 有效 | 假响应没有合法签名，会被直接拒绝 |
+  <br/>
+  | 域名已启用 DNSSEC + 只信任运营商递归解析器 | ❌ 基本无效 | 运营商可以返回“无签名”的假记录，客户端照单全收 |
+  <br/>
+  | 域名**没启用 DNSSEC** | ❌ 完全无效 | 没有签名可验证 |
+  <br/>
+  | 运营商做的是 HTTP/HTTPS 层劫持或 IP 路由劫持 | ❌ 无效 | DNSSEC 只管 DNS，不管后面 |
+  <br/>
+  <br/>
+  ### 实际要生效需要满足两点
+  <br/>
+  1. **域名本身必须签了 DNSSEC**（在注册商那里开启，并正确配置 DS 记录）。
+  <br/>
+  很多个人/家宽自建站根本没开。
+  <br/>
+  2. **客户端必须自己做验证**，而不是把信任全部交给运营商的 DNS。
+  <br/>
+  - Windows：需要额外配置（或用 Unbound、Acrylic 等本地验证器）
+  <br/>
+  - Linux/macOS：systemd-resolved、Unbound 等可以开 `DNSSEC=yes`
+  <br/>
+  - 浏览器/系统默认行为大多是“信任递归解析器”，不会严格本地验证
+  <br/>
+  <br/>
+  ### 更实用的防护组合（推荐）
+  <br/>
+  光靠 DNSSEC 在国内运营商环境下经常不够，建议叠加：
+  <br/>
+  <br/>
+  - **用加密 DNS（DoH/DoT）指向可信解析器**
+  <br/>
+  Cloudflare 1.1.1.1、Google 8.8.8.8、Quad9、阿里 DoH 等。
+  <br/>
+  这些解析器会自己做 DNSSEC 验证，而且查询内容运营商看不到、也改不了。
+  <br/>
+  - 客户端开启本地 DNSSEC 验证（如果用自建 Unbound 等）。
+  <br/>
+  - 重要站点尽量用 HTTPS + HSTS，即使 DNS 被骗，证书也会对不上（但诈骗站现在也会上假证书，只能降低成功率）。
+  <br/>
+  <br/>
+  ### 总结
+  <br/>
+  DNSSEC **理论上可以防运营商 DNS 劫持**，前提是域名签了名 + 客户端验证。
+  <br/>
+  现实中大部分家宽自建站和普通用户都不满足这两个条件，所以单独开 DNSSEC 作用有限。
+  <br/>
+  真正有效的是：**加密 DNS（DoH/DoT）+ 可信解析器**，DNSSEC 作为额外一层完整性保护会更好。
+  <img class="tweet-image" src="../image/20260723062229_pbs.twimg.com_media_HN4uAITbsAA_Atz.png"/>
+  <img class="tweet-image" src="../image/20260723062229_pbs.twimg.com_media_HN4uAbSbYAAvnC7.jpg"/>
+  <!-- If there's a quoted tweet, embed it here!-->
+  <script>
+  console.log("User ID: ", "1672761170040692739; author ID:","1672761170040692739");
+  </script>
+  <!-- we want to get data.includes.tweets.entities[].urls-->
+  <!-- THIS IS FAILING for http://localhost:5000/web/20240605034627/https://twitter.com/panguqianxun/status/1798199680322396424 -->
+  <div class="embedded-tweet-container">
+  <div class="tweet-author">
+  <div class="tweet-author-profile-image">
+    <img alt="⏚FrankLau⏚" src="../avatar/avatar_2059904056915804160.png"/>
+  </div>
+  <div class="tweet-author-info">
+    <div class="tweet-author-name">
+    ⏚FrankLau⏚
+    </div>
+    <div class="tweet-author-username">
+    @FrankkkkkkLau
+    </div>
+  </div>
+  </div>
+  <div class="tweet-content">
+  难绷运营商dns把我朋友家宽建的站劫持到神必诈骗网站了 https://t.co/IRtejtuasr
+  </div>
+  <p class="date">
+  <a href="https://web.archive.org/web/20260723062229/https://twitter.com/FrankkkkkkLau/status/2080152145815572700" id="qt2080152145815572700">
+  </a>
+  </p>
+  <script>
+  var dateString = "2026-07-23T04:44:53.000Z";
+				var date = new Date(dateString);
+				document.getElementById("qt2080152145815572700").innerText = date;
+  </script>
+  </div>
+  <p class="date">
+  <a href="/" id="parentdate">
+  </a>
+  </p>
+  </div>
+</div>
+</div>
+<script>
+var dateString = "2026-07-23T06:22:29.000Z";
+  var date = new Date(dateString);
+  var currentURL = window.location.href;
+  document.querySelector("#parentdate").innerText = date;
+  document.querySelector("#parentdate").href = currentURL;
+</script>
+</body>
+</html>

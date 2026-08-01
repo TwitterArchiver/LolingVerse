@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2020947812196970982",
+    "created_at": "2026-02-09T19:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T20:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020947812196970982"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "You are invited to a group chat on Telegram. Click to",
+          "display_url": "t.me/+V3xBUHaoIedlM…",
+          "end": 37,
+          "expanded_url": "https://t.me/+V3xBUHaoIedlMTdl",
+          "start": 14,
+          "status": 200,
+          "title": "Telegram: Join Group Chat",
+          "unwound_url": "https://t.me/+V3xBUHaoIedlMTdl",
+          "url": "https://t.co/o6czLEcWtd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020947812196970982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚刚创建了一个自己的猫耳朵\nhttps://t.co/o6czLEcWtd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2020947812196970982",
+        "created_at": "2026-02-09T19:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T20:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020947812196970982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "t.me/+V3xBUHaoIedlM…",
+              "end": 37,
+              "expanded_url": "https://t.me/+V3xBUHaoIedlMTdl",
+              "start": 14,
+              "status": 200,
+              "title": "Telegram: Join Group Chat",
+              "unwound_url": "https://t.me/+V3xBUHaoIedlMTdl",
+              "url": "https://t.co/o6czLEcWtd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020947812196970982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚创建了一个自己的猫耳朵\nhttps://t.co/o6czLEcWtd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153/48 | 没诗硬吟  | Fox | 另一只猫猫 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Hydrogen.洛铃🔶Magic Caster",
+        "pinned_tweet_id": "2012549856930529552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 104,
+          "like_count": 8051,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 2358
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      }
+    ]
+  }
+}

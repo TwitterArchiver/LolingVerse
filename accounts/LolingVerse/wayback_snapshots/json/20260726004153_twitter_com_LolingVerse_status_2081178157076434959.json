@@ -1,0 +1,635 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080978540120731648"
+      ],
+      "media_source_tweet_id": [
+        "2080978556750880799"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "This entity tracks all conversation related to furries & furry fandom. For a more heavily-curated, Topic-ready version, see Furry fandom (1514304215165796352). ",
+          "id": "1045058369852067840",
+          "name": "Furries"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1514304215165796352",
+          "name": "Furry fandom"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Design",
+          "id": "847872720331079681",
+          "name": "Design"
+        }
+      }
+    ],
+    "conversation_id": "2081178157076434959",
+    "created_at": "2026-07-26T00:41:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T01:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081178157076434959"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 25,
+          "tag": "furry"
+        },
+        {
+          "end": 41,
+          "start": 32,
+          "tag": "furryart"
+        },
+        {
+          "end": 46,
+          "start": 42,
+          "tag": "art"
+        },
+        {
+          "end": 54,
+          "start": 47,
+          "tag": "krmono"
+        },
+        {
+          "end": 59,
+          "start": 55,
+          "tag": "ケモノ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1767548466459537408",
+          "start": 3,
+          "username": "Heatbeat2005"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gDgOLUgCtK",
+          "end": 83,
+          "expanded_url": "https://x.com/Heatbeat2005/status/2080978556750880799/photo/1",
+          "media_key": "3_2080978540120731648",
+          "start": 60,
+          "url": "https://t.co/gDgOLUgCtK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081178157076434959",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080978556750880799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Heatbeat2005: Design\n#furry #furryart #art #krmono #ケモノ https://t.co/gDgOLUgCtK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2133,
+        "media_key": "3_2080978540120731648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEe9O0bcAAdkvb.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080978540120731648"
+          ]
+        },
+        "author_id": "1767548466459537408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "This entity tracks all conversation related to furries & furry fandom. For a more heavily-curated, Topic-ready version, see Furry fandom (1514304215165796352). ",
+              "id": "1045058369852067840",
+              "name": "Furries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1514304215165796352",
+              "name": "Furry fandom"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Design",
+              "id": "847872720331079681",
+              "name": "Design"
+            }
+          }
+        ],
+        "conversation_id": "2080978556750880799",
+        "created_at": "2026-07-25T11:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080978556750880799"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 7,
+              "tag": "furry"
+            },
+            {
+              "end": 23,
+              "start": 14,
+              "tag": "furryart"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "art"
+            },
+            {
+              "end": 36,
+              "start": 29,
+              "tag": "krmono"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "ケモノ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gDgOLUgCtK",
+              "end": 65,
+              "expanded_url": "https://x.com/Heatbeat2005/status/2080978556750880799/photo/1",
+              "media_key": "3_2080978540120731648",
+              "start": 42,
+              "url": "https://t.co/gDgOLUgCtK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080978556750880799",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 4757,
+          "like_count": 700,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "Design\n#furry #furryart #art #krmono #ケモノ https://t.co/gDgOLUgCtK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080978540120731648"
+          ],
+          "media_source_tweet_id": [
+            "2080978556750880799"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "This entity tracks all conversation related to furries & furry fandom. For a more heavily-curated, Topic-ready version, see Furry fandom (1514304215165796352). ",
+              "id": "1045058369852067840",
+              "name": "Furries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1514304215165796352",
+              "name": "Furry fandom"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Design",
+              "id": "847872720331079681",
+              "name": "Design"
+            }
+          }
+        ],
+        "conversation_id": "2081178157076434959",
+        "created_at": "2026-07-26T00:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T01:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081178157076434959"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "furry"
+            },
+            {
+              "end": 41,
+              "start": 32,
+              "tag": "furryart"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "art"
+            },
+            {
+              "end": 54,
+              "start": 47,
+              "tag": "krmono"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "ケモノ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1767548466459537408",
+              "start": 3,
+              "username": "Heatbeat2005"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gDgOLUgCtK",
+              "end": 83,
+              "expanded_url": "https://x.com/Heatbeat2005/status/2080978556750880799/photo/1",
+              "media_key": "3_2080978540120731648",
+              "start": 60,
+              "url": "https://t.co/gDgOLUgCtK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081178157076434959",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080978556750880799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Heatbeat2005: Design\n#furry #furryart #art #krmono #ケモノ https://t.co/gDgOLUgCtK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 165,
+          "like_count": 26337,
+          "listed_count": 4,
+          "media_count": 383,
+          "tweet_count": 4813
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-12T13:49:39.000Z",
+        "description": "˖ִ 𖤐𐙚⊹₊描绘轻灵易碎的甜味梦境。🇨🇳18+，简中/繁體/Eng/日本語。低浮上。\n古魯夏夢女，不拒絕同擔。🚫AI",
+        "id": "1767548466459537408",
+        "name": "猫体工学",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010750203406729216/Onj7CZrM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 33,
+          "like_count": 102,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "Heatbeat2005",
+        "verified": false
+      }
+    ]
+  }
+}

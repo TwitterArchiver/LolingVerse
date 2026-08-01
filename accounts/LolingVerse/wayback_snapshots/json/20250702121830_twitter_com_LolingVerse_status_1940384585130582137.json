@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929156797652488192"
+      ],
+      "media_source_tweet_id": [
+        "1929157061545205761"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1940384585130582137",
+    "created_at": "2025-07-02T12:18:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T13:18:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940384585130582137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1827408972682268672",
+          "start": 3,
+          "username": "tuhuoooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0jszpNYskV",
+          "end": 43,
+          "expanded_url": "https://x.com/tuhuoooo/status/1929157061545205761/photo/1",
+          "media_key": "3_1929156797652488192",
+          "start": 20,
+          "url": "https://t.co/0jszpNYskV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940384585130582137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929157061545205761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuhuoooo: 说鸡不说吧 https://t.co/0jszpNYskV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1929156797652488192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsW94ugbUAA2QUa.png",
+        "width": 853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929156797652488192"
+          ],
+          "media_source_tweet_id": [
+            "1929157061545205761"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1940384585130582137",
+        "created_at": "2025-07-02T12:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T13:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940384585130582137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1827408972682268672",
+              "start": 3,
+              "username": "tuhuoooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0jszpNYskV",
+              "end": 43,
+              "expanded_url": "https://x.com/tuhuoooo/status/1929157061545205761/photo/1",
+              "media_key": "3_1929156797652488192",
+              "start": 20,
+              "url": "https://t.co/0jszpNYskV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940384585130582137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929157061545205761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuhuoooo: 说鸡不说吧 https://t.co/0jszpNYskV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929156797652488192"
+          ]
+        },
+        "author_id": "1827408972682268672",
+        "conversation_id": "1929157061545205761",
+        "created_at": "2025-06-01T12:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T13:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929157061545205761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0jszpNYskV",
+              "end": 29,
+              "expanded_url": "https://x.com/tuhuoooo/status/1929157061545205761/photo/1",
+              "media_key": "3_1929156797652488192",
+              "start": 6,
+              "url": "https://t.co/0jszpNYskV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929157061545205761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 26999,
+          "like_count": 147,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "说鸡不说吧 https://t.co/0jszpNYskV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 63,
+          "like_count": 1478,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 687
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T18:13:53.000Z",
+        "description": "行秋中心",
+        "id": "1827408972682268672",
+        "name": "tuhu0000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875714578593804290/7CDEFQOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26633,
+          "following_count": 7,
+          "like_count": 58,
+          "listed_count": 41,
+          "media_count": 146,
+          "tweet_count": 890
+        },
+        "username": "tuhuoooo",
+        "verified": false
+      }
+    ]
+  }
+}

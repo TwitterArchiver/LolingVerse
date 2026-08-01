@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945988261387907072"
+      ],
+      "media_source_tweet_id": [
+        "1946404640255361146"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1946487076972585302",
+    "created_at": "2025-07-19T08:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T09:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946487076972585302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1577127182463225857",
+          "start": 3,
+          "username": "wd_kuyokuyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YfgFqfDS0y",
+          "end": 49,
+          "expanded_url": "https://x.com/wd_kuyokuyo/status/1946404640255361146/photo/1",
+          "media_key": "3_1945988261387907072",
+          "start": 26,
+          "url": "https://t.co/YfgFqfDS0y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946487076972585302",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 145
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946404640255361146",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wd_kuyokuyo: ツイストもみじ🍁 https://t.co/YfgFqfDS0y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2616,
+        "media_key": "3_1945988261387907072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwGKA3EbMAAPV4I.jpg",
+        "width": 1496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945988261387907072"
+          ],
+          "media_source_tweet_id": [
+            "1946404640255361146"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1946487076972585302",
+        "created_at": "2025-07-19T08:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T09:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946487076972585302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1577127182463225857",
+              "start": 3,
+              "username": "wd_kuyokuyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YfgFqfDS0y",
+              "end": 49,
+              "expanded_url": "https://x.com/wd_kuyokuyo/status/1946404640255361146/photo/1",
+              "media_key": "3_1945988261387907072",
+              "start": 26,
+              "url": "https://t.co/YfgFqfDS0y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946487076972585302",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 145
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946404640255361146",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wd_kuyokuyo: ツイストもみじ🍁 https://t.co/YfgFqfDS0y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945988261387907072"
+          ]
+        },
+        "author_id": "1577127182463225857",
+        "conversation_id": "1946404640255361146",
+        "created_at": "2025-07-19T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946404640255361146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YfgFqfDS0y",
+              "end": 32,
+              "expanded_url": "https://x.com/wd_kuyokuyo/status/1946404640255361146/photo/1",
+              "media_key": "3_1945988261387907072",
+              "start": 9,
+              "url": "https://t.co/YfgFqfDS0y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946404640255361146",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 206,
+          "impression_count": 24381,
+          "like_count": 1514,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "ツイストもみじ🍁 https://t.co/YfgFqfDS0y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 63,
+          "like_count": 1698,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 806
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T02:43:41.000Z",
+        "description": "しがない猫のくようです。 AIイラストで遊んでます。\n本に記事書きました。\n健全垢なのでnsfwは❤️RPしません。 \n\nめーるにゃ：ai.9you.8sayou@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kuyoh",
+                "end": 23,
+                "expanded_url": "https://lit.link/kuyoh",
+                "start": 0,
+                "url": "https://t.co/jQcKLxHYci"
+              }
+            ]
+          }
+        },
+        "id": "1577127182463225857",
+        "location": "おうち",
+        "name": "くよう (Kuyoh)",
+        "pinned_tweet_id": "1814948429245952129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1615661560613179392/XLhIXohO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25811,
+          "following_count": 743,
+          "like_count": 10386,
+          "listed_count": 220,
+          "media_count": 3568,
+          "tweet_count": 9933
+        },
+        "url": "https://t.co/jQcKLxHYci",
+        "username": "wd_kuyokuyo",
+        "verified": true
+      }
+    ]
+  }
+}

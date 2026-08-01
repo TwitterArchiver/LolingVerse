@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944593099227041792"
+      ],
+      "media_source_tweet_id": [
+        "1944593370858631398"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1944606384211046703",
+    "created_at": "2025-07-14T03:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T04:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944606384211046703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "873579011682705408",
+          "start": 3,
+          "username": "Miyuki_Symphony"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/77XmnH7hci",
+          "end": 113,
+          "expanded_url": "https://x.com/Miyuki_Symphony/status/1944593370858631398/photo/1",
+          "media_key": "3_1944593099227041792",
+          "start": 90,
+          "url": "https://t.co/77XmnH7hci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944606384211046703",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944593370858631398",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miyuki_Symphony: こんこん🦊🫓午前中お疲れ様でした🫓🦊♪\n午後もよろしくお願いします(*´ω｀*)ﾉ)\"\n\nパンの日間に合わなかったやつ…(;´▽｀A`` https://t.co/77XmnH7hci"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1944593099227041792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvyVHvAakAAU3WH.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944593099227041792"
+          ],
+          "media_source_tweet_id": [
+            "1944593370858631398"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1944606384211046703",
+        "created_at": "2025-07-14T03:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T04:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944606384211046703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "873579011682705408",
+              "start": 3,
+              "username": "Miyuki_Symphony"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/77XmnH7hci",
+              "end": 113,
+              "expanded_url": "https://x.com/Miyuki_Symphony/status/1944593370858631398/photo/1",
+              "media_key": "3_1944593099227041792",
+              "start": 90,
+              "url": "https://t.co/77XmnH7hci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944606384211046703",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944593370858631398",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miyuki_Symphony: こんこん🦊🫓午前中お疲れ様でした🫓🦊♪\n午後もよろしくお願いします(*´ω｀*)ﾉ)\"\n\nパンの日間に合わなかったやつ…(;´▽｀A`` https://t.co/77XmnH7hci"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944593099227041792"
+          ]
+        },
+        "author_id": "873579011682705408",
+        "conversation_id": "1944593370858631398",
+        "created_at": "2025-07-14T03:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T04:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944593370858631398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/77XmnH7hci",
+              "end": 92,
+              "expanded_url": "https://x.com/Miyuki_Symphony/status/1944593370858631398/photo/1",
+              "media_key": "3_1944593099227041792",
+              "start": 69,
+              "url": "https://t.co/77XmnH7hci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944593370858631398",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 238,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "こんこん🦊🫓午前中お疲れ様でした🫓🦊♪\n午後もよろしくお願いします(*´ω｀*)ﾉ)\"\n\nパンの日間に合わなかったやつ…(;´▽｀A`` https://t.co/77XmnH7hci"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 63,
+          "like_count": 1631,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 759
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-10T16:34:01.000Z",
+        "description": "長髪狐娘、着物、ロングドレスが好きです。\n通知見落としや、フォロバ等対応遅いかもしれません。\n主にAIイラストとドールさん(ハイライトに",
+        "id": "873579011682705408",
+        "name": "み ゆ き",
+        "pinned_tweet_id": "1944231900287308022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781987244498378752/qv9pa9bA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4142,
+          "following_count": 1279,
+          "like_count": 31603,
+          "listed_count": 71,
+          "media_count": 5099,
+          "tweet_count": 101882
+        },
+        "username": "Miyuki_Symphony",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2006715661624758272"
+      ],
+      "media_source_tweet_id": [
+        "2007376394209161272"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2007659227117170783",
+    "created_at": "2026-01-04T03:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T04:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007659227117170783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "960815120925442048",
+          "start": 3,
+          "username": "Milfa_mofu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CEQrib3taZ",
+          "end": 57,
+          "expanded_url": "https://x.com/Milfa_mofu/status/2007376394209161272/video/1",
+          "media_key": "13_2006715661624758272",
+          "start": 34,
+          "url": "https://t.co/CEQrib3taZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007659227117170783",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007376394209161272",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Milfa_mofu: あったかぜんざい で ぽっかぽか！ https://t.co/CEQrib3taZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23146,
+        "height": 1920,
+        "media_key": "13_2006715661624758272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2006715661624758272/img/ZJQlpGe3-2nckUgO.jpg",
+        "public_metrics": {
+          "view_count": 2389
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006715661624758272/vid/avc1/320x568/ObF_xHHlFscEXRtG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006715661624758272/vid/avc1/480x852/xTHawO3y4puWhVZs.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006715661624758272/vid/avc1/720x1280/Q288zr6ES3LvHb9P.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006715661624758272/pl/tpg1wJWooPEsA4eD.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006715661624758272"
+          ],
+          "media_source_tweet_id": [
+            "2007376394209161272"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2007659227117170783",
+        "created_at": "2026-01-04T03:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T04:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007659227117170783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "960815120925442048",
+              "start": 3,
+              "username": "Milfa_mofu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CEQrib3taZ",
+              "end": 57,
+              "expanded_url": "https://x.com/Milfa_mofu/status/2007376394209161272/video/1",
+              "media_key": "13_2006715661624758272",
+              "start": 34,
+              "url": "https://t.co/CEQrib3taZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007659227117170783",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007376394209161272",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Milfa_mofu: あったかぜんざい で ぽっかぽか！ https://t.co/CEQrib3taZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006715661624758272"
+          ]
+        },
+        "author_id": "960815120925442048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2007376394209161272",
+        "created_at": "2026-01-03T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007376394209161272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CEQrib3taZ",
+              "end": 41,
+              "expanded_url": "https://x.com/Milfa_mofu/status/2007376394209161272/video/1",
+              "media_key": "13_2006715661624758272",
+              "start": 18,
+              "url": "https://t.co/CEQrib3taZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007376394209161272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 5860,
+          "like_count": 359,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "あったかぜんざい で ぽっかぽか！ https://t.co/CEQrib3taZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153/48 | 没诗硬吟  | Fox | 另一只猫猫 @YekaseSuiso2022\n\n走过路过不要错过，填写一下《无处方HRT与医疗指导下规范HRT对中国跨性别女性抑郁和自杀意念的调节效应》喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Suism.洛铃",
+        "pinned_tweet_id": "2006674484762443890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 89,
+          "like_count": 6085,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 2082
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-06T09:59:10.000Z",
+        "description": "2024/8/12~VRChatをはじめました！ 下ネタだめです！ボディタッチを連想させるリプライも苦手かも！お話しするのは大好きなので大歓迎～！よろしくお願いします…！ちょっと通すハードルの高いサブ垢→@sofia__299 BOOTH→https://t.co/56KGqAdR6A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "sofia__299"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "milumofu.booth.pm",
+                "end": 143,
+                "expanded_url": "https://milumofu.booth.pm/",
+                "start": 120,
+                "url": "https://t.co/56KGqAdR6A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/milfa-mofu",
+                "end": 23,
+                "expanded_url": "https://potofu.me/milfa-mofu",
+                "start": 0,
+                "url": "https://t.co/P83EOItaYu"
+              }
+            ]
+          }
+        },
+        "id": "960815120925442048",
+        "location": "Midnight rain",
+        "name": "みるふぁ",
+        "pinned_tweet_id": "1848325893510615269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847808083269210112/XuUFdSCh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3786,
+          "following_count": 370,
+          "like_count": 62192,
+          "listed_count": 27,
+          "media_count": 4653,
+          "tweet_count": 48424
+        },
+        "url": "https://t.co/P83EOItaYu",
+        "username": "Milfa_mofu",
+        "verified": false
+      }
+    ]
+  }
+}

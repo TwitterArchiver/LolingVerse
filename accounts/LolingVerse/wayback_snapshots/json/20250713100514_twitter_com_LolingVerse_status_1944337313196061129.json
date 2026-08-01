@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944058383755362304"
+      ],
+      "media_source_tweet_id": [
+        "1944283903742951524"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1944337313196061129",
+    "created_at": "2025-07-13T10:05:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T11:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944337313196061129"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "Knight of the Hollow Light",
+          "probability": 0.9846,
+          "start": 14,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "930084252758065153",
+          "start": 3,
+          "username": "Genzoh1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c4dBpdTYGi",
+          "end": 65,
+          "expanded_url": "https://x.com/Genzoh1/status/1944283903742951524/photo/1",
+          "media_key": "3_1944058383755362304",
+          "start": 42,
+          "url": "https://t.co/c4dBpdTYGi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944337313196061129",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944283903742951524",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Genzoh1: \"Knight of the Hollow Light\" https://t.co/c4dBpdTYGi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1944058383755362304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvquzMpbwAAPWfc.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944058383755362304"
+          ],
+          "media_source_tweet_id": [
+            "1944283903742951524"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1944337313196061129",
+        "created_at": "2025-07-13T10:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T11:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944337313196061129"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "Knight of the Hollow Light",
+              "probability": 0.9846,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "930084252758065153",
+              "start": 3,
+              "username": "Genzoh1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c4dBpdTYGi",
+              "end": 65,
+              "expanded_url": "https://x.com/Genzoh1/status/1944283903742951524/photo/1",
+              "media_key": "3_1944058383755362304",
+              "start": 42,
+              "url": "https://t.co/c4dBpdTYGi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944337313196061129",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944283903742951524",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Genzoh1: \"Knight of the Hollow Light\" https://t.co/c4dBpdTYGi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944058383755362304"
+          ]
+        },
+        "author_id": "930084252758065153",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1944283903742951524",
+        "created_at": "2025-07-13T06:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T07:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944283903742951524"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Knight of the Hollow Light",
+              "probability": 0.9824,
+              "start": 1,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c4dBpdTYGi",
+              "end": 52,
+              "expanded_url": "https://x.com/Genzoh1/status/1944283903742951524/photo/1",
+              "media_key": "3_1944058383755362304",
+              "start": 29,
+              "url": "https://t.co/c4dBpdTYGi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944283903742951524",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 5791,
+          "like_count": 448,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "\"Knight of the Hollow Light\" https://t.co/c4dBpdTYGi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 63,
+          "like_count": 1620,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 752
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-13T14:45:40.000Z",
+        "description": "「シンギュラリティを楽しもう」をコンセプトに、GenAIで遊んでいます！ 時代の流れが速すぎる..\nI’m having fun w/ GenAI under the concept of \"Enjoy the Singularity!\" The tide of the times is just too fast..",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/genzoh",
+                "end": 23,
+                "expanded_url": "https://lit.link/genzoh",
+                "start": 0,
+                "url": "https://t.co/c4o9DRvmwp"
+              }
+            ]
+          }
+        },
+        "id": "930084252758065153",
+        "location": "東京",
+        "name": "Genzoh",
+        "pinned_tweet_id": "1943097844203950111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900766210201186305/QdNJQhj8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17688,
+          "following_count": 2491,
+          "like_count": 25088,
+          "listed_count": 94,
+          "media_count": 3133,
+          "tweet_count": 14138
+        },
+        "url": "https://t.co/c4o9DRvmwp",
+        "username": "Genzoh1",
+        "verified": true
+      }
+    ]
+  }
+}

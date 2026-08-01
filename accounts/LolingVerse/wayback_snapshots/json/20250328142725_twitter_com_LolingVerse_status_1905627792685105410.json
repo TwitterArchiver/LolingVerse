@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1905098967966417088",
+    "created_at": "2025-03-28T14:27:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T15:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905627792685105410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1877073796521152512",
+          "start": 0,
+          "username": "xmily20290707"
+        },
+        {
+          "end": 28,
+          "id": "1279702935102865409",
+          "start": 15,
+          "username": "YoselinZhang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905627792685105410",
+    "in_reply_to_user_id": "1877073796521152512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905422400163856854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xmily20290707 @YoselinZhang 郊狼玩多了，耐电（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1905098967966417088",
+        "created_at": "2025-03-28T14:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T15:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905627792685105410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1877073796521152512",
+              "start": 0,
+              "username": "xmily20290707"
+            },
+            {
+              "end": 28,
+              "id": "1279702935102865409",
+              "start": 15,
+              "username": "YoselinZhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905627792685105410",
+        "in_reply_to_user_id": "1877073796521152512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905422400163856854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmily20290707 @YoselinZhang 郊狼玩多了，耐电（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877073796521152512",
+        "conversation_id": "1905098967966417088",
+        "created_at": "2025-03-28T00:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T01:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905422400163856854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1279702935102865409",
+              "start": 0,
+              "username": "YoselinZhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905422400163856854",
+        "in_reply_to_user_id": "1279702935102865409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905098967966417088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YoselinZhang 我有很奇怪的疑问 为什么很少人自杀选摸电门….."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "",
+        "id": "1836041585475346432",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905585769265463304/GbjYjviW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 36,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 76
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T19:24:30.000Z",
+        "description": "我的情绪垃圾桶 我是精神病求你不要骂我。 这个账号带有目的性 但是希望人关注我或者回关我 想让更多人看到我的情绪垃圾…..！",
+        "id": "1877073796521152512",
+        "name": "柠檬海盐三文鱼",
+        "pinned_tweet_id": "1891782589049962816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905037524524826624/D7A2pyag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 0,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 130
+        },
+        "username": "xmily20290707",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T09:05:40.000Z",
+        "description": "07, ISFP, planning 26fall US, cisgender female & trans friendly, 中文&ENG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/upsetallday",
+                "end": 23,
+                "expanded_url": "https://t.me/upsetallday",
+                "start": 0,
+                "url": "https://t.co/DrDwjEvGaG"
+              }
+            ]
+          }
+        },
+        "id": "1279702935102865409",
+        "location": "Self-destroy leads to rebirth ",
+        "name": "Yoselin💊🩸☠️",
+        "pinned_tweet_id": "1859296461709586614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858351609325162496/IJY_umTx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 194,
+          "like_count": 5214,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1108
+        },
+        "url": "https://t.co/DrDwjEvGaG",
+        "username": "YoselinZhang",
+        "verified": false
+      }
+    ]
+  }
+}

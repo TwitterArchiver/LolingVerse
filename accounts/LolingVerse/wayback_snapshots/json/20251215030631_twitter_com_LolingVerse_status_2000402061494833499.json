@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2000402061494833499",
+    "created_at": "2025-12-15T03:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T04:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000402061494833499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "4229371640",
+          "start": 3,
+          "username": "ringochichidim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000402061494833499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000295358124200447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ringochichidim: 我是被子植物，我喜歡躲在被子裏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2000402061494833499",
+        "created_at": "2025-12-15T03:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T04:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000402061494833499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "4229371640",
+              "start": 3,
+              "username": "ringochichidim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000402061494833499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000295358124200447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ringochichidim: 我是被子植物，我喜歡躲在被子裏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4229371640",
+        "conversation_id": "2000295358124200447",
+        "created_at": "2025-12-14T20:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T21:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000295358124200447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000295358124200447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是被子植物，我喜歡躲在被子裏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153/48 | 没诗硬吟｜阴暗爬行  | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TMO0"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Suism.洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 86,
+          "like_count": 4879,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 1847
+        },
+        "url": "https://t.co/Dggtj9TMO0",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-14T01:26:50.000Z",
+        "description": "一隻貓騎在一匹馬上，會變成一隻騎著馬的貓？還是會變成一匹馱著貓的嗎？",
+        "id": "4229371640",
+        "location": "Taiwan",
+        "name": "きた",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723951782311952384/8ApLa6F9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 1226,
+          "like_count": 38292,
+          "listed_count": 8,
+          "media_count": 3251,
+          "tweet_count": 10708
+        },
+        "username": "ringochichidim",
+        "verified": false
+      }
+    ]
+  }
+}

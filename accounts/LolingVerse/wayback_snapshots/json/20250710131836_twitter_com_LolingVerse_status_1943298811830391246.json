@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1942953744024609095",
+    "created_at": "2025-07-10T13:18:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T14:18:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943298811830391246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1374034349700444161",
+          "start": 0,
+          "username": "pizyj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943298811830391246",
+    "in_reply_to_user_id": "1374034349700444161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942953744024609095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pizyj 你怎么这么多玩具😠"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35061,
+        "height": 1280,
+        "media_key": "13_1942953631797661696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1942953631797661696/img/1ULdtb2t0uHfusKa.jpg",
+        "public_metrics": {
+          "view_count": 1657
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942953631797661696/vid/avc1/320x568/jOFkxHnzCKhP4OcJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942953631797661696/vid/avc1/480x852/gG4NQxdKUJFEpCbB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942953631797661696/vid/avc1/720x1280/pOip2JYbHKkou8FE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1942953631797661696/pl/Kz4SBSus_BsJn2qQ.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1942953744024609095",
+        "created_at": "2025-07-10T13:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T14:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943298811830391246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1374034349700444161",
+              "start": 0,
+              "username": "pizyj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943298811830391246",
+        "in_reply_to_user_id": "1374034349700444161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942953744024609095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pizyj 你怎么这么多玩具😠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1942953631797661696"
+          ]
+        },
+        "author_id": "1374034349700444161",
+        "conversation_id": "1942953744024609095",
+        "created_at": "2025-07-09T14:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T15:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942953744024609095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N2kYb05ltZ",
+              "end": 31,
+              "expanded_url": "https://x.com/pizyj/status/1942953744024609095/video/1",
+              "media_key": "13_1942953631797661696",
+              "start": 8,
+              "url": "https://t.co/N2kYb05ltZ"
+            },
+            {
+              "display_url": "x.com/pizyj/status/1…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/pizyj/status/1942934335839195347",
+              "start": 32,
+              "url": "https://t.co/8SuzENgvLx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942953744024609095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 12368,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942934335839195347",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真坏啊充气项圈 https://t.co/N2kYb05ltZ https://t.co/8SuzENgvLx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 63,
+          "like_count": 1570,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 734
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-22T16:24:59.000Z",
+        "description": "什么猫？什么猫？猞猁猫？灵白猫？猫小白？是switch/sub/m，厌蠢，最喜欢体验新鲜东西。现在和@rollingcat0100住一起，刷新了一个主子@HzShibari86 ，一个大猫@NekomiyaKoharu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "rollingcat0100"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "HzShibari86"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "NekomiyaKoharu"
+              }
+            ]
+          }
+        },
+        "id": "1374034349700444161",
+        "location": "猫罐头",
+        "name": "喵小白叫灵白猫",
+        "pinned_tweet_id": "1887077652684824621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899500314749030403/grMD1iNl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60436,
+          "following_count": 5424,
+          "like_count": 43057,
+          "listed_count": 77,
+          "media_count": 9586,
+          "tweet_count": 53309
+        },
+        "username": "pizyj",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2074153723476185088"
+      ],
+      "media_source_tweet_id": [
+        "2074154773696393504"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2074458730469392867",
+    "created_at": "2026-07-07T11:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T12:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074458730469392867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "821614513736781825",
+          "start": 3,
+          "username": "14ManGo1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AwdlDXNsGL",
+          "end": 50,
+          "expanded_url": "https://x.com/14ManGo1/status/2074154773696393504/video/1",
+          "media_key": "13_2074153723476185088",
+          "start": 27,
+          "url": "https://t.co/AwdlDXNsGL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074458730469392867",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074154773696393504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @14ManGo1: 【中之人酱的日常】美甲篇 https://t.co/AwdlDXNsGL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19840,
+        "height": 1500,
+        "media_key": "13_2074153723476185088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074153723476185088/img/dDZuUGhaRYr6zOFz.jpg",
+        "public_metrics": {
+          "view_count": 5839
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074153723476185088/vid/avc1/320x452/v77foXpX4Bzw6IYw.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074153723476185088/vid/avc1/480x678/Q1tzwLx5rJu8BGJa.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074153723476185088/vid/avc1/720x1018/JTamAZ5dpNqN1pag.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074153723476185088/pl/mkZ6QlIgaPFocBZw.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074153723476185088"
+          ],
+          "media_source_tweet_id": [
+            "2074154773696393504"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2074458730469392867",
+        "created_at": "2026-07-07T11:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T12:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074458730469392867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "821614513736781825",
+              "start": 3,
+              "username": "14ManGo1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AwdlDXNsGL",
+              "end": 50,
+              "expanded_url": "https://x.com/14ManGo1/status/2074154773696393504/video/1",
+              "media_key": "13_2074153723476185088",
+              "start": 27,
+              "url": "https://t.co/AwdlDXNsGL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074458730469392867",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074154773696393504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @14ManGo1: 【中之人酱的日常】美甲篇 https://t.co/AwdlDXNsGL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074153723476185088"
+          ]
+        },
+        "author_id": "821614513736781825",
+        "conversation_id": "2074154773696393504",
+        "created_at": "2026-07-06T15:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074154773696393504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AwdlDXNsGL",
+              "end": 36,
+              "expanded_url": "https://x.com/14ManGo1/status/2074154773696393504/video/1",
+              "media_key": "13_2074153723476185088",
+              "start": 13,
+              "url": "https://t.co/AwdlDXNsGL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074154773696393504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 12766,
+          "like_count": 478,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "【中之人酱的日常】美甲篇 https://t.co/AwdlDXNsGL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 160,
+          "like_count": 24401,
+          "listed_count": 4,
+          "media_count": 341,
+          "tweet_count": 4424
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-18T07:05:39.000Z",
+        "description": "MTF 底层画师 车车人 bilibili底层虚拟主播",
+        "id": "821614513736781825",
+        "location": "中华人民共和国",
+        "name": "芒伊木",
+        "pinned_tweet_id": "2011094910473289883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004772707540606976/yHcgxQAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40239,
+          "following_count": 187,
+          "like_count": 643,
+          "listed_count": 125,
+          "media_count": 260,
+          "tweet_count": 485
+        },
+        "url": "",
+        "username": "14ManGo1",
+        "verified": true
+      }
+    ]
+  }
+}

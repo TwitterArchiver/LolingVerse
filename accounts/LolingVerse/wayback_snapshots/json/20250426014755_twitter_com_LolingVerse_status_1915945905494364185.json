@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1915610991628615824",
+    "created_at": "2025-04-26T01:47:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T02:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915945905494364185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1913509117463003136",
+          "start": 0,
+          "username": "e8477208831372"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915945905494364185",
+    "in_reply_to_user_id": "1913509117463003136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915610991628615824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@e8477208831372 常用词……（确信"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1915610965904941057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpWeBi6bYAE4-nT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1915610991628615824",
+        "created_at": "2025-04-26T01:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T02:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915945905494364185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1913509117463003136",
+              "start": 0,
+              "username": "e8477208831372"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915945905494364185",
+        "in_reply_to_user_id": "1913509117463003136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915610991628615824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e8477208831372 常用词……（确信"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915610965904941057"
+          ]
+        },
+        "author_id": "1913509117463003136",
+        "conversation_id": "1915610991628615824",
+        "created_at": "2025-04-25T03:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T04:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915610991628615824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1aH55HWoSP",
+              "end": 52,
+              "expanded_url": "https://x.com/e8477208831372/status/1915610991628615824/photo/1",
+              "media_key": "3_1915610965904941057",
+              "start": 29,
+              "url": "https://t.co/1aH55HWoSP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915610991628615824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 360,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "666 上班看不懂作图软件，全英文软件，我还得一个个翻译 https://t.co/1aH55HWoSP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟 | 深柜",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 51,
+          "like_count": 642,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 349
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T08:25:15.000Z",
+        "description": "大E的日常碎碎念，打卡号，很无聊的，纯属个人发癫",
+        "id": "1913509117463003136",
+        "name": "大E（日记号）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913513666701631488/O4OsfOm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 0,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "username": "e8477208831372",
+        "verified": false
+      }
+    ]
+  }
+}

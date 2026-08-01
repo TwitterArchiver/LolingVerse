@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1940517910155571417",
+    "created_at": "2025-07-03T03:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T04:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940619684724068525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4752010152",
+          "start": 0,
+          "username": "garrulous_abyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940619684724068525",
+    "in_reply_to_user_id": "4752010152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940517910155571417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@garrulous_abyss 不需要符合推理\n只需要符合文理——附和"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_1940517900013518848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu4av66XwAA3Uxm.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1940517910155571417",
+        "created_at": "2025-07-03T03:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T04:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940619684724068525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4752010152",
+              "start": 0,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940619684724068525",
+        "in_reply_to_user_id": "4752010152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940517910155571417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@garrulous_abyss 不需要符合推理\n只需要符合文理——附和"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940517900013518848"
+          ]
+        },
+        "author_id": "4752010152",
+        "conversation_id": "1940517910155571417",
+        "created_at": "2025-07-02T21:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T22:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940517910155571417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/77XL8nYmTG",
+              "end": 38,
+              "expanded_url": "https://x.com/garrulous_abyss/status/1940517910155571417/photo/1",
+              "media_key": "3_1940517900013518848",
+              "start": 15,
+              "url": "https://t.co/77XL8nYmTG"
+            },
+            {
+              "display_url": "x.com/garrulous_abys…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/garrulous_abyss/status/1940517280200462704",
+              "start": 39,
+              "url": "https://t.co/jhEuYHA3DU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940517910155571417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2861,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940517280200462704",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就不直接怼了，但我说的是这条 https://t.co/77XL8nYmTG https://t.co/jhEuYHA3DU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 63,
+          "like_count": 1487,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 688
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//伪全栈工程师//伪科研人员//伪web3研究人员//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑\n\n欢迎预约占卜测事 https://t.co/KZBQuE9x4R",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 138,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 115,
+                "url": "https://t.co/KZBQuE9x4R"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28965,
+          "following_count": 3572,
+          "like_count": 151535,
+          "listed_count": 102,
+          "media_count": 3425,
+          "tweet_count": 56040
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

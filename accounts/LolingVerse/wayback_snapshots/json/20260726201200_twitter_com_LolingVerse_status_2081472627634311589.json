@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081464304227000320",
+        "3_2081464317267128320",
+        "3_2081464332681191424",
+        "3_2081464347373764608"
+      ],
+      "media_source_tweet_id": [
+        "2081464374410330505",
+        "2081464374410330505",
+        "2081464374410330505",
+        "2081464374410330505"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2081472627634311589",
+    "created_at": "2026-07-26T20:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T21:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081472627634311589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "147786784",
+          "start": 3,
+          "username": "yetone"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/olpaFFQoNP",
+          "end": 114,
+          "expanded_url": "https://x.com/yetone/status/2081464374410330505/photo/1",
+          "media_key": "3_2081464304227000320",
+          "start": 91,
+          "url": "https://t.co/olpaFFQoNP"
+        },
+        {
+          "display_url": "pic.x.com/olpaFFQoNP",
+          "end": 114,
+          "expanded_url": "https://x.com/yetone/status/2081464374410330505/photo/1",
+          "media_key": "3_2081464317267128320",
+          "start": 91,
+          "url": "https://t.co/olpaFFQoNP"
+        },
+        {
+          "display_url": "pic.x.com/olpaFFQoNP",
+          "end": 114,
+          "expanded_url": "https://x.com/yetone/status/2081464374410330505/photo/1",
+          "media_key": "3_2081464332681191424",
+          "start": 91,
+          "url": "https://t.co/olpaFFQoNP"
+        },
+        {
+          "display_url": "pic.x.com/olpaFFQoNP",
+          "end": 114,
+          "expanded_url": "https://x.com/yetone/status/2081464374410330505/photo/1",
+          "media_key": "3_2081464347373764608",
+          "start": 91,
+          "url": "https://t.co/olpaFFQoNP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081472627634311589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081464374410330505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yetone: 在 Agent 时代，UI 还有没有必要存在？我是不知道。但是我给 Alma 增加了一个 GUI 刚诞生的那个年代的主题 —— Windows 98 主题。 https://t.co/olpaFFQoNP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1486,
+        "media_key": "3_2081464304227000320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLYwbIbIAAwoKp.jpg",
+        "width": 2046
+      },
+      {
+        "height": 1486,
+        "media_key": "3_2081464317267128320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLYxLtbsAAYojS.jpg",
+        "width": 2046
+      },
+      {
+        "height": 1572,
+        "media_key": "3_2081464332681191424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLYyFIboAA3TzK.jpg",
+        "width": 2052
+      },
+      {
+        "height": 1572,
+        "media_key": "3_2081464347373764608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLYy73agAA1rtH.jpg",
+        "width": 2052
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081464304227000320",
+            "3_2081464317267128320",
+            "3_2081464332681191424",
+            "3_2081464347373764608"
+          ]
+        },
+        "author_id": "147786784",
+        "conversation_id": "2081464374410330505",
+        "created_at": "2026-07-26T19:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T20:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081464374410330505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/olpaFFQoNP",
+              "end": 102,
+              "expanded_url": "https://x.com/yetone/status/2081464374410330505/photo/1",
+              "media_key": "3_2081464304227000320",
+              "start": 79,
+              "url": "https://t.co/olpaFFQoNP"
+            },
+            {
+              "display_url": "pic.x.com/olpaFFQoNP",
+              "end": 102,
+              "expanded_url": "https://x.com/yetone/status/2081464374410330505/photo/1",
+              "media_key": "3_2081464317267128320",
+              "start": 79,
+              "url": "https://t.co/olpaFFQoNP"
+            },
+            {
+              "display_url": "pic.x.com/olpaFFQoNP",
+              "end": 102,
+              "expanded_url": "https://x.com/yetone/status/2081464374410330505/photo/1",
+              "media_key": "3_2081464332681191424",
+              "start": 79,
+              "url": "https://t.co/olpaFFQoNP"
+            },
+            {
+              "display_url": "pic.x.com/olpaFFQoNP",
+              "end": 102,
+              "expanded_url": "https://x.com/yetone/status/2081464374410330505/photo/1",
+              "media_key": "3_2081464347373764608",
+              "start": 79,
+              "url": "https://t.co/olpaFFQoNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081464374410330505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 602,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在 Agent 时代，UI 还有没有必要存在？我是不知道。但是我给 Alma 增加了一个 GUI 刚诞生的那个年代的主题 —— Windows 98 主题。 https://t.co/olpaFFQoNP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081464304227000320",
+            "3_2081464317267128320",
+            "3_2081464332681191424",
+            "3_2081464347373764608"
+          ],
+          "media_source_tweet_id": [
+            "2081464374410330505",
+            "2081464374410330505",
+            "2081464374410330505",
+            "2081464374410330505"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2081472627634311589",
+        "created_at": "2026-07-26T20:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T21:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081472627634311589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "147786784",
+              "start": 3,
+              "username": "yetone"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/olpaFFQoNP",
+              "end": 114,
+              "expanded_url": "https://x.com/yetone/status/2081464374410330505/photo/1",
+              "media_key": "3_2081464304227000320",
+              "start": 91,
+              "url": "https://t.co/olpaFFQoNP"
+            },
+            {
+              "display_url": "pic.x.com/olpaFFQoNP",
+              "end": 114,
+              "expanded_url": "https://x.com/yetone/status/2081464374410330505/photo/1",
+              "media_key": "3_2081464317267128320",
+              "start": 91,
+              "url": "https://t.co/olpaFFQoNP"
+            },
+            {
+              "display_url": "pic.x.com/olpaFFQoNP",
+              "end": 114,
+              "expanded_url": "https://x.com/yetone/status/2081464374410330505/photo/1",
+              "media_key": "3_2081464332681191424",
+              "start": 91,
+              "url": "https://t.co/olpaFFQoNP"
+            },
+            {
+              "display_url": "pic.x.com/olpaFFQoNP",
+              "end": 114,
+              "expanded_url": "https://x.com/yetone/status/2081464374410330505/photo/1",
+              "media_key": "3_2081464347373764608",
+              "start": 91,
+              "url": "https://t.co/olpaFFQoNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081472627634311589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081464374410330505",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yetone: 在 Agent 时代，UI 还有没有必要存在？我是不知道。但是我给 Alma 增加了一个 GUI 刚诞生的那个年代的主题 —— Windows 98 主题。 https://t.co/olpaFFQoNP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 165,
+          "like_count": 26490,
+          "listed_count": 4,
+          "media_count": 385,
+          "tweet_count": 4835
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2010-05-25T01:52:30.000Z",
+        "description": "Built: avante.nvim\n\nBuilding:\n\nhttps://t.co/pfq9srNgsd\n\nhttps://t.co/fpGnPR5t9C\n\nhttps://t.co/cBN1yzJPIG\n\nhttps://t.co/6ERz2HMx0f\n\nhttps://t.co/QhQRLD4zQo\n\nhttps://t.co/ln9CVeagWC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "alma.now",
+                "end": 54,
+                "expanded_url": "https://alma.now",
+                "start": 31,
+                "url": "https://t.co/pfq9srNgsd"
+              },
+              {
+                "display_url": "confirmo.love",
+                "end": 79,
+                "expanded_url": "https://confirmo.love",
+                "start": 56,
+                "url": "https://t.co/fpGnPR5t9C"
+              },
+              {
+                "display_url": "swordgame.ai",
+                "end": 104,
+                "expanded_url": "https://swordgame.ai",
+                "start": 81,
+                "url": "https://t.co/cBN1yzJPIG"
+              },
+              {
+                "display_url": "yansu.app",
+                "end": 129,
+                "expanded_url": "https://yansu.app",
+                "start": 106,
+                "url": "https://t.co/6ERz2HMx0f"
+              },
+              {
+                "display_url": "cumora.ai",
+                "end": 154,
+                "expanded_url": "https://cumora.ai",
+                "start": 131,
+                "url": "https://t.co/QhQRLD4zQo"
+              },
+              {
+                "display_url": "killaislop.com",
+                "end": 179,
+                "expanded_url": "https://killaislop.com",
+                "start": 156,
+                "url": "https://t.co/ln9CVeagWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/yetone",
+                "end": 23,
+                "expanded_url": "https://github.com/yetone",
+                "start": 0,
+                "url": "https://t.co/KfyoeaqTKV"
+              }
+            ]
+          }
+        },
+        "id": "147786784",
+        "location": "无",
+        "name": "yetone",
+        "pinned_tweet_id": "1996646348964413572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458663772017491971/h1-KC--K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86807,
+          "following_count": 4544,
+          "like_count": 19319,
+          "listed_count": 1061,
+          "media_count": 2267,
+          "tweet_count": 19908
+        },
+        "url": "https://t.co/KfyoeaqTKV",
+        "username": "yetone",
+        "verified": true
+      }
+    ]
+  }
+}

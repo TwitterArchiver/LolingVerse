@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931931240867012608"
+      ],
+      "media_source_tweet_id": [
+        "1931975802473861586"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1932070109998420397",
+    "created_at": "2025-06-09T13:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T14:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932070109998420397"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 17,
+          "tag": "GenshinImpact"
+        },
+        {
+          "end": 39,
+          "start": 32,
+          "tag": "Furina"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1656267356073766913",
+          "start": 3,
+          "username": "FKgme"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eTKpYNEhWO",
+          "end": 63,
+          "expanded_url": "https://x.com/FKgme/status/1931975802473861586/photo/1",
+          "media_key": "3_1931931240867012608",
+          "start": 40,
+          "url": "https://t.co/eTKpYNEhWO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932070109998420397",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1416
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931975802473861586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FKgme: フリーナ様\n#GenshinImpact #Furina https://t.co/eTKpYNEhWO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1860,
+        "media_key": "3_1931931240867012608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs-ZOk5boAAvq_B.jpg",
+        "width": 1355
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931931240867012608"
+          ],
+          "media_source_tweet_id": [
+            "1931975802473861586"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1932070109998420397",
+        "created_at": "2025-06-09T13:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T14:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932070109998420397"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 17,
+              "tag": "GenshinImpact"
+            },
+            {
+              "end": 39,
+              "start": 32,
+              "tag": "Furina"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1656267356073766913",
+              "start": 3,
+              "username": "FKgme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eTKpYNEhWO",
+              "end": 63,
+              "expanded_url": "https://x.com/FKgme/status/1931975802473861586/photo/1",
+              "media_key": "3_1931931240867012608",
+              "start": 40,
+              "url": "https://t.co/eTKpYNEhWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932070109998420397",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1416
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931975802473861586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FKgme: フリーナ様\n#GenshinImpact #Furina https://t.co/eTKpYNEhWO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931931240867012608"
+          ]
+        },
+        "author_id": "1656267356073766913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1931975802473861586",
+        "created_at": "2025-06-09T07:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T08:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931975802473861586"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 6,
+              "tag": "GenshinImpact"
+            },
+            {
+              "end": 28,
+              "start": 21,
+              "tag": "Furina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eTKpYNEhWO",
+              "end": 52,
+              "expanded_url": "https://x.com/FKgme/status/1931975802473861586/photo/1",
+              "media_key": "3_1931931240867012608",
+              "start": 29,
+              "url": "https://t.co/eTKpYNEhWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931975802473861586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 913,
+          "impression_count": 142356,
+          "like_count": 13178,
+          "quote_count": 11,
+          "reply_count": 32,
+          "retweet_count": 1416
+        },
+        "reply_settings": "everyone",
+        "text": "フリーナ様\n#GenshinImpact #Furina https://t.co/eTKpYNEhWO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 62,
+          "like_count": 1330,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 630
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-10T11:58:16.000Z",
+        "description": "楽しく絵を描いてます🎨／サブ▶︎▷@FT_toka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "FT_toka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/FKgme",
+                "end": 23,
+                "expanded_url": "https://lit.link/FKgme",
+                "start": 0,
+                "url": "https://t.co/1TUeBma5Hv"
+              }
+            ]
+          }
+        },
+        "id": "1656267356073766913",
+        "location": "Please do not repost or use",
+        "name": "かと",
+        "pinned_tweet_id": "1931975802473861586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878382675511439360/S6IvnMNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22827,
+          "following_count": 306,
+          "like_count": 19038,
+          "listed_count": 86,
+          "media_count": 35,
+          "tweet_count": 4294
+        },
+        "url": "https://t.co/1TUeBma5Hv",
+        "username": "FKgme",
+        "verified": false
+      }
+    ]
+  }
+}

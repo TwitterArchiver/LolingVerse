@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1950026073150017682",
+    "created_at": "2025-08-13T13:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T14:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955622611343540642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1905853363604037632",
+          "start": 0,
+          "username": "nekozyake_game"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955622611343540642",
+    "in_reply_to_user_id": "1905853363604037632",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950026073150017682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nekozyake_game where could we touch the indev?"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 107818,
+        "height": 720,
+        "media_key": "13_1950025942015102979",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1950025942015102979/img/u7MWDVC9g9G69CAC.jpg",
+        "public_metrics": {
+          "view_count": 2238
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950025942015102979/vid/avc1/480x270/Qabu-fqn-vbVnOzi.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950025942015102979/vid/avc1/640x360/-lDBF8QwSJQevPvp.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950025942015102979/vid/avc1/1280x720/C64K2PxXkxAT6Zbt.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1950025942015102979/pl/0HOi58NrjAHSI_xr.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 675,
+        "media_key": "3_1950025942702968832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw_iQ2GbUAAFaG6.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1041,
+        "media_key": "3_1950025942874886144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw_iQ2vakAAYJYs.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1950025881944276992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw_iNTwbQAAmc2t.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1950026073150017682",
+        "created_at": "2025-08-13T13:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T14:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955622611343540642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1905853363604037632",
+              "start": 0,
+              "username": "nekozyake_game"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955622611343540642",
+        "in_reply_to_user_id": "1905853363604037632",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950026073150017682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekozyake_game where could we touch the indev?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1950025942015102979",
+            "3_1950025942702968832",
+            "3_1950025942874886144",
+            "3_1950025881944276992"
+          ]
+        },
+        "author_id": "1905853363604037632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1950026073150017682",
+        "created_at": "2025-07-29T02:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T03:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950026073150017682"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "KEEP Reading!",
+              "probability": 0.8171,
+              "start": 8,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NgsnKhWJHT",
+              "end": 78,
+              "expanded_url": "https://x.com/nekozyake_game/status/1950026073150017682/video/1",
+              "media_key": "13_1950025942015102979",
+              "start": 55,
+              "url": "https://t.co/NgsnKhWJHT"
+            },
+            {
+              "display_url": "pic.x.com/NgsnKhWJHT",
+              "end": 78,
+              "expanded_url": "https://x.com/nekozyake_game/status/1950026073150017682/video/1",
+              "media_key": "3_1950025942702968832",
+              "start": 55,
+              "url": "https://t.co/NgsnKhWJHT"
+            },
+            {
+              "display_url": "pic.x.com/NgsnKhWJHT",
+              "end": 78,
+              "expanded_url": "https://x.com/nekozyake_game/status/1950026073150017682/video/1",
+              "media_key": "3_1950025942874886144",
+              "start": 55,
+              "url": "https://t.co/NgsnKhWJHT"
+            },
+            {
+              "display_url": "pic.x.com/NgsnKhWJHT",
+              "end": 78,
+              "expanded_url": "https://x.com/nekozyake_game/status/1950026073150017682/video/1",
+              "media_key": "3_1950025881944276992",
+              "start": 55,
+              "url": "https://t.co/NgsnKhWJHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950026073150017682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 9228,
+          "like_count": 177,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "個人制作ゲーム「KEEP Reading!」紹介\n視線になって文字をなぞるアクションゲーム、鋭意制作中です！ https://t.co/NgsnKhWJHT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 70,
+          "like_count": 2050,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1073
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T05:24:02.000Z",
+        "description": "ゲーム制作とお絵描き。「KEEP Reading!」https://t.co/lrdiyxsLIs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skima.jp/profile?id=429…",
+                "end": 49,
+                "expanded_url": "https://skima.jp/profile?id=429136&sh=4k0qe79",
+                "start": 26,
+                "url": "https://t.co/lrdiyxsLIs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/nekozyake_ga…",
+                "end": 23,
+                "expanded_url": "https://odaibako.net/u/nekozyake_game",
+                "start": 0,
+                "url": "https://t.co/7hl6Pjdvqa"
+              }
+            ]
+          }
+        },
+        "id": "1905853363604037632",
+        "name": "猫半纏(ねこはんてん)",
+        "pinned_tweet_id": "1950026073150017682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919423984791429120/cwnsVrKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 615,
+          "like_count": 1559,
+          "listed_count": 9,
+          "media_count": 58,
+          "tweet_count": 296
+        },
+        "url": "https://t.co/7hl6Pjdvqa",
+        "username": "nekozyake_game",
+        "verified": false
+      }
+    ]
+  }
+}

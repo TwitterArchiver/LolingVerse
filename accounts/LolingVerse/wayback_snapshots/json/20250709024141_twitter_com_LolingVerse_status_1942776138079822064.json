@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942468444026462208"
+      ],
+      "media_source_tweet_id": [
+        "1942468460795289859"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1942776138079822064",
+    "created_at": "2025-07-09T02:41:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T03:41:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942776138079822064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1891456588508200960",
+          "start": 3,
+          "username": "yuukiqwqo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mR5fk4RX2Z",
+          "end": 38,
+          "expanded_url": "https://x.com/yuukiqwqo/status/1942468460795289859/photo/1",
+          "media_key": "3_1942468444026462208",
+          "start": 15,
+          "url": "https://t.co/mR5fk4RX2Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942776138079822064",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 194
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942468460795289859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuukiqwqo: https://t.co/mR5fk4RX2Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1801,
+        "media_key": "3_1942468444026462208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvUIwhmaYAAGe2d.jpg",
+        "width": 1293
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942468444026462208"
+          ],
+          "media_source_tweet_id": [
+            "1942468460795289859"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1942776138079822064",
+        "created_at": "2025-07-09T02:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T03:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942776138079822064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1891456588508200960",
+              "start": 3,
+              "username": "yuukiqwqo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mR5fk4RX2Z",
+              "end": 38,
+              "expanded_url": "https://x.com/yuukiqwqo/status/1942468460795289859/photo/1",
+              "media_key": "3_1942468444026462208",
+              "start": 15,
+              "url": "https://t.co/mR5fk4RX2Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942776138079822064",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942468460795289859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuukiqwqo: https://t.co/mR5fk4RX2Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942468444026462208"
+          ]
+        },
+        "author_id": "1891456588508200960",
+        "conversation_id": "1942468460795289859",
+        "created_at": "2025-07-08T06:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T07:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942468460795289859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mR5fk4RX2Z",
+              "end": 23,
+              "expanded_url": "https://x.com/yuukiqwqo/status/1942468460795289859/photo/1",
+              "media_key": "3_1942468444026462208",
+              "start": 0,
+              "url": "https://t.co/mR5fk4RX2Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942468460795289859",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 384,
+          "impression_count": 52474,
+          "like_count": 3153,
+          "quote_count": 4,
+          "reply_count": 11,
+          "retweet_count": 194
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mR5fk4RX2Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 63,
+          "like_count": 1554,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 726
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T11:56:18.000Z",
+        "description": "写真の無断転載はやめてくださいね！女の子です〜！一番好きなキャラは二階堂真紅ちゃん！このアカウントしか使っていません！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/95ijpsx",
+                "end": 23,
+                "expanded_url": "https://b23.tv/95ijpsx",
+                "start": 0,
+                "url": "https://t.co/OT2bRsiT3b"
+              }
+            ]
+          }
+        },
+        "id": "1891456588508200960",
+        "name": "yuuki",
+        "pinned_tweet_id": "1908444753458606183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940459892994650112/Tt8lOWu5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23628,
+          "following_count": 25,
+          "like_count": 174,
+          "listed_count": 79,
+          "media_count": 55,
+          "tweet_count": 73
+        },
+        "url": "https://t.co/OT2bRsiT3b",
+        "username": "yuukiqwqo",
+        "verified": false
+      }
+    ]
+  }
+}

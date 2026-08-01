@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2074554038503579686",
+    "created_at": "2026-07-08T04:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T05:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074709875377029496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1562677302143565824",
+          "start": 0,
+          "username": "t_tuelhinhos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074709875377029496",
+    "in_reply_to_user_id": "1562677302143565824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074554038503579686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@t_tuelhinhos 草，是熟悉的教材"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8428,
+        "height": 1024,
+        "media_key": "13_2074228606377644032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074228606377644032/img/p3iLfQCoV8DginEY.jpg",
+        "public_metrics": {
+          "view_count": 6865
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074228606377644032/vid/avc1/320x568/gM8_7pcBuB3VJq55.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074228606377644032/vid/avc1/480x852/XRprb8Lafy52Bxaq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074228606377644032/vid/avc1/576x1024/mwacRpo0eEc2SWun.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074228606377644032/pl/KKvYifJkAAGWyGQp.m3u8?tag=14"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2074554038503579686",
+        "created_at": "2026-07-08T04:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074709875377029496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1562677302143565824",
+              "start": 0,
+              "username": "t_tuelhinhos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074709875377029496",
+        "in_reply_to_user_id": "1562677302143565824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074554038503579686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@t_tuelhinhos 草，是熟悉的教材"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074228606377644032"
+          ]
+        },
+        "author_id": "1562677302143565824",
+        "conversation_id": "2074554038503579686",
+        "created_at": "2026-07-07T18:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074554038503579686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o9O50VFjPW",
+              "end": 66,
+              "expanded_url": "https://x.com/t_tuelhinhos/status/2074554038503579686/video/1",
+              "media_key": "13_2074228606377644032",
+              "start": 43,
+              "url": "https://t.co/o9O50VFjPW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074554038503579686",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 269,
+          "impression_count": 27298,
+          "like_count": 1396,
+          "quote_count": 41,
+          "reply_count": 3,
+          "retweet_count": 296
+        },
+        "reply_settings": "everyone",
+        "text": "Chega de estudar! Me faça carinho, humano! https://t.co/o9O50VFjPW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 160,
+          "like_count": 24442,
+          "listed_count": 4,
+          "media_count": 342,
+          "tweet_count": 4433
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-25T05:44:49.000Z",
+        "description": "Está é uma pagina de compilação e coleção de conteúdos sobre coelho, vale ressaltar que não sou dono de nenhum dos conteúdos postados!",
+        "id": "1562677302143565824",
+        "location": "Aos pés da Yggdrasil",
+        "name": "Tuelhinhos 🐇",
+        "pinned_tweet_id": "2033647891131076800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970638790797488128/qiNeFgLh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5505,
+          "following_count": 74,
+          "like_count": 53580,
+          "listed_count": 25,
+          "media_count": 5674,
+          "tweet_count": 19556
+        },
+        "url": "",
+        "username": "t_tuelhinhos",
+        "verified": false
+      }
+    ]
+  }
+}

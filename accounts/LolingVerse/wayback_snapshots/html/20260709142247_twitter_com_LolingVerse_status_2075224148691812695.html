@@ -1,0 +1,319 @@
+<!-- Source: https://web.archive.org/web/20260709142247if_/twitter_com_LolingVerse_status_2075224148691812695 -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<title>
+Wayback Machine
+</title>
+<style type="text/css">
+body {
+				margin:0;
+				padding: 20px;
+				background-color: #000;
+				min-height: 100vh;
+				box-sizing: border-box;
+			}
+  .notice {
+    border: 2px solid #c9ae00;
+    background-color: #ffff00;
+    padding: 12px;
+    position: sticky;
+    top: 20px;
+    z-index: 1000;
+  }
+
+  .tweet-container {
+    font-family: Helvetica, Arial, sans-serif;
+    padding: 12px 16px;
+    border: 1px solid #cfd9de;
+    border-radius: 12px;
+    margin-top: 20px;
+				margin-left: auto;
+				margin-right: auto;
+				background-color: white;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: max-content;
+  }
+
+  .tweet-container > #nonjsonview {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+  .tweet-author {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 0.75rem;
+  }
+
+  .tweet-author-profile-image img {
+    width: 48px;
+    max-width: 48px;
+    height: 48px;
+    max-height: 48px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-right: 5px;
+  }
+
+  .tweet-author-info {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .tweet-author-name {
+    font-weight: bold;
+  }
+
+  .tweet-content {
+    font-size: 1.25rem;
+  }
+
+			.tweet-image {
+				width: 100%;
+				height: auto;
+				margin-top: 12px;
+				border-radius: 12px;
+			}
+
+			.embedded-tweet-container {
+				box-sizing: border-box;
+				margin-top: 12px;
+				padding: 12px;
+				border: 1px solid #cfd9de;
+    border-radius: 12px;
+				background-color: white;
+				max-width: 100%;
+			}
+			.date {
+				font-size: 0.75rem;
+				color: #657786;
+				margin-top: 12px;
+			}
+			.date a {
+				color: #657786;
+				text-decoration: none;
+			}
+			.date a:hover {
+				text-decoration: underline;
+			}
+  .on {
+    display: block;
+  }
+  .off {
+    display: none;
+  }
+</style>
+</head>
+<body>
+<div class="tweet-container on">
+<div id="nonjsonview">
+  <div class="tweet-author">
+  <div class="tweet-author-profile-image">
+  <img alt="洛铃🦊Magic Caster" src="../avatar/avatar_1949784927089876992.jpg"/>
+  </div>
+  <div class="tweet-author-info">
+  <div class="tweet-author-name">
+  洛铃🦊Magic Caster
+  </div>
+  <div class="tweet-author-username">
+  @LolingVerse
+  </div>
+  </div>
+  </div>
+  <div class="tweet-content">
+  **好的，我帮你系统整理一下目前主流的地址类型：**
+  <br/>
+  <br/>
+  主要可以分成下面这几大类（按实际使用频率和兼容性分）：
+  <br/>
+  <br/>
+  ### 1. **EVM 类型**（最常见）
+  <br/>
+  **地址格式**：`0x` 开头 + 40位十六进制字符（共42字符）
+  <br/>
+  <br/>
+  **包含的链**：
+  <br/>
+  - **Ethereum 主网** + **几乎所有 Ethereum L2**：
+  <br/>
+  - Arbitrum, Optimism, Base, zkSync, Linea, Blast, Scroll, Polygon zkEVM 等
+  <br/>
+  - **其他 EVM 兼容链**：
+  <br/>
+  - BSC（BNB Chain）
+  <br/>
+  - Polygon PoS
+  <br/>
+  - Avalanche C-Chain
+  <br/>
+  - Fantom, Gnosis, Moonbeam 等
+  <br/>
+  <br/>
+  **特点**：同一个私钥/助记词，在所有这些链上**地址完全一样**。
+  <br/>
+  这是目前用户接触最多的类型（MetaMask 主要支持的就是这一类）。
+  <br/>
+  <br/>
+  ### 2. **Solana 类型**
+  <br/>
+  **地址格式**：没有 `0x`，Base58 编码，32~44 字符（看起来像一串乱码）
+  <br/>
+  <br/>
+  **包含的链**：
+  <br/>
+  - Solana 主网
+  <br/>
+  - 部分 Solana 生态的 L2 / 并行链（目前还不多）
+  <br/>
+  <br/>
+  **特点**：必须用 Phantom、Solflare 这类 Solana 专用钱包。私钥和 EVM 完全不通用。
+  <br/>
+  <br/>
+  ### 3. **Bitcoin 类型**
+  <br/>
+  **地址格式**：
+  <br/>
+  - Legacy：`1...`
+  <br/>
+  - SegWit：`bc1q...`
+  <br/>
+  - Taproot：`bc1p...`
+  <br/>
+  <br/>
+  **包含的链**：
+  <br/>
+  - Bitcoin 主网
+  <br/>
+  - 部分 Bitcoin L2 / 侧链（Lightning Network 还是用 BTC 地址）
+  <br/>
+  <br/>
+  **特点**：和 EVM、Solana 完全不同。
+  <br/>
+  <br/>
+  ### 4. **Tron 类型**（TRC20）
+  <br/>
+  **地址格式**：`T` 开头 + Base58 编码
+  <br/>
+  <br/>
+  **包含的链**：
+  <br/>
+  - Tron 主网
+  <br/>
+  <br/>
+  **特点**：和 Bitcoin 地址有点像，但不是同一个体系。USDT 在 Tron 上很常用。
+  <br/>
+  <br/>
+  ### 5. **其他比较常见的类型**
+  <br/>
+  <br/>
+  | 类型          | 地址特征                  | 代表链                  | 备注 |
+  <br/>
+  |---------------|---------------------------|-------------------------|------|
+  <br/>
+  | **TON**       | `UQ...` 或 `EQ...`       | The Open Network       | Telegram 生态 |
+  <br/>
+  | **Cosmos 系** | `cosmos1...`、`osmo1...` 等 | Cosmos, Osmosis, dYdX 等 | IBC 跨链生态 |
+  <br/>
+  | **Polkadot 系** | `1...` 或 `5...`（SS58） | Polkadot, Kusama       | Substrate 框架 |
+  <br/>
+  | **Sui**       | `0x` + 64位十六进制      | Sui                    | 和 EVM 的 `0x` 看起来像，但长度不同（64位） |
+  <br/>
+  | **Aptos**     | `0x` + 64位十六进制      | Aptos                  | 和 Sui 类似 |
+  <br/>
+  | **Cardano**   | `addr1...`（Bech32）     | Cardano                | 比较独特 |
+  <br/>
+  | **Ripple**    | `r...`                   | XRP                    | 老牌链 |
+  <br/>
+  <br/>
+  ### 总结（实用分类）
+  <br/>
+  <br/>
+  | 地址类型     | 代表链                  | 是否和 ETH 地址一样 | 常用钱包          | 备注 |
+  <br/>
+  |--------------|-------------------------|---------------------|-------------------|------|
+  <br/>
+  | **EVM**      | ETH + 几乎所有 L2 + BSC | 是                  | MetaMask          | 最推荐新手先熟悉 |
+  <br/>
+  | **Solana**   | SOL                     | 否                  | Phantom           | 速度快、手续费低 |
+  <br/>
+  | **Bitcoin**  | BTC                     | 否                  | Electrum / Sparrow| 价值存储为主 |
+  <br/>
+  | **Tron**     | TRON                    | 否                  | TronLink          | USDT 转账很便宜 |
+  <br/>
+  | **其他**     | TON / Cosmos / Sui 等   | 基本否              | 对应专用钱包      | 按需使用 |
+  <br/>
+  <br/>
+  ---
+  <br/>
+  <br/>
+  **给你建议**：
+  <br/>
+  - 大部分人日常用 **EVM 类型** 就够了（ETH L2 + BSC）。
+  <br/>
+  - 想玩 meme 币或低费用 → 加 **Solana**。
+  <br/>
+  - 想存大价值 → **Bitcoin**。
+  <br/>
+  <br/>
+  你现在主要在玩哪几条链？或者想重点了解哪一类的地址/私钥规则？我可以再给你细讲。
+  <!-- If there's a quoted tweet, embed it here!-->
+  <script>
+  console.log("User ID: ", "1620506107306479617; author ID:","1620506107306479617");
+  </script>
+  <!-- we want to get data.includes.tweets.entities[].urls-->
+  <!-- THIS IS FAILING for http://localhost:5000/web/20240605034627/https://twitter.com/panguqianxun/status/1798199680322396424 -->
+  <div class="embedded-tweet-container">
+  <div class="tweet-author">
+  <div class="tweet-author-profile-image">
+    <img alt="☯️🧬霊狐製作所 公式ツイッター" src="../avatar/avatar_2058699765781798912.jpg"/>
+  </div>
+  <div class="tweet-author-info">
+    <div class="tweet-author-name">
+    ☯️🧬霊狐製作所 公式ツイッター
+    </div>
+    <div class="tweet-author-username">
+    @Cheese_Ghostfox
+    </div>
+  </div>
+  </div>
+  <div class="tweet-content">
+  @LolingVerse 狐没得ETH链资产喵(难视)
+  <br/>
+  建议给个BSC链地址
+  </div>
+  <p class="date">
+  <a href="https://web.archive.org/web/20260709142247/https://twitter.com/Cheese_Ghostfox/status/2075222190660915368" id="qt2075222190660915368">
+  </a>
+  </p>
+  <script>
+  var dateString = "2026-07-09T14:15:00.000Z";
+				var date = new Date(dateString);
+				document.getElementById("qt2075222190660915368").innerText = date;
+  </script>
+  </div>
+  <p class="date">
+  <a href="/" id="parentdate">
+  </a>
+  </p>
+  </div>
+</div>
+</div>
+<script>
+var dateString = "2026-07-09T14:22:47.000Z";
+  var date = new Date(dateString);
+  var currentURL = window.location.href;
+  document.querySelector("#parentdate").innerText = date;
+  document.querySelector("#parentdate").href = currentURL;
+</script>
+</body>
+</html>

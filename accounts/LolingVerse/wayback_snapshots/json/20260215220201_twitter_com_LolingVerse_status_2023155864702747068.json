@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2023155864702747068",
+    "created_at": "2026-02-15T22:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T23:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023155864702747068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liteclips/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/liteclips/status/2022916856546529466",
+          "start": 12,
+          "url": "https://t.co/nAE2Bagb68"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023155864702747068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022916856546529466",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实可以直接写的awa https://t.co/nAE2Bagb68"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15229,
+        "height": 1280,
+        "media_key": "13_2022916784723234819",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022916784723234819/img/Z0_mcjm3trEpJ-97.jpg",
+        "public_metrics": {
+          "view_count": 64679
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022916784723234819/vid/avc1/320x568/D6Xpdlqp_s_4JmYP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022916784723234819/vid/avc1/480x852/BcUYnsURFoycxY1d.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022916784723234819/vid/avc1/720x1280/SXL9O3qQEjsxDgRV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022916784723234819/pl/ZYiPLUnCan4W4h-x.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2023155864702747068",
+        "created_at": "2026-02-15T22:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T23:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023155864702747068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liteclips/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/liteclips/status/2022916856546529466",
+              "start": 12,
+              "url": "https://t.co/nAE2Bagb68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023155864702747068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022916856546529466",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实可以直接写的awa https://t.co/nAE2Bagb68"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022916784723234819"
+          ]
+        },
+        "author_id": "23244671",
+        "conversation_id": "2022916856546529466",
+        "created_at": "2026-02-15T06:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T07:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022916856546529466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hfq4Podk3N",
+              "end": 27,
+              "expanded_url": "https://x.com/liteclips/status/2022916856546529466/video/1",
+              "media_key": "13_2022916784723234819",
+              "start": 4,
+              "url": "https://t.co/hfq4Podk3N"
+            },
+            {
+              "display_url": "x.com/SatisfyEase/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/SatisfyEase/status/2022822152617984182",
+              "start": 28,
+              "url": "https://t.co/NS96LZBMuP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022916856546529466",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 337560,
+          "like_count": 454,
+          "quote_count": 3,
+          "reply_count": 300,
+          "retweet_count": 210
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022822152617984182",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Wow https://t.co/hfq4Podk3N https://t.co/NS96LZBMuP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | 另一只猫猫 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 52,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Hydrogen.洛铃🔶Magic Caster",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 107,
+          "like_count": 8493,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 2418
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-07T22:48:53.000Z",
+        "description": "discussing interesting, funny, exciting and useful videos",
+        "id": "23244671",
+        "location": "Indonesia",
+        "name": "Liteclips",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962354575123562496/vtvWC96r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7438,
+          "following_count": 801,
+          "like_count": 26203,
+          "listed_count": 15,
+          "media_count": 870,
+          "tweet_count": 44593
+        },
+        "username": "liteclips",
+        "verified": true
+      }
+    ]
+  }
+}

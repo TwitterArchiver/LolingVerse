@@ -1,0 +1,599 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "description": "Rockstar Games",
+          "id": "991743180566478848",
+          "name": "Rockstar Games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rockstar Games",
+          "id": "991743180566478848",
+          "name": "Rockstar Games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      }
+    ],
+    "conversation_id": "2007302517831635285",
+    "created_at": "2026-01-04T06:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T07:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007697546362442173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2500321393",
+          "start": 0,
+          "username": "ElectronixPurge"
+        },
+        {
+          "end": 25,
+          "id": "1552918719440924672",
+          "start": 17,
+          "username": "sprLumi"
+        },
+        {
+          "end": 40,
+          "id": "29758446",
+          "start": 26,
+          "username": "RockstarGames"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007697546362442173",
+    "in_reply_to_user_id": "2500321393",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007499968408629418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ElectronixPurge @sprLumi @RockstarGames www"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1153,
+        "media_key": "3_2007499946874781697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9wSkMQWQAEZSzG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Rockstar Games",
+              "id": "991743180566478848",
+              "name": "Rockstar Games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rockstar Games",
+              "id": "991743180566478848",
+              "name": "Rockstar Games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "2007302517831635285",
+        "created_at": "2026-01-04T06:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T07:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007697546362442173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2500321393",
+              "start": 0,
+              "username": "ElectronixPurge"
+            },
+            {
+              "end": 25,
+              "id": "1552918719440924672",
+              "start": 17,
+              "username": "sprLumi"
+            },
+            {
+              "end": 40,
+              "id": "29758446",
+              "start": 26,
+              "username": "RockstarGames"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007697546362442173",
+        "in_reply_to_user_id": "2500321393",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007499968408629418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElectronixPurge @sprLumi @RockstarGames www"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007499946874781697"
+          ]
+        },
+        "author_id": "2500321393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Rockstar Games",
+              "id": "991743180566478848",
+              "name": "Rockstar Games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rockstar Games",
+              "id": "991743180566478848",
+              "name": "Rockstar Games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "New York City Police Department",
+              "id": "854851734442721280",
+              "name": "New York City Police Department"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "New York City Police Department",
+              "id": "854851734442721280",
+              "name": "New York City Police Department"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Law Enforcement",
+              "id": "1095368797517533184",
+              "name": "Law Enforcement"
+            }
+          }
+        ],
+        "conversation_id": "2007302517831635285",
+        "created_at": "2026-01-03T17:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T18:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007499968408629418"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 94,
+              "normalized_text": "NYPD",
+              "probability": 0.9684,
+              "start": 91,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "sprLumi"
+            },
+            {
+              "end": 23,
+              "id": "29758446",
+              "start": 9,
+              "username": "RockstarGames"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Kf9nbVbn4",
+              "end": 179,
+              "expanded_url": "https://x.com/ElectronixPurge/status/2007499968408629418/photo/1",
+              "media_key": "3_2007499946874781697",
+              "start": 156,
+              "url": "https://t.co/7Kf9nbVbn4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007499968408629418",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 233,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007499326139052233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sprLumi @RockstarGames Yea its been surprising how well received the cars been. I thought NYPD would hate it when i went for photos but they all loved it. https://t.co/7Kf9nbVbn4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153/48 | 没诗硬吟  | Fox | 另一只猫猫 @YekaseSuiso2022\n\n走过路过不要错过，填写一下《无处方HRT与医疗指导下规范HRT对中国跨性别女性抑郁和自杀意念的调节效应》喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Suism.洛铃",
+        "pinned_tweet_id": "2006674484762443890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 88,
+          "like_count": 6094,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 2086
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2014-05-17T01:30:12.000Z",
+        "description": "Wolf living life to the fullest. Owner of the irl LCPD car and a couple taxis. Love NASCAR, IRacing, Emergency Lights, and alot more. 26 She/Her 🏳️‍⚧️ (Single)",
+        "id": "2500321393",
+        "location": "New Hampshire, USA",
+        "name": "Mellz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953689788000632833/w8M_Pkm8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2469,
+          "following_count": 1638,
+          "like_count": 160463,
+          "listed_count": 9,
+          "media_count": 3685,
+          "tweet_count": 17261
+        },
+        "username": "ElectronixPurge",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "💌 @hobartr6 🐱 @_furryfur_ 🕊️ @JR_YamanoteE235",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "hobartr6"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 45,
+                "start": 29,
+                "username": "JR_YamanoteE235"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "ʟᴜᴍɪ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007498105185619968/Tchc0xjC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3291,
+          "following_count": 894,
+          "like_count": 1510,
+          "listed_count": 6,
+          "media_count": 20,
+          "tweet_count": 176
+        },
+        "username": "sprLumi",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-08T16:47:30.000Z",
+        "description": "The official home of Rockstar Games on X",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rockstargames.com",
+                "end": 23,
+                "expanded_url": "http://www.rockstargames.com",
+                "start": 0,
+                "url": "https://t.co/cJS8YyBL3R"
+              }
+            ]
+          }
+        },
+        "id": "29758446",
+        "location": "NYC / Edinburgh / Bogota",
+        "name": "Rockstar Games",
+        "pinned_tweet_id": "1919746311382851812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1417471791845478403/MzAWCfK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20919027,
+          "following_count": 1434,
+          "like_count": 10512,
+          "listed_count": 19942,
+          "media_count": 5511,
+          "tweet_count": 18229
+        },
+        "url": "https://t.co/cJS8YyBL3R",
+        "username": "RockstarGames",
+        "verified": true
+      }
+    ]
+  }
+}

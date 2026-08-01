@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1979505585981935850",
+    "created_at": "2025-10-19T07:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T08:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979818697763307616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1892131744750731264",
+          "start": 0,
+          "username": "jiyouxue"
+        },
+        {
+          "end": 21,
+          "id": "1750684739441446912",
+          "start": 10,
+          "username": "wngy189327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979818697763307616",
+    "in_reply_to_user_id": "1892131744750731264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979783790408118593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiyouxue @wngy189327 0人在意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1979505585981935850",
+        "created_at": "2025-10-19T07:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T08:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979818697763307616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1892131744750731264",
+              "start": 0,
+              "username": "jiyouxue"
+            },
+            {
+              "end": 21,
+              "id": "1750684739441446912",
+              "start": 10,
+              "username": "wngy189327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979818697763307616",
+        "in_reply_to_user_id": "1892131744750731264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979783790408118593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiyouxue @wngy189327 0人在意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892131744750731264",
+        "conversation_id": "1979505585981935850",
+        "created_at": "2025-10-19T05:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T06:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979783790408118593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750684739441446912",
+              "start": 0,
+              "username": "wngy189327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979783790408118593",
+        "in_reply_to_user_id": "1750684739441446912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979505585981935850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngy189327 为什么不划自己呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "『可怜楼上月徘徊，应照离人妆镜台』\n『身世浮沉雨打萍……一山放出一山拦』\n可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TMO0"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 73,
+          "like_count": 2927,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1420
+        },
+        "url": "https://t.co/Dggtj9TMO0",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T08:39:07.000Z",
+        "description": "09年职高生/吃糖25年6月/喜欢和人聊天尼，就是自己不会说话尼。/不喜欢被抛弃尼。喜欢大家尼。小号@yingxue520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yingxue520"
+              }
+            ]
+          }
+        },
+        "id": "1892131744750731264",
+        "name": "莹雪",
+        "pinned_tweet_id": "1958502736867062238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892133644627582976/IOXX0fzC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 110,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 139
+        },
+        "username": "jiyouxue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T00:59:19.000Z",
+        "description": "一个翻车的法西斯\n130斤\n10年的mtf\n15岁的xyn\n有小证\nhrt🍥：2025年7月5日（正在断糖）\n已炸柜\n1000度近视\n本号不涉政，只更新日常 涉政见大号   @min_hong75899\n同类互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 87,
+                "username": "min_hong75899"
+              }
+            ]
+          }
+        },
+        "id": "1750684739441446912",
+        "name": "核弹 🍥",
+        "pinned_tweet_id": "1978423994836496388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970280968453050368/psYA8YL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 346,
+          "like_count": 5313,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 741
+        },
+        "username": "wngy189327",
+        "verified": false
+      }
+    ]
+  }
+}

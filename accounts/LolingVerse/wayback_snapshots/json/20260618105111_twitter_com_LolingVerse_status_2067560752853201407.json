@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2067271323030827403",
+    "created_at": "2026-06-18T10:51:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T11:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067560752853201407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1271512602145730560",
+          "start": 0,
+          "username": "Akino_QwQ"
+        },
+        {
+          "end": 23,
+          "id": "1953528457339834368",
+          "start": 11,
+          "username": "redraft2000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067560752853201407",
+    "in_reply_to_user_id": "1271512602145730560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067283252927430726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akino_QwQ @redraft2000 可爱awwwwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2067271323030827403",
+        "created_at": "2026-06-18T10:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067560752853201407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1271512602145730560",
+              "start": 0,
+              "username": "Akino_QwQ"
+            },
+            {
+              "end": 23,
+              "id": "1953528457339834368",
+              "start": 11,
+              "username": "redraft2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067560752853201407",
+        "in_reply_to_user_id": "1271512602145730560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067283252927430726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akino_QwQ @redraft2000 可爱awwwwww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271512602145730560",
+        "conversation_id": "2067271323030827403",
+        "created_at": "2026-06-17T16:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067283252927430726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1953528457339834368",
+              "start": 0,
+              "username": "redraft2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067283252927430726",
+        "in_reply_to_user_id": "1953528457339834368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067271323030827403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@redraft2000 亚甲基蓝！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZFvr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZFvr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster 和另外 114514 人",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 149,
+          "like_count": 22206,
+          "listed_count": 3,
+          "media_count": 285,
+          "tweet_count": 3879
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-12T18:40:10.000Z",
+        "description": "这里是银离子/银喵！🚪（？）/持证含？友跨顺猫/想变可爱/收破烂的/Maimai/摄影器材/想拍小姐姐/软件工程/一点网络工程/修电脑/二轮车/魔改硬件/SSD/医疗电子/拆机/LLer/火车迷/mc原版/化学已退坑/ADHD/想od/不键政!/对象(不混圈)/主人@HoshinoMako0131",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 133,
+                "username": "HoshinoMako0131"
+              }
+            ]
+          }
+        },
+        "id": "1271512602145730560",
+        "location": "华立科技展厅",
+        "name": "一定不是银喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011153409378754560/HMEgRHqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3321,
+          "following_count": 919,
+          "like_count": 17918,
+          "listed_count": 6,
+          "media_count": 647,
+          "tweet_count": 3765
+        },
+        "url": "",
+        "username": "Akino_QwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-07T18:47:53.000Z",
+        "description": "乘风好去，长空万里～",
+        "id": "1953528457339834368",
+        "name": "红筏🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968102545693528064/qrdJgaBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 120,
+          "like_count": 5835,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 2301
+        },
+        "url": "",
+        "username": "redraft2000",
+        "verified": false
+      }
+    ]
+  }
+}

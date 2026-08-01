@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2035349594532724736"
+      ],
+      "media_source_tweet_id": [
+        "2035349651138781322"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2035534244760748222",
+    "created_at": "2026-03-22T01:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T02:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035534244760748222"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "Drawing Frieren",
+          "probability": 0.883,
+          "start": 16,
+          "type": "Other"
+        },
+        {
+          "end": 45,
+          "normalized_text": "aratakun09",
+          "probability": 0.7209,
+          "start": 36,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3331362597",
+          "start": 3,
+          "username": "GifsAnime_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LtOerern2w",
+          "end": 71,
+          "expanded_url": "https://x.com/GifsAnime_/status/2035349651138781322/video/1",
+          "media_key": "13_2035349594532724736",
+          "start": 48,
+          "url": "https://t.co/LtOerern2w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035534244760748222",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 285
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035349651138781322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GifsAnime_: Drawing Frieren \nBy aratakun09. https://t.co/LtOerern2w"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18200,
+        "height": 1920,
+        "media_key": "13_2035349594532724736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035349594532724736/img/9KHdY4ftkmWe19Uu.jpg",
+        "public_metrics": {
+          "view_count": 143999
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035349594532724736/vid/avc1/1080x1920/t_Q9PMXb4IoZ-gjG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035349594532724736/vid/avc1/480x852/z_P5xxeHvt-3SRFE.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035349594532724736/vid/avc1/320x568/FaXKdH_xvNpd6eN6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035349594532724736/vid/avc1/720x1280/XmPyfF6OKJGvLmie.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035349594532724736/pl/oQc1fcnCNnUj0e8P.m3u8?v=f62"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035349594532724736"
+          ],
+          "media_source_tweet_id": [
+            "2035349651138781322"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2035534244760748222",
+        "created_at": "2026-03-22T01:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T02:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035534244760748222"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "Drawing Frieren",
+              "probability": 0.883,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 45,
+              "normalized_text": "aratakun09",
+              "probability": 0.7209,
+              "start": 36,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3331362597",
+              "start": 3,
+              "username": "GifsAnime_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LtOerern2w",
+              "end": 71,
+              "expanded_url": "https://x.com/GifsAnime_/status/2035349651138781322/video/1",
+              "media_key": "13_2035349594532724736",
+              "start": 48,
+              "url": "https://t.co/LtOerern2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035534244760748222",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 285
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035349651138781322",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GifsAnime_: Drawing Frieren \nBy aratakun09. https://t.co/LtOerern2w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035349594532724736"
+          ]
+        },
+        "author_id": "3331362597",
+        "conversation_id": "2035349651138781322",
+        "created_at": "2026-03-21T13:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T14:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035349651138781322"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "Frieren",
+              "probability": 0.5935,
+              "start": 8,
+              "type": "Other"
+            },
+            {
+              "end": 29,
+              "normalized_text": "aratakun09",
+              "probability": 0.7178,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LtOerern2w",
+              "end": 55,
+              "expanded_url": "https://x.com/GifsAnime_/status/2035349651138781322/video/1",
+              "media_key": "13_2035349594532724736",
+              "start": 32,
+              "url": "https://t.co/LtOerern2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035349651138781322",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 918,
+          "impression_count": 320255,
+          "like_count": 4093,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 285
+        },
+        "reply_settings": "everyone",
+        "text": "Drawing Frieren \nBy aratakun09. https://t.co/LtOerern2w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🍥Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 120,
+          "like_count": 11988,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 2805
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2015-06-17T15:13:11.000Z",
+        "description": "🇯🇵🏯 𝕏 Anime page about japanese culture🎏 and animation. Featured Gifs,videos,pictures,fan art,studio ghibli,culture threads,old school everyday. DM open ✍️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/gifsanime",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/gifsanime",
+                "start": 0,
+                "url": "https://t.co/sVatrtTfAD"
+              }
+            ]
+          }
+        },
+        "id": "3331362597",
+        "location": "France",
+        "name": "Anime Pics & Gifs ツ",
+        "pinned_tweet_id": "1589746589266227201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/659338631744761856/kksklplx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376688,
+          "following_count": 333,
+          "like_count": 176632,
+          "listed_count": 902,
+          "media_count": 70171,
+          "tweet_count": 78584
+        },
+        "url": "https://t.co/sVatrtTfAD",
+        "username": "GifsAnime_",
+        "verified": true
+      }
+    ]
+  }
+}

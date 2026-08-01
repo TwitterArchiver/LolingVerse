@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1979742875392028892",
+    "created_at": "2025-10-19T15:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T16:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979931343472734621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2842549538",
+          "start": 0,
+          "username": "Reflectier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979931343472734621",
+    "in_reply_to_user_id": "2842549538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979742875392028892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Reflectier 并没有，滤过的牛血并没有被丢弃哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1979742875392028892",
+        "created_at": "2025-10-19T15:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T16:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979931343472734621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2842549538",
+              "start": 0,
+              "username": "Reflectier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979931343472734621",
+        "in_reply_to_user_id": "2842549538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979742875392028892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reflectier 并没有，滤过的牛血并没有被丢弃哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2842549538",
+        "conversation_id": "1979742875392028892",
+        "created_at": "2025-10-19T02:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T03:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979742875392028892"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979742875392028892",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 845,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来生成一升牛奶需要450升牛血。牛牛好伟大🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "『可怜楼上月徘徊，应照离人妆镜台』\n『身世浮沉雨打萍……一山放出一山拦』\n可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TMO0"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 73,
+          "like_count": 2954,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1428
+        },
+        "url": "https://t.co/Dggtj9TMO0",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-06T17:18:11.000Z",
+        "description": "夜撫でるネコたち",
+        "id": "2842549538",
+        "location": "Victoria, Australia",
+        "name": "森絵",
+        "pinned_tweet_id": "1932021028630471065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846808286911516675/P3TRVVwb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 530,
+          "like_count": 22412,
+          "listed_count": 8,
+          "media_count": 836,
+          "tweet_count": 15121
+        },
+        "username": "Reflectier",
+        "verified": false
+      }
+    ]
+  }
+}

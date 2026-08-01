@@ -1,0 +1,749 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10043872889",
+          "name": "Hunter X Hunter"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "冨樫義博",
+          "id": "1529858663745171457",
+          "name": "Yoshihiro Togashi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1268927285739941888",
+          "name": "Hunter × Hunter"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1268927285739941888",
+          "name": "Hunter × Hunter"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1307033574760001536",
+          "name": "Famous mangaka"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "冨樫義博",
+          "id": "1529858663745171457",
+          "name": "Yoshihiro Togashi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585782431914676224",
+          "name": "Adventure"
+        }
+      }
+    ],
+    "conversation_id": "2070383977727402473",
+    "created_at": "2026-06-26T05:49:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T06:49:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070383977727402473"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/watch_UNEXT_A/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/watch_UNEXT_A/status/2050051331738743025",
+          "start": 13,
+          "url": "https://t.co/e5nYXSlG0K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070383977727402473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050051331738743025",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "忘记了好多……也许会想要 https://t.co/e5nYXSlG0K"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10043872889",
+              "name": "Hunter X Hunter"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "冨樫義博",
+              "id": "1529858663745171457",
+              "name": "Yoshihiro Togashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1268927285739941888",
+              "name": "Hunter × Hunter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1268927285739941888",
+              "name": "Hunter × Hunter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1307033574760001536",
+              "name": "Famous mangaka"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "冨樫義博",
+              "id": "1529858663745171457",
+              "name": "Yoshihiro Togashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585782431914676224",
+              "name": "Adventure"
+            }
+          }
+        ],
+        "conversation_id": "2070383977727402473",
+        "created_at": "2026-06-26T05:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070383977727402473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/watch_UNEXT_A/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/watch_UNEXT_A/status/2050051331738743025",
+              "start": 13,
+              "url": "https://t.co/e5nYXSlG0K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070383977727402473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050051331738743025",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "忘记了好多……也许会想要 https://t.co/e5nYXSlG0K"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "788637003084595200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10043872889",
+              "name": "Hunter X Hunter"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "冨樫義博",
+              "id": "1529858663745171457",
+              "name": "Yoshihiro Togashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1163896080813006848",
+              "name": "U-NEXT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1268927285739941888",
+              "name": "Hunter × Hunter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1163896080813006848",
+              "name": "U-NEXT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1268927285739941888",
+              "name": "Hunter × Hunter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1307033574760001536",
+              "name": "Famous mangaka"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "冨樫義博",
+              "id": "1529858663745171457",
+              "name": "Yoshihiro Togashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585782431914676224",
+              "name": "Adventure"
+            }
+          }
+        ],
+        "conversation_id": "2050051331738743025",
+        "created_at": "2026-05-01T03:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T04:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050051331738743025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 126,
+              "id": "423954006",
+              "start": 113,
+              "username": "hunter_anime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050051331738743025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 339,
+          "impression_count": 19896352,
+          "like_count": 5883,
+          "quote_count": 77,
+          "reply_count": 8,
+          "retweet_count": 266
+        },
+        "reply_settings": "everyone",
+        "text": "◤￣￣￣￣￣￣￣￣￣￣￣￣￣￣◥\nTVアニメ『HUNTER×HUNTER』\n    U-NEXTで大好評・配信中！\n◣＿＿＿＿＿＿＿＿＿＿＿＿＿＿◢\n\nゴンの奇想天外、壮大苛烈な冒険の旅が、今始まる!!\nいざ、壮大な冒険へ！\n@hunter_anime"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 155,
+          "like_count": 23167,
+          "listed_count": 3,
+          "media_count": 309,
+          "tweet_count": 4129
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2016-10-19T07:04:48.000Z",
+        "description": "U-NEXTアニメ部が配信情報をお届け︎︎🌸#春アニメ #日本三國/#黄泉のツガイ/『#転生したらスライムだった件』第4期/#マリッジトキシン/#リゼロ/#クジマ歌えば家ほろろ 他、4月より続々配信！ 総合アカウント→@watch_UNEXT\nお問い合わせ→https://t.co/7m4IT8nGxS",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 22,
+                "tag": "春アニメ"
+              },
+              {
+                "end": 33,
+                "start": 28,
+                "tag": "日本三國"
+              },
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "黄泉のツガイ"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "tag": "転生したらスライムだった件"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "tag": "マリッジトキシン"
+              },
+              {
+                "end": 76,
+                "start": 72,
+                "tag": "リゼロ"
+              },
+              {
+                "end": 88,
+                "start": 77,
+                "tag": "クジマ歌えば家ほろろ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "watch_UNEXT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "help.unext.jp",
+                "end": 152,
+                "expanded_url": "http://help.unext.jp",
+                "start": 129,
+                "url": "https://t.co/7m4IT8nGxS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "video.unext.jp/genre/anime",
+                "end": 23,
+                "expanded_url": "https://video.unext.jp/genre/anime",
+                "start": 0,
+                "url": "https://t.co/tNi8oKxAcD"
+              }
+            ]
+          }
+        },
+        "id": "788637003084595200",
+        "location": "東京 品川区",
+        "name": "U-NEXTアニメ・マンガ＠公式",
+        "pinned_tweet_id": "2067925360180662431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1377938646045655043/DYjZ3noS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229063,
+          "following_count": 2321,
+          "like_count": 1434,
+          "listed_count": 561,
+          "media_count": 56960,
+          "tweet_count": 183970
+        },
+        "url": "https://t.co/tNi8oKxAcD",
+        "username": "watch_UNEXT_A",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      }
+    ],
+    "conversation_id": "1986873725053227200",
+    "created_at": "2025-11-07T19:09:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T20:09:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986873725053227200"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/manateelazycat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/manateelazycat/status/1986638664714363004",
+          "start": 11,
+          "url": "https://t.co/0CsXGul6s9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986873725053227200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986638664714363004",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还是最后一点比较务实 https://t.co/0CsXGul6s9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_1986638402713001985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5H1GgLboAEkblu.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "1986873725053227200",
+        "created_at": "2025-11-07T19:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T20:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986873725053227200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/manateelazycat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/manateelazycat/status/1986638664714363004",
+              "start": 11,
+              "url": "https://t.co/0CsXGul6s9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986873725053227200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986638664714363004",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还是最后一点比较务实 https://t.co/0CsXGul6s9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986638402713001985"
+          ]
+        },
+        "author_id": "28530405",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "1986638664714363004",
+        "created_at": "2025-11-07T03:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T04:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986638664714363004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZQiTU57wnf",
+              "end": 158,
+              "expanded_url": "https://x.com/manateelazycat/status/1986638664714363004/photo/1",
+              "media_key": "3_1986638402713001985",
+              "start": 135,
+              "url": "https://t.co/ZQiTU57wnf"
+            },
+            {
+              "display_url": "x.com/himself_65/sta…",
+              "end": 182,
+              "expanded_url": "https://twitter.com/himself_65/status/1986478378774634539",
+              "start": 159,
+              "url": "https://t.co/3oR7Pife9F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986638664714363004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "AI对初级前端人员的摧毁是很大的，AI的前端代码生成速度快，而且代码规整还带文档\n\n前端开发要花更多时间去超越AI的初级能力才能找到工作\n\n我对前端人员的建议：\n\n1. 把CSS/SVG的基础打好：AI擅长做组件，但是复杂布局的样式冲突和精巧的动画还是不如人类\n\n2. 学学架构设计：AI的代码能工作，但是废代码也很多，架构能力强了，能更好的驾驭复杂软件，真正商业软件都是复杂的，而不是AI生成的那些Demo\n\n3. 多运动：你多运动就会开朗很多，这样沟通能力就增强了，AI再强了，他也不能去和普通人沟通需求\n\nAI来了是新人杀手，也是机会，就看怎么转变了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 88318,
+          "like_count": 167,
+          "quote_count": 8,
+          "reply_count": 29,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986478378774634539",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "AI对初级前端人员的摧毁是很大的，AI的前端代码生成速度快，而且代码规整还带文档\n\n前端开发要花更多时间去超越AI的初级能力才能找到工作\n\n我对前端人员的建议：\n\n1. 把CSS/SVG的基础打好：AI擅长做组件，但是复杂布局的样式冲突和精巧的动画还是不如人类\n\n2. https://t.co/ZQiTU57wnf https://t.co/3oR7Pife9F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n155/47 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TeYs"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 正在贴贴",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 76,
+          "like_count": 3579,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 1606
+        },
+        "url": "https://t.co/Dggtj9TeYs",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-03T09:01:38.000Z",
+        "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lazycat.cloud",
+                "end": 64,
+                "expanded_url": "https://lazycat.cloud/",
+                "start": 41,
+                "url": "https://t.co/KVqgWHDvJj"
+              },
+              {
+                "display_url": "x.com/manateelazycat…",
+                "end": 98,
+                "expanded_url": "https://x.com/manateelazycat/status/1970815014861930775",
+                "start": 75,
+                "url": "https://t.co/SF9p24BuTk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manateelazycat.github.io",
+                "end": 23,
+                "expanded_url": "https://manateelazycat.github.io",
+                "start": 0,
+                "url": "https://t.co/twDx1twu9o"
+              }
+            ]
+          }
+        },
+        "id": "28530405",
+        "location": "China",
+        "name": "Andy Stewart",
+        "pinned_tweet_id": "1968998079623041134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42886,
+          "following_count": 227,
+          "like_count": 14256,
+          "listed_count": 298,
+          "media_count": 3332,
+          "tweet_count": 27651
+        },
+        "url": "https://t.co/twDx1twu9o",
+        "username": "manateelazycat",
+        "verified": true
+      }
+    ]
+  }
+}

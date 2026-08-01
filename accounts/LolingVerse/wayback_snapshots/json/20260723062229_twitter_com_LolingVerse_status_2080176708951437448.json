@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Cybersecurity",
+          "id": "898650876658634752",
+          "name": "Cybersecurity"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cybersecurity",
+          "id": "898650876658634752",
+          "name": "Cybersecurity"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Information Security",
+          "id": "1047123725525479425",
+          "name": "Information security"
+        }
+      }
+    ],
+    "conversation_id": "2080176708951437448",
+    "created_at": "2026-07-23T06:22:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T07:22:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080176708951437448"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 208,
+          "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2080152145815572700",
+          "start": 185,
+          "url": "https://t.co/YTD3etBod5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080176708951437448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "### DNSSEC 到底防什么\nDNSSEC（DNS Security Extensions）通过数字签名给 DNS 记录加上“防伪标签”。  \n它保证的是：**你拿到的 A/AAAA 记录确实是域名所有者签过名的，中途没被篡改**。\n\n所以针对**运营商 DNS 劫持**（运营商递归解析器直接返回假 IP）：\n\n| 场景 | DNSSEC 是否有效 | 说明 |\n|------|----------------|------|\n| 域名**已启用 DNSSEC** + 客户端**本地验证** | ✅ 有效 | 假响应没有合法签名，会被直接拒绝 |\n| 域名已启用 DNSSEC + 只信任运营商递归解析器 | ❌ 基本无效 | 运营商可以返回“无签名”的假记录，客户端照单全收 |\n| 域名**没启用 DNSSEC** | ❌ 完全无效 | 没有签名可验证 |\n| 运营商做的是 HTTP/HTTPS 层劫持或 IP 路由劫持 | ❌ 无效 | DNSSEC 只管 DNS，不管后面 |\n\n### 实际要生效需要满足两点\n1. **域名本身必须签了 DNSSEC**（在注册商那里开启，并正确配置 DS 记录）。  \n   很多个人/家宽自建站根本没开。\n2. **客户端必须自己做验证**，而不是把信任全部交给运营商的 DNS。  \n   - Windows：需要额外配置（或用 Unbound、Acrylic 等本地验证器）  \n   - Linux/macOS：systemd-resolved、Unbound 等可以开 `DNSSEC=yes`  \n   - 浏览器/系统默认行为大多是“信任递归解析器”，不会严格本地验证\n\n### 更实用的防护组合（推荐）\n光靠 DNSSEC 在国内运营商环境下经常不够，建议叠加：\n\n- **用加密 DNS（DoH/DoT）指向可信解析器**  \n  Cloudflare 1.1.1.1、Google 8.8.8.8、Quad9、阿里 DoH 等。  \n  这些解析器会自己做 DNSSEC 验证，而且查询内容运营商看不到、也改不了。\n- 客户端开启本地 DNSSEC 验证（如果用自建 Unbound 等）。\n- 重要站点尽量用 HTTPS + HSTS，即使 DNS 被骗，证书也会对不上（但诈骗站现在也会上假证书，只能降低成功率）。\n\n### 总结\nDNSSEC **理论上可以防运营商 DNS 劫持**，前提是域名签了名 + 客户端验证。  \n现实中大部分家宽自建站和普通用户都不满足这两个条件，所以单独开 DNSSEC 作用有限。  \n真正有效的是：**加密 DNS（DoH/DoT）+ 可信解析器**，DNSSEC 作为额外一层完整性保护会更好。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080152145815572700",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "### DNSSEC 到底防什么\nDNSSEC（DNS Security Extensions）通过数字签名给 DNS 记录加上“防伪标签”。  \n它保证的是：**你拿到的 A/AAAA 记录确实是域名所有者签过名的，中途没被篡改**。\n\n所以针对**运营商 DNS 劫持**（运营商递归解析器直接返回假 IP）：\n\n| 场景 | DNSSEC 是否有效 | 说明 | https://t.co/YTD3etBod5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 237,
+        "media_key": "3_2080150657655615488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4uAITbsAA_Atz.png",
+        "width": 1374
+      },
+      {
+        "height": 1238,
+        "media_key": "3_2080150662751674368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4uAbSbYAAvnC7.jpg",
+        "width": 2579
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          }
+        ],
+        "conversation_id": "2080176708951437448",
+        "created_at": "2026-07-23T06:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080176708951437448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 208,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2080152145815572700",
+              "start": 185,
+              "url": "https://t.co/YTD3etBod5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080176708951437448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "### DNSSEC 到底防什么\nDNSSEC（DNS Security Extensions）通过数字签名给 DNS 记录加上“防伪标签”。  \n它保证的是：**你拿到的 A/AAAA 记录确实是域名所有者签过名的，中途没被篡改**。\n\n所以针对**运营商 DNS 劫持**（运营商递归解析器直接返回假 IP）：\n\n| 场景 | DNSSEC 是否有效 | 说明 |\n|------|----------------|------|\n| 域名**已启用 DNSSEC** + 客户端**本地验证** | ✅ 有效 | 假响应没有合法签名，会被直接拒绝 |\n| 域名已启用 DNSSEC + 只信任运营商递归解析器 | ❌ 基本无效 | 运营商可以返回“无签名”的假记录，客户端照单全收 |\n| 域名**没启用 DNSSEC** | ❌ 完全无效 | 没有签名可验证 |\n| 运营商做的是 HTTP/HTTPS 层劫持或 IP 路由劫持 | ❌ 无效 | DNSSEC 只管 DNS，不管后面 |\n\n### 实际要生效需要满足两点\n1. **域名本身必须签了 DNSSEC**（在注册商那里开启，并正确配置 DS 记录）。  \n   很多个人/家宽自建站根本没开。\n2. **客户端必须自己做验证**，而不是把信任全部交给运营商的 DNS。  \n   - Windows：需要额外配置（或用 Unbound、Acrylic 等本地验证器）  \n   - Linux/macOS：systemd-resolved、Unbound 等可以开 `DNSSEC=yes`  \n   - 浏览器/系统默认行为大多是“信任递归解析器”，不会严格本地验证\n\n### 更实用的防护组合（推荐）\n光靠 DNSSEC 在国内运营商环境下经常不够，建议叠加：\n\n- **用加密 DNS（DoH/DoT）指向可信解析器**  \n  Cloudflare 1.1.1.1、Google 8.8.8.8、Quad9、阿里 DoH 等。  \n  这些解析器会自己做 DNSSEC 验证，而且查询内容运营商看不到、也改不了。\n- 客户端开启本地 DNSSEC 验证（如果用自建 Unbound 等）。\n- 重要站点尽量用 HTTPS + HSTS，即使 DNS 被骗，证书也会对不上（但诈骗站现在也会上假证书，只能降低成功率）。\n\n### 总结\nDNSSEC **理论上可以防运营商 DNS 劫持**，前提是域名签了名 + 客户端验证。  \n现实中大部分家宽自建站和普通用户都不满足这两个条件，所以单独开 DNSSEC 作用有限。  \n真正有效的是：**加密 DNS（DoH/DoT）+ 可信解析器**，DNSSEC 作为额外一层完整性保护会更好。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080152145815572700",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "### DNSSEC 到底防什么\nDNSSEC（DNS Security Extensions）通过数字签名给 DNS 记录加上“防伪标签”。  \n它保证的是：**你拿到的 A/AAAA 记录确实是域名所有者签过名的，中途没被篡改**。\n\n所以针对**运营商 DNS 劫持**（运营商递归解析器直接返回假 IP）：\n\n| 场景 | DNSSEC 是否有效 | 说明 | https://t.co/YTD3etBod5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080150657655615488",
+            "3_2080150662751674368"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2080152145815572700",
+        "created_at": "2026-07-23T04:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080152145815572700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IRtejtuasr",
+              "end": 51,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2080152145815572700/photo/1",
+              "media_key": "3_2080150657655615488",
+              "start": 28,
+              "url": "https://t.co/IRtejtuasr"
+            },
+            {
+              "display_url": "pic.x.com/IRtejtuasr",
+              "end": 51,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2080152145815572700/photo/1",
+              "media_key": "3_2080150662751674368",
+              "start": 28,
+              "url": "https://t.co/IRtejtuasr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080152145815572700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1622,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难绷运营商dns把我朋友家宽建的站劫持到神必诈骗网站了 https://t.co/IRtejtuasr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 164,
+          "like_count": 25964,
+          "listed_count": 4,
+          "media_count": 370,
+          "tweet_count": 4736
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 779,
+          "like_count": 9071,
+          "listed_count": 1,
+          "media_count": 410,
+          "tweet_count": 1796
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

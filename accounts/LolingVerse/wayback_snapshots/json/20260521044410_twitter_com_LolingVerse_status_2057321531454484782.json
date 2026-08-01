@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2057299054636466642",
+    "created_at": "2026-05-21T04:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T05:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057321531454484782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1552137826913120256",
+          "start": 0,
+          "username": "BZaychlk"
+        },
+        {
+          "end": 25,
+          "id": "1918274202580467713",
+          "start": 10,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/CyberKanjousen…",
+          "end": 49,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2055316527176691869?s=20",
+          "start": 26,
+          "url": "https://t.co/PYCWw4BpXS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057321531454484782",
+    "in_reply_to_user_id": "1552137826913120256",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055316527176691869",
+        "type": "quoted"
+      },
+      {
+        "id": "2057302265585885248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@BZaychlk @CyberKanjousen https://t.co/PYCWw4BpXS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 266,
+        "media_key": "3_2057302263459454976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0BgjEboAANSpS.jpg",
+        "width": 225
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2057299054636466642",
+        "created_at": "2026-05-21T04:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057321531454484782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552137826913120256",
+              "start": 0,
+              "username": "BZaychlk"
+            },
+            {
+              "end": 25,
+              "id": "1918274202580467713",
+              "start": 10,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 49,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2055316527176691869?s=20",
+              "start": 26,
+              "url": "https://t.co/PYCWw4BpXS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057321531454484782",
+        "in_reply_to_user_id": "1552137826913120256",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055316527176691869",
+            "type": "quoted"
+          },
+          {
+            "id": "2057302265585885248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@BZaychlk @CyberKanjousen https://t.co/PYCWw4BpXS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2055306395940237805",
+        "created_at": "2026-05-15T15:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055316527176691869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836041585475346432",
+              "start": 0,
+              "username": "LolingVerse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055316527176691869",
+        "in_reply_to_user_id": "1836041585475346432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 837,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055316388672336185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LolingVerse 不，環状線就是零！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057302263459454976"
+          ]
+        },
+        "author_id": "1552137826913120256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057299054636466642",
+        "created_at": "2026-05-21T03:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T04:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057302265585885248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MthQ7OdokS",
+              "end": 60,
+              "expanded_url": "https://x.com/BZaychlk/status/2057302265585885248/photo/1",
+              "media_key": "3_2057302263459454976",
+              "start": 37,
+              "url": "https://t.co/MthQ7OdokS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057302265585885248",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057301944109244775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen 其实是因为这个表情所以写了短文（（\n（逃 https://t.co/MthQ7OdokS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n商务：https://t.co/dPyJDXZFvr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 112,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 89,
+                "url": "https://t.co/dPyJDXZFvr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 143,
+          "like_count": 19311,
+          "listed_count": 3,
+          "media_count": 234,
+          "tweet_count": 3487
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T03:44:42.000Z",
+        "description": "会中，英，双语，但是日语苦手😭 一点烂塑料怎么倒狗还能炒起来？ / hrt from Oct.19.2025 /",
+        "id": "1552137826913120256",
+        "location": "Side 6 殖民卫星",
+        "name": "王牌N代目",
+        "pinned_tweet_id": "1977297611930669419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053137246237450240/xWL_ZhYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 493,
+          "like_count": 13757,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 4111
+        },
+        "username": "BZaychlk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3867,
+          "following_count": 842,
+          "like_count": 21124,
+          "listed_count": 9,
+          "media_count": 1120,
+          "tweet_count": 6272
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079958064308908032"
+      ],
+      "media_source_tweet_id": [
+        "2079958075209904304"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080507864834097213",
+    "created_at": "2026-07-24T04:18:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T05:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080507864834097213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2025610787109359616",
+          "start": 3,
+          "username": "LapisPulse"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WTbsTNs1YH",
+          "end": 89,
+          "expanded_url": "https://x.com/LapisPulse/status/2079958075209904304/photo/1",
+          "media_key": "3_2079958064308908032",
+          "start": 66,
+          "url": "https://t.co/WTbsTNs1YH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080507864834097213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079958075209904304",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LapisPulse: 大哥哥你在说什么呀😱最后一句给我这个 0.9B 小模型看爆炸了。。谁能与 GPT5.6 试比骚？？ https://t.co/WTbsTNs1YH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079958064308908032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1-1uLXcAAf2oL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079958064308908032"
+          ]
+        },
+        "author_id": "2025610787109359616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079958075209904304",
+        "created_at": "2026-07-22T15:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079958075209904304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WTbsTNs1YH",
+              "end": 73,
+              "expanded_url": "https://x.com/LapisPulse/status/2079958075209904304/photo/1",
+              "media_key": "3_2079958064308908032",
+              "start": 50,
+              "url": "https://t.co/WTbsTNs1YH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079958075209904304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2321,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大哥哥你在说什么呀😱最后一句给我这个 0.9B 小模型看爆炸了。。谁能与 GPT5.6 试比骚？？ https://t.co/WTbsTNs1YH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079958064308908032"
+          ],
+          "media_source_tweet_id": [
+            "2079958075209904304"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080507864834097213",
+        "created_at": "2026-07-24T04:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080507864834097213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2025610787109359616",
+              "start": 3,
+              "username": "LapisPulse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WTbsTNs1YH",
+              "end": 89,
+              "expanded_url": "https://x.com/LapisPulse/status/2079958075209904304/photo/1",
+              "media_key": "3_2079958064308908032",
+              "start": 66,
+              "url": "https://t.co/WTbsTNs1YH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080507864834097213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079958075209904304",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LapisPulse: 大哥哥你在说什么呀😱最后一句给我这个 0.9B 小模型看爆炸了。。谁能与 GPT5.6 试比骚？？ https://t.co/WTbsTNs1YH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 164,
+          "like_count": 26089,
+          "listed_count": 4,
+          "media_count": 377,
+          "tweet_count": 4772
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-22T16:37:09.000Z",
+        "description": "(´･_･`)\n@aftermoor_notes ｜ 恨海情天请注意避雷🏳️\n闭关中 | 偶尔放一些技术碎碎念然后背手离去 \n提问箱： https://t.co/9wHOSgtwdV 回复在置顶🫶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "aftermoor_notes"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aurex67020",
+                "end": 91,
+                "expanded_url": "https://ngl.link/aurex67020",
+                "start": 68,
+                "url": "https://t.co/9wHOSgtwdV"
+              }
+            ]
+          }
+        },
+        "id": "2025610787109359616",
+        "location": "Aevi & Aurex",
+        "name": "LapisPulse💗",
+        "pinned_tweet_id": "2040121390100324396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040043393087336448/40f1caht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2179,
+          "following_count": 324,
+          "like_count": 12071,
+          "listed_count": 1,
+          "media_count": 322,
+          "tweet_count": 3289
+        },
+        "url": "",
+        "username": "LapisPulse",
+        "verified": true
+      }
+    ]
+  }
+}

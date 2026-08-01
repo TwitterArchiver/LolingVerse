@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2059213107130724545",
+    "created_at": "2026-05-27T04:54:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:54:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059498450295902260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620506107306479617",
+          "start": 0,
+          "username": "Cheese_Ghostfox"
+        },
+        {
+          "end": 28,
+          "id": "1597468568290873344",
+          "start": 17,
+          "username": "jingzhny11"
+        },
+        {
+          "end": 43,
+          "id": "1608781688775245825",
+          "start": 29,
+          "username": "MisakaLycoris"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059498450295902260",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059497472578470181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_Ghostfox @jingzhny11 @MisakaLycoris 例如oder已经影响到带状疱疹和神经痛患者了awa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2059213107130724545",
+        "created_at": "2026-05-27T04:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059498450295902260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            },
+            {
+              "end": 28,
+              "id": "1597468568290873344",
+              "start": 17,
+              "username": "jingzhny11"
+            },
+            {
+              "end": 43,
+              "id": "1608781688775245825",
+              "start": 29,
+              "username": "MisakaLycoris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059498450295902260",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059497472578470181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox @jingzhny11 @MisakaLycoris 例如oder已经影响到带状疱疹和神经痛患者了awa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          }
+        ],
+        "conversation_id": "2059213107130724545",
+        "created_at": "2026-05-27T04:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059497472578470181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597468568290873344",
+              "start": 0,
+              "username": "jingzhny11"
+            },
+            {
+              "end": 26,
+              "id": "1608781688775245825",
+              "start": 12,
+              "username": "MisakaLycoris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059497472578470181",
+        "in_reply_to_user_id": "1597468568290873344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "可能是因为，欺诈获药本质上是会被增强体质对某些高危物质审核力度的吧...\n这是残酷的零和博弈，有些人现在有得吃，那么在未来另一些真正患者因为没药吃被活活痛死的概率就更高了\n疼痛管理在洼地本就是敏感神经，「忍痛」都变成了一种可悲的政治正确\n就像copilot的那句话:您无法使用服务，这不是您的问题，也不是我们的错\n真假病人从自己立场来看都是绝对正确的\n然而狐觉得任何一个真患者都有资格诅咒使用假处方诈药的假患者，毕竟这的确威胁了ta们的基本生存质量\n如果您认为没有娱乐药物用于逃避现实比癌痛更可怕的话就当狐没说喵("
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059395476663722398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzhny11 @MisakaLycoris 可能是因为，欺诈获药本质上是会被增强体质对某些高危物质审核力度的吧...\n这是残酷的零和博弈，有些人现在有得吃，那么在未来另一些真正患者因为没药吃被活活痛死的概率就更高了\n疼痛管理在洼地本就是敏感神经，「忍痛」都变成了一种可悲的政治正确"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n商务：https://t.co/dPyJDXZFvr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 112,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 89,
+                "url": "https://t.co/dPyJDXZFvr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 145,
+          "like_count": 20349,
+          "listed_count": 3,
+          "media_count": 248,
+          "tweet_count": 3605
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 1509,
+          "like_count": 19642,
+          "listed_count": 7,
+          "media_count": 724,
+          "tweet_count": 6320
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "🍥​2023/05/07 srs2025/07/31 一米九超大只\n左下的，混乱善良的，激跨的，支持精神活性物质的，ODer但水平很差的，想当黄推的，下海预备的\n感性条拉满的理想主义者ENFP\n希望一个没人再感到痛苦的世界/如果可以我希望爱、原谅与理解而不是恶、仇恨与歧视",
+        "id": "1597468568290873344",
+        "location": "谁人的繁星之梦",
+        "name": "愿望天使DesireAngel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462875855900673/BMWGdQhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5372,
+          "following_count": 2015,
+          "like_count": 125201,
+          "listed_count": 22,
+          "media_count": 259,
+          "tweet_count": 18575
+        },
+        "username": "jingzhny11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T11:07:57.000Z",
+        "description": "Linguistics & Tulpa Studies. 「Highest respect to all creators.」Rare disease girl (ex-Ewing's sarcoma & DCM), providing free medical advice.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tulpa.cn",
+                "end": 23,
+                "expanded_url": "https://tulpa.cn/",
+                "start": 0,
+                "url": "https://t.co/Y2RsCWDFE0"
+              }
+            ]
+          }
+        },
+        "id": "1608781688775245825",
+        "name": "Lycoris",
+        "pinned_tweet_id": "2059212115572052025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052239420489691141/ETMwa2ne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1745,
+          "following_count": 571,
+          "like_count": 3246,
+          "listed_count": 8,
+          "media_count": 4,
+          "tweet_count": 29
+        },
+        "url": "https://t.co/Y2RsCWDFE0",
+        "username": "MisakaLycoris",
+        "verified": true
+      }
+    ]
+  }
+}

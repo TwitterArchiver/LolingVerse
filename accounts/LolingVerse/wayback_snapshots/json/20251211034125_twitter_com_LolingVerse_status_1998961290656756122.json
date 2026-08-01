@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998868077367156736"
+      ],
+      "media_source_tweet_id": [
+        "1998868079833489413"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1998961290656756122",
+    "created_at": "2025-12-11T03:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T04:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998961290656756122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1713168711945949184",
+          "start": 3,
+          "username": "fruits_uma02"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zXDORpYSeb",
+          "end": 41,
+          "expanded_url": "https://x.com/fruits_uma02/status/1998868079833489413/photo/1",
+          "media_key": "3_1998868077367156736",
+          "start": 18,
+          "url": "https://t.co/zXDORpYSeb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998961290656756122",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998868079833489413",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fruits_uma02: https://t.co/zXDORpYSeb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1998961290656756122].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1998961290656756122",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1998961290656756122"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_1998868077367156736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G71n7QhWYAA7J9E.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998868077367156736"
+          ]
+        },
+        "author_id": "1713168711945949184",
+        "conversation_id": "1998868079833489413",
+        "created_at": "2025-12-10T21:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T22:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998868079833489413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zXDORpYSeb",
+              "end": 23,
+              "expanded_url": "https://x.com/fruits_uma02/status/1998868079833489413/photo/1",
+              "media_key": "3_1998868077367156736",
+              "start": 0,
+              "url": "https://t.co/zXDORpYSeb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998868079833489413",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 465,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zXDORpYSeb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153/48 | 没诗硬吟｜阴暗爬行  | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TMO0"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Lovely.洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 85,
+          "like_count": 4810,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 1838
+        },
+        "url": "https://t.co/Dggtj9TMO0",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-14T12:23:50.000Z",
+        "description": "【AIイラストで遊ぶ垢】フルーツ馬です/こちらは男性メイン垢です。※BL含みます。基本的にショタ好き。性癖に忠実です。苦手な方はご遠慮ください。　→@fruits_uma 女性メイン垢。無断転載禁止。個人利用のみ。*所持垢はこちらと↑のみです。日本語以外は翻訳頼み。サイズリクエストは対応無。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "fruits_uma"
+              }
+            ]
+          }
+        },
+        "id": "1713168711945949184",
+        "name": "ふるーつうま",
+        "pinned_tweet_id": "1851503193810997307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713172779724595200/ID8AT3gK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11764,
+          "following_count": 84,
+          "like_count": 5681,
+          "listed_count": 52,
+          "media_count": 3369,
+          "tweet_count": 4368
+        },
+        "username": "fruits_uma02",
+        "verified": false
+      }
+    ]
+  }
+}

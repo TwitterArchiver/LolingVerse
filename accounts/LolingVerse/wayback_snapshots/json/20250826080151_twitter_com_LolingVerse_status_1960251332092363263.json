@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959932811919728640"
+      ],
+      "media_source_tweet_id": [
+        "1959932875257610453"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1960251332092363263",
+    "created_at": "2025-08-26T08:01:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T09:01:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960251332092363263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "129744642",
+          "start": 3,
+          "username": "fuzichoco"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PD8cJxQUBb",
+          "end": 44,
+          "expanded_url": "https://x.com/fuzichoco/status/1959932875257610453/photo/1",
+          "media_key": "3_1959932811919728640",
+          "start": 21,
+          "url": "https://t.co/PD8cJxQUBb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960251332092363263",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2988
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959932875257610453",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fuzichoco: 狐の嫁入り https://t.co/PD8cJxQUBb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1700,
+        "media_key": "3_1959932811919728640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzMUgh4boAAXjp-.jpg",
+        "width": 1203
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959932811919728640"
+          ],
+          "media_source_tweet_id": [
+            "1959932875257610453"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1960251332092363263",
+        "created_at": "2025-08-26T08:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T09:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960251332092363263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "129744642",
+              "start": 3,
+              "username": "fuzichoco"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PD8cJxQUBb",
+              "end": 44,
+              "expanded_url": "https://x.com/fuzichoco/status/1959932875257610453/photo/1",
+              "media_key": "3_1959932811919728640",
+              "start": 21,
+              "url": "https://t.co/PD8cJxQUBb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960251332092363263",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2988
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959932875257610453",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fuzichoco: 狐の嫁入り https://t.co/PD8cJxQUBb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959932811919728640"
+          ]
+        },
+        "author_id": "129744642",
+        "conversation_id": "1959932875257610453",
+        "created_at": "2025-08-25T10:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T11:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959932875257610453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PD8cJxQUBb",
+              "end": 29,
+              "expanded_url": "https://x.com/fuzichoco/status/1959932875257610453/photo/1",
+              "media_key": "3_1959932811919728640",
+              "start": 6,
+              "url": "https://t.co/PD8cJxQUBb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959932875257610453",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1453,
+          "impression_count": 374592,
+          "like_count": 19956,
+          "quote_count": 20,
+          "reply_count": 47,
+          "retweet_count": 2988
+        },
+        "reply_settings": "everyone",
+        "text": "狐の嫁入り https://t.co/PD8cJxQUBb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "『可怜楼上月徘徊，应照离人妆镜台』\n『今朝剑指叠云处……一山放出一山拦』\n可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TMO0"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 69,
+          "like_count": 2232,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 1162
+        },
+        "url": "https://t.co/Dggtj9TMO0",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-05T08:04:05.000Z",
+        "description": "Illustrator■マジカルミライ2020／プロセカZOZOコラボ第2弾／根羽清ココロ／リゼ・ヘルエスタ／Omegaα／幽々ゆら／紡木こかげ／駿河(アズレン)／狐ヶ咲甘色(#コンパス)／鴉羽(プリマドール) \n■お問い合わせ→ fuzichoko@yahoo.co.jp (※現在ご依頼企業様のみ)■FA #藤色絵巻",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 93,
+                "start": 88,
+                "tag": "コンパス"
+              },
+              {
+                "end": 160,
+                "start": 155,
+                "tag": "藤色絵巻"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/fuzi…",
+                "end": 23,
+                "expanded_url": "https://xfolio.jp/portfolio/fuzichoco/free/2485",
+                "start": 0,
+                "url": "https://t.co/ydkDIhhc4h"
+              }
+            ]
+          }
+        },
+        "id": "129744642",
+        "location": "No AI training",
+        "name": "藤ちょこ@画集発売中",
+        "pinned_tweet_id": "1925135964273602785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/976447219/akairodori31_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741786,
+          "following_count": 3058,
+          "like_count": 14977,
+          "listed_count": 7429,
+          "media_count": 1633,
+          "tweet_count": 37908
+        },
+        "url": "https://t.co/ydkDIhhc4h",
+        "username": "fuzichoco",
+        "verified": true
+      }
+    ]
+  }
+}

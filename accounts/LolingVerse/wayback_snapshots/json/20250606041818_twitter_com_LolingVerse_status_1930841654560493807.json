@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930841650588475392"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1930841654560493807",
+    "created_at": "2025-06-06T04:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T05:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930841654560493807"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RVkjjRoOYW",
+          "end": 34,
+          "expanded_url": "https://x.com/LolingVerse/status/1930841654560493807/photo/1",
+          "media_key": "3_1930841650588475392",
+          "start": 11,
+          "url": "https://t.co/RVkjjRoOYW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930841654560493807",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还有35%去哪里了？ https://t.co/RVkjjRoOYW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1098,
+        "media_key": "3_1930841650588475392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsu6QEza4AAxFf_.jpg",
+        "width": 1561
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930841650588475392"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1930841654560493807",
+        "created_at": "2025-06-06T04:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T05:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930841654560493807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RVkjjRoOYW",
+              "end": 34,
+              "expanded_url": "https://x.com/LolingVerse/status/1930841654560493807/photo/1",
+              "media_key": "3_1930841650588475392",
+              "start": 11,
+              "url": "https://t.co/RVkjjRoOYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930841654560493807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有35%去哪里了？ https://t.co/RVkjjRoOYW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 62,
+          "like_count": 1238,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 586
+        },
+        "username": "LolingVerse",
+        "verified": false
+      }
+    ]
+  }
+}

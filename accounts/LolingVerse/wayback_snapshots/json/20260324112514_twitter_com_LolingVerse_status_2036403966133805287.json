@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2036378161886482729",
+    "created_at": "2026-03-24T11:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T12:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036403966133805287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1831363594556211200",
+          "start": 0,
+          "username": "JyushitiYizuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036403966133805287",
+    "in_reply_to_user_id": "1831363594556211200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036378161886482729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JyushitiYizuka 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 501,
+        "media_key": "3_2036378159491534849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEKrJZjbUAE0QaL.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2036378161886482729",
+        "created_at": "2026-03-24T11:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T12:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036403966133805287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1831363594556211200",
+              "start": 0,
+              "username": "JyushitiYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036403966133805287",
+        "in_reply_to_user_id": "1831363594556211200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036378161886482729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JyushitiYizuka 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036378159491534849"
+          ]
+        },
+        "author_id": "1831363594556211200",
+        "conversation_id": "2036378161886482729",
+        "created_at": "2026-03-24T09:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T10:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036378161886482729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2oWTTV0hfY",
+              "end": 54,
+              "expanded_url": "https://x.com/JyushitiYizuka/status/2036378161886482729/photo/1",
+              "media_key": "3_2036378159491534849",
+              "start": 31,
+              "url": "https://t.co/2oWTTV0hfY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036378161886482729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 466,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上学期均绩3.825\n前15%左右\n这学期也要努力学习（确信 https://t.co/2oWTTV0hfY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox Only",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 121,
+          "like_count": 12318,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 2838
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-04T16:08:23.000Z",
+        "description": "是花狮在读本科哒!｜et omnia vanitas｜アズサ推し！｜中文/English/日本語(下手) ｜「止まない雨はなく、明けない夜はない。」｜小猫🐱@ThirteenYizuka｜逃生舱@NineteenYizuka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "ThirteenYizuka"
+              },
+              {
+                "end": 112,
+                "start": 97,
+                "username": "NineteenYizuka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jyushitiyizuka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jyushitiyizuka",
+                "start": 0,
+                "url": "https://t.co/cXoz3DkEul"
+              }
+            ]
+          }
+        },
+        "id": "1831363594556211200",
+        "location": "記錄の地平線",
+        "name": "JYUSHITI拾柒（早八大学牲😾 ver.）",
+        "pinned_tweet_id": "1898218103731048603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028649306773950464/sRMm3DwZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2215,
+          "following_count": 1277,
+          "like_count": 40333,
+          "listed_count": 7,
+          "media_count": 1542,
+          "tweet_count": 24538
+        },
+        "url": "https://t.co/cXoz3DkEul",
+        "username": "JyushitiYizuka",
+        "verified": false
+      }
+    ]
+  }
+}

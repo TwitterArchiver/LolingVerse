@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1955471913511465051",
+    "created_at": "2025-08-14T05:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T06:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955859726950129747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1812419719691186176",
+          "start": 0,
+          "username": "qweomy10364583"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955859726950129747",
+    "in_reply_to_user_id": "1812419719691186176",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955471913511465051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qweomy10364583 👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1955471913511465051",
+        "created_at": "2025-08-14T05:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T06:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955859726950129747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1812419719691186176",
+              "start": 0,
+              "username": "qweomy10364583"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955859726950129747",
+        "in_reply_to_user_id": "1812419719691186176",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955471913511465051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qweomy10364583 👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812419719691186176",
+        "conversation_id": "1955471913511465051",
+        "created_at": "2025-08-13T03:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T04:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955471913511465051"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955471913511465051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3043,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我还挺喜欢和药娘玩的，所以有没有药娘和我互fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 70,
+          "like_count": 2053,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1075
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T09:32:04.000Z",
+        "description": "@ygao1314 @ji_zai97049 有主有狗 支赤橙黄绿青蓝紫黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "ygao1314"
+              },
+              {
+                "end": 22,
+                "start": 10,
+                "username": "ji_zai97049"
+              }
+            ]
+          }
+        },
+        "id": "1812419719691186176",
+        "location": "光荣的社会主义接班人 爱党爱国 ",
+        "name": "断桥残雪",
+        "pinned_tweet_id": "1951167560592027719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938818756395839488/Zusn-Zml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 730,
+          "like_count": 14271,
+          "listed_count": 3,
+          "media_count": 13,
+          "tweet_count": 4124
+        },
+        "username": "qweomy10364583",
+        "verified": false
+      }
+    ]
+  }
+}

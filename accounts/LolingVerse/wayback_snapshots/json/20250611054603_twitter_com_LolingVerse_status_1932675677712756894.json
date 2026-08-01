@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932364087058632704"
+      ],
+      "media_source_tweet_id": [
+        "1932364092842606759"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1932675677712756894",
+    "created_at": "2025-06-11T05:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T06:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932675677712756894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1573550052945014784",
+          "start": 3,
+          "username": "Ly05YY"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1BGsoIUEiH",
+          "end": 37,
+          "expanded_url": "https://x.com/Ly05YY/status/1932364092842606759/photo/1",
+          "media_key": "3_1932364087058632704",
+          "start": 14,
+          "url": "https://t.co/1BGsoIUEiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932675677712756894",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 737
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932364092842606759",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ly05YY: 🖤 https://t.co/1BGsoIUEiH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932364087058632704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtEi5inaEAAUJbj.jpg",
+        "width": 1637
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932364087058632704"
+          ],
+          "media_source_tweet_id": [
+            "1932364092842606759"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1932675677712756894",
+        "created_at": "2025-06-11T05:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T06:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932675677712756894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1573550052945014784",
+              "start": 3,
+              "username": "Ly05YY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1BGsoIUEiH",
+              "end": 37,
+              "expanded_url": "https://x.com/Ly05YY/status/1932364092842606759/photo/1",
+              "media_key": "3_1932364087058632704",
+              "start": 14,
+              "url": "https://t.co/1BGsoIUEiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932675677712756894",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 737
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932364092842606759",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ly05YY: 🖤 https://t.co/1BGsoIUEiH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932364087058632704"
+          ]
+        },
+        "author_id": "1573550052945014784",
+        "conversation_id": "1932364092842606759",
+        "created_at": "2025-06-10T09:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T10:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932364092842606759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1BGsoIUEiH",
+              "end": 25,
+              "expanded_url": "https://x.com/Ly05YY/status/1932364092842606759/photo/1",
+              "media_key": "3_1932364087058632704",
+              "start": 2,
+              "url": "https://t.co/1BGsoIUEiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932364092842606759",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1078,
+          "impression_count": 97128,
+          "like_count": 7462,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 737
+        },
+        "reply_settings": "everyone",
+        "text": "🖤 https://t.co/1BGsoIUEiH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 62,
+          "like_count": 1357,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 639
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T05:49:49.000Z",
+        "description": "檜宮（ひのみや）Illustrator◾︎お仕事連絡先【Ly05YY.05@gmail.com】🔗まとめ 【https://t.co/6IuHJwSdLR】自創作“Crocus”公式サイト【 https://t.co/fAtgbEFN0d 】 FA・感想など #Crocus_TL",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 140,
+                "start": 130,
+                "tag": "Crocus_TL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "1link.jp/ly05yy",
+                "end": 77,
+                "expanded_url": "https://1link.jp/ly05yy",
+                "start": 54,
+                "url": "https://t.co/6IuHJwSdLR"
+              },
+              {
+                "display_url": "crocusofficial.carrd.co",
+                "end": 119,
+                "expanded_url": "https://crocusofficial.carrd.co/",
+                "start": 96,
+                "url": "https://t.co/fAtgbEFN0d"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Ly05YY",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@Ly05YY",
+                "start": 0,
+                "url": "https://t.co/OOTflNXbK4"
+              }
+            ]
+          }
+        },
+        "id": "1573550052945014784",
+        "name": "檜宮しょう",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911355186519363584/Vsq7vYs7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5287,
+          "following_count": 182,
+          "like_count": 7486,
+          "listed_count": 32,
+          "media_count": 39,
+          "tweet_count": 2542
+        },
+        "url": "https://t.co/OOTflNXbK4",
+        "username": "Ly05YY",
+        "verified": false
+      }
+    ]
+  }
+}

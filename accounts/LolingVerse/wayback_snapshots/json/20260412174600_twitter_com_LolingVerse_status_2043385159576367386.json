@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2043384056990302353",
+    "created_at": "2026-04-12T17:46:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T18:46:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043385159576367386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1735328474934706176",
+          "start": 0,
+          "username": "makinoseiran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043385159576367386",
+    "in_reply_to_user_id": "1735328474934706176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043384056990302353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@makinoseiran 猫猫👌🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16935,
+        "height": 2160,
+        "media_key": "13_2043383609625919488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043383609625919488/img/6k6rpw8WinjBr_gx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043383609625919488/vid/avc1/1920x1080/HJP7JtyumqSbVYJf.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043383609625919488/vid/avc1/480x270/JMTCkiG7Kk-5g25Z.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043383609625919488/vid/avc1/3840x2160/RQHsGtevmTzx__ld.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043383609625919488/vid/avc1/1280x720/s2nWrt7oDw4HTZUl.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043383609625919488/vid/avc1/640x360/TpcE9Z1fHqtcF3ZO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043383609625919488/pl/lCVUYq_YY9-TgWtP.m3u8"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2043384056990302353",
+        "created_at": "2026-04-12T17:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043385159576367386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1735328474934706176",
+              "start": 0,
+              "username": "makinoseiran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043385159576367386",
+        "in_reply_to_user_id": "1735328474934706176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043384056990302353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@makinoseiran 猫猫👌🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043383609625919488"
+          ]
+        },
+        "author_id": "1735328474934706176",
+        "conversation_id": "2043384056990302353",
+        "created_at": "2026-04-12T17:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043384056990302353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jI1NloU2wv",
+              "end": 23,
+              "expanded_url": "https://x.com/makinoseiran/status/2043384056990302353/video/1",
+              "media_key": "13_2043383609625919488",
+              "start": 0,
+              "url": "https://t.co/jI1NloU2wv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043384056990302353",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jI1NloU2wv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 @nozomixlr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "nozomixlr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 133,
+          "like_count": 14006,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 2964
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-14T15:58:55.000Z",
+        "description": "aka橘猫/橘猫硬件实验室主创/常驻珠三角",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MakinoSeiran",
+                "end": 23,
+                "expanded_url": "http://t.me/MakinoSeiran",
+                "start": 0,
+                "url": "https://t.co/KjfemPlYP9"
+              }
+            ]
+          }
+        },
+        "id": "1735328474934706176",
+        "name": "牧野セイラン (青嵐)",
+        "pinned_tweet_id": "2042570134955659318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995445363399077888/ZpTK7xEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 686,
+          "like_count": 24977,
+          "listed_count": 2,
+          "media_count": 544,
+          "tweet_count": 5119
+        },
+        "url": "https://t.co/KjfemPlYP9",
+        "username": "makinoseiran",
+        "verified": true
+      }
+    ]
+  }
+}

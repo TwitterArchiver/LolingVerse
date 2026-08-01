@@ -1,0 +1,510 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2070235480960934173",
+    "created_at": "2026-06-27T12:02:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070840213388284292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "465803322",
+          "start": 0,
+          "username": "__BumbleBea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/19690…",
+          "end": 36,
+          "expanded_url": "https://x.com/i/status/1969061948483342654",
+          "start": 13,
+          "url": "https://t.co/YXry0c5mCG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070840213388284292",
+    "in_reply_to_user_id": "465803322",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969061948483342654",
+        "type": "quoted"
+      },
+      {
+        "id": "2070235480960934173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__BumbleBea https://t.co/YXry0c5mCG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_1969061942951362560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1ODZ5JbQAAZ6Xh.png",
+        "width": 600
+      },
+      {
+        "height": 1493,
+        "media_key": "3_2070235061480214528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrz0eEWUAApuBL.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1291,
+        "media_key": "3_2070235067096403968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrz0y_WkAAsa4V.jpg",
+        "width": 1080
+      },
+      {
+        "height": 707,
+        "media_key": "3_2070235073719201792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrz1LqWcAAx02b.jpg",
+        "width": 1080
+      },
+      {
+        "height": 944,
+        "media_key": "3_2070235079817744384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrz1iYW0AADV3m.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2070235480960934173",
+        "created_at": "2026-06-27T12:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070840213388284292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "465803322",
+              "start": 0,
+              "username": "__BumbleBea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/19690…",
+              "end": 36,
+              "expanded_url": "https://x.com/i/status/1969061948483342654",
+              "start": 13,
+              "url": "https://t.co/YXry0c5mCG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070840213388284292",
+        "in_reply_to_user_id": "465803322",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969061948483342654",
+            "type": "quoted"
+          },
+          {
+            "id": "2070235480960934173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__BumbleBea https://t.co/YXry0c5mCG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969061942951362560"
+          ]
+        },
+        "author_id": "1228260397104283650",
+        "conversation_id": "1969061948483342654",
+        "created_at": "2025-09-19T15:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T16:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969061948483342654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/thxkvKyewv",
+              "end": 23,
+              "expanded_url": "https://x.com/sofw0/status/1969061948483342654/photo/1",
+              "media_key": "3_1969061942951362560",
+              "start": 0,
+              "url": "https://t.co/thxkvKyewv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969061948483342654",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 315,
+          "impression_count": 44958,
+          "like_count": 3378,
+          "quote_count": 9,
+          "reply_count": 6,
+          "retweet_count": 286
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/thxkvKyewv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070235061480214528",
+            "3_2070235067096403968",
+            "3_2070235073719201792",
+            "3_2070235079817744384"
+          ]
+        },
+        "author_id": "465803322",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783350882985385984",
+              "name": "Home - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416062557706588160",
+              "name": "Superstores"
+            }
+          }
+        ],
+        "conversation_id": "2070235480960934173",
+        "created_at": "2026-06-25T19:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T20:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070235480960934173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oHFnqmc9Aq",
+              "end": 281,
+              "expanded_url": "https://x.com/__BumbleBea/status/2070235480960934173/photo/1",
+              "media_key": "3_2070235061480214528",
+              "start": 258,
+              "url": "https://t.co/oHFnqmc9Aq"
+            },
+            {
+              "display_url": "pic.x.com/oHFnqmc9Aq",
+              "end": 281,
+              "expanded_url": "https://x.com/__BumbleBea/status/2070235480960934173/photo/1",
+              "media_key": "3_2070235067096403968",
+              "start": 258,
+              "url": "https://t.co/oHFnqmc9Aq"
+            },
+            {
+              "display_url": "pic.x.com/oHFnqmc9Aq",
+              "end": 281,
+              "expanded_url": "https://x.com/__BumbleBea/status/2070235480960934173/photo/1",
+              "media_key": "3_2070235073719201792",
+              "start": 258,
+              "url": "https://t.co/oHFnqmc9Aq"
+            },
+            {
+              "display_url": "pic.x.com/oHFnqmc9Aq",
+              "end": 281,
+              "expanded_url": "https://x.com/__BumbleBea/status/2070235480960934173/photo/1",
+              "media_key": "3_2070235079817744384",
+              "start": 258,
+              "url": "https://t.co/oHFnqmc9Aq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070235480960934173",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 275,
+          "impression_count": 134502,
+          "like_count": 1429,
+          "quote_count": 20,
+          "reply_count": 8,
+          "retweet_count": 268
+        },
+        "reply_settings": "everyone",
+        "text": "No sé si lo habéis visto, pero IKEA ha sacado un Manual de empatía usando el famoso tiburón Blåhaj, que de alguna forma se ha convertido en un icono de la comunidad LGTB+ (especialmente la gente trans) y es lo más tierno que he visto en la vida. 🥹🏳️‍🌈🏳️‍⚧️🦈 https://t.co/oHFnqmc9Aq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 156,
+          "like_count": 23319,
+          "listed_count": 3,
+          "media_count": 311,
+          "tweet_count": 4169
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2012-01-16T19:11:42.000Z",
+        "description": "🟡🐝;\nJurista y opositora ⚖️\nMe gusta dormir, quejarme, los videojuegos y los animalitos 🐾🐶🦜🎮 \nA veces leo, otras veo series🎬\nT'estimo una pechá @Plorcs 💛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 143,
+                "username": "Plorcs"
+              }
+            ]
+          }
+        },
+        "id": "465803322",
+        "location": "Granada, Andalucía",
+        "name": "𝕭𝖊𝖆 🍋🦈",
+        "pinned_tweet_id": "1701294184089399449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064352952517591040/Y8jqvy4l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1891,
+          "following_count": 1138,
+          "like_count": 225354,
+          "listed_count": 16,
+          "media_count": 13571,
+          "tweet_count": 195275
+        },
+        "url": "",
+        "username": "__BumbleBea",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-14T10:11:24.000Z",
+        "description": "絵/映像/ゲーム制作/作曲　詳細↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sofw0",
+                "end": 23,
+                "expanded_url": "http://lit.link/sofw0",
+                "start": 0,
+                "url": "https://t.co/rBVKoT6Cuh"
+              }
+            ]
+          }
+        },
+        "id": "1228260397104283650",
+        "name": "すずあ",
+        "pinned_tweet_id": "1640692715024441344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770367667679158272/Kvns9xUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17351,
+          "following_count": 82,
+          "like_count": 1295,
+          "listed_count": 131,
+          "media_count": 388,
+          "tweet_count": 617
+        },
+        "url": "https://t.co/rBVKoT6Cuh",
+        "username": "sofw0",
+        "verified": false
+      }
+    ]
+  }
+}

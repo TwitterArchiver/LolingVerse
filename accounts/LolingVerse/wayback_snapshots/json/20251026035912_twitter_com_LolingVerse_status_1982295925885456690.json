@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1982295925885456690",
+    "created_at": "2025-10-26T03:59:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T04:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982295925885456690"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "凌晨的",
+          "probability": 0.5391,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1361349434596941830",
+          "start": 3,
+          "username": "RimoOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982295925885456690",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982096429981261945",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RimoOvO: 凌晨的我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1982295925885456690",
+        "created_at": "2025-10-26T03:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T04:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982295925885456690"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "凌晨的",
+              "probability": 0.5391,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1361349434596941830",
+              "start": 3,
+              "username": "RimoOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982295925885456690",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982096429981261945",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RimoOvO: 凌晨的我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1361349434596941830",
+        "conversation_id": "1982096429981261945",
+        "created_at": "2025-10-25T14:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T15:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982096429981261945"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "凌晨的",
+              "probability": 0.6358,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Teufel_Tigrov/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Teufel_Tigrov/status/1981915980944273674",
+              "start": 5,
+              "url": "https://t.co/yPaLsdGCYC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982096429981261945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 893,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981915980944273674",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "凌晨的我 https://t.co/yPaLsdGCYC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "『可怜楼上月徘徊，应照离人妆镜台』\n『身世浮沉雨打萍……一山放出一山拦』\n可爱赞美者，世界探索者 | \n155/47 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TeYs"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 距你 2.718 km",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 74,
+          "like_count": 3247,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1504
+        },
+        "url": "https://t.co/Dggtj9TeYs",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-15T16:19:39.000Z",
+        "description": "你好呀，我是海猫！🍖🍖🦴 | ISFJ-A | 喜欢一切可爱的事物 | 日常推 ，偶尔有奇怪的内容出没 | 是无药可救正太少年xnh控 | 家有莫比 @XiaoMouz | 装海猫的桶 https://t.co/CVZl5K3L3p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "XiaoMouz"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/rimo_bucket",
+                "end": 116,
+                "expanded_url": "http://t.me/rimo_bucket",
+                "start": 93,
+                "url": "https://t.co/CVZl5K3L3p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.mou.best/@rimo",
+                "end": 23,
+                "expanded_url": "http://m.mou.best/@rimo",
+                "start": 0,
+                "url": "https://t.co/A99bdWkqoK"
+              }
+            ]
+          }
+        },
+        "id": "1361349434596941830",
+        "location": "海猫茶屋",
+        "name": "番茄芝士海猫 · Rimo 🐋",
+        "pinned_tweet_id": "1981020360163143942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580192676120436741/kgZTZcyK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4861,
+          "following_count": 2237,
+          "like_count": 173341,
+          "listed_count": 9,
+          "media_count": 5634,
+          "tweet_count": 56793
+        },
+        "url": "https://t.co/A99bdWkqoK",
+        "username": "RimoOvO",
+        "verified": false
+      }
+    ]
+  }
+}

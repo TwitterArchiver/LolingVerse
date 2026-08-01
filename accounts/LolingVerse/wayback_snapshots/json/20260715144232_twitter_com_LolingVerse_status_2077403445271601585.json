@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077069031484321793"
+      ],
+      "media_source_tweet_id": [
+        "2077069043815633001"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Ethereum Cryptocurrency",
+          "id": "1007361429752594432",
+          "name": "Ethereum cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Ethereum Cryptocurrency",
+          "id": "1007361429752594432",
+          "name": "Ethereum cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "2077403445271601585",
+    "created_at": "2026-07-15T14:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T15:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077403445271601585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1836041585475346432",
+          "start": 3,
+          "username": "LolingVerse"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yJ1eD8Dy7P",
+          "end": 50,
+          "expanded_url": "https://x.com/LolingVerse/status/2077069043815633001/photo/1",
+          "media_key": "3_2077069031484321793",
+          "start": 27,
+          "url": "https://t.co/yJ1eD8Dy7P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077403445271601585",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077069043815633001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LolingVerse: eth，你撅起罢！ https://t.co/yJ1eD8Dy7P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 663,
+        "media_key": "3_2077069031484321793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNM7R4OWcAEXD4M.jpg",
+        "width": 863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077069031484321793"
+          ],
+          "media_source_tweet_id": [
+            "2077069043815633001"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2077403445271601585",
+        "created_at": "2026-07-15T14:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077403445271601585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1836041585475346432",
+              "start": 3,
+              "username": "LolingVerse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJ1eD8Dy7P",
+              "end": 50,
+              "expanded_url": "https://x.com/LolingVerse/status/2077069043815633001/photo/1",
+              "media_key": "3_2077069031484321793",
+              "start": 27,
+              "url": "https://t.co/yJ1eD8Dy7P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077403445271601585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077069043815633001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LolingVerse: eth，你撅起罢！ https://t.co/yJ1eD8Dy7P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077069031484321793"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2077069043815633001",
+        "created_at": "2026-07-14T16:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077069043815633001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJ1eD8Dy7P",
+              "end": 33,
+              "expanded_url": "https://x.com/LolingVerse/status/2077069043815633001/photo/1",
+              "media_key": "3_2077069031484321793",
+              "start": 10,
+              "url": "https://t.co/yJ1eD8Dy7P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077069043815633001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "eth，你撅起罢！ https://t.co/yJ1eD8Dy7P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 163,
+          "like_count": 25045,
+          "listed_count": 4,
+          "media_count": 352,
+          "tweet_count": 4575
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      }
+    ]
+  }
+}

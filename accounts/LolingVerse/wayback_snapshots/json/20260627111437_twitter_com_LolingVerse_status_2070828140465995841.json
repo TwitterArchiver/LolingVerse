@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969061942951362560"
+      ],
+      "media_source_tweet_id": [
+        "1969061948483342654"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2070828140465995841",
+    "created_at": "2026-06-27T11:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T12:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070828140465995841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1228260397104283650",
+          "start": 3,
+          "username": "sofw0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/thxkvKyewv",
+          "end": 34,
+          "expanded_url": "https://x.com/sofw0/status/1969061948483342654/photo/1",
+          "media_key": "3_1969061942951362560",
+          "start": 11,
+          "url": "https://t.co/thxkvKyewv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070828140465995841",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 286
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969061948483342654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sofw0: https://t.co/thxkvKyewv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_1969061942951362560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1ODZ5JbQAAZ6Xh.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969061942951362560"
+          ],
+          "media_source_tweet_id": [
+            "1969061948483342654"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2070828140465995841",
+        "created_at": "2026-06-27T11:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070828140465995841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1228260397104283650",
+              "start": 3,
+              "username": "sofw0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/thxkvKyewv",
+              "end": 34,
+              "expanded_url": "https://x.com/sofw0/status/1969061948483342654/photo/1",
+              "media_key": "3_1969061942951362560",
+              "start": 11,
+              "url": "https://t.co/thxkvKyewv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070828140465995841",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 286
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969061948483342654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sofw0: https://t.co/thxkvKyewv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969061942951362560"
+          ]
+        },
+        "author_id": "1228260397104283650",
+        "conversation_id": "1969061948483342654",
+        "created_at": "2025-09-19T15:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T16:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969061948483342654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/thxkvKyewv",
+              "end": 23,
+              "expanded_url": "https://x.com/sofw0/status/1969061948483342654/photo/1",
+              "media_key": "3_1969061942951362560",
+              "start": 0,
+              "url": "https://t.co/thxkvKyewv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969061948483342654",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 314,
+          "impression_count": 44901,
+          "like_count": 3378,
+          "quote_count": 8,
+          "reply_count": 6,
+          "retweet_count": 286
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/thxkvKyewv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 156,
+          "like_count": 23299,
+          "listed_count": 3,
+          "media_count": 311,
+          "tweet_count": 4165
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-14T10:11:24.000Z",
+        "description": "絵/映像/ゲーム制作/作曲　詳細↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sofw0",
+                "end": 23,
+                "expanded_url": "http://lit.link/sofw0",
+                "start": 0,
+                "url": "https://t.co/rBVKoT6Cuh"
+              }
+            ]
+          }
+        },
+        "id": "1228260397104283650",
+        "name": "すずあ",
+        "pinned_tweet_id": "1640692715024441344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770367667679158272/Kvns9xUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17351,
+          "following_count": 82,
+          "like_count": 1295,
+          "listed_count": 131,
+          "media_count": 388,
+          "tweet_count": 617
+        },
+        "url": "https://t.co/rBVKoT6Cuh",
+        "username": "sofw0",
+        "verified": false
+      }
+    ]
+  }
+}

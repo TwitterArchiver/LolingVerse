@@ -1,0 +1,537 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1400851050555351040",
+          "name": "BitTorrent"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2070256474811502793",
+    "created_at": "2026-06-26T16:34:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T17:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070546252069306733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "203378416",
+          "start": 0,
+          "username": "yay3d"
+        },
+        {
+          "end": 22,
+          "id": "132472401",
+          "start": 7,
+          "username": "Zolt_witterWow"
+        },
+        {
+          "end": 35,
+          "id": "1693585632965148672",
+          "start": 23,
+          "username": "_simonsmith"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070546252069306733",
+    "in_reply_to_user_id": "203378416",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070481375329710276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yay3d @Zolt_witterWow @_simonsmith The answer is... yes, absolutely behind the GFW...\nMoreover, official platforms like GitHub will remove it due to DMCA takedowns.\nTherefore, it will only be distributed via the Onion network or BitTorrent. In that case, any commercial use is out of the question."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400851050555351040",
+              "name": "BitTorrent"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2070256474811502793",
+        "created_at": "2026-06-26T16:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070546252069306733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "203378416",
+              "start": 0,
+              "username": "yay3d"
+            },
+            {
+              "end": 22,
+              "id": "132472401",
+              "start": 7,
+              "username": "Zolt_witterWow"
+            },
+            {
+              "end": 35,
+              "id": "1693585632965148672",
+              "start": 23,
+              "username": "_simonsmith"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070546252069306733",
+        "in_reply_to_user_id": "203378416",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070481375329710276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yay3d @Zolt_witterWow @_simonsmith The answer is... yes, absolutely behind the GFW...\nMoreover, official platforms like GitHub will remove it due to DMCA takedowns.\nTherefore, it will only be distributed via the Onion network or BitTorrent. In that case, any commercial use is out of the question."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "203378416",
+        "conversation_id": "2070256474811502793",
+        "created_at": "2026-06-26T12:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070481375329710276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "132472401",
+              "start": 0,
+              "username": "Zolt_witterWow"
+            },
+            {
+              "end": 28,
+              "id": "1693585632965148672",
+              "start": 16,
+              "username": "_simonsmith"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070481375329710276",
+        "in_reply_to_user_id": "132472401",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070477048431493506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zolt_witterWow @_simonsmith so china can erase bytes off the internet ?\nwith a  single phone call .."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 156,
+          "like_count": 23225,
+          "listed_count": 3,
+          "media_count": 311,
+          "tweet_count": 4149
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2010-10-16T03:51:24.000Z",
+        "description": "🧠 Neurosymbolic AI investigations 🧠\n🏛️MIT OG 🦫Media Lab 🐧Unix V6 '75 🔬DEC R&D 🛠️ASM ➡️Fortran ➡️Markdown 🧠left+right brained 🕹️building fun things🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wearevr.com",
+                "end": 23,
+                "expanded_url": "https://wearevr.com",
+                "start": 0,
+                "url": "https://t.co/zlCeyDnXy2"
+              }
+            ]
+          }
+        },
+        "id": "203378416",
+        "location": "Historic Salem, MA",
+        "name": "Scott Evernden",
+        "pinned_tweet_id": "2070485206272790637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034729936578056192/1goptiho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 972,
+          "like_count": 2924,
+          "listed_count": 12,
+          "media_count": 906,
+          "tweet_count": 5567
+        },
+        "url": "https://t.co/zlCeyDnXy2",
+        "username": "yay3d",
+        "verified": true
+      },
+      {
+        "created_at": "2010-04-13T09:55:36.000Z",
+        "description": "纸上得来终觉浅，绝知此事要躬身！",
+        "id": "132472401",
+        "name": "Piiksi go",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/819452276/pigeon_normal.gif",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 283,
+          "like_count": 4980,
+          "listed_count": 3,
+          "media_count": 38,
+          "tweet_count": 2564
+        },
+        "url": "",
+        "username": "Zolt_witterWow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T11:28:16.000Z",
+        "description": "EVP Generative AI @klickhealth",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "klickhealth"
+              }
+            ]
+          }
+        },
+        "id": "1693585632965148672",
+        "name": "Simon Smith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893071963570012160/XJPttxhY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4714,
+          "following_count": 821,
+          "like_count": 2508,
+          "listed_count": 91,
+          "media_count": 1506,
+          "tweet_count": 6859
+        },
+        "url": "",
+        "username": "_simonsmith",
+        "verified": true
+      }
+    ]
+  }
+}

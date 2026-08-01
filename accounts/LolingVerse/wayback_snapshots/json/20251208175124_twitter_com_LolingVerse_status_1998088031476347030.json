@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1997923688533143691",
+    "created_at": "2025-12-08T17:51:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T18:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998088031476347030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1393193542537854976",
+          "start": 0,
+          "username": "sparkwang9"
+        },
+        {
+          "end": 22,
+          "id": "1224066402874617856",
+          "start": 12,
+          "username": "chaozuoye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998088031476347030",
+    "in_reply_to_user_id": "1393193542537854976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997955613998067798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sparkwang9 @chaozuoye 发生什么了，你怎么被那么多奇怪的人回复了👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1997923688533143691",
+        "created_at": "2025-12-08T17:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T18:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998088031476347030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1393193542537854976",
+              "start": 0,
+              "username": "sparkwang9"
+            },
+            {
+              "end": 22,
+              "id": "1224066402874617856",
+              "start": 12,
+              "username": "chaozuoye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998088031476347030",
+        "in_reply_to_user_id": "1393193542537854976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997955613998067798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sparkwang9 @chaozuoye 发生什么了，你怎么被那么多奇怪的人回复了👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1393193542537854976",
+        "conversation_id": "1997923688533143691",
+        "created_at": "2025-12-08T09:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T10:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997955613998067798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1224066402874617856",
+              "start": 0,
+              "username": "chaozuoye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997955613998067798",
+        "in_reply_to_user_id": "1224066402874617856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2890,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997923688533143691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chaozuoye 刚导的苹果，只用小狐狸和okx钱包，倒是没出问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153/48 | 没诗硬吟｜阴暗爬行  | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TMO0"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 84,
+          "like_count": 4627,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1810
+        },
+        "url": "https://t.co/Dggtj9TMO0",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-14T13:16:48.000Z",
+        "description": "日常分享WEB3心得🌟 | @monad nads | @zama OG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "monad"
+              },
+              {
+                "end": 33,
+                "start": 28,
+                "username": "zama"
+              }
+            ]
+          }
+        },
+        "id": "1393193542537854976",
+        "location": "Japan",
+        "name": "spark🌟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992244727350198272/4I5IPCXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 2383,
+          "like_count": 28266,
+          "listed_count": 14,
+          "media_count": 857,
+          "tweet_count": 18025
+        },
+        "username": "sparkwang9",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-02T20:25:55.000Z",
+        "description": "不是KOL ,公众号理财博主（已封）喂饭级博主｜\nbuild @grvt_io @StandX_Official｜\nTG: @chaozuoye｜\nOKX Web3钱包现已支持130+公链\n提供钱包、多链 Swap、NFT 市场、DeFi 挖矿一站式服务 \n#web3入口 一个就够 https://t.co/mb4fnWyLJ3",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 136,
+                "start": 129,
+                "tag": "web3入口"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "grvt_io"
+              },
+              {
+                "end": 56,
+                "start": 40,
+                "username": "StandX_Official"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "chaozuoye"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "okx.com/join/ZUOYE",
+                "end": 165,
+                "expanded_url": "http://okx.com/join/ZUOYE",
+                "start": 142,
+                "url": "https://t.co/mb4fnWyLJ3"
+              }
+            ]
+          }
+        },
+        "id": "1224066402874617856",
+        "name": "作业借你抄",
+        "pinned_tweet_id": "1945368762942939293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1646523340264448008/KQm44dbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53708,
+          "following_count": 2980,
+          "like_count": 17136,
+          "listed_count": 800,
+          "media_count": 2374,
+          "tweet_count": 16600
+        },
+        "username": "chaozuoye",
+        "verified": true
+      }
+    ]
+  }
+}

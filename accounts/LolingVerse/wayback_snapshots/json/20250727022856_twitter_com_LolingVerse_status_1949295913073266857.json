@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949290991783145472"
+      ],
+      "media_source_tweet_id": [
+        "1949291137279172789"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1949295913073266857",
+    "created_at": "2025-07-27T02:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T03:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949295913073266857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1835634258741977088",
+          "start": 3,
+          "username": "waa_waa_wa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RzcIGQak2Q",
+          "end": 39,
+          "expanded_url": "https://x.com/waa_waa_wa/status/1949291137279172789/photo/1",
+          "media_key": "3_1949290991783145472",
+          "start": 16,
+          "url": "https://t.co/RzcIGQak2Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949295913073266857",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949291137279172789",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @waa_waa_wa: https://t.co/RzcIGQak2Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1949290991783145472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw1F1EkacAAeabw.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949290991783145472"
+          ],
+          "media_source_tweet_id": [
+            "1949291137279172789"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1949295913073266857",
+        "created_at": "2025-07-27T02:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T03:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949295913073266857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1835634258741977088",
+              "start": 3,
+              "username": "waa_waa_wa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RzcIGQak2Q",
+              "end": 39,
+              "expanded_url": "https://x.com/waa_waa_wa/status/1949291137279172789/photo/1",
+              "media_key": "3_1949290991783145472",
+              "start": 16,
+              "url": "https://t.co/RzcIGQak2Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949295913073266857",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949291137279172789",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @waa_waa_wa: https://t.co/RzcIGQak2Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949290991783145472"
+          ]
+        },
+        "author_id": "1835634258741977088",
+        "conversation_id": "1949291137279172789",
+        "created_at": "2025-07-27T02:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T03:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949291137279172789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RzcIGQak2Q",
+              "end": 23,
+              "expanded_url": "https://x.com/waa_waa_wa/status/1949291137279172789/photo/1",
+              "media_key": "3_1949290991783145472",
+              "start": 0,
+              "url": "https://t.co/RzcIGQak2Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949291137279172789",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1199,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RzcIGQak2Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 64,
+          "like_count": 1832,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 888
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T10:58:19.000Z",
+        "description": "https://t.co/VTRtXdJI7d",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/16064899",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/16064899",
+                "start": 0,
+                "url": "https://t.co/VTRtXdJI7d"
+              }
+            ]
+          }
+        },
+        "id": "1835634258741977088",
+        "name": "waa",
+        "pinned_tweet_id": "1942933576561172774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947158576210014208/nk0W7Cx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 56,
+          "like_count": 620,
+          "listed_count": 6,
+          "media_count": 40,
+          "tweet_count": 98
+        },
+        "username": "waa_waa_wa",
+        "verified": false
+      }
+    ]
+  }
+}

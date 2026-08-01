@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2080194585322799311",
+    "created_at": "2026-07-23T09:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T10:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080217605554467117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1672761170040692739",
+          "start": 0,
+          "username": "FrankkkkkkLau"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080217605554467117",
+    "in_reply_to_user_id": "1672761170040692739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080194585322799311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FrankkkkkkLau 好奇是什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 525,
+        "media_key": "3_2080191782403674112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5TZ57bkAAKrsC.png",
+        "width": 876
+      },
+      {
+        "height": 333,
+        "media_key": "3_2080191790930661376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5TaZsbEAA0yN2.png",
+        "width": 723
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2080194585322799311",
+        "created_at": "2026-07-23T09:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080217605554467117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080217605554467117",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080194585322799311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 好奇是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080191782403674112",
+            "3_2080191790930661376"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2080194585322799311",
+        "created_at": "2026-07-23T07:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080194585322799311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/acVwpFD5d5",
+              "end": 69,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2080194585322799311/photo/1",
+              "media_key": "3_2080191782403674112",
+              "start": 46,
+              "url": "https://t.co/acVwpFD5d5"
+            },
+            {
+              "display_url": "pic.x.com/acVwpFD5d5",
+              "end": 69,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2080194585322799311/photo/1",
+              "media_key": "3_2080191790930661376",
+              "start": 46,
+              "url": "https://t.co/acVwpFD5d5"
+            },
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2080152145815572700",
+              "start": 70,
+              "url": "https://t.co/tWns621Rty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080194585322799311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1222,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080152145815572700",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈气了, 还把强制门户劫持了导致隔一会就自动访问神必诈骗网站😡\n怕不是在逼用户换境外doh https://t.co/acVwpFD5d5 https://t.co/tWns621Rty"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 164,
+          "like_count": 25994,
+          "listed_count": 4,
+          "media_count": 373,
+          "tweet_count": 4748
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 787,
+          "like_count": 9111,
+          "listed_count": 1,
+          "media_count": 412,
+          "tweet_count": 1805
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

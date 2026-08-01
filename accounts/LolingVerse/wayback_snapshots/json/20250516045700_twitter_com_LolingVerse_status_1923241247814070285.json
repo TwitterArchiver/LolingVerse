@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1923241247814070285",
+    "created_at": "2025-05-16T04:57:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T05:57:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923241247814070285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1830880351801221120",
+          "start": 3,
+          "username": "frxiaobei"
+        },
+        {
+          "end": 21,
+          "id": "3178231",
+          "start": 15,
+          "username": "dotey"
+        },
+        {
+          "end": 38,
+          "id": "1597294270226092042",
+          "start": 22,
+          "username": "changli71829684"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923241247814070285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923185928807514466",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @frxiaobei: @dotey @changli71829684 医生这个职业，其实和软件开发很像，是高度技能化的。\n\n患者不是永远的 if else，也会遇到复杂、非典型的小众场景。就像工程师需要查资料、看文档、问社区，医生也一样需要不断印证、补全知识结构。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1923241247814070285",
+        "created_at": "2025-05-16T04:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T05:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923241247814070285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1830880351801221120",
+              "start": 3,
+              "username": "frxiaobei"
+            },
+            {
+              "end": 21,
+              "id": "3178231",
+              "start": 15,
+              "username": "dotey"
+            },
+            {
+              "end": 38,
+              "id": "1597294270226092042",
+              "start": 22,
+              "username": "changli71829684"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923241247814070285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923185928807514466",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @frxiaobei: @dotey @changli71829684 医生这个职业，其实和软件开发很像，是高度技能化的。\n\n患者不是永远的 if else，也会遇到复杂、非典型的小众场景。就像工程师需要查资料、看文档、问社区，医生也一样需要不断印证、补全知识结构。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830880351801221120",
+        "conversation_id": "1923104036582010912",
+        "created_at": "2025-05-16T01:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T02:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923185928807514466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "3178231",
+              "start": 0,
+              "username": "dotey"
+            },
+            {
+              "end": 23,
+              "id": "1597294270226092042",
+              "start": 7,
+              "username": "changli71829684"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923185928807514466",
+        "in_reply_to_user_id": "3178231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "医生这个职业，其实和软件开发很像，是高度技能化的。\n\n患者不是永远的 if else，也会遇到复杂、非典型的小众场景。就像工程师需要查资料、看文档、问社区，医生也一样需要不断印证、补全知识结构。\n\n我以前参与过一个医疗项目，跟着医生随诊过一段时间。印象最深的一幕，医生当着患者的面，直接拿起书现场查资料。完全不觉得突兀，反而觉得这才是对生命负责。\n\n现在大模型出来了，其实本质上也该成为医生身边的“临床知识副驾”。它能提供某种启发或验证，帮助医生确认方向、规避遗漏。\n\n医生不是不能查资料，而是应该拥有更好的工具来查，这也是 toD（to Doctor）方向真正的机会所在：\n不是替代医生，而是成为他们可以信赖的智能助理，在复杂决策中给出更丰富的信息支撑。\n\n除了尊重医生这个职业，我们更该给出理解和宽容，\n他们每天面对最大不确定性，是承担最多责任。\n\n生命无价。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5922,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923104036582010912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dotey @changli71829684 医生这个职业，其实和软件开发很像，是高度技能化的。\n\n患者不是永远的 if else，也会遇到复杂、非典型的小众场景。就像工程师需要查资料、看文档、问社区，医生也一样需要不断印证、补全知识结构。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 58,
+          "like_count": 945,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 461
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T08:08:10.000Z",
+        "description": "行道途中。\n\n23年扎进AI，打通Know-How，不少赚钱项目，踩过坑，也见过光。\n\n围城里待得够久了，出来聊聊世界，聊聊技术、聊聊赚钱。",
+        "id": "1830880351801221120",
+        "name": "凡人小北",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916849689783402496/DC10b7O3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 156,
+          "like_count": 86,
+          "listed_count": 10,
+          "media_count": 40,
+          "tweet_count": 675
+        },
+        "username": "frxiaobei",
+        "verified": true
+      },
+      {
+        "created_at": "2007-04-02T03:42:14.000Z",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "baoyu.io",
+                "end": 23,
+                "expanded_url": "https://baoyu.io",
+                "start": 0,
+                "url": "https://t.co/icobX4A3Ae"
+              }
+            ]
+          }
+        },
+        "id": "3178231",
+        "location": "Chicago, IL",
+        "name": "宝玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123325,
+          "following_count": 1313,
+          "like_count": 27407,
+          "listed_count": 2039,
+          "media_count": 3956,
+          "tweet_count": 22355
+        },
+        "url": "https://t.co/icobX4A3Ae",
+        "username": "dotey",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-28T18:20:26.000Z",
+        "description": "十五年文字生活，现在主要学AI，用AI。\n探索生产级智能体，用 AI 跑通 360 行。\n产品有智能体和课，但热衷于卖课，梦想是当老师。\n技能：复刻任何一个自媒体博主的“形象”“声音”“文案”",
+        "id": "1597294270226092042",
+        "location": "合作微：surenjike0123",
+        "name": "素人极客-Amateur Geek",
+        "pinned_tweet_id": "1897608400843710642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600900605668491269/mqTJl9NA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2428,
+          "following_count": 467,
+          "like_count": 3568,
+          "listed_count": 29,
+          "media_count": 145,
+          "tweet_count": 3969
+        },
+        "username": "changli71829684",
+        "verified": false
+      }
+    ]
+  }
+}

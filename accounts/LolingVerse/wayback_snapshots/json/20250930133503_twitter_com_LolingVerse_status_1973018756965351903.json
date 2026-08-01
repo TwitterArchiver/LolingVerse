@@ -1,0 +1,515 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972981043427938304",
+        "3_1972981048758919170",
+        "3_1972981062033952768",
+        "3_1972981093596102656"
+      ],
+      "media_source_tweet_id": [
+        "1972981168460206218",
+        "1972981168460206218",
+        "1972981168460206218",
+        "1972981168460206218"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1973018756965351903",
+    "created_at": "2025-09-30T13:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T14:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973018756965351903"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 41,
+          "tag": "今月描いた絵を晒そう"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1194940920895959041",
+          "start": 3,
+          "username": "alterna2250678"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DYrNUOMLAT",
+          "end": 76,
+          "expanded_url": "https://x.com/alterna2250678/status/1972981168460206218/photo/1",
+          "media_key": "3_1972981043427938304",
+          "start": 53,
+          "url": "https://t.co/DYrNUOMLAT"
+        },
+        {
+          "display_url": "pic.x.com/DYrNUOMLAT",
+          "end": 76,
+          "expanded_url": "https://x.com/alterna2250678/status/1972981168460206218/photo/1",
+          "media_key": "3_1972981048758919170",
+          "start": 53,
+          "url": "https://t.co/DYrNUOMLAT"
+        },
+        {
+          "display_url": "pic.x.com/DYrNUOMLAT",
+          "end": 76,
+          "expanded_url": "https://x.com/alterna2250678/status/1972981168460206218/photo/1",
+          "media_key": "3_1972981062033952768",
+          "start": 53,
+          "url": "https://t.co/DYrNUOMLAT"
+        },
+        {
+          "display_url": "pic.x.com/DYrNUOMLAT",
+          "end": 76,
+          "expanded_url": "https://x.com/alterna2250678/status/1972981168460206218/photo/1",
+          "media_key": "3_1972981093596102656",
+          "start": 53,
+          "url": "https://t.co/DYrNUOMLAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973018756965351903",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972981168460206218",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @alterna2250678: えっちなスズランは…ありません！！！！！\n#今月描いた絵を晒そう https://t.co/DYrNUOMLAT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1363,
+        "media_key": "3_1972981043427938304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2FvzkIaEAAaCaY.jpg",
+        "width": 1270
+      },
+      {
+        "height": 1348,
+        "media_key": "3_1972981048758919170",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Fvz3_aYAIQWAc.jpg",
+        "width": 1016
+      },
+      {
+        "height": 1278,
+        "media_key": "3_1972981062033952768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Fv0pcbUAArs8B.jpg",
+        "width": 1249
+      },
+      {
+        "height": 1438,
+        "media_key": "3_1972981093596102656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Fv2fBbgAAollm.jpg",
+        "width": 1132
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972981043427938304",
+            "3_1972981048758919170",
+            "3_1972981062033952768",
+            "3_1972981093596102656"
+          ],
+          "media_source_tweet_id": [
+            "1972981168460206218",
+            "1972981168460206218",
+            "1972981168460206218",
+            "1972981168460206218"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1973018756965351903",
+        "created_at": "2025-09-30T13:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T14:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973018756965351903"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 41,
+              "tag": "今月描いた絵を晒そう"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1194940920895959041",
+              "start": 3,
+              "username": "alterna2250678"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DYrNUOMLAT",
+              "end": 76,
+              "expanded_url": "https://x.com/alterna2250678/status/1972981168460206218/photo/1",
+              "media_key": "3_1972981043427938304",
+              "start": 53,
+              "url": "https://t.co/DYrNUOMLAT"
+            },
+            {
+              "display_url": "pic.x.com/DYrNUOMLAT",
+              "end": 76,
+              "expanded_url": "https://x.com/alterna2250678/status/1972981168460206218/photo/1",
+              "media_key": "3_1972981048758919170",
+              "start": 53,
+              "url": "https://t.co/DYrNUOMLAT"
+            },
+            {
+              "display_url": "pic.x.com/DYrNUOMLAT",
+              "end": 76,
+              "expanded_url": "https://x.com/alterna2250678/status/1972981168460206218/photo/1",
+              "media_key": "3_1972981062033952768",
+              "start": 53,
+              "url": "https://t.co/DYrNUOMLAT"
+            },
+            {
+              "display_url": "pic.x.com/DYrNUOMLAT",
+              "end": 76,
+              "expanded_url": "https://x.com/alterna2250678/status/1972981168460206218/photo/1",
+              "media_key": "3_1972981093596102656",
+              "start": 53,
+              "url": "https://t.co/DYrNUOMLAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973018756965351903",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972981168460206218",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @alterna2250678: えっちなスズランは…ありません！！！！！\n#今月描いた絵を晒そう https://t.co/DYrNUOMLAT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972981043427938304",
+            "3_1972981048758919170",
+            "3_1972981062033952768",
+            "3_1972981093596102656"
+          ]
+        },
+        "author_id": "1194940920895959041",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          }
+        ],
+        "conversation_id": "1972981168460206218",
+        "created_at": "2025-09-30T11:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T12:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972981168460206218"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 21,
+              "tag": "今月描いた絵を晒そう"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DYrNUOMLAT",
+              "end": 56,
+              "expanded_url": "https://x.com/alterna2250678/status/1972981168460206218/photo/1",
+              "media_key": "3_1972981043427938304",
+              "start": 33,
+              "url": "https://t.co/DYrNUOMLAT"
+            },
+            {
+              "display_url": "pic.x.com/DYrNUOMLAT",
+              "end": 56,
+              "expanded_url": "https://x.com/alterna2250678/status/1972981168460206218/photo/1",
+              "media_key": "3_1972981048758919170",
+              "start": 33,
+              "url": "https://t.co/DYrNUOMLAT"
+            },
+            {
+              "display_url": "pic.x.com/DYrNUOMLAT",
+              "end": 56,
+              "expanded_url": "https://x.com/alterna2250678/status/1972981168460206218/photo/1",
+              "media_key": "3_1972981062033952768",
+              "start": 33,
+              "url": "https://t.co/DYrNUOMLAT"
+            },
+            {
+              "display_url": "pic.x.com/DYrNUOMLAT",
+              "end": 56,
+              "expanded_url": "https://x.com/alterna2250678/status/1972981168460206218/photo/1",
+              "media_key": "3_1972981093596102656",
+              "start": 33,
+              "url": "https://t.co/DYrNUOMLAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972981168460206218",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 968,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "えっちなスズランは…ありません！！！！！\n#今月描いた絵を晒そう https://t.co/DYrNUOMLAT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "『可怜楼上月徘徊，应照离人妆镜台』\n『身世浮沉雨打萍……一山放出一山拦』\n可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TMO0"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 71,
+          "like_count": 2480,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1276
+        },
+        "url": "https://t.co/Dggtj9TMO0",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-14T11:31:39.000Z",
+        "description": "お絵かきしています．アークナイツ，アズレンがメイン\nなおpixivや静画と異なりHNが異なりますが仕様なので問題ありません．\n@alane28660　はえっちな別垢だと思います",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "alane28660"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/27751195",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/27751195",
+                "start": 0,
+                "url": "https://t.co/8gVPzSDpHm"
+              }
+            ]
+          }
+        },
+        "id": "1194940920895959041",
+        "name": "おるたな(alane)@",
+        "pinned_tweet_id": "1968284550682829306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1463953063950307328/O2IKMBq4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2975,
+          "following_count": 359,
+          "like_count": 6420,
+          "listed_count": 28,
+          "media_count": 1015,
+          "tweet_count": 4556
+        },
+        "url": "https://t.co/8gVPzSDpHm",
+        "username": "alterna2250678",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597222535168",
+          "name": "Online Services - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "AWA",
+          "id": "1093973034975748096",
+          "name": "AWA"
+        }
+      }
+    ],
+    "conversation_id": "2027735192329392307",
+    "created_at": "2026-02-28T13:18:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T14:18:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027735192329392307"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YekaseSuiso202…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/YekaseSuiso2022/status/2006339765633962464",
+          "start": 8,
+          "url": "https://t.co/IK5z5hO7ll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027735192329392307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006339765633962464",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "awa，可爱的 https://t.co/IK5z5hO7ll"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2006339534058098688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9fzLRpbEAARn5h.png",
+        "width": 727
+      },
+      {
+        "height": 966,
+        "media_key": "3_2006339548415238144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9fzMHIboAATOmJ.jpg",
+        "width": 725
+      },
+      {
+        "height": 894,
+        "media_key": "3_2006339585341833216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9fzOQsawAAI8MW.jpg",
+        "width": 1192
+      },
+      {
+        "height": 966,
+        "media_key": "3_2006339597329215488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9fzO9WbsAA1Inn.jpg",
+        "width": 644
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "AWA",
+              "id": "1093973034975748096",
+              "name": "AWA"
+            }
+          }
+        ],
+        "conversation_id": "2027735192329392307",
+        "created_at": "2026-02-28T13:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T14:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027735192329392307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YekaseSuiso202…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/YekaseSuiso2022/status/2006339765633962464",
+              "start": 8,
+              "url": "https://t.co/IK5z5hO7ll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027735192329392307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006339765633962464",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "awa，可爱的 https://t.co/IK5z5hO7ll"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006339534058098688",
+            "3_2006339548415238144",
+            "3_2006339585341833216",
+            "3_2006339597329215488"
+          ]
+        },
+        "author_id": "1608781688775245825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2006339765633962464",
+        "created_at": "2025-12-31T12:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T13:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006339765633962464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vjOJausPwT",
+              "end": 150,
+              "expanded_url": "https://x.com/YekaseSuiso2022/status/2006339765633962464/photo/1",
+              "media_key": "3_2006339534058098688",
+              "start": 127,
+              "url": "https://t.co/vjOJausPwT"
+            },
+            {
+              "display_url": "pic.x.com/vjOJausPwT",
+              "end": 150,
+              "expanded_url": "https://x.com/YekaseSuiso2022/status/2006339765633962464/photo/1",
+              "media_key": "3_2006339548415238144",
+              "start": 127,
+              "url": "https://t.co/vjOJausPwT"
+            },
+            {
+              "display_url": "pic.x.com/vjOJausPwT",
+              "end": 150,
+              "expanded_url": "https://x.com/YekaseSuiso2022/status/2006339765633962464/photo/1",
+              "media_key": "3_2006339585341833216",
+              "start": 127,
+              "url": "https://t.co/vjOJausPwT"
+            },
+            {
+              "display_url": "pic.x.com/vjOJausPwT",
+              "end": 150,
+              "expanded_url": "https://x.com/YekaseSuiso2022/status/2006339765633962464/photo/1",
+              "media_key": "3_2006339597329215488",
+              "start": 127,
+              "url": "https://t.co/vjOJausPwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006339765633962464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "自介條1.0\n---------\nYekase Suiso(葉加瀬 水素)是我的網路名字，也許各位已經知道真實姓名了，但是叫這個名字還是會更可愛一些些w \n\n以前也叫過其他的，其中最喜歡的是みつき るり和石原真依(這是一個合成名，姓氏取自原賬號ID石原 椿，名則致敬喜歡的游戲《四目神》)，我其實更喜歡石原真依，也希望可以在未來跟石原老師恢復朋友關係（\n\n其實來自深圳，但也住過重慶和惠州。在小的時候喜歡研究多意識體、目前想成爲一個醫生...或者是程序員(這很棒)，性別是“武裝直升機”(這是一個中國玩笑)，其實嘛，我的性別就是你認爲的那個！\n\n喜歡醫療儀器和參考驗證平臺，有人送我這些我會很開心的，同時也在學習多種程式語言，希望可以在一年内出師。喜歡的IDE是JetBrains家的，感覺很蘋果唔，但是我笨笨，想要完全利用全部機能還需要再接再厲！\n\n至於精神病方面，我有ADHD、GD(性別煩躁)、ASD、BD(bipolar disorder)以及可能的精神分裂症。目前精神藥理學通關中...想要自己開藥物減害Wiki，有任何問題都可以問我！\n\n可代購藥物，但可能需要拼團，這很抱歉！\n\n基本熟悉PC調試和伺服器網絡系統搭建，熟悉各品牌帶外管理，熟悉參考驗證平臺4位跑馬含義和牙膏調試工具使用。有一定的PCB設計基礎，跑高頻眼圖好看。\n\n我是一個友好的人，你可以和我互動，但我不想和你們談論那傻逼的娛樂話題。沒有很好的語言表達，但我會盡量做好。\n\n目前打算做“梗圖公益”，就是用發梗圖的方式擴大自己的影響力，並利用影響力完成公益事業（如推友們的緊急籌款、防災信息通報等）。\n\n另外因爲醫療狀況需要捐款，各位可以掃描二維碼支持我...\n\n我知道在以前自己有很多錯誤，但目前都在改正...希望各位給我機會！\n---------\nPGP: 427A B130 000F 3BFD 2ECD AE8D F8FC 9454 F37C A318\nmail: YekaseSuiso2022@proton.me"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 15280,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "自介條1.0\n---------\nYekase Suiso(葉加瀬 水素)是我的網路名字，也許各位已經知道真實姓名了，但是叫這個名字還是會更可愛一些些w \n\n以前也叫過其他的，其中最喜歡的是みつき るり和石原真依(這是一個合成名，姓氏取自原賬號ID石原 https://t.co/vjOJausPwT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | 另一只猫猫 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 52,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Hydrogen.洛铃🍥Magic Caster",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 111,
+          "like_count": 9632,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 2539
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-30T11:07:57.000Z",
+        "description": "MtF🏳️‍⚧️ //前ΟΣΙΝΤ情报分析专家//Shadow Scholars//網警退散!//profile picture by @TamikoTomorika //Wife @LolingVerse @nozomixlr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "TamikoTomorika"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "LolingVerse"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "nozomixlr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Tomorika2022_P…",
+                "end": 23,
+                "expanded_url": "https://t.me/Tomorika2022_Plus",
+                "start": 0,
+                "url": "https://t.co/pTlElnNjOI"
+              }
+            ]
+          }
+        },
+        "id": "1608781688775245825",
+        "location": "Minato-ku, Tokyo",
+        "name": "Tomorika Suiso🍨🍥",
+        "pinned_tweet_id": "2006339765633962464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012947348591190017/Y7h9TXGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 493,
+          "like_count": 2796,
+          "listed_count": 6,
+          "media_count": 195,
+          "tweet_count": 726
+        },
+        "url": "https://t.co/pTlElnNjOI",
+        "username": "YekaseSuiso2022",
+        "verified": true
+      }
+    ]
+  }
+}

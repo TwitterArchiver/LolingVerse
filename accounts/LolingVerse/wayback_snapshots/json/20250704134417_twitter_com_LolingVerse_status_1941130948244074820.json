@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1941130948244074820",
+    "created_at": "2025-07-04T13:44:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T14:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941130948244074820"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/saonanaa/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/saonanaa/status/1941121029960823174",
+          "start": 11,
+          "url": "https://t.co/b9prKlFfmY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941130948244074820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941121029960823174",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "羡慕你们一切………… https://t.co/b9prKlFfmY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1941130948244074820",
+        "created_at": "2025-07-04T13:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T14:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941130948244074820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/saonanaa/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/saonanaa/status/1941121029960823174",
+              "start": 11,
+              "url": "https://t.co/b9prKlFfmY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941130948244074820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941121029960823174",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "羡慕你们一切………… https://t.co/b9prKlFfmY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "1941121029960823174",
+        "created_at": "2025-07-04T13:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T14:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941121029960823174"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941121029960823174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎真羡慕你们这些有钱有闲走天南观海北的人\n哎真羡慕你们这些长得这么好看的大明星\n\n我好废物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 63,
+          "like_count": 1516,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 699
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "就这么做",
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937167378510426116/OYo5MO_K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3623,
+          "following_count": 370,
+          "like_count": 25228,
+          "listed_count": 12,
+          "media_count": 1565,
+          "tweet_count": 13680
+        },
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

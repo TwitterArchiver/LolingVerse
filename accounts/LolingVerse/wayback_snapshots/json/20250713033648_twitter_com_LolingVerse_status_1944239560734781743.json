@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944057212449828865"
+      ],
+      "media_source_tweet_id": [
+        "1944147756878331938"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1944239560734781743",
+    "created_at": "2025-07-13T03:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T04:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944239560734781743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "930084252758065153",
+          "start": 3,
+          "username": "Genzoh1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/96bCNxq50V",
+          "end": 39,
+          "expanded_url": "https://x.com/Genzoh1/status/1944147756878331938/photo/1",
+          "media_key": "3_1944057212449828865",
+          "start": 16,
+          "url": "https://t.co/96bCNxq50V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944239560734781743",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944147756878331938",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Genzoh1: GM https://t.co/96bCNxq50V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1944057212449828865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvqtvBMbsAEahwT.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944057212449828865"
+          ],
+          "media_source_tweet_id": [
+            "1944147756878331938"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1944239560734781743",
+        "created_at": "2025-07-13T03:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T04:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944239560734781743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "930084252758065153",
+              "start": 3,
+              "username": "Genzoh1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/96bCNxq50V",
+              "end": 39,
+              "expanded_url": "https://x.com/Genzoh1/status/1944147756878331938/photo/1",
+              "media_key": "3_1944057212449828865",
+              "start": 16,
+              "url": "https://t.co/96bCNxq50V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944239560734781743",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944147756878331938",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Genzoh1: GM https://t.co/96bCNxq50V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944057212449828865"
+          ]
+        },
+        "author_id": "930084252758065153",
+        "conversation_id": "1944147756878331938",
+        "created_at": "2025-07-12T21:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T22:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944147756878331938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/96bCNxq50V",
+              "end": 26,
+              "expanded_url": "https://x.com/Genzoh1/status/1944147756878331938/photo/1",
+              "media_key": "3_1944057212449828865",
+              "start": 3,
+              "url": "https://t.co/96bCNxq50V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944147756878331938",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 6725,
+          "like_count": 429,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "GM https://t.co/96bCNxq50V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 63,
+          "like_count": 1604,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 743
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-13T14:45:40.000Z",
+        "description": "「シンギュラリティを楽しもう」をコンセプトに、GenAIで遊んでいます！ 時代の流れが速すぎる..\nI’m having fun w/ GenAI under the concept of \"Enjoy the Singularity!\" The tide of the times is just too fast..",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/genzoh",
+                "end": 23,
+                "expanded_url": "https://lit.link/genzoh",
+                "start": 0,
+                "url": "https://t.co/c4o9DRvmwp"
+              }
+            ]
+          }
+        },
+        "id": "930084252758065153",
+        "location": "東京",
+        "name": "Genzoh",
+        "pinned_tweet_id": "1943097844203950111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900766210201186305/QdNJQhj8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17124,
+          "following_count": 2491,
+          "like_count": 25043,
+          "listed_count": 93,
+          "media_count": 3131,
+          "tweet_count": 14112
+        },
+        "url": "https://t.co/c4o9DRvmwp",
+        "username": "Genzoh1",
+        "verified": true
+      }
+    ]
+  }
+}

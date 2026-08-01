@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2007751553944560126",
+    "created_at": "2026-01-04T09:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T10:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007751553944560126"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "澄葵",
+          "probability": 0.5263,
+          "start": 37,
+          "type": "Person"
+        },
+        {
+          "end": 112,
+          "normalized_text": "澄先生",
+          "probability": 0.3765,
+          "start": 110,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1608781688775245825",
+          "start": 3,
+          "username": "YekaseSuiso2022"
+        },
+        {
+          "end": 47,
+          "id": "1902568136450424832",
+          "start": 40,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007751553944560126",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006781522557460507",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YekaseSuiso2022: この度、杭州にいる1人の教師、三澄葵 @aoim33\n 先生の要望を応じて、私が彼と共に深圳日本人学校の殺人事件でお亡くなった小学のお坊ちゃんに心から深くご冥福をお祈りします\n三澄先生は大学からずっと日中友好と世界平和の願いを唱ています…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2006781507118260224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9mFJfmbYAAC2ds.jpg",
+        "width": 3200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2007751553944560126",
+        "created_at": "2026-01-04T09:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T10:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007751553944560126"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "澄葵",
+              "probability": 0.5263,
+              "start": 37,
+              "type": "Person"
+            },
+            {
+              "end": 112,
+              "normalized_text": "澄先生",
+              "probability": 0.3765,
+              "start": 110,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1608781688775245825",
+              "start": 3,
+              "username": "YekaseSuiso2022"
+            },
+            {
+              "end": 47,
+              "id": "1902568136450424832",
+              "start": 40,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007751553944560126",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006781522557460507",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YekaseSuiso2022: この度、杭州にいる1人の教師、三澄葵 @aoim33\n 先生の要望を応じて、私が彼と共に深圳日本人学校の殺人事件でお亡くなった小学のお坊ちゃんに心から深くご冥福をお祈りします\n三澄先生は大学からずっと日中友好と世界平和の願いを唱ています…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006781507118260224"
+          ]
+        },
+        "author_id": "1608781688775245825",
+        "conversation_id": "2006781522557460507",
+        "created_at": "2026-01-01T17:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T18:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006781522557460507"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "澄葵",
+              "probability": 0.488,
+              "start": 16,
+              "type": "Person"
+            },
+            {
+              "end": 91,
+              "normalized_text": "三澄先生",
+              "probability": 0.3301,
+              "start": 88,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1902568136450424832",
+              "start": 19,
+              "username": "aoim33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AIBFkLqOGn",
+              "end": 143,
+              "expanded_url": "https://x.com/YekaseSuiso2022/status/2006781522557460507/photo/1",
+              "media_key": "3_2006781507118260224",
+              "start": 120,
+              "url": "https://t.co/AIBFkLqOGn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006781522557460507",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 26,
+                "id": "1902568136450424832",
+                "start": 19,
+                "username": "aoim33"
+              }
+            ]
+          },
+          "text": "この度、杭州にいる1人の教師、三澄葵 @aoim33\n 先生の要望を応じて、私が彼と共に深圳日本人学校の殺人事件でお亡くなった小学のお坊ちゃんに心から深くご冥福をお祈りします\n三澄先生は大学からずっと日中友好と世界平和の願いを唱ていますが\nそのためある中国の反日ネトヨウから深く迷惑をかけ、大学での日常生活も彼らに影響されていました\n私は彼と同じ意見を持っていて、いつも中国、日本、そしてアジア太平洋地域の国間・民間交流が順調に、政治観点を問わずに過ごせますようと祈っています\nでも今中国は、外国人排除の理論は盛り上がっていて、いつも「国交友好」を持っている普通の人々、大学で外国語を勉強している普通の学生たちに暴言や嘘を散らし、ツイートの中で彼らの観点に合わない部分までカットして学校で先生への通報メールも送りました\nそれぞれは長い間前のこと、彼、そして私の生活に、もう影響していますが\n私は、彼がこんな緊張な時点でも、最初の心意をもう持っていることを信じています\n私もずっと彼の後ろについてきて、事実を語り、世界のすべての美しさのために戦います\n\n令和6年9月19日 Tsuki"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2293,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "この度、杭州にいる1人の教師、三澄葵 @aoim33\n 先生の要望を応じて、私が彼と共に深圳日本人学校の殺人事件でお亡くなった小学のお坊ちゃんに心から深くご冥福をお祈りします\n三澄先生は大学からずっと日中友好と世界平和の願いを唱ていますが https://t.co/AIBFkLqOGn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153/48 | 没诗硬吟  | Fox | 另一只猫猫 @YekaseSuiso2022\n\n走过路过不要错过，填写一下《无处方HRT与医疗指导下规范HRT对中国跨性别女性抑郁和自杀意念的调节效应》喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "Suism.洛铃",
+        "pinned_tweet_id": "2006674484762443890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 89,
+          "like_count": 6142,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 2095
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-30T11:07:57.000Z",
+        "description": "15岁的前币圈玩家，谁的附庸？\nbitget一生推 | All in crypto | 10年生 | 前币圈韭菜 | 技术分析 | Osint | 2024 A8 ➡️ 2025 -A4 | 丢私钥.爆仓.出局 | 大狐狸 @LolingVerse |done...\n「crypto是无数次的谎话，吊唁着幼稚的信念」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 112,
+                "username": "LolingVerse"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yekasesuiso-dev.github.io",
+                "end": 23,
+                "expanded_url": "https://yekasesuiso-dev.github.io/",
+                "start": 0,
+                "url": "https://t.co/v7gcXNWizW"
+              }
+            ]
+          }
+        },
+        "id": "1608781688775245825",
+        "location": "NekoDay/「你知道Ishihara Mayi吗？」",
+        "name": "葉加瀬 水素Yekase Suiso🍨",
+        "pinned_tweet_id": "2006339765633962464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001970485001940992/Psvr8hfy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 386,
+          "like_count": 1954,
+          "listed_count": 5,
+          "media_count": 114,
+          "tweet_count": 373
+        },
+        "url": "https://t.co/v7gcXNWizW",
+        "username": "YekaseSuiso2022",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 ASD 撮影 音ゲー 男ママ US market / Arcaea PTT 11.06 maimai 13,689 / CN EN JP / @supernovaArcaea team member / telegram ch ⬇️ / 無言フォロー失礼 / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 88,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 157,
+                "start": 150,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 2025,
+          "like_count": 24836,
+          "listed_count": 5,
+          "media_count": 1207,
+          "tweet_count": 5444
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

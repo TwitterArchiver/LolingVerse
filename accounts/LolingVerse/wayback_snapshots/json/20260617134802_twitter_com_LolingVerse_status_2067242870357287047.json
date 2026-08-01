@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067242860823633920",
+        "3_2067242860815196160"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067231084467880137",
+    "created_at": "2026-06-17T13:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067242870357287047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kzaUGz72uE",
+          "end": 104,
+          "expanded_url": "https://x.com/LolingVerse/status/2067242870357287047/photo/1",
+          "media_key": "3_2067242860823633920",
+          "start": 81,
+          "url": "https://t.co/kzaUGz72uE"
+        },
+        {
+          "display_url": "pic.x.com/kzaUGz72uE",
+          "end": 104,
+          "expanded_url": "https://x.com/LolingVerse/status/2067242870357287047/photo/1",
+          "media_key": "3_2067242860815196160",
+          "start": 81,
+          "url": "https://t.co/kzaUGz72uE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067242870357287047",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067231084467880137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 时间相似，均为跨跨，均海底捞，均高杠杆+cny本位，如果有之前手机ui可以对比一下或盒一盒bilibili😁\n\n其实……可能性大 https://t.co/kzaUGz72uE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067242860823633920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBSbd_a4AAvBdJ.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067242860815196160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBSbd9aIAAbdqE.jpg",
+        "width": 947
+      },
+      {
+        "height": 864,
+        "media_key": "3_2067226531517390848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBDk-lbYAAdEII.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067242860823633920",
+            "3_2067242860815196160"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067231084467880137",
+        "created_at": "2026-06-17T13:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067242870357287047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kzaUGz72uE",
+              "end": 104,
+              "expanded_url": "https://x.com/LolingVerse/status/2067242870357287047/photo/1",
+              "media_key": "3_2067242860823633920",
+              "start": 81,
+              "url": "https://t.co/kzaUGz72uE"
+            },
+            {
+              "display_url": "pic.x.com/kzaUGz72uE",
+              "end": 104,
+              "expanded_url": "https://x.com/LolingVerse/status/2067242870357287047/photo/1",
+              "media_key": "3_2067242860815196160",
+              "start": 81,
+              "url": "https://t.co/kzaUGz72uE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067242870357287047",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067231084467880137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 时间相似，均为跨跨，均海底捞，均高杠杆+cny本位，如果有之前手机ui可以对比一下或盒一盒bilibili😁\n\n其实……可能性大 https://t.co/kzaUGz72uE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067226531517390848"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2067231084467880137",
+        "created_at": "2026-06-17T13:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067231084467880137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MSxHWIaZit",
+              "end": 185,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2067231084467880137/photo/1",
+              "media_key": "3_2067226531517390848",
+              "start": 162,
+              "url": "https://t.co/MSxHWIaZit"
+            },
+            {
+              "display_url": "x.com/9o0xru/status/…",
+              "end": 209,
+              "expanded_url": "https://twitter.com/9o0xru/status/2066960015773356432",
+              "start": 186,
+              "url": "https://t.co/F5dgdgvFcT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067231084467880137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这个人如果与環状線于 5 月 7 日切割的 HuamanX09 是一个人的话，那么此自杀讣告为真的可能性比较低。\n\n一方面，HuamanX09 在環状線与之切割以前，就多次提到要轻生，但是一直都没有真正行动过。\n\n另一方面，HuamanX09 所在城市目前为止还没有任何符合其外貌描述的人的轻生案件的报道或传闻。\n\n还请各 位推友谨慎表示哀悼。但如果此讣告为实，那么環状線也将表示哀悼。同时奉劝各位，没有足够金融知识的不要接触高杠杆合约，切记此行为与赌博没有任何区别！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 935,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066960015773356432",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个人如果与環状線于 5 月 7 日切割的 HuamanX09 是一个人的话，那么此自杀讣告为真的可能性比较低。\n\n一方面，HuamanX09 在環状線与之切割以前，就多次提到要轻生，但是一直都没有真正行动过。\n\n另一方面，HuamanX09 所在城市目前为止还没有任何符合其外貌描述的人的轻生案件的报道或传闻。\n\n还请各 https://t.co/MSxHWIaZit https://t.co/F5dgdgvFcT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZFvr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZFvr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster 和另外 114514 人",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 149,
+          "like_count": 22097,
+          "listed_count": 3,
+          "media_count": 285,
+          "tweet_count": 3861
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6852,
+          "following_count": 871,
+          "like_count": 26633,
+          "listed_count": 12,
+          "media_count": 1542,
+          "tweet_count": 8270
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

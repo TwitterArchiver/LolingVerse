@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1901554972690612381",
+    "created_at": "2025-03-19T05:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T06:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902233228272152986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "91001699",
+          "start": 0,
+          "username": "halfamonk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902233228272152986",
+    "in_reply_to_user_id": "91001699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901554972690612381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@halfamonk 第一反应：嗯，很正常的操作啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1901554972690612381",
+        "created_at": "2025-03-19T05:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T06:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902233228272152986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "91001699",
+              "start": 0,
+              "username": "halfamonk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902233228272152986",
+        "in_reply_to_user_id": "91001699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901554972690612381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@halfamonk 第一反应：嗯，很正常的操作啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "91001699",
+        "conversation_id": "1901554972690612381",
+        "created_at": "2025-03-17T08:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T09:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901554972690612381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901554972690612381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 82055,
+          "like_count": 287,
+          "quote_count": 6,
+          "reply_count": 75,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "等等，所以spring boot的“依赖注入”就是在程序启动的时候，先把所有注释的类过一遍，放到一个巨大的map里去，然后再到所有的class里面找第二遍，看看谁的内部声明说用了谁，从map里，根据class的名字string，找到类，拿出来，塞需要的class里去？\n\ntm离谱（  这种灵活程度堪比我在python里eval（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "",
+        "id": "1836041585475346432",
+        "name": "TeaWhat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836043660175269888/D4L90j0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 21,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-19T00:56:50.000Z",
+        "description": "- 程序猿 Python / Golang \n- 伪宅=faked otaku=ゴミ箱 \n- 冒名顶替症候群 | 自信缺乏症候群 | 拖延症晚期 \n- 4杯咖啡/天 \n- 有着自认为远大的想法和向其努力的决心\n- Aiming Guru\n- Stoicism | Optimistic Nihilism",
+        "id": "91001699",
+        "name": "HalfAMonk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1129263300754075649/nl9XvhHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 478,
+          "like_count": 12848,
+          "listed_count": 15,
+          "media_count": 1835,
+          "tweet_count": 21464
+        },
+        "username": "halfamonk",
+        "verified": false
+      }
+    ]
+  }
+}

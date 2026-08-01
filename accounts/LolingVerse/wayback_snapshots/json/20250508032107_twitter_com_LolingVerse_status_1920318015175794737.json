@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1919645756845391876"
+      ],
+      "media_source_tweet_id": [
+        "1919645831126515788"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1920318015175794737",
+    "created_at": "2025-05-08T03:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T04:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920318015175794737"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 53,
+          "tag": "女装男子"
+        },
+        {
+          "end": 62,
+          "start": 59,
+          "tag": "男娘"
+        },
+        {
+          "end": 68,
+          "start": 63,
+          "tag": "メイド服"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "971903215854899200",
+          "start": 3,
+          "username": "PUXIU1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r1vP7ULquR",
+          "end": 92,
+          "expanded_url": "https://x.com/PUXIU1/status/1919645831126515788/video/1",
+          "media_key": "13_1919645756845391876",
+          "start": 69,
+          "url": "https://t.co/r1vP7ULquR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920318015175794737",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919645831126515788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PUXIU1: お嬢様、it’s time to go to bed、やれやれ～\n\n（临时发癫\n\n#女装男子 #男娘 #メイド服 https://t.co/r1vP7ULquR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7230,
+        "height": 1440,
+        "media_key": "13_1919645756845391876",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1919645756845391876/img/q3AwweF62BfIIXz0.jpg",
+        "public_metrics": {
+          "view_count": 11505
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1919645756845391876/vid/avc1/720x960/aqpgZAyeqPYuIRaT.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1919645756845391876/vid/avc1/320x426/0lJF_FPlTEj63wnm.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1919645756845391876/vid/avc1/1080x1440/5pjPBzUQDA7QvF9f.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1919645756845391876/pl/oZN-dCGFysO0cmpJ.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1919645756845391876/vid/avc1/480x640/ZQZg9R13nW5PxprB.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 7230,
+        "height": 1440,
+        "media_key": "13_1919645756845391876",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1919645756845391876/img/q3AwweF62BfIIXz0.jpg",
+        "public_metrics": {
+          "view_count": 11509
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1919645756845391876/vid/avc1/720x960/aqpgZAyeqPYuIRaT.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1919645756845391876/vid/avc1/320x426/0lJF_FPlTEj63wnm.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1919645756845391876/vid/avc1/1080x1440/5pjPBzUQDA7QvF9f.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1919645756845391876/pl/oZN-dCGFysO0cmpJ.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1919645756845391876/vid/avc1/480x640/ZQZg9R13nW5PxprB.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1919645756845391876"
+          ],
+          "media_source_tweet_id": [
+            "1919645831126515788"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1920318015175794737",
+        "created_at": "2025-05-08T03:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T04:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920318015175794737"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "女装男子"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "男娘"
+            },
+            {
+              "end": 68,
+              "start": 63,
+              "tag": "メイド服"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "971903215854899200",
+              "start": 3,
+              "username": "PUXIU1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r1vP7ULquR",
+              "end": 92,
+              "expanded_url": "https://x.com/PUXIU1/status/1919645831126515788/video/1",
+              "media_key": "13_1919645756845391876",
+              "start": 69,
+              "url": "https://t.co/r1vP7ULquR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920318015175794737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919645831126515788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PUXIU1: お嬢様、it’s time to go to bed、やれやれ～\n\n（临时发癫\n\n#女装男子 #男娘 #メイド服 https://t.co/r1vP7ULquR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1919645756845391876"
+          ]
+        },
+        "author_id": "971903215854899200",
+        "conversation_id": "1919645831126515788",
+        "created_at": "2025-05-06T06:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T07:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919645831126515788"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "女装男子"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "男娘"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "メイド服"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r1vP7ULquR",
+              "end": 80,
+              "expanded_url": "https://x.com/PUXIU1/status/1919645831126515788/video/1",
+              "media_key": "13_1919645756845391876",
+              "start": 57,
+              "url": "https://t.co/r1vP7ULquR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919645831126515788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 47490,
+          "like_count": 547,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "お嬢様、it’s time to go to bed、やれやれ～\n\n（临时发癫\n\n#女装男子 #男娘 #メイド服 https://t.co/r1vP7ULquR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 54,
+          "like_count": 790,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 414
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-09T00:19:18.000Z",
+        "description": "雑魚女装男子/重加工",
+        "id": "971903215854899200",
+        "location": "Tokyo-to, Japan",
+        "name": "Noora閑鯤",
+        "pinned_tweet_id": "1833752700854681700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854622111329140736/YcAGCban_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29783,
+          "following_count": 337,
+          "like_count": 3587,
+          "listed_count": 223,
+          "media_count": 82,
+          "tweet_count": 201
+        },
+        "username": "PUXIU1",
+        "verified": true
+      }
+    ]
+  }
+}

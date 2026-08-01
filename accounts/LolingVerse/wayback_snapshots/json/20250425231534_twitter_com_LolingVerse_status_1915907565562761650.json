@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1915385973250355679",
+    "created_at": "2025-04-25T23:15:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T00:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915907565562761650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1873032888050171907",
+          "start": 0,
+          "username": "urabonra_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915907565562761650",
+    "in_reply_to_user_id": "1873032888050171907",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915385973250355679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@urabonra_ how did the tail move? electric? muscle?"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2966,
+        "height": 1280,
+        "media_key": "13_1915385915520016389",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1915385915520016389/img/1LjO7KOct7gbmkc2.jpg",
+        "public_metrics": {
+          "view_count": 8038
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915385915520016389/vid/avc1/320x568/51Pg_KG99-wGLFdg.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915385915520016389/vid/avc1/480x852/vOoljdAcPvwgb6MV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915385915520016389/vid/avc1/720x1280/wDScOd5edW41eRE0.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1915385915520016389/pl/b2xoOwVQQAbm-yev.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1915385973250355679",
+        "created_at": "2025-04-25T23:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T00:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915907565562761650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1873032888050171907",
+              "start": 0,
+              "username": "urabonra_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915907565562761650",
+        "in_reply_to_user_id": "1873032888050171907",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915385973250355679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@urabonra_ how did the tail move? electric? muscle?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1915385915520016389"
+          ]
+        },
+        "author_id": "1873032888050171907",
+        "conversation_id": "1915385973250355679",
+        "created_at": "2025-04-24T12:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T13:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915385973250355679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nmAUu7PUFB",
+              "end": 30,
+              "expanded_url": "https://x.com/urabonra_/status/1915385973250355679/video/1",
+              "media_key": "13_1915385915520016389",
+              "start": 7,
+              "url": "https://t.co/nmAUu7PUFB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915385973250355679",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 246,
+          "impression_count": 27412,
+          "like_count": 1862,
+          "quote_count": 8,
+          "reply_count": 18,
+          "retweet_count": 143
+        },
+        "reply_settings": "everyone",
+        "text": "これみて~~ https://t.co/nmAUu7PUFB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟 | 深柜",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 49,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 347
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T15:47:02.000Z",
+        "description": "(ˆ꜆ . ̫ . ). ̫ . ꜀ˆ)",
+        "id": "1873032888050171907",
+        "location": "インターネット",
+        "name": "ボンラ",
+        "pinned_tweet_id": "1914497080355381720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902543723604623360/D3sRTFaQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3597,
+          "following_count": 184,
+          "like_count": 822,
+          "listed_count": 17,
+          "media_count": 46,
+          "tweet_count": 252
+        },
+        "username": "urabonra_",
+        "verified": false
+      }
+    ]
+  }
+}

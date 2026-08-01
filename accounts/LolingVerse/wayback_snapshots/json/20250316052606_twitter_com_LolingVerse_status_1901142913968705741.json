@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1901142913968705741",
+    "created_at": "2025-03-16T05:26:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T06:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901142913968705741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1767139045774360576",
+          "start": 3,
+          "username": "gu4327053743275"
+        },
+        {
+          "end": 33,
+          "id": "1448187795571286017",
+          "start": 21,
+          "username": "shuiyebush1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901142913968705741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900777494208287189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gu4327053743275: @shuiyebush1 那只能信飞天意大利面了😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1901142913968705741",
+        "created_at": "2025-03-16T05:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T06:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901142913968705741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1767139045774360576",
+              "start": 3,
+              "username": "gu4327053743275"
+            },
+            {
+              "end": 33,
+              "id": "1448187795571286017",
+              "start": 21,
+              "username": "shuiyebush1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901142913968705741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900777494208287189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gu4327053743275: @shuiyebush1 那只能信飞天意大利面了😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767139045774360576",
+        "conversation_id": "1900747164705505490",
+        "created_at": "2025-03-15T05:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T06:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900777494208287189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1448187795571286017",
+              "start": 0,
+              "username": "shuiyebush1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900777494208287189",
+        "in_reply_to_user_id": "1448187795571286017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2192,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900747164705505490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuiyebush1 那只能信飞天意大利面了😭😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "",
+        "id": "1836041585475346432",
+        "name": "TeaWhat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836043660175269888/D4L90j0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 20,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T10:42:45.000Z",
+        "description": "别苦着脸了，来喝一杯吧",
+        "id": "1767139045774360576",
+        "name": "绝缘栅双极晶体管",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881611531432992768/ePUo-KIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 195,
+          "like_count": 15028,
+          "listed_count": 0,
+          "media_count": 521,
+          "tweet_count": 11926
+        },
+        "username": "gu4327053743275",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T07:24:21.000Z",
+        "description": "爱人是@FlowersRainFall",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "FlowersRainFall"
+              }
+            ]
+          }
+        },
+        "id": "1448187795571286017",
+        "name": "清水",
+        "pinned_tweet_id": "1882740769926369783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900774021362483200/RYkMvnZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5187,
+          "following_count": 589,
+          "like_count": 42327,
+          "listed_count": 17,
+          "media_count": 2143,
+          "tweet_count": 15886
+        },
+        "username": "shuiyebush1",
+        "verified": false
+      }
+    ]
+  }
+}

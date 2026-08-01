@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1918176228621905975",
+    "created_at": "2025-05-02T05:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T06:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918176228621905975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "854250925480845312",
+          "start": 3,
+          "username": "liulingyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918176228621905975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917973440897888686",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liulingyue: 然而在现实中，哪怕仅相距0.5米，分辨性别的维度却也只是发型、声音和甚至是次要的面容。毕竟对于绝大多数人来说，我们只是擦肩而过的陌生人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1918176228621905975",
+        "created_at": "2025-05-02T05:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T06:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918176228621905975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "854250925480845312",
+              "start": 3,
+              "username": "liulingyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918176228621905975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917973440897888686",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liulingyue: 然而在现实中，哪怕仅相距0.5米，分辨性别的维度却也只是发型、声音和甚至是次要的面容。毕竟对于绝大多数人来说，我们只是擦肩而过的陌生人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "854250925480845312",
+        "conversation_id": "1917973439111135528",
+        "created_at": "2025-05-01T16:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T17:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917973440897888686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917973440897888686",
+        "in_reply_to_user_id": "854250925480845312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917973439111135528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然而在现实中，哪怕仅相距0.5米，分辨性别的维度却也只是发型、声音和甚至是次要的面容。毕竟对于绝大多数人来说，我们只是擦肩而过的陌生人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟 | 深柜",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 54,
+          "like_count": 729,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 383
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-18T08:31:06.000Z",
+        "description": "速来接我回火星",
+        "id": "854250925480845312",
+        "name": "panchiao🚩🏴🏴‍☠️🏳️‍⚧️🏳‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907841751840337924/31LJRKV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2586,
+          "following_count": 1417,
+          "like_count": 17657,
+          "listed_count": 9,
+          "media_count": 849,
+          "tweet_count": 7980
+        },
+        "username": "liulingyue",
+        "verified": false
+      }
+    ]
+  }
+}

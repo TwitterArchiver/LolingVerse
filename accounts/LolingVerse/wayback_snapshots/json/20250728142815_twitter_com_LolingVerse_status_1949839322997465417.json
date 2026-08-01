@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949801826272116736"
+      ],
+      "media_source_tweet_id": [
+        "1949801835100815789"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1949839322997465417",
+    "created_at": "2025-07-28T14:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T15:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949839322997465417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1719862004314456064",
+          "start": 3,
+          "username": "Dp9vQadlFu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KtJMPi3X78",
+          "end": 39,
+          "expanded_url": "https://x.com/Dp9vQadlFu/status/1949801835100815789/photo/1",
+          "media_key": "3_1949801826272116736",
+          "start": 16,
+          "url": "https://t.co/KtJMPi3X78"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949839322997465417",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949801835100815789",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dp9vQadlFu: https://t.co/KtJMPi3X78"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_1949801826272116736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw8WbjVbgAAKq74.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949801826272116736"
+          ],
+          "media_source_tweet_id": [
+            "1949801835100815789"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1949839322997465417",
+        "created_at": "2025-07-28T14:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T15:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949839322997465417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1719862004314456064",
+              "start": 3,
+              "username": "Dp9vQadlFu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KtJMPi3X78",
+              "end": 39,
+              "expanded_url": "https://x.com/Dp9vQadlFu/status/1949801835100815789/photo/1",
+              "media_key": "3_1949801826272116736",
+              "start": 16,
+              "url": "https://t.co/KtJMPi3X78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949839322997465417",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949801835100815789",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dp9vQadlFu: https://t.co/KtJMPi3X78"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949801826272116736"
+          ]
+        },
+        "author_id": "1719862004314456064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1949801835100815789",
+        "created_at": "2025-07-28T11:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T12:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949801835100815789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KtJMPi3X78",
+              "end": 23,
+              "expanded_url": "https://x.com/Dp9vQadlFu/status/1949801835100815789/photo/1",
+              "media_key": "3_1949801826272116736",
+              "start": 0,
+              "url": "https://t.co/KtJMPi3X78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949801835100815789",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 870,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KtJMPi3X78"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 65,
+          "like_count": 1863,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 920
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-01T23:40:48.000Z",
+        "description": "鳴上響のサブ垢です🍀 イラストの使用は許可しません❌イラストは全てAIイラストです。メイン復活しました→メイン垢@P0gvmL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 56,
+                "username": "P0gvmL"
+              }
+            ]
+          }
+        },
+        "id": "1719862004314456064",
+        "name": "ナルカミ ヒビキ",
+        "pinned_tweet_id": "1948304264889315752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875410941967527937/ur-NWw_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5414,
+          "following_count": 971,
+          "like_count": 51552,
+          "listed_count": 47,
+          "media_count": 3861,
+          "tweet_count": 6619
+        },
+        "username": "Dp9vQadlFu",
+        "verified": false
+      }
+    ]
+  }
+}

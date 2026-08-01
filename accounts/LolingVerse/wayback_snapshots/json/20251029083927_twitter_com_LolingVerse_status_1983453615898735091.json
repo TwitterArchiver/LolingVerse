@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "1983453615898735091",
+    "created_at": "2025-10-29T08:39:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T09:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983453615898735091"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HiTw93/status/…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/HiTw93/status/1982591823982772528",
+          "start": 20,
+          "url": "https://t.co/4oiPYDo9KE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983453615898735091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982591823982772528",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但是洛铃会想要房子，洛铃想要一个窝…… https://t.co/4oiPYDo9KE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2332,
+        "media_key": "3_1982077966541570048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4HBaLjWwAAcnDV.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1983453615898735091",
+        "created_at": "2025-10-29T08:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T09:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983453615898735091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HiTw93/status/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/HiTw93/status/1982591823982772528",
+              "start": 20,
+              "url": "https://t.co/4oiPYDo9KE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983453615898735091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982591823982772528",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是洛铃会想要房子，洛铃想要一个窝…… https://t.co/4oiPYDo9KE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982077966541570048"
+          ]
+        },
+        "author_id": "1521688129559613440",
+        "conversation_id": "1982591823982772528",
+        "created_at": "2025-10-26T23:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T00:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982591823982772528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtube.com/watch?v=7SPlgU…",
+              "end": 157,
+              "expanded_url": "https://www.youtube.com/watch?v=7SPlgULN41",
+              "start": 134,
+              "status": 200,
+              "title": "- YouTube",
+              "unwound_url": "https://www.youtube.com/watch?v=7SPlgULN41",
+              "url": "https://t.co/MZRF1LckbL"
+            },
+            {
+              "display_url": "pic.x.com/m2M61fwCv7",
+              "end": 181,
+              "expanded_url": "https://x.com/HiTw93/status/1982591823982772528/photo/1",
+              "media_key": "3_1982077966541570048",
+              "start": 158,
+              "url": "https://t.co/m2M61fwCv7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982591823982772528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1138,
+          "impression_count": 204613,
+          "like_count": 1137,
+          "quote_count": 5,
+          "reply_count": 31,
+          "retweet_count": 239
+        },
+        "reply_settings": "everyone",
+        "text": "付鹏这个「资产大洗牌，钱往哪里投」的 Youtube 视频非常值得一看，讲清楚了不少当前国内的实际情况，比如说经济增长将更多依赖人口质量（教育、技能、消费能力）而非数量，未来买房逻辑只看两点是否靠近城市核心 &amp; 房龄是否够新等等观念，以及未来如何更好的投资。\nhttps://t.co/MZRF1LckbL https://t.co/m2M61fwCv7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "『可怜楼上月徘徊，应照离人妆镜台』\n『身世浮沉雨打萍……一山放出一山拦』\n可爱赞美者，世界探索者 | \n155/47 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TeYs"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 距你 2.718 km",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 75,
+          "like_count": 3358,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1530
+        },
+        "url": "https://t.co/Dggtj9TeYs",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T03:08:23.000Z",
+        "description": "Father of Pake • MiaoYan • Mole",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/tw93",
+                "end": 23,
+                "expanded_url": "https://github.com/tw93",
+                "start": 0,
+                "url": "https://t.co/ye7n6SQjnL"
+              }
+            ]
+          }
+        },
+        "id": "1521688129559613440",
+        "location": "Hangzhou",
+        "name": "Tw93",
+        "pinned_tweet_id": "1981718740657156346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960753219115868169/EOxKSK4w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107155,
+          "following_count": 300,
+          "like_count": 2228,
+          "listed_count": 815,
+          "media_count": 1551,
+          "tweet_count": 4675
+        },
+        "url": "https://t.co/ye7n6SQjnL",
+        "username": "HiTw93",
+        "verified": true
+      }
+    ]
+  }
+}

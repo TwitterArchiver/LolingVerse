@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2073797048168485099",
+    "created_at": "2026-07-09T16:48:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T17:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075260711668715952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1756311038675345409",
+          "start": 0,
+          "username": "s0ng1ei"
+        },
+        {
+          "end": 25,
+          "id": "1080962072438104064",
+          "start": 9,
+          "username": "Zedrb3LZkxLyEzt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075260711668715952",
+    "in_reply_to_user_id": "1756311038675345409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074091999201009753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s0ng1ei @Zedrb3LZkxLyEzt 是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2073797048168485099",
+        "created_at": "2026-07-09T16:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075260711668715952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1756311038675345409",
+              "start": 0,
+              "username": "s0ng1ei"
+            },
+            {
+              "end": 25,
+              "id": "1080962072438104064",
+              "start": 9,
+              "username": "Zedrb3LZkxLyEzt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075260711668715952",
+        "in_reply_to_user_id": "1756311038675345409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074091999201009753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s0ng1ei @Zedrb3LZkxLyEzt 是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756311038675345409",
+        "conversation_id": "2073797048168485099",
+        "created_at": "2026-07-06T11:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074091999201009753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1080962072438104064",
+              "start": 0,
+              "username": "Zedrb3LZkxLyEzt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074091999201009753",
+        "in_reply_to_user_id": "1080962072438104064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1465,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073797048168485099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zedrb3LZkxLyEzt 有没有我的互关告诉我右边这个是不是amber啊还是我认错了🫪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 162,
+          "like_count": 24637,
+          "listed_count": 4,
+          "media_count": 344,
+          "tweet_count": 4478
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-10T13:35:58.000Z",
+        "description": "JD in CS｜MUG player",
+        "id": "1756311038675345409",
+        "location": "SuZhou",
+        "name": "送泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029396638939398150/w-7-kuSw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 208,
+          "like_count": 3428,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1691
+        },
+        "url": "",
+        "username": "s0ng1ei",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-03T23:00:16.000Z",
+        "description": "爱人爱己，更爱粉丝",
+        "id": "1080962072438104064",
+        "name": "棉花糖",
+        "pinned_tweet_id": "2074418641840599477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941226774429392896/b0Jjt4wi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4162,
+          "following_count": 0,
+          "like_count": 8,
+          "listed_count": 3,
+          "media_count": 150,
+          "tweet_count": 175
+        },
+        "url": "",
+        "username": "Zedrb3LZkxLyEzt",
+        "verified": false
+      }
+    ]
+  }
+}

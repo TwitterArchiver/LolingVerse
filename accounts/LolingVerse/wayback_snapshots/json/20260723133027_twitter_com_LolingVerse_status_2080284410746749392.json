@@ -1,0 +1,519 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1884286926779191296",
+          "name": "DeepSeek"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2080035349536154073",
+    "created_at": "2026-07-23T13:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T14:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080284410746749392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1699797396589588480",
+          "start": 0,
+          "username": "MaxForAI"
+        },
+        {
+          "end": 17,
+          "id": "46585371",
+          "start": 10,
+          "username": "m0d8ye"
+        },
+        {
+          "end": 30,
+          "id": "1714580962569588736",
+          "start": 18,
+          "username": "deepseek_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080284410746749392",
+    "in_reply_to_user_id": "1699797396589588480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080143432304283802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaxForAI @m0d8ye @deepseek_ai 语言的边界就是思想的边界"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1884286926779191296",
+              "name": "DeepSeek"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2080035349536154073",
+        "created_at": "2026-07-23T13:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080284410746749392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1699797396589588480",
+              "start": 0,
+              "username": "MaxForAI"
+            },
+            {
+              "end": 17,
+              "id": "46585371",
+              "start": 10,
+              "username": "m0d8ye"
+            },
+            {
+              "end": 30,
+              "id": "1714580962569588736",
+              "start": 18,
+              "username": "deepseek_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080284410746749392",
+        "in_reply_to_user_id": "1699797396589588480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080143432304283802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaxForAI @m0d8ye @deepseek_ai 语言的边界就是思想的边界"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699797396589588480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1884286926779191296",
+              "name": "DeepSeek"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2080035349536154073",
+        "created_at": "2026-07-23T04:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080143432304283802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "46585371",
+              "start": 0,
+              "username": "m0d8ye"
+            },
+            {
+              "end": 20,
+              "id": "1714580962569588736",
+              "start": 8,
+              "username": "deepseek_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080143432304283802",
+        "in_reply_to_user_id": "46585371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9983,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080089735553593842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m0d8ye @deepseek_ai 我觉得最近一个月给我很多信号，就是语言既智能"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 164,
+          "like_count": 26031,
+          "listed_count": 4,
+          "media_count": 376,
+          "tweet_count": 4758
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "本科辍学创业，没啥好看的，也就发点AI相关的内容🫡\nHead of growth @lobehub（79K🌟）\nPrev @listenhub @Sapient_Int \n同名小红书4万粉丝，公众号01Founder（长文首发）\n观点仅代表个人\n更多请访问网站⬇️（欢迎DM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "lobehub"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "listenhub"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Sapient_Int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6feey"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "location": "Singapore",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2062538878096130207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21261,
+          "following_count": 2478,
+          "like_count": 17098,
+          "listed_count": 188,
+          "media_count": 1005,
+          "tweet_count": 7828
+        },
+        "url": "https://t.co/Sl0Wv6feey",
+        "username": "MaxForAI",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-12T04:58:38.000Z",
+        "description": "Chip Architect (2013-Present) at NVIDIA  | Bitcoin Enthusiast since 2011. Open source developer: https://t.co/fHv2ksd3xJ Views are my own.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "madeye.github.io",
+                "end": 120,
+                "expanded_url": "https://madeye.github.io/",
+                "start": 97,
+                "url": "https://t.co/fHv2ksd3xJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/madeye",
+                "end": 23,
+                "expanded_url": "https://github.com/madeye",
+                "start": 0,
+                "url": "https://t.co/v2E8btO5fS"
+              }
+            ]
+          }
+        },
+        "id": "46585371",
+        "location": "Shanghai, China",
+        "name": "Max Lv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649917814/bio_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19330,
+          "following_count": 309,
+          "like_count": 1352,
+          "listed_count": 172,
+          "media_count": 213,
+          "tweet_count": 5733
+        },
+        "url": "https://t.co/v2E8btO5fS",
+        "username": "m0d8ye",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-18T09:55:45.000Z",
+        "description": "Unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "deepseek.com",
+                "end": 23,
+                "expanded_url": "https://www.deepseek.com/",
+                "start": 0,
+                "url": "https://t.co/Un4k2rqn4o"
+              }
+            ]
+          }
+        },
+        "id": "1714580962569588736",
+        "name": "DeepSeek",
+        "pinned_tweet_id": "2048440764368347611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717417613775757312/Uk1zNOj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049882,
+          "following_count": 0,
+          "like_count": 32,
+          "listed_count": 5037,
+          "media_count": 106,
+          "tweet_count": 168
+        },
+        "url": "https://t.co/Un4k2rqn4o",
+        "username": "deepseek_ai",
+        "verified": true
+      }
+    ]
+  }
+}

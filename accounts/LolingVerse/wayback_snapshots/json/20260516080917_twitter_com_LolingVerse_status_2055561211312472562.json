@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055561071696728064",
+        "3_2055561067674374144",
+        "3_2055561071084359680",
+        "3_2055561071164055552"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055561211312472562",
+    "created_at": "2026-05-16T08:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T09:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055561211312472562"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wrlhtGK2Kt",
+          "end": 156,
+          "expanded_url": "https://x.com/LolingVerse/status/2055561211312472562/photo/1",
+          "media_key": "3_2055561071696728064",
+          "start": 133,
+          "url": "https://t.co/wrlhtGK2Kt"
+        },
+        {
+          "display_url": "pic.x.com/wrlhtGK2Kt",
+          "end": 156,
+          "expanded_url": "https://x.com/LolingVerse/status/2055561211312472562/photo/1",
+          "media_key": "3_2055561067674374144",
+          "start": 133,
+          "url": "https://t.co/wrlhtGK2Kt"
+        },
+        {
+          "display_url": "pic.x.com/wrlhtGK2Kt",
+          "end": 156,
+          "expanded_url": "https://x.com/LolingVerse/status/2055561211312472562/photo/1",
+          "media_key": "3_2055561071084359680",
+          "start": 133,
+          "url": "https://t.co/wrlhtGK2Kt"
+        },
+        {
+          "display_url": "pic.x.com/wrlhtGK2Kt",
+          "end": 156,
+          "expanded_url": "https://x.com/LolingVerse/status/2055561211312472562/photo/1",
+          "media_key": "3_2055561071164055552",
+          "start": 133,
+          "url": "https://t.co/wrlhtGK2Kt"
+        },
+        {
+          "display_url": "x.com/TransYuwen/sta…",
+          "end": 180,
+          "expanded_url": "https://twitter.com/TransYuwen/status/2055220797401412016",
+          "start": 157,
+          "url": "https://t.co/Uir6jEe4JQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055561211312472562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055220797401412016",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小药娘长了奶子讨论一下给上纲上线了\n\n且话说什么时候有何中立态度，不一直是干畜生事和慢慢恶俗败坏风气的嘛？\n图：唐畜出售亚硝酸盐；唐畜pua小孩自切；唐畜不发货逼死小药娘；唐畜假自杀逼烧仙草殉情\n\n为什么还会有那么多人关注唐畜给其以情绪血食😂\n\n我认为这是不正确的 https://t.co/wrlhtGK2Kt https://t.co/Uir6jEe4JQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2055561211312472562].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2055561211312472562",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055561211312472562"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055561071696728064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbR52Sa0AAOspR.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055561067674374144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbR5nTakAA2_bI.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055561071084359680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbR50Aa0AARdmA.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055561071164055552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbR50Ta4AAWyky.jpg",
+        "width": 502
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2055220582367875072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWcOwsb0AA8f8z.jpg",
+        "width": 1272
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2055220582267150336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWcOwUa4AAFftj.jpg",
+        "width": 1272
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2055220582267097088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWcOwUaEAAsTzk.jpg",
+        "width": 1272
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2055220582296457216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWcOwbaEAA19y8.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055220582367875072",
+            "3_2055220582267150336",
+            "3_2055220582267097088",
+            "3_2055220582296457216"
+          ]
+        },
+        "author_id": "2054877291633909760",
+        "conversation_id": "2055220797401412016",
+        "created_at": "2026-05-15T09:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055220797401412016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0GWtallPe3",
+              "end": 172,
+              "expanded_url": "https://x.com/TransYuwen/status/2055220797401412016/photo/1",
+              "media_key": "3_2055220582367875072",
+              "start": 149,
+              "url": "https://t.co/0GWtallPe3"
+            },
+            {
+              "display_url": "pic.x.com/0GWtallPe3",
+              "end": 172,
+              "expanded_url": "https://x.com/TransYuwen/status/2055220797401412016/photo/1",
+              "media_key": "3_2055220582267150336",
+              "start": 149,
+              "url": "https://t.co/0GWtallPe3"
+            },
+            {
+              "display_url": "pic.x.com/0GWtallPe3",
+              "end": 172,
+              "expanded_url": "https://x.com/TransYuwen/status/2055220797401412016/photo/1",
+              "media_key": "3_2055220582267097088",
+              "start": 149,
+              "url": "https://t.co/0GWtallPe3"
+            },
+            {
+              "display_url": "pic.x.com/0GWtallPe3",
+              "end": 172,
+              "expanded_url": "https://x.com/TransYuwen/status/2055220797401412016/photo/1",
+              "media_key": "3_2055220582296457216",
+              "start": 149,
+              "url": "https://t.co/0GWtallPe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055220797401412016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 664,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我一直还是对跨权持中立态度的\n\n只要你合理打权，我一般不管你\n但这个圈子的风气是这样的 \n\n一边装可怜，一边随意影响和骚扰别人\n\n你不介意，不代表别人不介意\n\n请问上课揉奶子，就是你们认为女生的正常样子吗？\n\n那你们难道不是歧视女性吗？\n\n这就是你们想要成为的女孩子吗？\n\n我认为这是不正确的 https://t.co/0GWtallPe3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 @nozomixlr\n逃生舱 @LolinAchiv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "nozomixlr"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "LolinAchiv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 143,
+          "like_count": 18852,
+          "listed_count": 3,
+          "media_count": 223,
+          "tweet_count": 3427
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T10:51:46.000Z",
+        "description": "MtF 🏳️‍⚧️| 有证 🍥:2025/6/30|药娘小资历皇帝| ENFP| | 174厘米 | 75公斤 | 阿德莱德墨尔本游荡 |私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍|",
+        "id": "2054877291633909760",
+        "location": "Melb",
+        "name": "唐毓文🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2055211584138736084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055209660245045248/r3mq9G7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 16,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 96
+        },
+        "username": "TransYuwen",
+        "verified": false
+      }
+    ]
+  }
+}

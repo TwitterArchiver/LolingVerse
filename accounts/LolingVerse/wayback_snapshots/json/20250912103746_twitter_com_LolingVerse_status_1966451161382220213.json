@@ -1,0 +1,616 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "1966451161382220213",
+    "created_at": "2025-09-12T10:37:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T11:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966451161382220213"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 106,
+          "start": 97,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 113,
+          "start": 107,
+          "tag": "kiger"
+        },
+        {
+          "end": 119,
+          "start": 114,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 126,
+          "start": 120,
+          "tag": "白上フブキ"
+        },
+        {
+          "end": 136,
+          "start": 127,
+          "tag": "hololive"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1803960134730944516",
+          "start": 3,
+          "username": "HirakuHitasu"
+        },
+        {
+          "end": 58,
+          "id": "1076761010457989120",
+          "start": 47,
+          "username": "OriginKigu"
+        },
+        {
+          "end": 75,
+          "id": "1591832017179508736",
+          "start": 63,
+          "username": "FallingLoay"
+        },
+        {
+          "end": 94,
+          "id": "1710555081530318848",
+          "start": 79,
+          "username": "Cyberloafing_S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966451161382220213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966023202171404623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HirakuHitasu: 听说你们喜欢猫猫狐? 🦊\n戴上猫爪就是猫猫哦x 🐱\n\n📷 @OriginKigu \n猫爪 @FallingLoay \n🎭 @Cyberloafing_S \n\n#kigurumi #kiger #着ぐるみ #白上フブキ #hololive #絵…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1966023196815269889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0i3rlpaIAEKn6d.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1966451161382220213",
+        "created_at": "2025-09-12T10:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T11:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966451161382220213"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 97,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 113,
+              "start": 107,
+              "tag": "kiger"
+            },
+            {
+              "end": 119,
+              "start": 114,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 126,
+              "start": 120,
+              "tag": "白上フブキ"
+            },
+            {
+              "end": 136,
+              "start": 127,
+              "tag": "hololive"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1803960134730944516",
+              "start": 3,
+              "username": "HirakuHitasu"
+            },
+            {
+              "end": 58,
+              "id": "1076761010457989120",
+              "start": 47,
+              "username": "OriginKigu"
+            },
+            {
+              "end": 75,
+              "id": "1591832017179508736",
+              "start": 63,
+              "username": "FallingLoay"
+            },
+            {
+              "end": 94,
+              "id": "1710555081530318848",
+              "start": 79,
+              "username": "Cyberloafing_S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966451161382220213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966023202171404623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HirakuHitasu: 听说你们喜欢猫猫狐? 🦊\n戴上猫爪就是猫猫哦x 🐱\n\n📷 @OriginKigu \n猫爪 @FallingLoay \n🎭 @Cyberloafing_S \n\n#kigurumi #kiger #着ぐるみ #白上フブキ #hololive #絵…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966023196815269889"
+          ]
+        },
+        "author_id": "1803960134730944516",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1966023202171404623",
+        "created_at": "2025-09-11T06:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T07:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966023202171404623"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 79,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 95,
+              "start": 89,
+              "tag": "kiger"
+            },
+            {
+              "end": 101,
+              "start": 96,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 108,
+              "start": 102,
+              "tag": "白上フブキ"
+            },
+            {
+              "end": 118,
+              "start": 109,
+              "tag": "hololive"
+            },
+            {
+              "end": 124,
+              "start": 119,
+              "tag": "絵フブキ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 40,
+              "id": "1076761010457989120",
+              "start": 29,
+              "username": "OriginKigu"
+            },
+            {
+              "end": 57,
+              "id": "1591832017179508736",
+              "start": 45,
+              "username": "FallingLoay"
+            },
+            {
+              "end": 76,
+              "id": "1710555081530318848",
+              "start": 61,
+              "username": "Cyberloafing_S"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACRHa45HrG",
+              "end": 148,
+              "expanded_url": "https://x.com/HirakuHitasu/status/1966023202171404623/photo/1",
+              "media_key": "3_1966023196815269889",
+              "start": 125,
+              "url": "https://t.co/ACRHa45HrG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966023202171404623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 4438,
+          "like_count": 160,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "听说你们喜欢猫猫狐? 🦊\n戴上猫爪就是猫猫哦x 🐱\n\n📷 @OriginKigu \n猫爪 @FallingLoay \n🎭 @Cyberloafing_S \n\n#kigurumi #kiger #着ぐるみ #白上フブキ #hololive #絵フブキ https://t.co/ACRHa45HrG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "『可怜楼上月徘徊，应照离人妆镜台』\n『今朝剑指叠云处……一山放出一山拦』\n可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | Fox",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolilin.github.io",
+                "end": 23,
+                "expanded_url": "http://lolilin.github.io",
+                "start": 0,
+                "url": "https://t.co/Dggtj9TMO0"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 68,
+          "like_count": 2322,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1200
+        },
+        "url": "https://t.co/Dggtj9TMO0",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T01:16:42.000Z",
+        "description": "萌新kiger🎭 有好多cn！「Hiraku」「HH (Hiraku Hitasu)」无论用哪个称呼我都可以哦´∀`\n喜欢狐狸🦊 & 猫咪🐱\n石沉大海式更新 转发喜欢的东西~\nℹ️刷新地点：郑州 (目前)、厦门",
+        "id": "1803960134730944516",
+        "location": "中国大陆",
+        "name": "Hiraku",
+        "pinned_tweet_id": "1966023202171404623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943981023563280384/UF5b59xj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 248,
+          "like_count": 342,
+          "listed_count": 3,
+          "media_count": 7,
+          "tweet_count": 47
+        },
+        "username": "HirakuHitasu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-23T08:46:44.000Z",
+        "description": "⊙汉语/English/日本語；\n\n⊙原点/origin/ハラトモ；\n\n⊙现有角色：风见幽香、茨木华扇/卡芙卡/史尔特尔、夜兰、祇堂鞠也/弥海砂/金色暗影、蛇喰梦子*2、咕哒子、调月莉音*2、星见雅、凯茜娅、飞鸟马时、杏山和纱、雷电将军、风笛、鬼方佳代子、仪玄\n\n⊙欢迎扩列、私信；",
+        "id": "1076761010457989120",
+        "name": "原点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647499860818444291/W843i7_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1827,
+          "following_count": 884,
+          "like_count": 93,
+          "listed_count": 12,
+          "media_count": 69,
+          "tweet_count": 130
+        },
+        "username": "OriginKigu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-13T16:35:13.000Z",
+        "description": "cn洛华‖ 随缘上推发推 ‖24年初入坑的萌新kiger ‖绳手（喜欢被捆所以学绳子）‖ 属性switch ‖  中文/English  ‖ 欢迎私信骚扰（bushi）",
+        "id": "1591832017179508736",
+        "name": "洛华",
+        "pinned_tweet_id": "1902708555309838398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902705187799883776/LenBEhzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1799,
+          "following_count": 342,
+          "like_count": 1020,
+          "listed_count": 13,
+          "media_count": 26,
+          "tweet_count": 181
+        },
+        "username": "FallingLoay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-07T07:18:31.000Z",
+        "description": "Continuously accepting orders, please send a private message ~这里是摸鱼工坊，一家kigurumi头壳制作工作室，订做请加QQ群173778594~持续接单中~",
+        "id": "1710555081530318848",
+        "name": "摸鱼头壳_MYKig",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783727442462711808/9REPnZc2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4955,
+          "following_count": 35,
+          "like_count": 371,
+          "listed_count": 62,
+          "media_count": 262,
+          "tweet_count": 625
+        },
+        "username": "Cyberloafing_S",
+        "verified": false
+      }
+    ]
+  }
+}

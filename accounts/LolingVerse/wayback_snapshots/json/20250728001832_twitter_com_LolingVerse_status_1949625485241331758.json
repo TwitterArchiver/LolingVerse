@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949485210409861120"
+      ],
+      "media_source_tweet_id": [
+        "1949485215937974527"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1949625485241331758",
+    "created_at": "2025-07-28T00:18:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T01:18:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949625485241331758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2892143282",
+          "start": 3,
+          "username": "eruto__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uufpIRrJsB",
+          "end": 38,
+          "expanded_url": "https://x.com/eruto__/status/1949485215937974527/photo/1",
+          "media_key": "3_1949485210409861120",
+          "start": 15,
+          "url": "https://t.co/uufpIRrJsB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949625485241331758",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949485215937974527",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eruto__: 💙 https://t.co/uufpIRrJsB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1949485210409861120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw32eFVbgAAycHC.jpg",
+        "width": 1464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949485210409861120"
+          ],
+          "media_source_tweet_id": [
+            "1949485215937974527"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1949625485241331758",
+        "created_at": "2025-07-28T00:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T01:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949625485241331758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2892143282",
+              "start": 3,
+              "username": "eruto__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uufpIRrJsB",
+              "end": 38,
+              "expanded_url": "https://x.com/eruto__/status/1949485215937974527/photo/1",
+              "media_key": "3_1949485210409861120",
+              "start": 15,
+              "url": "https://t.co/uufpIRrJsB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949625485241331758",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949485215937974527",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eruto__: 💙 https://t.co/uufpIRrJsB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949485210409861120"
+          ]
+        },
+        "author_id": "2892143282",
+        "conversation_id": "1949485215937974527",
+        "created_at": "2025-07-27T15:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T16:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949485215937974527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uufpIRrJsB",
+              "end": 25,
+              "expanded_url": "https://x.com/eruto__/status/1949485215937974527/photo/1",
+              "media_key": "3_1949485210409861120",
+              "start": 2,
+              "url": "https://t.co/uufpIRrJsB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949485215937974527",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 6286,
+          "like_count": 276,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "💙 https://t.co/uufpIRrJsB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟｜阴暗爬行 | 深柜 | fox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949506352654729216/PQtgxbMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 64,
+          "like_count": 1860,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 913
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-06T12:13:56.000Z",
+        "description": "🐈⸒⸒⸒⸒ Skeb:https://t.co/XQU4xpGZkM\n📦https://t.co/8OECi988U2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@eruto__",
+                "end": 34,
+                "expanded_url": "https://skeb.jp/@eruto__",
+                "start": 11,
+                "url": "https://t.co/XQU4xpGZkM"
+              },
+              {
+                "display_url": "odaibako.net/u/eruto__",
+                "end": 59,
+                "expanded_url": "https://odaibako.net/u/eruto__",
+                "start": 36,
+                "url": "https://t.co/8OECi988U2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/13059929",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/13059929",
+                "start": 0,
+                "url": "https://t.co/McsRfVflv1"
+              }
+            ]
+          }
+        },
+        "id": "2892143282",
+        "location": "All rights reserved.",
+        "name": "ゑ兎",
+        "pinned_tweet_id": "1902630564210844027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874114902954303488/l7UBxo-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2207,
+          "following_count": 648,
+          "like_count": 10692,
+          "listed_count": 24,
+          "media_count": 882,
+          "tweet_count": 10318
+        },
+        "url": "https://t.co/McsRfVflv1",
+        "username": "eruto__",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1923523650122067968"
+      ],
+      "media_source_tweet_id": [
+        "1923523665867714975"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "1923752879241973790",
+    "created_at": "2025-05-17T14:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T15:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923752879241973790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1713168711945949184",
+          "start": 3,
+          "username": "fruits_uma02"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FA8rC0AOYB",
+          "end": 46,
+          "expanded_url": "https://x.com/fruits_uma02/status/1923523665867714975/video/1",
+          "media_key": "7_1923523650122067968",
+          "start": 23,
+          "url": "https://t.co/FA8rC0AOYB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923752879241973790",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923523665867714975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fruits_uma02: 雨ですね https://t.co/FA8rC0AOYB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5000,
+        "height": 752,
+        "media_key": "7_1923523650122067968",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1923523650122067968/pu/img/cV_DL8clQIUDe05M.jpg",
+        "public_metrics": {
+          "view_count": 1110
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923523650122067968/pu/vid/avc1/320x470/1AK1rmHrsm7iaSNh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923523650122067968/pu/vid/avc1/512x752/JcWNSji-3iogdR-m.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1923523650122067968/pu/pl/OCytqm3_mZXcEAXX.m3u8?tag=12"
+          }
+        ],
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1923523650122067968"
+          ],
+          "media_source_tweet_id": [
+            "1923523665867714975"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "1923752879241973790",
+        "created_at": "2025-05-17T14:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T15:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923752879241973790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1713168711945949184",
+              "start": 3,
+              "username": "fruits_uma02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FA8rC0AOYB",
+              "end": 46,
+              "expanded_url": "https://x.com/fruits_uma02/status/1923523665867714975/video/1",
+              "media_key": "7_1923523650122067968",
+              "start": 23,
+              "url": "https://t.co/FA8rC0AOYB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923752879241973790",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923523665867714975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fruits_uma02: 雨ですね https://t.co/FA8rC0AOYB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1923523650122067968"
+          ]
+        },
+        "author_id": "1713168711945949184",
+        "conversation_id": "1923523665867714975",
+        "created_at": "2025-05-16T23:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T00:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923523665867714975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FA8rC0AOYB",
+              "end": 28,
+              "expanded_url": "https://x.com/fruits_uma02/status/1923523665867714975/video/1",
+              "media_key": "7_1923523650122067968",
+              "start": 5,
+              "url": "https://t.co/FA8rC0AOYB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923523665867714975",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 3957,
+          "like_count": 384,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "雨ですね https://t.co/FA8rC0AOYB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "可爱赞美者，世界探索者 | \n155/50 | 没诗硬吟 | 深柜 | MtFox",
+        "id": "1836041585475346432",
+        "location": "可爱屋",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 58,
+          "like_count": 983,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 474
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-14T12:23:50.000Z",
+        "description": "【AIイラストで遊ぶ垢】フルーツ馬です/こちらは男性メイン垢です。※BL含みます。基本的にショタ好き。性癖に忠実です。苦手な方はご遠慮ください。　→@fruits_uma 女性メイン垢。無断転載禁止。転載する場合はID記載お願いします。*所持垢はこちらと↑のみです。日本語以外は翻訳頼み",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "fruits_uma"
+              }
+            ]
+          }
+        },
+        "id": "1713168711945949184",
+        "name": "ふるーつうま",
+        "pinned_tweet_id": "1851503193810997307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713172779724595200/ID8AT3gK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8942,
+          "following_count": 78,
+          "like_count": 4375,
+          "listed_count": 35,
+          "media_count": 2751,
+          "tweet_count": 3417
+        },
+        "username": "fruits_uma02",
+        "verified": false
+      }
+    ]
+  }
+}

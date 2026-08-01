@@ -1,0 +1,658 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783350882985385984",
+          "name": "Home - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026951194",
+          "name": "IKEA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Home and garden",
+          "id": "864911475436957696",
+          "name": "Home and garden"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026951194",
+          "name": "IKEA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407811550987972617",
+          "name": "Industries"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1416062557706588160",
+          "name": "Superstores"
+        }
+      }
+    ],
+    "conversation_id": "2070428607252512951",
+    "created_at": "2026-06-27T11:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T12:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070828189681856695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "104842204",
+          "start": 0,
+          "username": "IKEASpain"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/sofw0/status/1…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/sofw0/status/1969061948483342654",
+          "start": 21,
+          "url": "https://t.co/KqmmpX7hGs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070828189681856695",
+    "in_reply_to_user_id": "104842204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969061948483342654",
+        "type": "quoted"
+      },
+      {
+        "id": "2070428607252512951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IKEASpain 鲨鲨是可爱的，抱抱 https://t.co/KqmmpX7hGs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_1969061942951362560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1ODZ5JbQAAZ6Xh.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783350882985385984",
+              "name": "Home - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416062557706588160",
+              "name": "Superstores"
+            }
+          }
+        ],
+        "conversation_id": "2070428607252512951",
+        "created_at": "2026-06-27T11:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070828189681856695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "104842204",
+              "start": 0,
+              "username": "IKEASpain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/sofw0/status/1…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/sofw0/status/1969061948483342654",
+              "start": 21,
+              "url": "https://t.co/KqmmpX7hGs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070828189681856695",
+        "in_reply_to_user_id": "104842204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969061948483342654",
+            "type": "quoted"
+          },
+          {
+            "id": "2070428607252512951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IKEASpain 鲨鲨是可爱的，抱抱 https://t.co/KqmmpX7hGs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969061942951362560"
+          ]
+        },
+        "author_id": "1228260397104283650",
+        "conversation_id": "1969061948483342654",
+        "created_at": "2025-09-19T15:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T16:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969061948483342654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/thxkvKyewv",
+              "end": 23,
+              "expanded_url": "https://x.com/sofw0/status/1969061948483342654/photo/1",
+              "media_key": "3_1969061942951362560",
+              "start": 0,
+              "url": "https://t.co/thxkvKyewv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969061948483342654",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 314,
+          "impression_count": 44902,
+          "like_count": 3378,
+          "quote_count": 9,
+          "reply_count": 6,
+          "retweet_count": 286
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/thxkvKyewv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "104842204",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783350882985385984",
+              "name": "Home - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416062557706588160",
+              "name": "Superstores"
+            }
+          }
+        ],
+        "conversation_id": "2070428607252512951",
+        "created_at": "2026-06-26T08:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070428607252512951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Creemos en una cultura de diversidad e inclusión, clientes y las comunidades en las que operamos, da igual su orientación sexual o identidad de género.",
+              "display_url": "ikea.com/es/es/this-is-…",
+              "end": 150,
+              "expanded_url": "https://www.ikea.com/es/es/this-is-ikea/community-engagement/haz-que-la-comunidad-lgbt-se-sienta-en-casa-pub9eaedea0/",
+              "images": [
+                {
+                  "height": 1599,
+                  "url": "https://pbs.twimg.com/news_img/2070428613137018880/JxsAZ76k?format=png&name=orig",
+                  "width": 900
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2070428613137018880/JxsAZ76k?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 127,
+              "status": 200,
+              "title": "Inclusión LGTBI+ | Aliados, igualdad y diversidad",
+              "unwound_url": "https://www.ikea.com/es/es/this-is-ikea/community-engagement/haz-que-la-comunidad-lgbt-se-sienta-en-casa-pub9eaedea0/",
+              "url": "https://t.co/LvUOiiYe9p"
+            },
+            {
+              "display_url": "x.com/__BumbleBea/st…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/__BumbleBea/status/2070235480960934173",
+              "start": 151,
+              "url": "https://t.co/X3BC5WR7KS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070428607252512951",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 823,
+          "impression_count": 113824,
+          "like_count": 5005,
+          "quote_count": 15,
+          "reply_count": 17,
+          "retweet_count": 812
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070235480960934173",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "BLÅHAJ se cuela por aquí para daros las gracias por todo el cariño que está recibiendo y para compartir el Manual de empatía 🦈\nhttps://t.co/LvUOiiYe9p https://t.co/X3BC5WR7KS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 156,
+          "like_count": 23299,
+          "listed_count": 3,
+          "media_count": 311,
+          "tweet_count": 4166
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2010-01-14T15:31:03.000Z",
+        "description": "Inspiración para tu hogar a precios asequibles.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikea.com/es/es/",
+                "end": 23,
+                "expanded_url": "https://www.ikea.com/es/es/",
+                "start": 0,
+                "url": "https://t.co/kMatTGwy1k"
+              }
+            ]
+          }
+        },
+        "id": "104842204",
+        "location": "Spain",
+        "name": "IKEA España",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1106241189735473153/3rgMnSKT_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144302,
+          "following_count": 1136,
+          "like_count": 5419,
+          "listed_count": 865,
+          "media_count": 3693,
+          "tweet_count": 47425
+        },
+        "url": "https://t.co/kMatTGwy1k",
+        "username": "IKEASpain",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-14T10:11:24.000Z",
+        "description": "絵/映像/ゲーム制作/作曲　詳細↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sofw0",
+                "end": 23,
+                "expanded_url": "http://lit.link/sofw0",
+                "start": 0,
+                "url": "https://t.co/rBVKoT6Cuh"
+              }
+            ]
+          }
+        },
+        "id": "1228260397104283650",
+        "name": "すずあ",
+        "pinned_tweet_id": "1640692715024441344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770367667679158272/Kvns9xUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17351,
+          "following_count": 82,
+          "like_count": 1295,
+          "listed_count": 131,
+          "media_count": 388,
+          "tweet_count": 617
+        },
+        "url": "https://t.co/rBVKoT6Cuh",
+        "username": "sofw0",
+        "verified": false
+      }
+    ]
+  }
+}

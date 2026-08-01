@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "1906355695332786660",
+    "created_at": "2025-03-31T04:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T05:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906567306232361048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1855524891744944128",
+          "start": 0,
+          "username": "LoveYezi8964"
+        },
+        {
+          "end": 27,
+          "id": "2646374335",
+          "start": 14,
+          "username": "Exciting2965"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906567306232361048",
+    "in_reply_to_user_id": "1855524891744944128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906563987283886555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoveYezi8964 @Exciting2965 因为会拉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "1906355695332786660",
+        "created_at": "2025-03-31T04:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T05:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906567306232361048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1855524891744944128",
+              "start": 0,
+              "username": "LoveYezi8964"
+            },
+            {
+              "end": 27,
+              "id": "2646374335",
+              "start": 14,
+              "username": "Exciting2965"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906567306232361048",
+        "in_reply_to_user_id": "1855524891744944128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906563987283886555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoveYezi8964 @Exciting2965 因为会拉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855524891744944128",
+        "conversation_id": "1906355695332786660",
+        "created_at": "2025-03-31T04:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T05:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906563987283886555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2646374335",
+              "start": 0,
+              "username": "Exciting2965"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906563987283886555",
+        "in_reply_to_user_id": "2646374335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906555569395077563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Exciting2965 为什么要清空肚子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "",
+        "id": "1836041585475346432",
+        "name": "洛铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906380698099085312/QQT1mQJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 39,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 122
+        },
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T08:16:32.000Z",
+        "description": "流苏的里推\n发言不攻击任何人\n不喜欢我可以直接ban我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k94158",
+                "end": 23,
+                "expanded_url": "https://ngl.link/k94158",
+                "start": 0,
+                "url": "https://t.co/jOmbGkY9aU"
+              }
+            ]
+          }
+        },
+        "id": "1855524891744944128",
+        "name": "𝓛𝓲𝓾𝓼𝓾𝓚🐱🐱",
+        "pinned_tweet_id": "1902983220351648160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903023471577403393/usqOiP9q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 4,
+          "like_count": 521,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 423
+        },
+        "url": "https://t.co/jOmbGkY9aU",
+        "username": "LoveYezi8964",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-14T21:16:19.000Z",
+        "description": "06 mtx hrt2022 这里是紗耶奈🍥不收🚪，能来陪我聊聊天就好，愿意的话给点口令红包施舍点就好",
+        "id": "2646374335",
+        "location": "广州",
+        "name": "紗耶奈/サヤナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830935374568292374/18JyZ8tj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 14,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 60
+        },
+        "username": "Exciting2965",
+        "verified": false
+      }
+    ]
+  }
+}
