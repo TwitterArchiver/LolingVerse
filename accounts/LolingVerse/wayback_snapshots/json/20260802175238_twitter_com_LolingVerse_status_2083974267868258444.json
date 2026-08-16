@@ -1,0 +1,746 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1884286926779191296",
+          "name": "DeepSeek"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      }
+    ],
+    "conversation_id": "2083948603907940372",
+    "created_at": "2026-08-02T17:52:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T18:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083974267868258444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2075984905012641792",
+          "start": 0,
+          "username": "iLQfwb"
+        },
+        {
+          "end": 20,
+          "id": "1291546300735827968",
+          "start": 8,
+          "username": "skyworship2"
+        },
+        {
+          "end": 33,
+          "id": "1714580962569588736",
+          "start": 21,
+          "username": "deepseek_ai"
+        },
+        {
+          "end": 41,
+          "id": "61559439",
+          "start": 34,
+          "username": "nvidia"
+        },
+        {
+          "end": 48,
+          "id": "380749300",
+          "start": 42,
+          "username": "Apple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083974267868258444",
+    "in_reply_to_user_id": "2075984905012641792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083971051390955540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iLQfwb @skyworship2 @deepseek_ai @nvidia @Apple 用omp速度快效果好，不过v4f还是要人工一直看着纠偏(或者让顶层高级模型)，不然也还是会流口水。\n\n特别是安全性问题上，不知道为啥ds老是去看看咱电脑上别的东西，例如去翻gradle缓存把库掏出来看(太奇怪了)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1884286926779191296",
+              "name": "DeepSeek"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2083948603907940372",
+        "created_at": "2026-08-02T17:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T18:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083974267868258444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075984905012641792",
+              "start": 0,
+              "username": "iLQfwb"
+            },
+            {
+              "end": 20,
+              "id": "1291546300735827968",
+              "start": 8,
+              "username": "skyworship2"
+            },
+            {
+              "end": 33,
+              "id": "1714580962569588736",
+              "start": 21,
+              "username": "deepseek_ai"
+            },
+            {
+              "end": 41,
+              "id": "61559439",
+              "start": 34,
+              "username": "nvidia"
+            },
+            {
+              "end": 48,
+              "id": "380749300",
+              "start": 42,
+              "username": "Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083974267868258444",
+        "in_reply_to_user_id": "2075984905012641792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083971051390955540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iLQfwb @skyworship2 @deepseek_ai @nvidia @Apple 用omp速度快效果好，不过v4f还是要人工一直看着纠偏(或者让顶层高级模型)，不然也还是会流口水。\n\n特别是安全性问题上，不知道为啥ds老是去看看咱电脑上别的东西，例如去翻gradle缓存把库掏出来看(太奇怪了)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075984905012641792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1884286926779191296",
+              "name": "DeepSeek"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2083948603907940372",
+        "created_at": "2026-08-02T17:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T18:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083971051390955540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291546300735827968",
+              "start": 0,
+              "username": "skyworship2"
+            },
+            {
+              "end": 25,
+              "id": "1714580962569588736",
+              "start": 13,
+              "username": "deepseek_ai"
+            },
+            {
+              "end": 33,
+              "id": "61559439",
+              "start": 26,
+              "username": "nvidia"
+            },
+            {
+              "end": 40,
+              "id": "380749300",
+              "start": 34,
+              "username": "Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083971051390955540",
+        "in_reply_to_user_id": "1291546300735827968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083948603907940372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyworship2 @deepseek_ai @nvidia @Apple 您的agent工具是如何搭配的？是使用Claoudcode+reverse skills吗？我使用v4flash大多时候无法取得满意的结果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 164,
+          "like_count": 27357,
+          "listed_count": 4,
+          "media_count": 412,
+          "tweet_count": 5115
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-11T16:46:57.000Z",
+        "description": "",
+        "id": "2075984905012641792",
+        "name": "i柳清风",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 76,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "iLQfwb",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-07T01:26:59.000Z",
+        "description": "Your sincere exploitation/malware developer, Cloud Hacking Helper and golang developer. Do what noone has ever done. https://t.co/osZJNlSsF5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sponsors/Esonh…",
+                "end": 140,
+                "expanded_url": "https://github.com/sponsors/Esonhugh",
+                "start": 117,
+                "url": "https://t.co/osZJNlSsF5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sponsors/Esonh…",
+                "end": 23,
+                "expanded_url": "https://github.com/sponsors/Esonhugh",
+                "start": 0,
+                "url": "https://t.co/osZJNlSsF5"
+              }
+            ]
+          }
+        },
+        "id": "1291546300735827968",
+        "location": "eson.ninja",
+        "name": "Wordless Esonhugh",
+        "pinned_tweet_id": "1742751529269084483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642456804021116928/mcTuO6lQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3875,
+          "following_count": 1708,
+          "like_count": 24069,
+          "listed_count": 23,
+          "media_count": 732,
+          "tweet_count": 8612
+        },
+        "url": "https://t.co/osZJNlSsF5",
+        "username": "skyworship2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T09:55:45.000Z",
+        "description": "Unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "deepseek.com",
+                "end": 23,
+                "expanded_url": "https://www.deepseek.com/",
+                "start": 0,
+                "url": "https://t.co/Un4k2rqn4o"
+              }
+            ]
+          }
+        },
+        "id": "1714580962569588736",
+        "name": "DeepSeek",
+        "pinned_tweet_id": "2048440764368347611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717417613775757312/Uk1zNOj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074427,
+          "following_count": 0,
+          "like_count": 32,
+          "listed_count": 5157,
+          "media_count": 107,
+          "tweet_count": 170
+        },
+        "url": "https://t.co/Un4k2rqn4o",
+        "username": "deepseek_ai",
+        "verified": true
+      },
+      {
+        "created_at": "2009-07-30T18:25:14.000Z",
+        "description": "The official handle for NVIDIA. Blog: https://t.co/JAn5eKOTBT Support: https://t.co/6ln5FVnA2o All our social media: https://t.co/Uc56dL57Dh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "blogs.nvidia.com",
+                "end": 61,
+                "expanded_url": "https://blogs.nvidia.com",
+                "start": 38,
+                "url": "https://t.co/JAn5eKOTBT"
+              },
+              {
+                "display_url": "nvda.ws/2ei5pio",
+                "end": 94,
+                "expanded_url": "http://nvda.ws/2ei5pio",
+                "start": 71,
+                "url": "https://t.co/6ln5FVnA2o"
+              },
+              {
+                "display_url": "nvda.ws/2wmlfGB",
+                "end": 140,
+                "expanded_url": "http://nvda.ws/2wmlfGB",
+                "start": 117,
+                "url": "https://t.co/Uc56dL57Dh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nvidia.com",
+                "end": 23,
+                "expanded_url": "https://www.nvidia.com",
+                "start": 0,
+                "url": "https://t.co/d1gaHqtMJD"
+              }
+            ]
+          }
+        },
+        "id": "61559439",
+        "location": "Santa Clara, CA",
+        "name": "NVIDIA",
+        "pinned_tweet_id": "2081666629264449730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828904711124078593/SRvCZSfQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2636073,
+          "following_count": 47,
+          "like_count": 5199,
+          "listed_count": 10130,
+          "media_count": 3411,
+          "tweet_count": 14415
+        },
+        "url": "https://t.co/d1gaHqtMJD",
+        "username": "nvidia",
+        "verified": true
+      },
+      {
+        "created_at": "2011-09-27T05:02:03.000Z",
+        "description": "https://t.co/4dZx1rwvgY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Apple.com",
+                "end": 23,
+                "expanded_url": "http://Apple.com",
+                "start": 0,
+                "url": "https://t.co/4dZx1rwvgY"
+              }
+            ]
+          }
+        },
+        "id": "380749300",
+        "location": "Cupertino, CA",
+        "name": "Apple",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892248257516224513/SzZdRSkx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9931303,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 15307,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "",
+        "username": "Apple",
+        "verified": true
+      }
+    ]
+  }
+}

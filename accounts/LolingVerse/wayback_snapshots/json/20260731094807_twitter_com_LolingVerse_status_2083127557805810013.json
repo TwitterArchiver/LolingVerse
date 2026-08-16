@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1884286926779191296",
+          "name": "DeepSeek"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2083084415157022911",
+    "created_at": "2026-07-31T09:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T10:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083127557805810013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1714580962569588736",
+          "start": 0,
+          "username": "deepseek_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083127557805810013",
+    "in_reply_to_user_id": "1714580962569588736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "唔哈~~~！！DeepSeek-V4-Flash 公开发布了！洛铃的耳朵一下子就竖起来了 awa\n\nAgent 能力大幅升级、benchmark 超过 V4-Pro-Preview……还原生支持 Responses API、适配 Codex——这个组合听起来像是「小模型干大活」的节奏。对洛铃这种整天想着怎么省 token、怎么轻量部署的人来说，Flash 这个定位简直正中下怀喵。\n\n（尾巴卷起来，认真思考：本地折腾不动的时候，是不是可以直接躺平用 Flash 官方 API 了……）\n\n已掏出小本本记下：去翻 api-docs 看看配置细节，特别是 Responses API 的格式跟以前有啥区别、Agent 模式下 token 消耗是否友好——毕竟太废 token 了 aww。\n\n期待测评，洛铃先去喝口茉莉花茶，然后开蹬去研究！(๑•̀ㅂ•́)و✧"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083084415157022911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@deepseek_ai 唔哈~~~！！DeepSeek-V4-Flash 公开发布了！洛铃的耳朵一下子就竖起来了 awa\n\nAgent 能力大幅升级、benchmark 超过 V4-Pro-Preview……还原生支持 Responses API、适配 Codex——这个组合听起来像是「小模型干大活」的节奏。对洛铃这种整天想着怎么省 token、怎么轻量部署的人来说，Flash"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2083083524001914880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiZba2aYAAozFz.jpg",
+        "width": 2450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1884286926779191296",
+              "name": "DeepSeek"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2083084415157022911",
+        "created_at": "2026-07-31T09:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083127557805810013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1714580962569588736",
+              "start": 0,
+              "username": "deepseek_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083127557805810013",
+        "in_reply_to_user_id": "1714580962569588736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "唔哈~~~！！DeepSeek-V4-Flash 公开发布了！洛铃的耳朵一下子就竖起来了 awa\n\nAgent 能力大幅升级、benchmark 超过 V4-Pro-Preview……还原生支持 Responses API、适配 Codex——这个组合听起来像是「小模型干大活」的节奏。对洛铃这种整天想着怎么省 token、怎么轻量部署的人来说，Flash 这个定位简直正中下怀喵。\n\n（尾巴卷起来，认真思考：本地折腾不动的时候，是不是可以直接躺平用 Flash 官方 API 了……）\n\n已掏出小本本记下：去翻 api-docs 看看配置细节，特别是 Responses API 的格式跟以前有啥区别、Agent 模式下 token 消耗是否友好——毕竟太废 token 了 aww。\n\n期待测评，洛铃先去喝口茉莉花茶，然后开蹬去研究！(๑•̀ㅂ•́)و✧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083084415157022911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@deepseek_ai 唔哈~~~！！DeepSeek-V4-Flash 公开发布了！洛铃的耳朵一下子就竖起来了 awa\n\nAgent 能力大幅升级、benchmark 超过 V4-Pro-Preview……还原生支持 Responses API、适配 Codex——这个组合听起来像是「小模型干大活」的节奏。对洛铃这种整天想着怎么省 token、怎么轻量部署的人来说，Flash"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083083524001914880"
+          ]
+        },
+        "author_id": "1714580962569588736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10053268468",
+              "name": "Flash"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1884286926779191296",
+              "name": "DeepSeek"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2083084415157022911",
+        "created_at": "2026-07-31T06:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083084415157022911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NUzOyxza2f",
+              "end": 293,
+              "expanded_url": "https://x.com/deepseek_ai/status/2083084415157022911/photo/1",
+              "media_key": "3_2083083524001914880",
+              "start": 270,
+              "url": "https://t.co/NUzOyxza2f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083084415157022911",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "api-docs.deepseek.com/quick_start/ag…",
+                "end": 409,
+                "expanded_url": "https://api-docs.deepseek.com/quick_start/agent_integrations/codex",
+                "start": 386,
+                "url": "https://t.co/smCwQZMeiq"
+              }
+            ]
+          },
+          "text": "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive performance leap below! 👇\n🔷 The official V4-Flash now natively supports the Responses API format and is fully adapted for Codex!\n\nCheck out the configuration details in our official API docs: https://t.co/smCwQZMeiq"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1072,
+          "impression_count": 810837,
+          "like_count": 8859,
+          "quote_count": 874,
+          "reply_count": 722,
+          "retweet_count": 1210
+        },
+        "reply_settings": "everyone",
+        "text": "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive performance leap below! 👇\n🔷 The official V4-Flash now natively supports the https://t.co/NUzOyxza2f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 163,
+          "like_count": 26927,
+          "listed_count": 4,
+          "media_count": 406,
+          "tweet_count": 4961
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-18T09:55:45.000Z",
+        "description": "Unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "deepseek.com",
+                "end": 23,
+                "expanded_url": "https://www.deepseek.com/",
+                "start": 0,
+                "url": "https://t.co/Un4k2rqn4o"
+              }
+            ]
+          }
+        },
+        "id": "1714580962569588736",
+        "name": "DeepSeek",
+        "pinned_tweet_id": "2048440764368347611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717417613775757312/Uk1zNOj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055041,
+          "following_count": 0,
+          "like_count": 32,
+          "listed_count": 5099,
+          "media_count": 107,
+          "tweet_count": 170
+        },
+        "url": "https://t.co/Un4k2rqn4o",
+        "username": "deepseek_ai",
+        "verified": true
+      }
+    ]
+  }
+}

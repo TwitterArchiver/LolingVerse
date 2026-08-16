@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2083321871055851990",
+    "created_at": "2026-08-01T03:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T04:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083402057499767129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620506107306479617",
+          "start": 0,
+          "username": "Cheese_Ghostfox"
+        },
+        {
+          "end": 28,
+          "id": "1894375325934784517",
+          "start": 17,
+          "username": "sword_1003"
+        },
+        {
+          "end": 43,
+          "id": "1754494415152766976",
+          "start": 29,
+          "username": "IchinichiNagi"
+        },
+        {
+          "end": 54,
+          "id": "1829679457411477504",
+          "start": 44,
+          "username": "miaowuqvq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083402057499767129",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083400878229434745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_Ghostfox @sword_1003 @IchinichiNagi @miaowuqvq 那要是阳光玫瑰呢aw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2083321871055851990",
+        "created_at": "2026-08-01T03:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083402057499767129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            },
+            {
+              "end": 28,
+              "id": "1894375325934784517",
+              "start": 17,
+              "username": "sword_1003"
+            },
+            {
+              "end": 43,
+              "id": "1754494415152766976",
+              "start": 29,
+              "username": "IchinichiNagi"
+            },
+            {
+              "end": 54,
+              "id": "1829679457411477504",
+              "start": 44,
+              "username": "miaowuqvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083402057499767129",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083400878229434745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox @sword_1003 @IchinichiNagi @miaowuqvq 那要是阳光玫瑰呢aw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2083321871055851990",
+        "created_at": "2026-08-01T03:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083400878229434745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836041585475346432",
+              "start": 0,
+              "username": "LolingVerse"
+            },
+            {
+              "end": 24,
+              "id": "1894375325934784517",
+              "start": 13,
+              "username": "sword_1003"
+            },
+            {
+              "end": 39,
+              "id": "1754494415152766976",
+              "start": 25,
+              "username": "IchinichiNagi"
+            },
+            {
+              "end": 50,
+              "id": "1829679457411477504",
+              "start": 40,
+              "username": "miaowuqvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083400878229434745",
+        "in_reply_to_user_id": "1836041585475346432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083400335498805316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LolingVerse @sword_1003 @IchinichiNagi @miaowuqvq 狐吃所有水果都会煞有介事地削皮切成一口大小的块再用镊子夹着吃("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 164,
+          "like_count": 27049,
+          "listed_count": 4,
+          "media_count": 407,
+          "tweet_count": 5033
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 1520,
+          "like_count": 22111,
+          "listed_count": 7,
+          "media_count": 808,
+          "tweet_count": 7177
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-25T13:14:24.000Z",
+        "description": "可以叫我夜鸟 | MTX | BPD | ADHD | 双相 | 主要关注：轨道交通/建筑文化/现代诗/心性探索/美学/卡迷 | 想认识不同的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "haizi.huhaitai.com/03/121",
+                "end": 23,
+                "expanded_url": "https://haizi.huhaitai.com/03/121",
+                "start": 0,
+                "url": "https://t.co/Y9Zk1gE80d"
+              }
+            ]
+          }
+        },
+        "id": "1894375325934784517",
+        "location": "公元前",
+        "name": "HongSword",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079233249654800384/nhE5u1xE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 622,
+          "like_count": 33078,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 7178
+        },
+        "url": "https://t.co/Y9Zk1gE80d",
+        "username": "sword_1003",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "对于Nagi来说\n他们是一日男友\n\n那对于他们来说\n我是不是一日Nagi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhT3S6"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "这是一日Nagi吗？",
+        "pinned_tweet_id": "2080547212132765940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081044089487941632/4n6xQeCv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6060,
+          "following_count": 2385,
+          "like_count": 31782,
+          "listed_count": 9,
+          "media_count": 2934,
+          "tweet_count": 27451
+        },
+        "url": "https://t.co/nRq8LhT3S6",
+        "username": "IchinichiNagi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T00:35:58.000Z",
+        "description": "大松山恒人党党魁 黑道大小姐 幻想乡贤者反支萝莉 成人层司书 云南华欣药业官号 动漫小说 精日 妹控 战车道\n好闺蜜@jilianmeing\n@KashabaiSilver\n@mimi_VnV\n@hhjnjkoguyunmo \n赛博老婆@YayoiYukimi\n永远18岁的绮梦酱!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "jilianmeing"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "KashabaiSilver"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "mimi_VnV"
+              },
+              {
+                "end": 112,
+                "start": 97,
+                "username": "hhjnjkoguyunmo"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "YayoiYukimi"
+              }
+            ]
+          }
+        },
+        "id": "1829679457411477504",
+        "location": "加拿大 马卡姆/幻想乡 雾之湖 /赛尔德兰帝国 银辉城大公",
+        "name": "绮梦天禄哒呦！*۫۫۫۫۫♀️🈵🎌🗾🍐互fo谢谢(暂时站起的轮椅侠)",
+        "pinned_tweet_id": "2082979599080710572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004767849303232513/-EovBf2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2403,
+          "following_count": 3578,
+          "like_count": 13363,
+          "listed_count": 10,
+          "media_count": 1035,
+          "tweet_count": 17757
+        },
+        "url": "",
+        "username": "miaowuqvq",
+        "verified": false
+      }
+    ]
+  }
+}

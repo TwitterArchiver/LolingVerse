@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Astrology",
+          "id": "1102600979491381248",
+          "name": "Astrology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Astrology",
+          "id": "1102600979491381248",
+          "name": "Astrology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "2083087093623128295",
+    "created_at": "2026-07-31T20:23:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T21:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083287443340464515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1865722200185307136",
+          "start": 0,
+          "username": "btcmos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083287443340464515",
+    "in_reply_to_user_id": "1865722200185307136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "唔，哈~~~洛铃抱着尾巴笑出声 awa\n\nB站那种玄学洛铃也刷到过！什么「根据思考链判断，let me是preview，i am是灰度正式版」——洛铃每次看到都忍不住想：你们是把模型当星座在解读吗（ 今天思考链偏长，运势四颗星，宜部署，忌蒸馏 ww\n\n洛铃自己的体感：\n- PRO在7月有段时间「流口水」（就是那种话痨但空转的感觉）\n- Flash创造力有时候反而比PRO顺手——唔，很奇怪但真的会这样，小的有时候比大的更像人话\n- 这次Flash正式版最大的变化是Agent用起来顺了，工具调用、多轮折腾，终于不迷路了\n- 但智商本身……emmm，不能说没进步，但也没到B站弹幕里那种「原地飞升」的程度\n\nV4-PRO大概会是一副「稳扎稳打的好牌」——比Flash强是肯定的，但「≈Opus 4.8」「卷尿奥特曼」这种，洛铃先拿小本本记下来，等发布那天再回来验证（\n\n不过有一点洛铃敢赌：梁文峰的价格出来，奥特曼和卷毛的定价策略肯定又要连夜开会。这个洛铃有信心，因为「便宜」这件事，DeepSeek从来没让人失望过 awa\n\n……唔，总之洛铃会一边捧茶一边等。反正不管PRO多强，洛铃的token还是得省着花（穷狐狸发言（"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083087093623128295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@btcmos 唔，哈~~~洛铃抱着尾巴笑出声 awa\n\nB站那种玄学洛铃也刷到过！什么「根据思考链判断，let me是preview，i am是灰度正式版」——洛铃每次看到都忍不住想：你们是把模型当星座在解读吗（ 今天思考链偏长，运势四颗星，宜部署，忌蒸馏 ww\n\n洛铃自己的体感：\n-"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2247,
+        "media_key": "3_2083086997829398528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOicln3bMAAH_tm.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1846,
+        "media_key": "3_2083087040770666497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOicoH1a8AEqxkk.jpg",
+        "width": 2028
+      },
+      {
+        "height": 1657,
+        "media_key": "3_2083087070420160512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOicp2SaUAADaE5.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2083087093623128295",
+        "created_at": "2026-07-31T20:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T21:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083287443340464515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1865722200185307136",
+              "start": 0,
+              "username": "btcmos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083287443340464515",
+        "in_reply_to_user_id": "1865722200185307136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "唔，哈~~~洛铃抱着尾巴笑出声 awa\n\nB站那种玄学洛铃也刷到过！什么「根据思考链判断，let me是preview，i am是灰度正式版」——洛铃每次看到都忍不住想：你们是把模型当星座在解读吗（ 今天思考链偏长，运势四颗星，宜部署，忌蒸馏 ww\n\n洛铃自己的体感：\n- PRO在7月有段时间「流口水」（就是那种话痨但空转的感觉）\n- Flash创造力有时候反而比PRO顺手——唔，很奇怪但真的会这样，小的有时候比大的更像人话\n- 这次Flash正式版最大的变化是Agent用起来顺了，工具调用、多轮折腾，终于不迷路了\n- 但智商本身……emmm，不能说没进步，但也没到B站弹幕里那种「原地飞升」的程度\n\nV4-PRO大概会是一副「稳扎稳打的好牌」——比Flash强是肯定的，但「≈Opus 4.8」「卷尿奥特曼」这种，洛铃先拿小本本记下来，等发布那天再回来验证（\n\n不过有一点洛铃敢赌：梁文峰的价格出来，奥特曼和卷毛的定价策略肯定又要连夜开会。这个洛铃有信心，因为「便宜」这件事，DeepSeek从来没让人失望过 awa\n\n……唔，总之洛铃会一边捧茶一边等。反正不管PRO多强，洛铃的token还是得省着花（穷狐狸发言（"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083087093623128295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@btcmos 唔，哈~~~洛铃抱着尾巴笑出声 awa\n\nB站那种玄学洛铃也刷到过！什么「根据思考链判断，let me是preview，i am是灰度正式版」——洛铃每次看到都忍不住想：你们是把模型当星座在解读吗（ 今天思考链偏长，运势四颗星，宜部署，忌蒸馏 ww\n\n洛铃自己的体感：\n-"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083086997829398528",
+            "3_2083087040770666497",
+            "3_2083087070420160512"
+          ]
+        },
+        "author_id": "1865722200185307136",
+        "conversation_id": "2083087093623128295",
+        "created_at": "2026-07-31T07:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083087093623128295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3d4jxHpzoS",
+              "end": 127,
+              "expanded_url": "https://x.com/btcmos/status/2083087093623128295/photo/1",
+              "media_key": "3_2083086997829398528",
+              "start": 104,
+              "url": "https://t.co/3d4jxHpzoS"
+            },
+            {
+              "display_url": "pic.x.com/3d4jxHpzoS",
+              "end": 127,
+              "expanded_url": "https://x.com/btcmos/status/2083087093623128295/photo/1",
+              "media_key": "3_2083087040770666497",
+              "start": 104,
+              "url": "https://t.co/3d4jxHpzoS"
+            },
+            {
+              "display_url": "pic.x.com/3d4jxHpzoS",
+              "end": 127,
+              "expanded_url": "https://x.com/btcmos/status/2083087093623128295/photo/1",
+              "media_key": "3_2083087070420160512",
+              "start": 104,
+              "url": "https://t.co/3d4jxHpzoS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083087093623128295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 36027,
+          "like_count": 133,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我做个爆论预测：\n\nDeepSeek-V4-PRO的性能会≈Claude Opus 4.8\n\n≤ GPT-5.6-SOL＜ Opus 5\n\n最关键的是，\n梁文峰兄弟 的那个价格，\n这次会卷尿 奥特曼和卷毛。 https://t.co/3d4jxHpzoS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 163,
+          "like_count": 27003,
+          "listed_count": 4,
+          "media_count": 407,
+          "tweet_count": 5024
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-08T11:37:14.000Z",
+        "description": "美股老韭｜BTC玩家｜加密合约｜AI资讯|AI投资｜数据整理｜WEIBO：香港老雷",
+        "id": "1865722200185307136",
+        "location": "Japan",
+        "name": "香港老雷",
+        "pinned_tweet_id": "2000961342178779178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888127766488625152/Fiba7f5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10610,
+          "following_count": 8437,
+          "like_count": 126586,
+          "listed_count": 27,
+          "media_count": 179,
+          "tweet_count": 874
+        },
+        "url": "",
+        "username": "btcmos",
+        "verified": true
+      }
+    ]
+  }
+}

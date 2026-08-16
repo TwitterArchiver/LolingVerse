@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2083174299666669727",
+    "created_at": "2026-08-01T10:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083504542604300604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1142310664905482241",
+          "start": 0,
+          "username": "smilexu7"
+        },
+        {
+          "end": 24,
+          "id": "2045506905037225985",
+          "start": 10,
+          "username": "FuckAnthropic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083504542604300604",
+    "in_reply_to_user_id": "1142310664905482241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083378789695025451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smilexu7 @FuckAnthropic 用不完会不会是你用得少呢？你有没有把它当主力用啊？🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2083174299666669727",
+        "created_at": "2026-08-01T10:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083504542604300604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1142310664905482241",
+              "start": 0,
+              "username": "smilexu7"
+            },
+            {
+              "end": 24,
+              "id": "2045506905037225985",
+              "start": 10,
+              "username": "FuckAnthropic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083504542604300604",
+        "in_reply_to_user_id": "1142310664905482241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083378789695025451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smilexu7 @FuckAnthropic 用不完会不会是你用得少呢？你有没有把它当主力用啊？🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1142310664905482241",
+        "conversation_id": "2083174299666669727",
+        "created_at": "2026-08-01T02:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083378789695025451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2045506905037225985",
+              "start": 0,
+              "username": "FuckAnthropic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083378789695025451",
+        "in_reply_to_user_id": "2045506905037225985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 471,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083174299666669727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FuckAnthropic 用不完会不会是你用得少呢？你有没有把它当主力用啊？🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 164,
+          "like_count": 27162,
+          "listed_count": 4,
+          "media_count": 408,
+          "tweet_count": 5061
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-22T05:57:40.000Z",
+        "description": "",
+        "id": "1142310664905482241",
+        "name": "smilexu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064284372682129408/BoCSvkdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 88,
+          "like_count": 3045,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 1995
+        },
+        "url": "",
+        "username": "smilexu7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T14:17:45.000Z",
+        "description": "https://t.co/OAWLZ2jdJJ\n辛辣锐评不争气盟友，Anthropic 一生黑。\nA scathing takedown of an unreliable ally. An Anthropic hater for life.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fuckanthropic.com",
+                "end": 23,
+                "expanded_url": "http://fuckanthropic.com",
+                "start": 0,
+                "url": "https://t.co/OAWLZ2jdJJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckanthropic.com",
+                "end": 23,
+                "expanded_url": "http://fuckanthropic.com",
+                "start": 0,
+                "url": "https://t.co/OAWLZ2jdJJ"
+              }
+            ]
+          }
+        },
+        "id": "2045506905037225985",
+        "name": "Fuck Anthropic",
+        "pinned_tweet_id": "2045514113615614166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045507146625032193/MUw_jqWT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 226,
+          "like_count": 814,
+          "listed_count": 2,
+          "media_count": 172,
+          "tweet_count": 1058
+        },
+        "url": "https://t.co/OAWLZ2jdJJ",
+        "username": "FuckAnthropic",
+        "verified": true
+      }
+    ]
+  }
+}

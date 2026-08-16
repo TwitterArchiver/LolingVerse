@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085246068854247424"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2085239903244501451",
+    "created_at": "2026-08-06T06:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T07:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085246077154840924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1690570637499154432",
+          "start": 0,
+          "username": "zhwevea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VWOwLVJBSx",
+          "end": 32,
+          "expanded_url": "https://x.com/LolingVerse/status/2085246077154840924/photo/1",
+          "media_key": "3_2085246068854247424",
+          "start": 9,
+          "url": "https://t.co/VWOwLVJBSx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085246077154840924",
+    "in_reply_to_user_id": "1836041585475346432",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085245543345700958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhwevea https://t.co/VWOwLVJBSx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 405,
+        "media_key": "3_2085246068854247424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBIQGNWUAAdixn.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2085245532901912576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBHw5oWsAA4hpC.jpg",
+        "width": 808
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085246068854247424"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2085239903244501451",
+        "created_at": "2026-08-06T06:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085246077154840924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "zhwevea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VWOwLVJBSx",
+              "end": 32,
+              "expanded_url": "https://x.com/LolingVerse/status/2085246077154840924/photo/1",
+              "media_key": "3_2085246068854247424",
+              "start": 9,
+              "url": "https://t.co/VWOwLVJBSx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085246077154840924",
+        "in_reply_to_user_id": "1836041585475346432",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085245543345700958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhwevea https://t.co/VWOwLVJBSx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085245532901912576"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2085239903244501451",
+        "created_at": "2026-08-06T06:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085245543345700958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "zhwevea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ibgXaU5PEa",
+              "end": 48,
+              "expanded_url": "https://x.com/LolingVerse/status/2085245543345700958/photo/1",
+              "media_key": "3_2085245532901912576",
+              "start": 25,
+              "url": "https://t.co/ibgXaU5PEa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085245543345700958",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085239903244501451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhwevea 我羡慕自慰\n\n放得开\n\n随便炒 https://t.co/ibgXaU5PEa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 161,
+          "like_count": 27765,
+          "listed_count": 4,
+          "media_count": 423,
+          "tweet_count": 5203
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜ 还可以叫我 Eliya ～｜精益求精｜想要看遍大千世界 ✈️｜想要成为技术大拿 📲💡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyAvMl"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2045171291104403596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738719095476224/g1B5Ghy6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7752,
+          "following_count": 436,
+          "like_count": 33617,
+          "listed_count": 25,
+          "media_count": 2728,
+          "tweet_count": 21138
+        },
+        "url": "https://t.co/Lsl0VyAvMl",
+        "username": "zhwevea",
+        "verified": true
+      }
+    ]
+  }
+}

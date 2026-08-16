@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2083903769671262249",
+    "created_at": "2026-08-02T21:38:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T22:38:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084031172959432896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4416411856",
+          "start": 0,
+          "username": "baiyangmiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084031172959432896",
+    "in_reply_to_user_id": "4416411856",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083903769671262249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baiyangmiao ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22083,
+        "height": 2560,
+        "media_key": "13_2083903568986488832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083903568986488832/img/IeAixl6rnsOfzGnB.jpg",
+        "public_metrics": {
+          "view_count": 55273
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083903568986488832/pl/-HgQ_enEBnSVPL1k.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083903568986488832/vid/avc1/720x1280/1xgk4I8Yb5mg1LC6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083903568986488832/vid/avc1/480x852/WL4vhAtF3_ahBhZy.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083903568986488832/vid/avc1/1440x2560/LX_aTS6WAKNrYeXM.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083903568986488832/vid/avc1/320x568/mDTNQ9za-QWNNaD2.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2083903769671262249",
+        "created_at": "2026-08-02T21:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T22:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084031172959432896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4416411856",
+              "start": 0,
+              "username": "baiyangmiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084031172959432896",
+        "in_reply_to_user_id": "4416411856",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083903769671262249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baiyangmiao ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083903568986488832"
+          ]
+        },
+        "author_id": "4416411856",
+        "conversation_id": "2083903769671262249",
+        "created_at": "2026-08-02T13:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083903769671262249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tt0BOHdF9t",
+              "end": 28,
+              "expanded_url": "https://x.com/baiyangmiao/status/2083903769671262249/video/1",
+              "media_key": "13_2083903568986488832",
+              "start": 5,
+              "url": "https://t.co/tt0BOHdF9t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083903769671262249",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1112,
+          "impression_count": 139984,
+          "like_count": 4380,
+          "quote_count": 5,
+          "reply_count": 233,
+          "retweet_count": 158
+        },
+        "reply_settings": "everyone",
+        "text": "拍拍皮鼓 https://t.co/tt0BOHdF9t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 164,
+          "like_count": 27379,
+          "listed_count": 4,
+          "media_count": 412,
+          "tweet_count": 5125
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-08T14:01:39.000Z",
+        "description": "有一点🧹，无处释放的暴露癖～大号 @jiuxingmao小白杨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "jiuxingmao"
+              }
+            ]
+          }
+        },
+        "id": "4416411856",
+        "location": "🚪127",
+        "name": "小杨桃",
+        "pinned_tweet_id": "2064465117656613055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063522762917036032/_d5-lwxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23498,
+          "following_count": 22,
+          "like_count": 91,
+          "listed_count": 69,
+          "media_count": 23,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "baiyangmiao",
+        "verified": true
+      }
+    ]
+  }
+}

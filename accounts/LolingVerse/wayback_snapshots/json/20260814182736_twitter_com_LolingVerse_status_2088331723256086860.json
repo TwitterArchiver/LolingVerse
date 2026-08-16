@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088254355573202944"
+      ],
+      "media_source_tweet_id": [
+        "2088254476633419903"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2088331723256086860",
+    "created_at": "2026-08-14T18:27:36.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T19:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088331723256086860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1803937428526501893",
+          "start": 3,
+          "username": "z27agxngf5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xwNPwpvwja",
+          "end": 57,
+          "expanded_url": "https://x.com/z27agxngf5/status/2088254476633419903/photo/1",
+          "media_key": "3_2088254355573202944",
+          "start": 34,
+          "url": "https://t.co/xwNPwpvwja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088331723256086860",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088254355573202944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088254476633419903",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @z27agxngf5: たぶん生まれて初めてスパッツ描いた https://t.co/xwNPwpvwja"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2088254355573202944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr4RbiaYAAq1GR.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088254355573202944"
+          ]
+        },
+        "author_id": "1803937428526501893",
+        "conversation_id": "2088254476633419903",
+        "created_at": "2026-08-14T13:20:39.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T14:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088254476633419903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xwNPwpvwja",
+              "end": 41,
+              "expanded_url": "https://x.com/z27agxngf5/status/2088254476633419903/photo/1",
+              "media_key": "3_2088254355573202944",
+              "start": 18,
+              "url": "https://t.co/xwNPwpvwja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088254476633419903",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088254355573202944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 3309,
+          "like_count": 266,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "たぶん生まれて初めてスパッツ描いた https://t.co/xwNPwpvwja"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088254355573202944"
+          ],
+          "media_source_tweet_id": [
+            "2088254476633419903"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2088331723256086860",
+        "created_at": "2026-08-14T18:27:36.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088331723256086860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1803937428526501893",
+              "start": 3,
+              "username": "z27agxngf5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xwNPwpvwja",
+              "end": 57,
+              "expanded_url": "https://x.com/z27agxngf5/status/2088254476633419903/photo/1",
+              "media_key": "3_2088254355573202944",
+              "start": 34,
+              "url": "https://t.co/xwNPwpvwja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088331723256086860",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088254355573202944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088254476633419903",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @z27agxngf5: たぶん生まれて初めてスパッツ描いた https://t.co/xwNPwpvwja"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2088331723256086860",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 165,
+          "like_count": 29267,
+          "listed_count": 4,
+          "media_count": 468,
+          "tweet_count": 5476
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-20T23:46:27.000Z",
+        "description": "けもみみとしっぽを摂取して生きている\nうちのこだいすき部　すけべ要素があるので🔞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/9zk45ljlxkzp6x…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/9zk45ljlxkzp6x9?t=jOsvO3&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/fFdbfXg56x"
+              }
+            ]
+          }
+        },
+        "id": "1803937428526501893",
+        "is_identity_verified": false,
+        "location": "でかしっぽもふもふ王国",
+        "most_recent_tweet_id": "2088287994671432155",
+        "name": "雪平夏葵",
+        "pinned_tweet_id": "2074787183781920918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1803937428526501893/1784021520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067019507328233472/7otGQU_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 97,
+          "like_count": 4066,
+          "listed_count": 10,
+          "media_count": 719,
+          "tweet_count": 22770
+        },
+        "url": "https://t.co/fFdbfXg56x",
+        "username": "z27agxngf5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

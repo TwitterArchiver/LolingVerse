@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2083167212567749034",
+    "created_at": "2026-08-01T05:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T06:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083431530374783425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1376930459783954435",
+          "start": 0,
+          "username": "_menzinho1"
+        },
+        {
+          "end": 21,
+          "id": "1552918719440924672",
+          "start": 12,
+          "username": "lumigj02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083431530374783425",
+    "in_reply_to_user_id": "1376930459783954435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083167212567749034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_menzinho1 @lumigj02 咱想，应该对面视角是这样的(x"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15766,
+        "height": 1280,
+        "media_key": "13_2083167174311489536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083167174311489536/img/XkEvXOtAIs3TE9Dc.jpg",
+        "public_metrics": {
+          "view_count": 1617641
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083167174311489536/vid/avc1/320x568/0PcCj8XFK-102unS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083167174311489536/vid/avc1/480x852/Vi0GCwsmfg4LWzQA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083167174311489536/vid/avc1/720x1280/W3-QqPMO-fMF2iOj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083167174311489536/pl/E-egXHdhaxPI9n70.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2083167212567749034",
+        "created_at": "2026-08-01T05:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083431530374783425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1376930459783954435",
+              "start": 0,
+              "username": "_menzinho1"
+            },
+            {
+              "end": 21,
+              "id": "1552918719440924672",
+              "start": 12,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083431530374783425",
+        "in_reply_to_user_id": "1376930459783954435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083167212567749034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_menzinho1 @lumigj02 咱想，应该对面视角是这样的(x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083167174311489536"
+          ]
+        },
+        "author_id": "1376930459783954435",
+        "conversation_id": "2083167212567749034",
+        "created_at": "2026-07-31T12:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083167212567749034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c4S8Gx76X6",
+              "end": 105,
+              "expanded_url": "https://x.com/_menzinho1/status/2083167212567749034/video/1",
+              "media_key": "13_2083167174311489536",
+              "start": 82,
+              "url": "https://t.co/c4S8Gx76X6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083167212567749034",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2454,
+          "impression_count": 2953152,
+          "like_count": 25483,
+          "quote_count": 315,
+          "reply_count": 464,
+          "retweet_count": 1338
+        },
+        "reply_settings": "everyone",
+        "text": "Minha prima está tirando habilitação e vai realizar o sonho de ser caminhoneira.. https://t.co/c4S8Gx76X6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 164,
+          "like_count": 27101,
+          "listed_count": 4,
+          "media_count": 408,
+          "tweet_count": 5040
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-30T16:13:13.000Z",
+        "description": "Entre a tática e a poesia do jogo, busco a essência. Futebol pensado, além da paixão. Da grandeza do Flamengo às nuances do esporte; Opinião sensata",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cnnbrasil.com.br/viagemegastron…",
+                "end": 23,
+                "expanded_url": "https://www.cnnbrasil.com.br/viagemegastronomia/viagem/conheca-ongs-que-ajudam-no-combate-a-fome-no-",
+                "start": 0,
+                "url": "https://t.co/DnORM0HdiB"
+              }
+            ]
+          }
+        },
+        "id": "1376930459783954435",
+        "location": "Brasil",
+        "name": "'",
+        "pinned_tweet_id": "1858869102011384242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068172625617063936/WxHP50uj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20920,
+          "following_count": 2077,
+          "like_count": 26645,
+          "listed_count": 7,
+          "media_count": 4319,
+          "tweet_count": 10195
+        },
+        "url": "https://t.co/DnORM0HdiB",
+        "username": "_menzinho1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/@leetfs1/笨蛋姐姐@hoshi_asuka0089/头像@TUTAIiiiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 18,
+                "start": 10,
+                "username": "leetfs1"
+              },
+              {
+                "end": 39,
+                "start": 23,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "TUTAIiiiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaSm6a"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "糖商(尽量tg,私信有时不推送)➡️",
+        "name": "猫卷",
+        "pinned_tweet_id": "2078640631422042388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4247,
+          "following_count": 839,
+          "like_count": 4391,
+          "listed_count": 9,
+          "media_count": 146,
+          "tweet_count": 1106
+        },
+        "url": "https://t.co/uFyDvaSm6a",
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

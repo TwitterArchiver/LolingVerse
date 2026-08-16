@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2086708226759028918",
+    "created_at": "2026-08-11T01:11:08.000Z",
+    "display_text_range": [
+      9,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T02:11:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086983721433932117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1486017329662423044",
+          "start": 0,
+          "username": "mylifcc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086983721433932117",
+    "in_reply_to_user_id": "1486017329662423044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086708226759028918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mylifcc 2000也没多少啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2086708226759028918",
+        "created_at": "2026-08-11T01:11:08.000Z",
+        "display_text_range": [
+          9,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T02:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086983721433932117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1486017329662423044",
+              "start": 0,
+              "username": "mylifcc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086983721433932117",
+        "in_reply_to_user_id": "1486017329662423044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086708226759028918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mylifcc 2000也没多少啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486017329662423044",
+        "conversation_id": "2086708226759028918",
+        "created_at": "2026-08-10T06:56:25.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T07:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086708226759028918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WorkBuddy_AI/s…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/WorkBuddy_AI/status/2086669189742461173",
+              "start": 144,
+              "url": "https://t.co/IraNDrdkP4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086708226759028918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "办公向 AI Agent 终于开始认真卷「额度 + 模型选择权」了。\n\nWorkBuddy 这次把 Pro 月额度直接翻倍到 2000，还加了日常活跃额外送分，Hy3 到 8 月底免费。对做报告、研究、多步 workflow 的人来说，比单纯堆模型更实际。\n\n我没有深度跑过它的完整复杂 workflow，所以不敢说最终效果怎样。但看到额度、模型选择权和价格这几项同时调整，我觉得至少抓住了办公 Agent 最实在的痛点之一。\n工具再多，最后还是要回到一件事：它能不能让人把眼前的活，稳定地做完。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2628,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086669189742461173",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "办公向 AI Agent 终于开始认真卷「额度 + 模型选择权」了。\n\nWorkBuddy 这次把 Pro 月额度直接翻倍到 2000，还加了日常活跃额外送分，Hy3 到 8 月底免费。对做报告、研究、多步 workflow 的人来说，比单纯堆模型更实际。\n\n我没有深度跑过它的完整复杂 https://t.co/IraNDrdkP4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2086983721433932117",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 162,
+          "like_count": 28612,
+          "listed_count": 4,
+          "media_count": 446,
+          "tweet_count": 5324
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-25T16:45:32.000Z",
+        "description": "每天用 AI 写代码的工程师\nClaude Code ｜ Codex深度用户  ｜Agentic engineering\n在这里分享 AI 工具实测和开发者工作流",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/majiayu000",
+                "end": 23,
+                "expanded_url": "https://github.com/majiayu000",
+                "start": 0,
+                "url": "https://t.co/ufi5xkagnA"
+              }
+            ]
+          }
+        },
+        "id": "1486017329662423044",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086982496990949382",
+        "name": "lifcc",
+        "pinned_tweet_id": "2053385535658533072",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1486017329662423044/1778929715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034239213487681536/2gjQXlXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5487,
+          "following_count": 261,
+          "like_count": 5579,
+          "listed_count": 53,
+          "media_count": 862,
+          "tweet_count": 10517
+        },
+        "url": "https://t.co/ufi5xkagnA",
+        "username": "mylifcc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

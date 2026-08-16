@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086912314985324544"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2086912450822095281",
+    "created_at": "2026-08-10T20:27:55.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T21:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086912450822095281"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/voqbXOeI9f",
+          "end": 36,
+          "expanded_url": "https://x.com/LolingVerse/status/2086912450822095281/photo/1",
+          "media_key": "3_2086912314985324544",
+          "start": 13,
+          "url": "https://t.co/voqbXOeI9f"
+        },
+        {
+          "display_url": "x.com/LolingVerse/st…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/LolingVerse/status/2086894916211265744",
+          "start": 37,
+          "url": "https://t.co/ox1v1ahB7k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086912450822095281",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086912314985324544"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086894916211265744",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "被GPT锐评了，于是改了 https://t.co/voqbXOeI9f https://t.co/ox1v1ahB7k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 956,
+        "media_key": "3_2086912314985324544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYzsYwWoAAdHqz.jpg",
+        "width": 1617
+      },
+      {
+        "height": 865,
+        "media_key": "3_2086894814100905984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYjxs4W4AAai1r.jpg",
+        "width": 1461
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086912314985324544"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2086912450822095281",
+        "created_at": "2026-08-10T20:27:55.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T21:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086912450822095281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/voqbXOeI9f",
+              "end": 36,
+              "expanded_url": "https://x.com/LolingVerse/status/2086912450822095281/photo/1",
+              "media_key": "3_2086912314985324544",
+              "start": 13,
+              "url": "https://t.co/voqbXOeI9f"
+            },
+            {
+              "display_url": "x.com/LolingVerse/st…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/LolingVerse/status/2086894916211265744",
+              "start": 37,
+              "url": "https://t.co/ox1v1ahB7k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086912450822095281",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086912314985324544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086894916211265744",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被GPT锐评了，于是改了 https://t.co/voqbXOeI9f https://t.co/ox1v1ahB7k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086894814100905984"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086894916211265744",
+        "created_at": "2026-08-10T19:18:15.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T20:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086894916211265744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "你的电台，你的舞台，你的世代。Your Station. Your Stage. Your Generation. - Risaly-Noroki-Dev-Club/Rakurakumusicstation-NG",
+              "display_url": "github.com/Risaly-Noroki-…",
+              "end": 48,
+              "expanded_url": "https://github.com/Risaly-Noroki-Dev-Club/Rakurakumusicstation-NG/",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2086894959467069440/L5gPtcsY?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2086894959467069440/L5gPtcsY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 25,
+              "status": 200,
+              "title": "GitHub - Risaly-Noroki-Dev-Club/Rakurakumusicstation-NG: 你的电台，你的舞台，你的世代。Your Station. Your Stage. Your Generation.",
+              "unwound_url": "https://github.com/Risaly-Noroki-Dev-Club/Rakurakumusicstation-NG/",
+              "url": "https://t.co/BJzIPDNi42"
+            },
+            {
+              "display_url": "pic.x.com/2hTSpHCali",
+              "end": 80,
+              "expanded_url": "https://x.com/LolingVerse/status/2086894916211265744/photo/1",
+              "media_key": "3_2086894814100905984",
+              "start": 57,
+              "url": "https://t.co/2hTSpHCali"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086894916211265744",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086894814100905984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做了新的电台ui，但是埃里卡睡觉了\n\n走过路过给 https://t.co/BJzIPDNi42 点个 star https://t.co/2hTSpHCali"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2086912450822095281",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 162,
+          "like_count": 28587,
+          "listed_count": 4,
+          "media_count": 446,
+          "tweet_count": 5322
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

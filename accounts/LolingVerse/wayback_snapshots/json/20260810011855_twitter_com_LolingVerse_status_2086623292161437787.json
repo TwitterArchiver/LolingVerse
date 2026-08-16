@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086389981342265344"
+      ],
+      "media_source_tweet_id": [
+        "2086390024258412754"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2086623292161437787",
+    "created_at": "2026-08-10T01:18:55.000Z",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T02:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086623292161437787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2073091329278529536",
+          "start": 3,
+          "username": "deathinvained"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5YKZ7YLcNb",
+          "end": 95,
+          "expanded_url": "https://x.com/deathinvained/status/2086390024258412754/video/1",
+          "media_key": "13_2086389981342265344",
+          "start": 72,
+          "url": "https://t.co/5YKZ7YLcNb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086623292161437787",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2086389981342265344"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1341
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086390024258412754",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @deathinvained: I need to stop watching tiktok what the fuck is this https://t.co/5YKZ7YLcNb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31066,
+        "height": 1024,
+        "media_key": "13_2086389981342265344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086389981342265344/img/Bx4aJJzm5aecJrK3.jpg",
+        "public_metrics": {
+          "view_count": 423977
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086389981342265344/vid/avc1/320x568/MfSc5GVRLjAzZmko.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086389981342265344/vid/avc1/480x852/4PEmqC4NOaunE7V3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086389981342265344/vid/avc1/576x1024/uIBsF1Ba-yS5NkMp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086389981342265344/pl/-XHo3NF3NmTuKrkk.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086389981342265344"
+          ]
+        },
+        "author_id": "2073091329278529536",
+        "conversation_id": "2086390024258412754",
+        "created_at": "2026-08-09T09:51:59.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T10:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086390024258412754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5YKZ7YLcNb",
+              "end": 76,
+              "expanded_url": "https://x.com/deathinvained/status/2086390024258412754/video/1",
+              "media_key": "13_2086389981342265344",
+              "start": 53,
+              "url": "https://t.co/5YKZ7YLcNb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086390024258412754",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2086389981342265344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2383,
+          "impression_count": 786138,
+          "like_count": 12336,
+          "quote_count": 185,
+          "reply_count": 135,
+          "retweet_count": 1344
+        },
+        "reply_settings": "everyone",
+        "text": "I need to stop watching tiktok what the fuck is this https://t.co/5YKZ7YLcNb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086389981342265344"
+          ],
+          "media_source_tweet_id": [
+            "2086390024258412754"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086623292161437787",
+        "created_at": "2026-08-10T01:18:55.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T02:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086623292161437787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2073091329278529536",
+              "start": 3,
+              "username": "deathinvained"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5YKZ7YLcNb",
+              "end": 95,
+              "expanded_url": "https://x.com/deathinvained/status/2086390024258412754/video/1",
+              "media_key": "13_2086389981342265344",
+              "start": 72,
+              "url": "https://t.co/5YKZ7YLcNb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086623292161437787",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2086389981342265344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1341
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086390024258412754",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @deathinvained: I need to stop watching tiktok what the fuck is this https://t.co/5YKZ7YLcNb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2086623292161437787",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 162,
+          "like_count": 28419,
+          "listed_count": 4,
+          "media_count": 439,
+          "tweet_count": 5293
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-03T17:08:24.000Z",
+        "description": "young artist.\nI'd like to make my own videogame some day!\nparody account of my oc: @Ririsulovesu\nalt acc: @vainaria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "Ririsulovesu"
+              },
+              {
+                "end": 115,
+                "start": 106,
+                "username": "vainaria"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "deathinvain.straw.page",
+                "end": 23,
+                "expanded_url": "https://deathinvain.straw.page",
+                "start": 0,
+                "url": "https://t.co/Bg3eZi0aN6"
+              }
+            ]
+          }
+        },
+        "id": "2073091329278529536",
+        "is_identity_verified": false,
+        "location": "she/har/har/har/har/har/it",
+        "most_recent_tweet_id": "2086587639633788988",
+        "name": "deathinvained",
+        "pinned_tweet_id": "2084664746628833558",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073091329278529536/1785850214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084728116266536960/krvUvcSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 332,
+          "like_count": 4616,
+          "listed_count": 5,
+          "media_count": 170,
+          "tweet_count": 910
+        },
+        "url": "https://t.co/Bg3eZi0aN6",
+        "username": "deathinvained",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

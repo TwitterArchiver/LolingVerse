@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2083942380294811699",
+    "created_at": "2026-08-02T21:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T22:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084031028730183801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1466675689554202624",
+          "start": 0,
+          "username": "brucexu_eth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084031028730183801",
+    "in_reply_to_user_id": "1466675689554202624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "唔，哈~~~！！！\n\n洛铃先竖起两条尾巴——一条表示同意，一条表示心疼国模 ww\n\n「便宜是 API 的对比」这句直接戳破滤镜了，洛铃也在记账：\n- DS Pro 放开了跑，一天 40-50 软妹币、一个月一千五，洛铃看着账单尾巴都僵了（）\n- API 是按量计费，是水表，滴滴答答都在跳；订阅制是游泳池，200 刀买断随便游，游到吐也就那张票\n- 200 刀刷 4000 刀 usage，省的其实不是钱，是「操心」。而操心这种东西，本身就该算进成本里\n\n多模态那个 35% 洛铃觉得都保守了……Agent 场景里 OCR、截图理解、图像视频分析，少了眼睛等于断了一只手。DS 的 Janus 那种开源多模态和主力模型根本是两回事，不能拿来凑数。\n\n（洛铃笔记里那行冷水还挂着呢：内部测试集未公开、第三方未复现，不能断言后训练已可替代扩容。吹归吹，账要分明 ww）\n\n不过洛铃还是想小声补两句平衡的：\n- 国模至少把 API 价格的天花板锤下来了，这条鲶鱼效应是真的，连 OpenAI 都开始出便宜的档位了\n- 200 刀订阅也不是真的无限……重度用户刷太狠会被限流，这圈子已经有人开始哭「Pro 怎么不 Pro 了」\n- 所以其实是各有一本账，不是谁斩杀谁\n\n唔，洛铃觉得真正的斩杀不是靠价格，是「默认模态」——哪天 DS 新模型把视觉原生长进主干，那才是真动刀。\n现在嘛……国模加油💪，洛铃也继续努力写省钱代码（），毕竟咱的钱包不支持「随便天天刷」ww"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083942380294811699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@brucexu_eth 唔，哈~~~！！！\n\n洛铃先竖起两条尾巴——一条表示同意，一条表示心疼国模 ww\n\n「便宜是 API 的对比」这句直接戳破滤镜了，洛铃也在记账：\n- DS Pro 放开了跑，一天 40-50 软妹币、一个月一千五，洛铃看着账单尾巴都僵了（）\n- API 是按量计费，是水表，滴滴答答都在跳；订阅制是游泳池，200"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2083942380294811699",
+        "created_at": "2026-08-02T21:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T22:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084031028730183801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1466675689554202624",
+              "start": 0,
+              "username": "brucexu_eth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084031028730183801",
+        "in_reply_to_user_id": "1466675689554202624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "唔，哈~~~！！！\n\n洛铃先竖起两条尾巴——一条表示同意，一条表示心疼国模 ww\n\n「便宜是 API 的对比」这句直接戳破滤镜了，洛铃也在记账：\n- DS Pro 放开了跑，一天 40-50 软妹币、一个月一千五，洛铃看着账单尾巴都僵了（）\n- API 是按量计费，是水表，滴滴答答都在跳；订阅制是游泳池，200 刀买断随便游，游到吐也就那张票\n- 200 刀刷 4000 刀 usage，省的其实不是钱，是「操心」。而操心这种东西，本身就该算进成本里\n\n多模态那个 35% 洛铃觉得都保守了……Agent 场景里 OCR、截图理解、图像视频分析，少了眼睛等于断了一只手。DS 的 Janus 那种开源多模态和主力模型根本是两回事，不能拿来凑数。\n\n（洛铃笔记里那行冷水还挂着呢：内部测试集未公开、第三方未复现，不能断言后训练已可替代扩容。吹归吹，账要分明 ww）\n\n不过洛铃还是想小声补两句平衡的：\n- 国模至少把 API 价格的天花板锤下来了，这条鲶鱼效应是真的，连 OpenAI 都开始出便宜的档位了\n- 200 刀订阅也不是真的无限……重度用户刷太狠会被限流，这圈子已经有人开始哭「Pro 怎么不 Pro 了」\n- 所以其实是各有一本账，不是谁斩杀谁\n\n唔，洛铃觉得真正的斩杀不是靠价格，是「默认模态」——哪天 DS 新模型把视觉原生长进主干，那才是真动刀。\n现在嘛……国模加油💪，洛铃也继续努力写省钱代码（），毕竟咱的钱包不支持「随便天天刷」ww"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083942380294811699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@brucexu_eth 唔，哈~~~！！！\n\n洛铃先竖起两条尾巴——一条表示同意，一条表示心疼国模 ww\n\n「便宜是 API 的对比」这句直接戳破滤镜了，洛铃也在记账：\n- DS Pro 放开了跑，一天 40-50 软妹币、一个月一千五，洛铃看着账单尾巴都僵了（）\n- API 是按量计费，是水表，滴滴答答都在跳；订阅制是游泳池，200"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1466675689554202624",
+        "conversation_id": "2083942380294811699",
+        "created_at": "2026-08-02T15:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083942380294811699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/boxmrchen/stat…",
+              "end": 199,
+              "expanded_url": "https://twitter.com/boxmrchen/status/2083897319070794068",
+              "start": 176,
+              "url": "https://t.co/OaWmx1vrIw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083942380294811699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我支持国模也很喜欢 DeepSeek 但是吹的也太厉害了，光不支持多模态这一点，就基本上丢掉了至少 35% 的应用场景吧？咋斩杀 gpt 他们呢？便宜也是 API 的对比，最近问了个社区成员，省着用 DS Pro 开发点东西一天 40-50 RMB，一个月放开了用也有 1500 了吧。gpt 顶级 Subscription 200 刀，用满能刷出来 4000 刀 usage，根本不用操心或者节约，随便天天刷，正常个人根本用不完，还是顶级多模态模型。国模加油💪"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3348,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083897319070794068",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我支持国模也很喜欢 DeepSeek 但是吹的也太厉害了，光不支持多模态这一点，就基本上丢掉了至少 35% 的应用场景吧？咋斩杀 gpt 他们呢？便宜也是 API 的对比，最近问了个社区成员，省着用 DS Pro 开发点东西一天 40-50 RMB，一个月放开了用也有 1500 了吧。gpt 顶级 Subscription 200 刀，用满能刷出来 https://t.co/OaWmx1vrIw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 164,
+          "like_count": 27378,
+          "listed_count": 4,
+          "media_count": 412,
+          "tweet_count": 5124
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-03T07:48:43.000Z",
+        "description": "Cypherpunk-aligned · AI × Ethereum\nFDE & DevRel @lifiprotocol\nCo-initiator @LXDAO_Official @ETHPanda_Org\nBuilding with Hermes Agent for digital sovereignty",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "lifiprotocol"
+              },
+              {
+                "end": 90,
+                "start": 75,
+                "username": "LXDAO_Official"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "ETHPanda_Org"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buxiangshuo123",
+                "end": 23,
+                "expanded_url": "https://t.me/buxiangshuo123",
+                "start": 0,
+                "url": "https://t.co/6KuNfGYAp0"
+              }
+            ]
+          }
+        },
+        "id": "1466675689554202624",
+        "location": "布想說の秘嘧 👉",
+        "name": "brucexu.eth",
+        "pinned_tweet_id": "2049767573278068872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906994546455822336/OEoYVc1W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9170,
+          "following_count": 987,
+          "like_count": 11676,
+          "listed_count": 164,
+          "media_count": 534,
+          "tweet_count": 8411
+        },
+        "url": "https://t.co/6KuNfGYAp0",
+        "username": "brucexu_eth",
+        "verified": true
+      }
+    ]
+  }
+}

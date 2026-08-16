@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2087455386081357974",
+    "created_at": "2026-08-12T16:11:48.000Z",
+    "display_text_range": [
+      14,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T17:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087572769277882588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2536513913",
+          "start": 0,
+          "username": "woaitaoershi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087572769277882588",
+    "in_reply_to_user_id": "2536513913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087455386081357974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaitaoershi Gemini的音乐造诣上狗屁不通"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2087455386081357974",
+        "created_at": "2026-08-12T16:11:48.000Z",
+        "display_text_range": [
+          14,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087572769277882588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2536513913",
+              "start": 0,
+              "username": "woaitaoershi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087572769277882588",
+        "in_reply_to_user_id": "2536513913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087455386081357974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaitaoershi Gemini的音乐造诣上狗屁不通"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2536513913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2087455386081357974",
+        "created_at": "2026-08-12T08:25:21.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087455386081357974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/btcdayu/status…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/btcdayu/status/2087401921753796731",
+              "start": 136,
+              "url": "https://t.co/OhpXz6QIah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087455386081357974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "大家真别看不起gemini\n\nGemini是唯一的真正的多模态模型\n\nGemini在文学创作上断档第一\n\n并且，gemini是唯一一个真正能听到声音的模型，比如你如果是一个音乐创作者，你想知道某个声音是怎么做出来的，只有gemini能真正“听到”，你用同样的声音问gpt claude，他们都只能假模假样给你分析一下波长频率，然后猜一个答案\n\n所以大家不要看不起gemini，只是因为你是写代码的，你看不起他，一堆写小说的，写剧本的，做文字游戏的，都觉得gemini是无可争议的第一\n\n豆包也很牛逼，我就不赘述了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 54023,
+          "like_count": 165,
+          "quote_count": 2,
+          "reply_count": 58,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087401921753796731",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家真别看不起gemini\n\nGemini是唯一的真正的多模态模型\n\nGemini在文学创作上断档第一\n\n并且，gemini是唯一一个真正能听到声音的模型，比如你如果是一个音乐创作者，你想知道某个声音是怎么做出来的，只有gemini能真正“听到”，你用同样的声音问gpt https://t.co/OhpXz6QIah"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2087572769277882588",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 164,
+          "like_count": 28893,
+          "listed_count": 4,
+          "media_count": 458,
+          "tweet_count": 5406
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-05-09T05:03:06.000Z",
+        "description": "菜鸟交易员 量子光学研究生 一定会成功的超级飞行员！",
+        "id": "2536513913",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087527026366570820",
+        "name": "超级飞行员",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2536513913/1740977241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031042286252118016/pzdNgj2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15371,
+          "following_count": 809,
+          "like_count": 4597,
+          "listed_count": 129,
+          "media_count": 708,
+          "tweet_count": 6430
+        },
+        "url": "",
+        "username": "woaitaoershi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

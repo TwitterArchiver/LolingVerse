@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2083729293923017094",
+    "created_at": "2026-08-02T08:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T09:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083832902307983855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "780334785969266688",
+          "start": 0,
+          "username": "feikeis"
+        },
+        {
+          "end": 18,
+          "id": "1535166019978768384",
+          "start": 9,
+          "username": "aigclink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083832902307983855",
+    "in_reply_to_user_id": "780334785969266688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083742856469238185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@feikeis @aigclink 而且感觉质疑这样过分的的角色扮演是否视觉效果&gt;产出？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2083729293923017094",
+        "created_at": "2026-08-02T08:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083832902307983855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "780334785969266688",
+              "start": 0,
+              "username": "feikeis"
+            },
+            {
+              "end": 18,
+              "id": "1535166019978768384",
+              "start": 9,
+              "username": "aigclink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083832902307983855",
+        "in_reply_to_user_id": "780334785969266688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083742856469238185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@feikeis @aigclink 而且感觉质疑这样过分的的角色扮演是否视觉效果&gt;产出？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "780334785969266688",
+        "conversation_id": "2083729293923017094",
+        "created_at": "2026-08-02T02:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083742856469238185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1535166019978768384",
+              "start": 0,
+              "username": "aigclink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083742856469238185",
+        "in_reply_to_user_id": "1535166019978768384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083729293923017094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aigclink 长 thread 复用上下文这事我实际踩过一个坑：agent 在旧 thread 里学了一堆临时的 workaround 没被 compaction 清掉，后面接新任务时直接用错路径，排查了很久才发现是历史消息里的一个错误示范被当成了惯例。你们现在 compaction 的时候怎么区分该保留的经验和该丢弃的噪音？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 164,
+          "like_count": 27313,
+          "listed_count": 4,
+          "media_count": 412,
+          "tweet_count": 5104
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2016-09-26T09:14:45.000Z",
+        "description": "产品经理｜兼架构师\n\n把想法做成产品，持续分享 创造人们需要的产品 我的想法是我自己",
+        "id": "780334785969266688",
+        "location": "Florida, USA",
+        "name": "Ling Yi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078324012321755136/QtQi6n9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 98,
+          "like_count": 1205,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 488
+        },
+        "url": "",
+        "username": "feikeis",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-10T07:44:54.000Z",
+        "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "d.aigclink.ai",
+                "end": 23,
+                "expanded_url": "http://d.aigclink.ai",
+                "start": 0,
+                "url": "https://t.co/m6mpMpqH67"
+              }
+            ]
+          }
+        },
+        "id": "1535166019978768384",
+        "name": "AIGCLINK",
+        "pinned_tweet_id": "2082822414912860247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36389,
+          "following_count": 1796,
+          "like_count": 791,
+          "listed_count": 643,
+          "media_count": 3974,
+          "tweet_count": 5583
+        },
+        "url": "https://t.co/m6mpMpqH67",
+        "username": "aigclink",
+        "verified": true
+      }
+    ]
+  }
+}

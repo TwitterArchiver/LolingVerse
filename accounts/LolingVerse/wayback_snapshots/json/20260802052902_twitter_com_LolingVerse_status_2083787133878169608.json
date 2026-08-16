@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2083462745769586760",
+    "created_at": "2026-08-02T05:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T06:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083787133878169608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1683767572519608320",
+          "start": 0,
+          "username": "NextBullReady"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20837…",
+          "end": 55,
+          "expanded_url": "https://x.com/i/status/2083756014600696008",
+          "start": 32,
+          "url": "https://t.co/px2rXQX4k3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083787133878169608",
+    "in_reply_to_user_id": "1683767572519608320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083756014600696008",
+        "type": "quoted"
+      },
+      {
+        "id": "2083462745769586760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NextBullReady 这也能炒？流量还倍儿高？\n同评：\nhttps://t.co/px2rXQX4k3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2083462737817214976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnyUkZboAAAcOb.jpg",
+        "width": 628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2083462745769586760",
+        "created_at": "2026-08-02T05:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083787133878169608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1683767572519608320",
+              "start": 0,
+              "username": "NextBullReady"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20837…",
+              "end": 55,
+              "expanded_url": "https://x.com/i/status/2083756014600696008",
+              "start": 32,
+              "url": "https://t.co/px2rXQX4k3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083787133878169608",
+        "in_reply_to_user_id": "1683767572519608320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083756014600696008",
+            "type": "quoted"
+          },
+          {
+            "id": "2083462745769586760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NextBullReady 这也能炒？流量还倍儿高？\n同评：\nhttps://t.co/px2rXQX4k3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433001341341745155",
+        "conversation_id": "2083462745769586760",
+        "created_at": "2026-08-02T03:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T04:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083756014600696008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1683767572519608320",
+              "start": 0,
+              "username": "NextBullReady"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083756014600696008",
+        "in_reply_to_user_id": "1683767572519608320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1489,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083462745769586760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NextBullReady 不就是拼url嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083462737817214976"
+          ]
+        },
+        "author_id": "1683767572519608320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2083462745769586760",
+        "created_at": "2026-08-01T08:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083462745769586760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ust9Lsxjq7",
+              "end": 83,
+              "expanded_url": "https://x.com/NextBullReady/status/2083462745769586760/photo/1",
+              "media_key": "3_2083462737817214976",
+              "start": 60,
+              "url": "https://t.co/ust9Lsxjq7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083462745769586760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1107,
+          "impression_count": 87455,
+          "like_count": 632,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "一条命令，找到一个人互联网上的所有账户。\n\nGitHub 超过 82,400 星，\n完全免费且开源。\n\n主要功能 ⬇️ https://t.co/ust9Lsxjq7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 164,
+          "like_count": 27282,
+          "listed_count": 4,
+          "media_count": 411,
+          "tweet_count": 5095
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-25T09:14:41.000Z",
+        "description": "🚩 练级中，发点干货也碎碎念\n\n🏋️ 不保涨，不割韭\n\n🍺  牛回相见",
+        "id": "1683767572519608320",
+        "name": "董币哥",
+        "pinned_tweet_id": "2070103454878699889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921116632933343232/_hnSwHVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37185,
+          "following_count": 459,
+          "like_count": 13200,
+          "listed_count": 310,
+          "media_count": 2933,
+          "tweet_count": 4924
+        },
+        "url": "",
+        "username": "NextBullReady",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-01T09:39:01.000Z",
+        "description": "25届中厂后端程序员，上海人在北京开启异样人生",
+        "id": "1433001341341745155",
+        "name": "Chance",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545602009189220352/_w_pYW6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 53,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "gulugulu1103",
+        "verified": false
+      }
+    ]
+  }
+}

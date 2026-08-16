@@ -1,0 +1,462 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2087887099706167708",
+    "created_at": "2026-08-13T14:26:38.000Z",
+    "display_text_range": [
+      9,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T15:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087908694461645145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1637070779975352320",
+          "start": 0,
+          "username": "arkuy99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20878…",
+          "end": 32,
+          "expanded_url": "https://x.com/i/status/2087888062458323090",
+          "start": 9,
+          "url": "https://t.co/IjNta6MoX4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087908694461645145",
+    "in_reply_to_user_id": "1637070779975352320",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087888062458323090",
+        "type": "quoted"
+      },
+      {
+        "id": "2087887099706167708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arkuy99 https://t.co/IjNta6MoX4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_2087888030053109760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmrGeobEAAH9Sb.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1178,
+        "media_key": "3_2087886981279911936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmqJbpaEAARe7Y.jpg",
+        "width": 2684
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2087887099706167708",
+        "created_at": "2026-08-13T14:26:38.000Z",
+        "display_text_range": [
+          9,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087908694461645145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1637070779975352320",
+              "start": 0,
+              "username": "arkuy99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20878…",
+              "end": 32,
+              "expanded_url": "https://x.com/i/status/2087888062458323090",
+              "start": 9,
+              "url": "https://t.co/IjNta6MoX4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087908694461645145",
+        "in_reply_to_user_id": "1637070779975352320",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087888062458323090",
+            "type": "quoted"
+          },
+          {
+            "id": "2087887099706167708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arkuy99 https://t.co/IjNta6MoX4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087888030053109760"
+          ]
+        },
+        "author_id": "1987885638038036480",
+        "conversation_id": "2087888062458323090",
+        "created_at": "2026-08-13T13:04:39.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T14:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087888062458323090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nsFuYZWkPZ",
+              "end": 76,
+              "expanded_url": "https://x.com/mizorewww/status/2087888062458323090/photo/1",
+              "media_key": "3_2087888030053109760",
+              "start": 53,
+              "url": "https://t.co/nsFuYZWkPZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087888062458323090",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087888030053109760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4672,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "deepseek harness仓库公开了\n\n但我不是很懂啊，诸位，为什么里面会有.claude文件夹呀 https://t.co/nsFuYZWkPZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087886981279911936"
+          ]
+        },
+        "author_id": "1637070779975352320",
+        "conversation_id": "2087887099706167708",
+        "created_at": "2026-08-13T13:00:50.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T14:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087887099706167708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/deepseek-ai/de…",
+              "end": 53,
+              "expanded_url": "https://github.com/deepseek-ai/deepseek-harness",
+              "start": 30,
+              "status": 404,
+              "unwound_url": "https://github.com/deepseek-ai/deepseek-harness",
+              "url": "https://t.co/PaELxlx07w"
+            },
+            {
+              "display_url": "pic.x.com/kSLp2RYdXl",
+              "end": 77,
+              "expanded_url": "https://x.com/arkuy99/status/2087887099706167708/photo/1",
+              "media_key": "3_2087886981279911936",
+              "start": 54,
+              "url": "https://t.co/kSLp2RYdXl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087887099706167708",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087886981279911936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3954,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "deepseek harness 开源了 来看看什么成色\n\nhttps://t.co/PaELxlx07w https://t.co/kSLp2RYdXl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2087908694461645145",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 165,
+          "like_count": 29073,
+          "listed_count": 4,
+          "media_count": 460,
+          "tweet_count": 5431
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-18T12:37:54.000Z",
+        "description": "building  https://t.co/m270kq0cxL  https://t.co/nqy6LDj4i7\n/ ex @TencentGames \n/ ex @TempleRun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "TencentGames"
+              },
+              {
+                "end": 94,
+                "start": 84,
+                "username": "TempleRun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "seedex.app",
+                "end": 33,
+                "expanded_url": "https://seedex.app",
+                "start": 10,
+                "url": "https://t.co/m270kq0cxL"
+              },
+              {
+                "display_url": "vibecleaner.app",
+                "end": 58,
+                "expanded_url": "https://vibecleaner.app/",
+                "start": 35,
+                "url": "https://t.co/nqy6LDj4i7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com/invite/m4sM6QU…",
+                "end": 23,
+                "expanded_url": "https://discord.com/invite/m4sM6QUuMt",
+                "start": 0,
+                "url": "https://t.co/zxI1WGBHGi"
+              }
+            ]
+          }
+        },
+        "id": "1637070779975352320",
+        "is_identity_verified": false,
+        "location": "Less is more.",
+        "most_recent_tweet_id": "2087906940810838104",
+        "name": "Go学长",
+        "pinned_tweet_id": "2049078848978145704",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637070779975352320/1747509329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929775085520670720/nyG5k8ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8491,
+          "following_count": 1076,
+          "like_count": 7518,
+          "listed_count": 45,
+          "media_count": 767,
+          "tweet_count": 10530
+        },
+        "url": "https://t.co/zxI1WGBHGi",
+        "username": "arkuy99",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "08 大一\n开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\ngroup: https://t.co/pqGQW3HDeN\nemail: www@mizore.blog\ntelegram: https://t.co/yRGqdtA0JC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+DGSMTqhPGXkyM…",
+                "end": 73,
+                "expanded_url": "https://t.me/+DGSMTqhPGXkyM2E1",
+                "start": 50,
+                "url": "https://t.co/pqGQW3HDeN"
+              },
+              {
+                "display_url": "t.me/aac6fef",
+                "end": 130,
+                "expanded_url": "http://t.me/aac6fef",
+                "start": 107,
+                "url": "https://t.co/yRGqdtA0JC"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "is_identity_verified": false,
+        "location": "Crazy Universe ",
+        "most_recent_tweet_id": "2087902788877697460",
+        "name": "雨夹雪❄️ | 名古屋萌脸超可爱!",
+        "pinned_tweet_id": "2082711443598971203",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1613,
+          "following_count": 1016,
+          "like_count": 27268,
+          "listed_count": 4,
+          "media_count": 1120,
+          "tweet_count": 5787
+        },
+        "url": "",
+        "username": "mizorewww",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,596 @@
+{
+  "data": {
+    "article": {
+      "entities": {
+        "code": [
+          {
+            "code": "████████████\n████    ████\n████~~~~████\n████~~~~████\n████████████",
+            "content": "```\n████████████\n████    ████\n████~~~~████\n████~~~~████\n████████████\n```",
+            "language": "none"
+          },
+          {
+            "code": "/\\              /\\\n_______/  \\____________/  \\_______",
+            "content": "```\n/\\              /\\\n_______/  \\____________/  \\_______\n```",
+            "language": "none"
+          },
+          {
+            "code": "A────────B\n      /│       /│\n     C────────D │\n     │ │       │ │\n     │ E───────│─F\n     │/        │/\n     G─────────H",
+            "content": "```\n       A────────B\n      /│       /│\n     C────────D │\n     │ │       │ │\n     │ E───────│─F\n     │/        │/\n     G─────────H\n```",
+            "language": "none"
+          },
+          {
+            "code": "{\n  \"type\": \"minecraft:mul\",\n  \"argument1\": 0.64,\n  \"argument2\": \"...\"\n}",
+            "content": "```json\n{\n  \"type\": \"minecraft:mul\",\n  \"argument1\": 0.64,\n  \"argument2\": \"...\"\n}\n```",
+            "language": "json"
+          },
+          {
+            "code": "D < 0        D > 0\n\n空气          石头\n              ████\n            ███████\n          █████████\n________████████████________",
+            "content": "```\nD < 0        D > 0\n\n空气          石头\n              ████\n            ███████\n          █████████\n________████████████________\n```",
+            "language": "none"
+          },
+          {
+            "code": "/\\       /\\\n___/  \\_____/  \\___",
+            "content": "```\n    /\\       /\\\n___/  \\_____/  \\___\n```",
+            "language": "none"
+          },
+          {
+            "code": "{\n    \"type\": \"minecraft:add\",\n    \"argument1\": \"...\",\n    \"argument2\": \"...\"\n}",
+            "content": "```json\n{\n    \"type\": \"minecraft:add\",\n    \"argument1\": \"...\",\n    \"argument2\": \"...\"\n}\n```",
+            "language": "json"
+          },
+          {
+            "code": "A\n├── B\n├── C\n└── D",
+            "content": "```\nA\n├── B\n├── C\n└── D\n```",
+            "language": "none"
+          },
+          {
+            "code": "for y = 0 → H:\n    放石头",
+            "content": "```\nfor y = 0 → H:\n    放石头\n```",
+            "language": "none"
+          },
+          {
+            "code": "NoiseRouter\n                       │\n       ┌───────────────┼───────────────┐\n       ↓               ↓               ↓\n  continents        erosion          ridges\n       │               │               │\n       └───────────────┼───────────────┘\n                       ↓\n                    Spline\n                       ↓\n                 Terrain Shape\n                       ↓\n                finalDensity",
+            "content": "```\nNoiseRouter\n                       │\n       ┌───────────────┼───────────────┐\n       ↓               ↓               ↓\n  continents        erosion          ridges\n       │               │               │\n       └───────────────┼───────────────┘\n                       ↓\n                    Spline\n                       ↓\n                 Terrain Shape\n                       ↓\n                finalDensity\n```",
+            "language": "none"
+          },
+          {
+            "code": "██ █  ███ █ █\n ███ █  ██  █\n█  ███ █ ███",
+            "content": "```\n██ █  ███ █ █\n ███ █  ██  █\n█  ███ █ ███\n```",
+            "language": "none"
+          },
+          {
+            "code": "Noise\n ↓\nDensityFunction\n ↓\nNoiseRouter\n ↓\nfinalDensity\n ↓\nNoiseChunk\nTectonic：\nNoise\n ↓\nDensityFunction\n ↓\n      ┌───────────────┐\n      │   Tectonic    │\n      │               │\n      │ terrain       │\n      │ spline        │\n      │ ridges        │\n      │ caves         │\n      │ rivers        │\n      │ custom noise  │\n      └───────┬───────┘\n              ↓\n         finalDensity\n              ↓\n         NoiseChunk",
+            "content": "```\nNoise\n ↓\nDensityFunction\n ↓\nNoiseRouter\n ↓\nfinalDensity\n ↓\nNoiseChunk\nTectonic：\nNoise\n ↓\nDensityFunction\n ↓\n      ┌───────────────┐\n      │   Tectonic    │\n      │               │\n      │ terrain       │\n      │ spline        │\n      │ ridges        │\n      │ caves         │\n      │ rivers        │\n      │ custom noise  │\n      └───────┬───────┘\n              ↓\n         finalDensity\n              ↓\n         NoiseChunk\n```",
+            "language": "none"
+          },
+          {
+            "code": "double compute(FunctionContext context)",
+            "content": "```\ndouble compute(FunctionContext context)\n```",
+            "language": "none"
+          },
+          {
+            "code": "A────────B\n│        │\n│        │\n│        │\nC────────D",
+            "content": "```\nA────────B\n│        │\n│        │\n│        │\nC────────D\n```",
+            "language": "none"
+          },
+          {
+            "code": "ADD\n       /   \\\n      A     MUL\n           /   \\\n          B     0.5",
+            "content": "```\nADD\n       /   \\\n      A     MUL\n           /   \\\n          B     0.5\n```",
+            "language": "none"
+          },
+          {
+            "code": "████████████\n████  ██████\n████████████",
+            "content": "```\n████████████\n████  ██████\n████████████\n```",
+            "language": "none"
+          },
+          {
+            "code": "████████████████\n████████████████\n██████    ██████\n████        ████\n██████    ██████\n████████████████",
+            "content": "```\n████████████████\n████████████████\n██████    ██████\n████        ████\n██████    ██████\n████████████████\n```",
+            "language": "none"
+          },
+          {
+            "code": "●──●──●──●──●",
+            "content": "```\n●──●──●──●──●\n```",
+            "language": "none"
+          },
+          {
+            "code": "net.minecraft.world.level.levelgen.DensityFunction",
+            "content": "```\nnet.minecraft.world.level.levelgen.DensityFunction\n```",
+            "language": "none"
+          },
+          {
+            "code": "世界 Seed\n                            │\n                            ▼\n                       RandomState\n                            │\n                ┌───────────┴───────────┐\n                ▼                       ▼\n             Noise                  参数/状态\n                │\n                ▼\n        DensityFunction\n              DAG\n                │\n      ┌─────────┼─────────┐\n      ▼         ▼         ▼\n Continents   Erosion   Ridges\n      │         │         │\n      └─────────┼─────────┘\n                ▼\n             Spline\n                │\n                ▼\n          Terrain Shape\n                │\n        ┌───────┼────────┐\n        ▼       ▼        ▼\n      Caves   Rivers   Details\n        │       │        │\n        └───────┼────────┘\n                ▼\n          finalDensity\n                │\n                ▼\n            NoiseChunk\n                │\n       ┌────────┼────────┐\n       ▼        ▼        ▼\n    Sampling   Cache   Interpolation\n       │        │        │\n       └────────┼────────┘\n                ▼\n             D(x,y,z)\n                │\n          ┌─────┴─────┐\n          ▼           ▼\n        Solid       Empty\n          │           │\n          │        Aquifer\n          │           │\n          └─────┬─────┘\n                ▼\n          Surface Rules\n                │\n                ▼\n             Chunk",
+            "content": "```\n世界 Seed\n                            │\n                            ▼\n                       RandomState\n                            │\n                ┌───────────┴───────────┐\n                ▼                       ▼\n             Noise                  参数/状态\n                │\n                ▼\n        DensityFunction\n              DAG\n                │\n      ┌─────────┼─────────┐\n      ▼         ▼         ▼\n Continents   Erosion   Ridges\n      │         │         │\n      └─────────┼─────────┘\n                ▼\n             Spline\n                │\n                ▼\n          Terrain Shape\n                │\n        ┌───────┼────────┐\n        ▼       ▼        ▼\n      Caves   Rivers   Details\n        │       │        │\n        └───────┼────────┘\n                ▼\n          finalDensity\n                │\n                ▼\n            NoiseChunk\n                │\n       ┌────────┼────────┐\n       ▼        ▼        ▼\n    Sampling   Cache   Interpolation\n       │        │        │\n       └────────┼────────┘\n                ▼\n             D(x,y,z)\n                │\n          ┌─────┴─────┐\n          ▼           ▼\n        Solid       Empty\n          │           │\n          │        Aquifer\n          │           │\n          └─────┬─────┘\n                ▼\n          Surface Rules\n                │\n                ▼\n             Chunk\n```",
+            "language": "none"
+          },
+          {
+            "code": "┌───────┬───────┬───────┐\n│ Cell  │ Cell  │ Cell  │\n├───────┼───────┼───────┤\n│ Cell  │ Cell  │ Cell  │\n├───────┼───────┼───────┤\n│ Cell  │ Cell  │ Cell  │\n└───────┴───────┴───────┘",
+            "content": "```\n┌───────┬───────┬───────┐\n│ Cell  │ Cell  │ Cell  │\n├───────┼───────┼───────┤\n│ Cell  │ Cell  │ Cell  │\n├───────┼───────┼───────┤\n│ Cell  │ Cell  │ Cell  │\n└───────┴───────┴───────┘\n```",
+            "language": "none"
+          },
+          {
+            "code": "●────────●\n│        │\n│        │\n│        │\n●────────●",
+            "content": "```\n\n●────────●\n│        │\n│        │\n│        │\n●────────●\n```",
+            "language": "none"
+          },
+          {
+            "code": "A────────B",
+            "content": "```\nA────────B\n```",
+            "language": "none"
+          },
+          {
+            "code": "/\\ /\\ /\\ /\\ /\\ /\\",
+            "content": "```\n/\\ /\\ /\\ /\\ /\\ /\\\n```",
+            "language": "none"
+          },
+          {
+            "code": "████████████\n████████████\n████████████",
+            "content": "```\n████████████\n████████████\n████████████\n```",
+            "language": "none"
+          },
+          {
+            "code": "山\n     /\\\n____/  \\____",
+            "content": "```\n山\n     /\\\n____/  \\____\n```",
+            "language": "none"
+          },
+          {
+            "code": "低频\n      __________\n_____/          \\____\n\n       +\n中频\n     /\\       /\\\n____/  \\_____/  \\____\n\n       +\n高频\n /\\/\\/\\/\\/\\/\\/\\/\\/\\/\\\n最终：\n/\\        /\\\n   _____/  \\______/  \\____\n__/                       \\__",
+            "content": "```\n低频\n      __________\n_____/          \\____\n\n       +\n中频\n     /\\       /\\\n____/  \\_____/  \\____\n\n       +\n高频\n /\\/\\/\\/\\/\\/\\/\\/\\/\\/\\\n最终：\n/\\        /\\\n   _____/  \\______/  \\____\n__/                       \\__\n```",
+            "language": "none"
+          },
+          {
+            "code": "{\n  \"type\": \"minecraft:min\",\n  \"argument1\": \"A\",\n  \"argument2\": \"B\"\n}",
+            "content": "```json\n{\n  \"type\": \"minecraft:min\",\n  \"argument1\": \"A\",\n  \"argument2\": \"B\"\n}\n```",
+            "language": "json"
+          },
+          {
+            "code": "高度\n ↑\n1.0 |                  ______\n    |             ____/\n0.5 |        ____/\n    |   ____/\n0.0 |__/\n    +----------------------→ continentalness",
+            "content": "```\n高度\n ↑\n1.0 |                  ______\n    |             ____/\n0.5 |        ____/\n    |   ____/\n0.0 |__/\n    +----------------------→ continentalness\n```",
+            "language": "none"
+          },
+          {
+            "code": "^^^^|^^^^\n    ↑\n  接缝",
+            "content": "```\n^^^^|^^^^\n    ↑\n  接缝\n```",
+            "language": "none"
+          },
+          {
+            "code": "大陆\n ↓\n侵蚀\n ↓\n山脊\n ↓\nTerrain\n ↓\nDensity",
+            "content": "```\n大陆\n ↓\n侵蚀\n ↓\n山脊\n ↓\nTerrain\n ↓\nDensity\n```",
+            "language": "none"
+          },
+          {
+            "code": "Minecraft Vanilla\n      │\n      ▼\nNoiseRouter\n      │\n      ▼\nVanilla DensityFunctions\n      │\n      ├─────────────┐\n      │             │\n      ▼             ▼\n Tectonic       Vanilla\n      │\n      ▼\n新的 terrain\n      │\n      ▼\nfinalDensity\n      │\n      ▼\nNoiseChunk",
+            "content": "```\nMinecraft Vanilla\n      │\n      ▼\nNoiseRouter\n      │\n      ▼\nVanilla DensityFunctions\n      │\n      ├─────────────┐\n      │             │\n      ▼             ▼\n Tectonic       Vanilla\n      │\n      ▼\n新的 terrain\n      │\n      ▼\nfinalDensity\n      │\n      ▼\nNoiseChunk\n```",
+            "language": "none"
+          },
+          {
+            "code": "{\n  \"type\": \"minecraft:add\",\n  \"argument1\": \"...\",\n  \"argument2\": \"...\"\n}",
+            "content": "```json\n{\n  \"type\": \"minecraft:add\",\n  \"argument1\": \"...\",\n  \"argument2\": \"...\"\n}\n```",
+            "language": "json"
+          },
+          {
+            "code": "───────╱╲────────────\n     ╱    ╲\n____╱      ╲__________",
+            "content": "```\n───────╱╲────────────\n     ╱    ╲\n____╱      ╲__________\n```",
+            "language": "none"
+          },
+          {
+            "code": "山\n       /  \\\n______/    \\______\n      \\    /\n       \\__/   ← 洞",
+            "content": "```\n山\n       /  \\\n______/    \\______\n      \\    /\n       \\__/   ← 洞\n```",
+            "language": "none"
+          },
+          {
+            "code": "左边：缓坡\n\n        /\\\n       /  \\\n______/    \\\n\n右边：悬崖\n\n        /|\n       / |\n______/  |",
+            "content": "```\n左边：缓坡\n\n        /\\\n       /  \\\n______/    \\\n\n右边：悬崖\n\n        /|\n       / |\n______/  |\n```",
+            "language": "none"
+          },
+          {
+            "code": "Chunk A:\n________/^^^^\n\nChunk B:\n^^^^\\________",
+            "content": "```\nChunk A:\n________/^^^^\n\nChunk B:\n^^^^\\________\n```",
+            "language": "none"
+          },
+          {
+            "code": "net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator",
+            "content": "```\nnet.minecraft.world.level.levelgen.NoiseBasedChunkGenerator\n```",
+            "language": "none"
+          },
+          {
+            "code": "(x,z)\n ↓\nNoise\nTectonic：\n(x,z)\n │\n ├── shiftX\n └── shiftZ\n      ↓\n   新坐标\n      ↓\n    Noise",
+            "content": "```\n(x,z)\n ↓\nNoise\nTectonic：\n(x,z)\n │\n ├── shiftX\n └── shiftZ\n      ↓\n   新坐标\n      ↓\n    Noise\n```",
+            "language": "none"
+          },
+          {
+            "code": "MAX\n             /   \\\n           MIN    C\n          /   \\\n         A     B",
+            "content": "```\nMAX\n             /   \\\n           MIN    C\n          /   \\\n         A     B\n```",
+            "language": "none"
+          },
+          {
+            "code": "大陆\n ↓\nTerrain Spline\n ↓\nMountain Ridges\n ↓\nNoise Warp\n ↓\nSlope\n ↓\nWeathering\n ↓\nCaves\n ↓\nUnderground Rivers\n ↓\nLava Tunnels\n ↓\nfinalDensity",
+            "content": "```\n大陆\n ↓\nTerrain Spline\n ↓\nMountain Ridges\n ↓\nNoise Warp\n ↓\nSlope\n ↓\nWeathering\n ↓\nCaves\n ↓\nUnderground Rivers\n ↓\nLava Tunnels\n ↓\nfinalDensity\n```",
+            "language": "none"
+          }
+        ]
+      },
+      "plain_text": "Minecraft 的地图为什么看起来不像一张随机噪声贴图？\n为什么它可以生成一整条山脉，而不是一堆随机大包？\n为什么山里面还能有洞穴、地下河？\n更离谱的是，为什么 Tectonic 这种 Mod 不需要自己重写一套“生成区块”的代码，就可以把原版地形整个掰成另一副样子？\n其实答案没有那么玄学。\nMinecraft 并不是：\n“随机生成几个高度，然后堆方块。”\n它真正干的事情更接近：\n先定义一个三维数学函数，然后问空间里的每一个位置：你这里到底有多像“地面”？\n这个东西在 Minecraft 里叫：\nDensity Function（密度函数）。\n而 Noise（噪声）只是这个系统里面的一种材料。\n下面咱们直接按照 Minecraft 1.21.1 的 Mojang Official Mapping，把这套东西从源码一路扒开。\n一、先从最简单的情况开始：如果 Minecraft 真的只用一个噪声会怎样？\n假设我们有一个最简单的二维噪声：\nN(x,z)\n\n它的输出范围大致在：\n-1\\leq N(x,z)\\leq1\n\n那么我们可以直接把它变成高度：\n例如：\nH(x,z)=100+50N(x,z)\nN(x,z) = 0.6\n那么：\nH=100+50\\times0.6=130\n也就是说这个地方的地面高度就是 Y=130。\n于是可以：\n \n这确实能生成山。\n但是问题来了。\n这种方法本质上是一个：\nH(x,z)\n也就是：\n给我 X、Z，我告诉你地面高度。\n它其实就是一个 Heightmap。\n所以它非常适合：\n \n但是不太适合：\n \n因为你只有一个：\nH(x,z)\n根本没有描述地下 Y 方向结构的能力。\n所以现代 Minecraft 干脆换了个思路。\n二、Minecraft 不再问“这里有多高”，而是问“这里有多密”\nMinecraft 现在大量使用：\nD(x,y,z)\n这里的 (D) 就是 Density Function 的结果。\n你可以粗暴地理解成：\n这个三维空间坐标有多倾向于成为地形。\n例如：\nD(x,y,z)>0\n表示这里倾向于生成实体地形。\n而：\nD(x,y,z)<0\n表示这里倾向于成为空气。\n于是：\n \n地面在哪里？\n就在：\nD(x,y,z)=0\n附近。\n所以一座山其实不是一个：\nheight = 173\n而是一张三维函数：\nD(x,y,z)\n的等值面。\n这就是 Minecraft 现代地形系统最核心的变化。\n三、那 Noise 到底是什么？\nNoise 可以理解成一种：\n连续的伪随机函数。\n它和：\nRandom.nextDouble()\n完全不是一回事。\n如果每个方块真的随机一次：\n0.23\n-0.91\n0.74\n0.02\n-0.88\n那么世界大概会变成：\n \n这显然不是山。\nMinecraft 需要的是：\nx=100 → 0.41\nx=101 → 0.43\nx=102 → 0.46\nx=103 → 0.49\n也就是说：\n坐标附近的噪声值应该比较接近，但远处又会逐渐变得不可预测。\n所以我们可以把一个 Noise 简化成：\nN(x,z)\n它具有两个非常重要的性质：\n第一，确定性\n同一个 Seed + 同一个坐标：\nN(seed,x,z)\n永远得到同一个结果。\n第二，空间连续\n附近的：\nN(x,z)\n和：\nN(x+1,z)\n不会突然从：\n0.8\\rightarrow-0.9\n跳成精神病。\n四、Minecraft 真正的骚操作：Noise 只是一个函数节点\n这里非常容易理解错。\nMinecraft 并不是：\nNoise\n ↓\n山\n而是：\nDensityFunction\n├── constant\n├── add\n├── mul\n├── min\n├── max\n├── spline\n├── range_choice\n├── noise\n└── ...\n在 1.21.1 的 Official Mapping 中：\n \n本身就是一个接口，它最核心的方法就是：\n \n也就是：\n给我一个空间坐标，我给你一个 double。\n于是：\nA = Noise\nB = Noise\n\nC = A + B\n就是：\nC(x,y,z)=A(x,y,z)+B(x,y,z)\n再比如：\nC = A * 0.5\n就是：\nC(x,y,z)=0.5A(x,y,z)\n再比如：\nC = max(A,B)\n就是：\nC(x,y,z)=\\max(A(x,y,z),B(x,y,z))\n于是 Minecraft 就可以拿这些小积木拼出一个巨大的数学表达式。\n五、这东西其实就是一棵“数学语法树”\n比如：\n \n实际上就是：\nD=A+B\\times0.5\n再复杂一点：\n \n就是：\nD=\\max(\\min(A,B),C)\n所以 Minecraft 的 DensityFunction 本质上很像一个：\n专门用来写空间数学的函数式编程语言。\n只不过普通编程语言计算的是：\nint\nfloat\nString\nMinecraft 这里计算的是：\n“这个地方该不该是山。”\n非常朴素。\n但也非常离谱。\n六、NoiseFunctions 里甚至直接提供了 Noise 节点\n1.21.1 的 DensityFunctions 类中有：\nnoise(...)\n这个方法接收：\nHolder<NormalNoise.NoiseParameters>\n以及缩放参数，然后返回一个 DensityFunction。\n所以你可以理解成：\nD(x,y,z)=N(s_xx,s_yy,s_zz)\n其中：\n(N) 是 Noise；\n(s_x) 是 X 方向缩放；\n(s_y) 是 Y 方向缩放；\n(s_z) 是 Z 方向缩放。\n这里的“缩放”非常重要。\n假设：\nN(x)\n变化很快：\n \n那么：\nN(0.1x)\n就变化得慢很多：\n \n所以：\nNoise 的频率决定了地形变化的尺度。\n低频：\n大陆\n中频：\n山脉\n高频：\n山坡细节\n再高频：\n皱巴巴\n当然，Minecraft 并不是简单粗暴地把这几个噪声相加。\n七、真正的地形不是一个 Noise，而是一大锅 Noise\n假设：\nN_1(x,z)\n负责大陆尺度。\nN_2(x,z)\n负责山脉。\nN_3(x,z)\n负责局部细节。\n最简单的组合可以是：\nD(x,z)=\nN_1(x,z)\n+\n0.5N_2(x,z)\n+\n0.1N_3(x,z)\n这里：\n(N_1)：决定大体地貌；\n(N_2)：决定山脉；\n(N_3)：决定细节。\n于是：\n \n看起来就自然多了。\n但是 Minecraft 还不满足。\n它说：\n“为什么同一个山脉 Noise，在海边和内陆都应该有一样的效果？”\n于是就有了下面这个东西。\n八、Continentalness、Erosion、Ridges：Minecraft 给 Noise 加了“上下文”\nMinecraft 的 NoiseRouter 里面有很多 DensityFunction。\n例如：\ncontinents\nerosion\nridges\ntemperature\nvegetation\ndepth\n还有最终的：\nfinalDensity\n这些并不是“一个 Noise 就完事”。\n它们更像是世界生成过程中的各种空间信号。\n可以粗略理解：\ncontinents\n    ↓\n这里更像海洋还是大陆？\n\nerosion\n    ↓\n这里更平缓还是更容易被侵蚀？\n\nridges\n    ↓\n这里是不是山脊区域？\n\ntemperature\n    ↓\n这里冷不冷？\n\nvegetation\n    ↓\n这里湿不湿？\n然后这些信号继续进入 DensityFunction 图。\n所以一个地方是不是高山，不是：\nif mountainNoise > 0.5:\n    mountain\n而更像：\nD=f(C,E,R,T,V,\\ldots)\n其中：\n(C)：Continentalness；\n(E)：Erosion；\n(R)：Ridges；\n(T)：Temperature；\n(V)：Vegetation。\n九、Spline：Minecraft 地形为什么不像“几个 Noise 相加”\n这里就到了 Minecraft 地形系统里非常重要的：\nSpline。\nSpline 可以理解成一条：\ny=f(x)\n的曲线。\n比如：\n \n那么 Minecraft 可以说：\n如果大陆性是这个值，就给地形函数一个这样的修正。\n例如：\nF(C)=Spline(C)\n然后：\nD(x,y,z)=Terrain(x,y,z)+F(C(x,z))\n这样：\n海洋\n  ↓\n平原\n  ↓\n丘陵\n  ↓\n山地\n就可以拥有不同的数学形态。\n这比：\nD=N_1+N_2+N_3\n高级很多。\n因为这里已经出现了：\n“根据环境改变另一个 Noise 的行为。”\n十、所以一座山其实是这样算出来的\n我们可以先写一个非常简化的模型：\nC(x,z)=Noise_C(x,z)\n大陆性。\n然后：\nR(x,z)=Noise_R(x,z)\n山脊。\n然后：\nT(x,z)=Spline(C,R)\n得到地形基础形态。\n再加入细节：\nD(x,y,z)\nT(x,z)\n+\nA(x,y,z)\n其中：\nA(x,y,z)\n是局部地形噪声。\n最后：\nD(x,y,z)>0\n的位置生成实体。\n这时候你已经可以自己做一个非常简陋的 Minecraft 地形生成器了。\n只是 Minecraft 的真实表达式比这个复杂得多。\n复杂到 JSON 看起来像有人把 Excel、LISP 和宗教仪式混在了一起。\n十一、那么一个 Chunk 到底什么时候真正开始算这些东西？\n这里就轮到：\nNoiseBasedChunkGenerator\n出场了。\n在 1.21.1 中，它是：\n \n它继承自：\nChunkGenerator\n并持有：\nHolder<NoiseGeneratorSettings> settings\n以及全局流体采样相关的数据。\n而 ChunkGenerator 本身则提供了：\nfillFromNoise(...)\n这一类区块噪声填充流程。\n所以可以粗略画成：\nChunkGenerator\n      ↓\nNoiseBasedChunkGenerator\n      ↓\nNoiseGeneratorSettings\n      ↓\nNoiseRouter\n      ↓\nDensityFunction\n      ↓\nNoiseChunk\n十二、NoiseChunk 才是“真正干活的工人”\nNoiseChunk 是理解性能问题的关键。\n在 1.21.1 官方 mapping 中，它直接有：\nint cellCountXZ\nint cellCountY\n\nList<NoiseInterpolator> interpolators\nList<CacheAllInCell> cellCaches\n\nMap<DensityFunction, DensityFunction> wrapped\n还有：\nDensityFunction initialDensityWithoutJaggedness\nAquifer aquifer\n以及：\nfill(...)\nfillAllDirectly(...)\n\nupdateForX(...)\nupdateForY(...)\nupdateForZ(...)\n这些东西。\n翻译成人话就是：\nMinecraft 并没有傻乎乎地对 Chunk 里的每一个方块，把整棵 DensityFunction 树重新算一遍。\n否则：\n16 × 16 × 384\n就是：\n98,304\n个方块。\n如果每一个方块都重新执行一整套：\nNoise\n→ Noise\n→ Spline\n→ Min\n→ Max\n→ Mul\n→ ...\nCPU 会非常开心。\n玩家不会。\n十三、Minecraft 把空间切成 Cell\nNoiseChunk 会把高度空间切成一个个 Cell。\n可以想象：\n \n对于一个 Cell，不需要把每一个方块的位置都重新完整计算。\n它会在 Cell 的采样点取得 Density。\n例如一个二维简化情况：\n \n已知：\nD_A,D_B,D_C,D_D\n那么中间位置可以通过插值得到。\n十四、最简单的插值公式是什么？\n假设我们只看一条线：\n \nA 的值：\nD_A\nB 的值：\nD_B\n当前位置距离 A 的比例：\nt\\in[0,1]\n那么线性插值：\nD(t)\nD_A(1-t)+D_Bt\n也可以写成：\nD(t)=D_A+(D_B-D_A)t\n例如：\nD_A=1\nD_B=-1\n中间：\nt=0.5\n那么：\nD(0.5)=1+(-1-1)\\times0.5=0\n恰好就是：\n地形边界。\n十五、三维就是继续插\n三维 Cell 就是八个角：\n \n先 X：\nD_x=D_A(1-t_x)+D_Bt_x\n然后 Y：\nD_{xy}=D_{x0}(1-t_y)+D_{x1}t_y\n最后 Z：\nD(x,y,z)\nD_{xy0}(1-t_z)+D_{xy1}t_z\n实际实现当然比这个示意复杂，而且 Minecraft 的 NoiseChunk 会对 DensityFunction 做专门的缓存、包装和插值处理，但核心思想就是：\n昂贵的函数少算，便宜的插值多做。\n这也是为什么 NoiseChunk 会有：\nupdateForX()\nupdateForY()\nupdateForZ()\n以及 NoiseInterpolator。\n十六、所以 Minecraft 的性能优化其实非常朴素\n核心思想就是：\n不要每个方块都重新炼一遍丹。\n例如：\n昂贵计算：\n\n \n然后中间：\n \n通过插值得到。\n再配合：\nCache\n避免：\n \n每次都重新计算 A。\nNoiseChunk 中明确存在 DensityFunction 到实际包装函数的缓存，以及 cell cache。\n所以它实际上已经很像一个小型的：\n空间函数执行引擎。\n十七、到这里就可以解释“为什么相邻区块不会接缝”\n假设 Chunk A：\nx = 0～15\nChunk B：\nx = 16～31\n如果两个 Chunk 各自随机生成：\n \n那世界边缘就会出现：\n \nMinecraft 并不是这么做的。\n它们都在计算同一个函数：\nD(x,y,z)\n只是取不同的空间区域。\n所以：\nChunk A → D(0...15,y,z)\nChunk B → D(16...31,y,z)\n本来就是同一个连续数学空间的一部分。\n只要 Noise 和 DensityFunction 是确定性的，边界自然能够接上。\n十八、但是这里还有一个很重要的东西：NoiseRouter\n现在我们把前面的东西重新组合起来。\nNoiseRouter 可以理解成：\n“这一套地形系统里，各种重要 DensityFunction 都接在哪。”\n它里面有：\ncontinents\nerosion\nridges\ntemperature\nvegetation\ninitialDensityWithoutJaggedness\nfinalDensity\n...\n所以可以想象：\n \n这就是 Minecraft 的“地形控制台”。\n十九、finalDensity：最后决定这里到底是不是地面\n经过一大堆：\nNoise\n+\nSpline\n+\nMin\n+\nMax\n+\nMul\n+\nClamp\n+\nRangeChoice\n之后，终于得到：\nfinalDensity\n它仍然只是一个：\nD(x,y,z)\n例如：\nD = 0.82\n意味着：\n这里非常像实体。\n而：\nD = -0.31\n意味着：\n这里比较像空气。\n最终可以非常粗略地理解成：\nD(x,y,z)>0\n\\Rightarrow\n\\text{solid}\nD(x,y,z)<0\n\\Rightarrow\n\\text{air/fluid}\n当然，真实 Minecraft 还有 Aquifer、Carver、Surface Rules 等后续机制，所以不要真的拿这个公式去写一个 1:1 的 ChunkGenerator。\n但理解原理完全够用了。\n二十、那 Tectonic 到底干了什么？\n现在终于可以看 Tectonic。\n你会发现：\nTectonic 最聪明的地方就是它没有把 Minecraft 这套东西推倒重来。\n它没有说：\n“Minecraft 的 ChunkGenerator 不行。”\n然后自己写：\nclass SuperUltraTerrainGenerator\n而是：\n既然 Minecraft 已经有 DensityFunction，那我直接修改 DensityFunction 图。\n这就是 Tectonic 的核心。\n二十一、Tectonic 实际上是在修改“数学电路板”\n它的资源中会重新定义 Minecraft 的：\nminecraft:worldgen/noise_settings/overworld\n以及：\nminecraft:worldgen/density_function/overworld/noise_router/*\n同时增加自己的：\ntectonic:*\nDensityFunction。\n于是最终变成：\n \n所以 Tectonic 并不是：\n“自己生成一个山。”\n而是：\n“我重新定义 Minecraft 认为‘山’应该是什么。”\n二十二、Tectonic 的 ConfigNoise 就很有代表性\nTectonic 自己实现了 ConfigNoise 这种 DensityFunction。\n它的核心参数可以理解为：\nnoise\nshiftX\nshiftZ\nscale\nmultiplier\noffset\n核心数学可以直接写成：\nx'=(x+S_x(x,z))\\times scale\nz'=(z+S_z(x,z))\\times scale\n然后：\nD(x,z)\nN(x',0,z')\\times multiplier+offset\n这东西厉害在哪里？\n在于：\nNoise 的采样坐标本身也可以被另一个 DensityFunction 改变。\n也就是说：\n普通 Noise：\n\n\n \n这就可以产生一种非常重要的效果：\n让噪声“弯起来”。\n二十三、为什么“移动 Noise 的采样坐标”这么重要？\n假设有：\nN(x,z)\n它原本是一张：\n~~~~~~~~~~~~~~\n~~~~~~~~~~~~~~\n~~~~~~~~~~~~~~\n的噪声地图。\n如果我们改成：\nN(x+S_x(x,z),z+S_z(x,z))\n那么原本规规矩矩的噪声会被一个空间位移场扭曲。\n可以想象一张纸：\n────────────\n────────────\n────────────\n然后把纸拉成：\n~~~~~~~────~~\n~~────~~~~~~~\n────~~~~──~~~\nNoise 本身没有变。\n但是：\n你去哪里取 Noise 了变了。\n这就是 Domain Warping / Noise Warping 一类技术的基本思想。\n而它对于做：\n山脉走向\n河谷\n自然弯曲\n大尺度地貌\n非常有用。\n二十四、这就解释了 Tectonic 为什么不像“随机大山包”\n如果只是：\nD'=D+N_{mountain}\\times2\n那么山基本就是：\n \n随机到哪里高到哪里。\n但如果先有一个低频山脉信号：\nR(x,z)\n再用它影响 Noise 的采样位置：\nN(x+S_x(x,z),z+S_z(x,z))\n那么山脉可以出现明显的：\n \n的连续结构。\n也就是说：\n不是随机生成很多山，而是先生成“山应该往哪儿走”，再在这条结构上生成山。\n这就是自然地形和“随机噪声山包”之间的巨大区别。\n二十五、Tectonic 的 terrain spline 又是在干什么？\nTectonic 的资源里有专门的：\nterrain_spline/\n并进一步处理：\noffset\nfactor\nroughness\njaggedness\n这些东西。\n它的思路可以理解成：\nTerrain\nOffset\n+\nFactor\\times Shape\n再根据：\nRoughness\n和：\nJaggedness\n改变局部形状。\n例如一个极简模型：\nD(x,y,z)\nO(x,z)\n+\nF(x,z)\\cdot N(x,y,z)\n这里：\n(O)：整体抬高/降低；\n(F)：地形起伏幅度；\n(N)：具体的空间细节。\n如果：\nF=0.2\n那么 Noise 的影响很弱：\n____/\\____/\\____\n如果：\nF=2\n那么：\n______/^^^^^^\\________\n就会非常夸张。\n所以：\nTerrain Factor 并不是“山高多少”这么简单，它是在控制整个密度场的起伏幅度。\n二十六、Tectonic 的山脉因此是多层函数叠出来的\n可以把它简化成：\nD_{terrain}\nF(\nContinentalness,\nErosion,\nRidges,\nSpline,\nNoise,\nDetail\n)\n而不是：\nD_{terrain}=Noise\\times500\n具体到思想层面：\n大陆尺度\n    ↓\n这里是不是陆地？\n    ↓\n侵蚀尺度\n    ↓\n这里应该平还是陡？\n    ↓\n山脊尺度\n    ↓\n山脉往哪里走？\n    ↓\nTerrain Spline\n    ↓\n这个区域的地形性格\n    ↓\nDetail Noise\n    ↓\n最后的皱褶\n这才是 Tectonic 那种“山真的像山”的来源。\n二十七、地下河为什么也能塞进来？\n这里就更有意思了。\n假设：\nD_{terrain}(x,y,z)\n表示正常地形。\n我们再做一个：\nD_{river}(x,y,z)\n表示地下河的位置。\n然后把两者组合。\n最简单的想象：\nD_{final}\n\\min(D_{terrain},D_{river})\n为什么是 min？\n因为：\n\\min(a,b)\n会选择两者中更低的那个。\n假设：\nterrain = 0.5\nriver   = -1.0\n那么：\n\\min(0.5,-1.0)=-1.0\n于是这里就从实体变成空气。\n原本：\n \n变成：\n \n于是一个洞就出现了。\n真实 Tectonic 的函数组合当然比这个复杂很多，但核心思想就是：\n地下河不是“找到一条河然后挖方块”，而是让河流 DensityFunction 改变最终密度场。\n二十八、所以“洞穴”其实也是在修改 (D(x,y,z))\n假设：\nD_{terrain}>0\n整个山都是实体。\n加入 Cave Function：\nC(x,y,z)\n之后构造：\nD_{final}=f(D_{terrain},C)\n让洞穴所在位置：\nD_{final}<0\n于是：\n \n洞就出来了。\n这就是三维 Density 的强大之处。\n你根本不需要知道：\n“这个洞从哪个方块开始挖。”\n你只需要定义：\n“哪些空间位置应该是空的。”\n二十九、但 Minecraft 的洞穴也不是全部靠 DensityFunction\n这里必须严谨一点。\n不要看到 Tectonic 的 cave density 就说：\n“Minecraft 所有洞穴都是 Noise 生成的。”\n不是。\nMinecraft 仍然存在：\nCarver\n体系。\nChunkGenerator 的流程中就存在：\napplyCarvers(...)\n这一阶段。官方 1.21.1 mapping 也可以直接看到这个方法。\n所以更准确的说法是：\n地形 Density\n      +\nDensity-based cave / tunnel\n      +\nCarver\n      +\nAquifer\n      +\nSurface\n一起组成最后看到的地下世界。\n这也是为什么 Minecraft 世界生成源码看起来特别像：\n“每个人负责一点，然后最后一起把锅端给玩家。”\n三十、Aquifer 又是什么？\n假设 Density 告诉 Minecraft：\n这里不是石头。\nMinecraft 还要继续问：\n“那这里是空气，还是水？”\n这就是：\nAquifer\n例如：\n \n这里：\n~~~~\n不是单纯因为：\nD<0\n就自动出现水。\n还需要 Aquifer 的流体规则判断。\n所以：\nDensity\n  ↓\n这里应该空\n  ↓\nAquifer\n  ↓\n空气 / 水 / 岩浆\nNoiseChunk 本身就持有 Aquifer。\n这也是为什么不能把：\n“Density < 0 = 空气”\n当成完整的 Minecraft 实现。\n它只是理解核心思想的简化模型。\n三十一、最后才轮到草方块、沙子和雪\nDensity 解决的是：\n“这里有没有地形。”\n但它并没有直接决定：\n“最上面到底是草还是沙。”\n这还涉及 Surface Rules。\n所以整个过程其实是：\nDensity\n ↓\n地形轮廓\n ↓\nBiome / Climate\n ↓\nSurface Rules\n ↓\ngrass / dirt / sand / snow\n ↓\nFeatures\n ↓\n树 / 草 / 矿物 / 结构\n所以：\nTerrain\\neq Biome\\neq Surface\n这是三个不同的问题。\n三十二、现在可以完整画出 Minecraft 生成一块地形的过程了\n \n这才是比较接近现代 Minecraft 的“噪声地形生成”。\n三十三、那 Tectonic 到底改了哪一层？\n现在答案非常简单：\n主要改 DensityFunction 这一层。\n也就是：\nMinecraft：\n\n\n \n所以 Tectonic 最厉害的地方不是：\n“写了一个超级牛逼的 ChunkGenerator。”\n而是：\n它发现 Minecraft 已经把地形生成做成了一套可以拼数学函数的系统，于是直接拿这个系统当自己的地形编程语言。\n三十四、这也是为什么 Tectonic 有那么多 JSON\n第一次看到 Tectonic 的 worldgen JSON，很容易产生一种：\n“这是什么鬼？”\n的感觉。\n因为它实际上不是传统意义上的配置文件。\n更接近：\n一份数学程序。\n例如：\n \n本质上就是：\nf(x,y,z)=A(x,y,z)+B(x,y,z)\n如果看到：\n \n就是：\nf(x,y,z)=0.64A(x,y,z)\n看到：\n \n就是：\nf(x,y,z)=\\min(A,B)\n所以 Tectonic 的 JSON 并不是：\n“告诉 Minecraft 放什么方块。”\n而是在：\n告诉 Minecraft 算一个什么函数。\n三十五、这也是 Codec 为什么如此重要\nMinecraft 的 DensityFunction 并不是把 JSON 当普通配置读取。\n它通过 Codec 把：\nJSON\n ↓\nCodec\n ↓\nDensityFunction\n解析出来。\nDensityFunctions 本身就注册了 DensityFunction 的各种 MapCodec。\n因此：\n \n可以变成类似：\nnew AddFunction(A, B)\n然后：\ncompute(context)\n的时候：\nreturn A.compute(context)\n     + B.compute(context);\n于是：\nJSON 是程序，Codec 是编译器前端，DensityFunction 是 AST，NoiseChunk 是执行环境。\n这么一看，整个 Minecraft Worldgen 突然就没有那么玄学了。\n三十六、Tectonic 甚至会自己增加“语法”\n如果原版 DensityFunction 不够用怎么办？\nTectonic 可以自己实现新的：\nDensityFunction\n例如 ConfigNoise。\n它可以定义：\nnoise\nshiftX\nshiftZ\nscale\nmultiplier\noffset\n然后数学上：\nx'=(x+S_x)\\times s\nz'=(z+S_z)\\times s\nD=N(x',0,z')m+o\n这里：\n(S_x)：X 偏移函数；\n(S_z)：Z 偏移函数；\n(s)：采样缩放；\n(m)：输出倍率；\n(o)：输出偏移。\n于是 Tectonic 相当于对 Minecraft 说：\n“原版的 noise 我觉得不够好，我自己加一个。”\n然后这个东西仍然作为：\nDensityFunction\n塞回 Minecraft 的 DAG 里面。\n这就非常优雅。\n三十七、为什么这比直接写 ChunkGenerator 好？\n假设你自己写：\nclass MyChunkGenerator extends ChunkGenerator\n你就需要自己处理：\nChunk\nBiome\nNoise\nAquifer\nSurface\nCarver\nCache\nInterpolation\nGeneration settings\n甚至要考虑各种世界生成阶段。\n而 Tectonic 只需要：\n“Minecraft，你原来这里算：\n\nD = A + B\n\n现在改成：\n\nD = f(A,B,C,D,E)\n\n谢谢。”\n然后：\n剩下的脏活累活 Minecraft 自己干。\n这就是为什么 DensityFunction 这种架构对 Mod 作者非常友好。\n三十八、所以一座山的真正数学身份是什么？\n现在可以非常严谨地说：\n一座 Minecraft 山并不是：\nH(x,z)\n而更接近：\n\\boxed{\nD(x,y,z)=F(\nN_1,\nN_2,\nN_3,\nC,\nE,\nR,\nS,\n...\n)\n}\n其中：\nN_i\n是不同尺度的噪声；\nC\n是大陆性相关信号；\nE\n是侵蚀相关信号；\nR\n是山脊相关信号；\nS\n则可以代表由 Spline 等函数得到的地形变换。\n最后：\n\\boxed{\nD(x,y,z)>0\n}\n的区域成为实体地形，\n而：\n\\boxed{\nD(x,y,z)<0\n}\n的区域则倾向为空。\n最终地表就是：\n\\boxed{\nD(x,y,z)=0\n}\n附近的那张三维等值面。\n三十九、这就解释了为什么 Minecraft 可以“长”出悬崖\n假设一个普通 Heightmap：\nH(x,z)\n突然从：\n100\\rightarrow150\n那就是一面非常陡的墙。\n但是 DensityFunction 可以直接改变三维空间：\nD(x,y,z)\n所以你可以让某一侧：\n\\frac{\\partial D}{\\partial x}\n变化非常快。\n另一侧：\n\\frac{\\partial D}{\\partial x}\n变化很慢。\n于是同一座山可以：\n \n换句话说：\nMinecraft 不是在画山的高度，而是在塑造山的三维边界。\n这也是 Tectonic 这种 Mod 能做出非常夸张地貌的原因。\n四十、如果把 Tectonic 和原版放在一起，最直观的区别是什么？\n原版：\nD_{vanilla}\nF(\nNoise,\nContinents,\nErosion,\nRidges,\nSpline,\n...\n)\nTectonic：\nD_{tectonic}\nF(\nD_{vanilla},\nTerrainSpline,\nMountainRidges,\nCaves,\nRivers,\nLavaTunnels,\nWarpedNoise,\n...\n)\n最终：\nD_{tectonic}(x,y,z)\n依然只是一个 double。\nMinecraft 根本不在乎这个 double 是原版算出来的还是 Tectonic 算出来的。\n它只会很朴素地说：\n“哦，密度是负的，那这里别放石头。”\n这就是程序化地形最漂亮的地方。\n四十一、所以 Minecraft 的“随机世界”其实一点都不随机\n这是最后一个很有意思的地方。\n你看到：\n山\n河\n峡谷\n洞穴\n平原\n好像都是随机出来的。\n其实严格来说：\n它们都是确定的。\n给定：\nSeed\n以及：\nx,y,z\n那么最终结果：\nD(Seed,x,y,z)\n就是确定的。\n也就是说：\n\\boxed{\nBlock(Seed,x,y,z)\nF(Seed,x,y,z)\n}\n你换一个电脑，只要版本、生成参数和相关状态一致：\nSeed = 123456789\nX = 1000\nY = 80\nZ = -300\n它仍然会得到同样的结果。\n所以 Minecraft 所谓的：\n“随机世界”\n实际上更准确应该叫：\n确定性的程序生成世界。\n只是这个程序复杂得足够像自然界。\n四十二、最后总结一下\n如果把 Minecraft 的地形生成压缩成最简单的一句话：\nNoise 提供空间上的伪随机变化，DensityFunction 把这些变化组合成数学表达式，NoiseRouter 负责组织这些表达式，NoiseChunk 负责高效采样和插值，最终的 DensityField 决定三维空间哪里应该是地形。\n公式可以概括成：\n\\boxed{\nD(x,y,z)\nF(\nN_1(x,y,z),\nN_2(x,y,z),\n...\nC(x,z),\nE(x,z),\nR(x,z),\nS(...)\n)\n}\n然后：\n\\boxed{\nD>0\\Rightarrow\\text{地形}\n}\n\\boxed{\nD<0\\Rightarrow\\text{空腔/空气/流体候选}\n}\n而地表大致就是：\n\\boxed{\nD=0\n}\n的等值面。\n至于 Tectonic？\n它做的事情可以概括成：\n\\boxed{\nD_{vanilla}\n\\rightarrow\nD_{tectonic}\n}\n它不是重新造了一辆车。\n它只是把 Minecraft 原本的：\n“山怎么长”\n这部分数学表达式拆下来，然后重新接线。\n于是：\n原版：\n\n\n \n可以变成：\nTectonic：\n\n\n \n最后仍然交给：\nNoiseChunk\n去采样。\n所以你在游戏里看到的一座巨大山脉，本质上不是：\n“Minecraft 随机扔了几个 Perlin Noise。”\n而是：\n一棵非常大的数学函数树，在三维空间里算出了一个密度场；Minecraft 再把这个密度场的边界离散成了方块。\n而 Tectonic 干的事情则更加简单粗暴：\n“原版这棵数学树我觉得不好看，给我把树枝掰一下。”\n于是山就长成了另一副样子。\n很玄学吗？\n其实一点都不玄学。\n就是：\n\\boxed{\nNoise\n+\nDensityFunction\n+\nSpline\n+\nInterpolation\n+\n一点点数学\n山\n}\n以及：\n\\boxed{\n山\n+\n洞\n+\n河\n+\nMod作者的怨念\nTectonic\n}\n而 Minecraft 负责的最后一步非常朴实：\n算出来是石头，那就放石头。这就是程序化地形。\n剩下的，都是数学在替你长山。",
+      "preview_text": "Minecraft 的地图为什么看起来不像一张随机噪声贴图？\n为什么它可以生成一整条山脉，而不是一堆随机大包？\n为什么山里面还能有洞穴、地下河？\n更离谱的是，为什么 Tectonic 这种 Mod",
+      "title": "Minecraft 是怎么用噪声生成一座山的？"
+    },
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2087247002945863972",
+    "created_at": "2026-08-11T18:37:19.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T19:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087247002945863972"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2087…",
+          "end": 23,
+          "expanded_url": "http://x.com/i/article/2087236199626711041",
+          "start": 0,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2087236199626711041",
+          "url": "https://t.co/Jb6FIoj6Xx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087247002945863972",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Jb6FIoj6Xx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {
+          "entities": {
+            "code": [
+              {
+                "code": "████████████\n████    ████\n████~~~~████\n████~~~~████\n████████████",
+                "content": "```\n████████████\n████    ████\n████~~~~████\n████~~~~████\n████████████\n```",
+                "language": "none"
+              },
+              {
+                "code": "/\\              /\\\n_______/  \\____________/  \\_______",
+                "content": "```\n/\\              /\\\n_______/  \\____________/  \\_______\n```",
+                "language": "none"
+              },
+              {
+                "code": "A────────B\n      /│       /│\n     C────────D │\n     │ │       │ │\n     │ E───────│─F\n     │/        │/\n     G─────────H",
+                "content": "```\n       A────────B\n      /│       /│\n     C────────D │\n     │ │       │ │\n     │ E───────│─F\n     │/        │/\n     G─────────H\n```",
+                "language": "none"
+              },
+              {
+                "code": "{\n  \"type\": \"minecraft:mul\",\n  \"argument1\": 0.64,\n  \"argument2\": \"...\"\n}",
+                "content": "```json\n{\n  \"type\": \"minecraft:mul\",\n  \"argument1\": 0.64,\n  \"argument2\": \"...\"\n}\n```",
+                "language": "json"
+              },
+              {
+                "code": "D < 0        D > 0\n\n空气          石头\n              ████\n            ███████\n          █████████\n________████████████________",
+                "content": "```\nD < 0        D > 0\n\n空气          石头\n              ████\n            ███████\n          █████████\n________████████████________\n```",
+                "language": "none"
+              },
+              {
+                "code": "/\\       /\\\n___/  \\_____/  \\___",
+                "content": "```\n    /\\       /\\\n___/  \\_____/  \\___\n```",
+                "language": "none"
+              },
+              {
+                "code": "{\n    \"type\": \"minecraft:add\",\n    \"argument1\": \"...\",\n    \"argument2\": \"...\"\n}",
+                "content": "```json\n{\n    \"type\": \"minecraft:add\",\n    \"argument1\": \"...\",\n    \"argument2\": \"...\"\n}\n```",
+                "language": "json"
+              },
+              {
+                "code": "A\n├── B\n├── C\n└── D",
+                "content": "```\nA\n├── B\n├── C\n└── D\n```",
+                "language": "none"
+              },
+              {
+                "code": "for y = 0 → H:\n    放石头",
+                "content": "```\nfor y = 0 → H:\n    放石头\n```",
+                "language": "none"
+              },
+              {
+                "code": "NoiseRouter\n                       │\n       ┌───────────────┼───────────────┐\n       ↓               ↓               ↓\n  continents        erosion          ridges\n       │               │               │\n       └───────────────┼───────────────┘\n                       ↓\n                    Spline\n                       ↓\n                 Terrain Shape\n                       ↓\n                finalDensity",
+                "content": "```\nNoiseRouter\n                       │\n       ┌───────────────┼───────────────┐\n       ↓               ↓               ↓\n  continents        erosion          ridges\n       │               │               │\n       └───────────────┼───────────────┘\n                       ↓\n                    Spline\n                       ↓\n                 Terrain Shape\n                       ↓\n                finalDensity\n```",
+                "language": "none"
+              },
+              {
+                "code": "██ █  ███ █ █\n ███ █  ██  █\n█  ███ █ ███",
+                "content": "```\n██ █  ███ █ █\n ███ █  ██  █\n█  ███ █ ███\n```",
+                "language": "none"
+              },
+              {
+                "code": "Noise\n ↓\nDensityFunction\n ↓\nNoiseRouter\n ↓\nfinalDensity\n ↓\nNoiseChunk\nTectonic：\nNoise\n ↓\nDensityFunction\n ↓\n      ┌───────────────┐\n      │   Tectonic    │\n      │               │\n      │ terrain       │\n      │ spline        │\n      │ ridges        │\n      │ caves         │\n      │ rivers        │\n      │ custom noise  │\n      └───────┬───────┘\n              ↓\n         finalDensity\n              ↓\n         NoiseChunk",
+                "content": "```\nNoise\n ↓\nDensityFunction\n ↓\nNoiseRouter\n ↓\nfinalDensity\n ↓\nNoiseChunk\nTectonic：\nNoise\n ↓\nDensityFunction\n ↓\n      ┌───────────────┐\n      │   Tectonic    │\n      │               │\n      │ terrain       │\n      │ spline        │\n      │ ridges        │\n      │ caves         │\n      │ rivers        │\n      │ custom noise  │\n      └───────┬───────┘\n              ↓\n         finalDensity\n              ↓\n         NoiseChunk\n```",
+                "language": "none"
+              },
+              {
+                "code": "double compute(FunctionContext context)",
+                "content": "```\ndouble compute(FunctionContext context)\n```",
+                "language": "none"
+              },
+              {
+                "code": "A────────B\n│        │\n│        │\n│        │\nC────────D",
+                "content": "```\nA────────B\n│        │\n│        │\n│        │\nC────────D\n```",
+                "language": "none"
+              },
+              {
+                "code": "ADD\n       /   \\\n      A     MUL\n           /   \\\n          B     0.5",
+                "content": "```\nADD\n       /   \\\n      A     MUL\n           /   \\\n          B     0.5\n```",
+                "language": "none"
+              },
+              {
+                "code": "████████████\n████  ██████\n████████████",
+                "content": "```\n████████████\n████  ██████\n████████████\n```",
+                "language": "none"
+              },
+              {
+                "code": "████████████████\n████████████████\n██████    ██████\n████        ████\n██████    ██████\n████████████████",
+                "content": "```\n████████████████\n████████████████\n██████    ██████\n████        ████\n██████    ██████\n████████████████\n```",
+                "language": "none"
+              },
+              {
+                "code": "●──●──●──●──●",
+                "content": "```\n●──●──●──●──●\n```",
+                "language": "none"
+              },
+              {
+                "code": "net.minecraft.world.level.levelgen.DensityFunction",
+                "content": "```\nnet.minecraft.world.level.levelgen.DensityFunction\n```",
+                "language": "none"
+              },
+              {
+                "code": "世界 Seed\n                            │\n                            ▼\n                       RandomState\n                            │\n                ┌───────────┴───────────┐\n                ▼                       ▼\n             Noise                  参数/状态\n                │\n                ▼\n        DensityFunction\n              DAG\n                │\n      ┌─────────┼─────────┐\n      ▼         ▼         ▼\n Continents   Erosion   Ridges\n      │         │         │\n      └─────────┼─────────┘\n                ▼\n             Spline\n                │\n                ▼\n          Terrain Shape\n                │\n        ┌───────┼────────┐\n        ▼       ▼        ▼\n      Caves   Rivers   Details\n        │       │        │\n        └───────┼────────┘\n                ▼\n          finalDensity\n                │\n                ▼\n            NoiseChunk\n                │\n       ┌────────┼────────┐\n       ▼        ▼        ▼\n    Sampling   Cache   Interpolation\n       │        │        │\n       └────────┼────────┘\n                ▼\n             D(x,y,z)\n                │\n          ┌─────┴─────┐\n          ▼           ▼\n        Solid       Empty\n          │           │\n          │        Aquifer\n          │           │\n          └─────┬─────┘\n                ▼\n          Surface Rules\n                │\n                ▼\n             Chunk",
+                "content": "```\n世界 Seed\n                            │\n                            ▼\n                       RandomState\n                            │\n                ┌───────────┴───────────┐\n                ▼                       ▼\n             Noise                  参数/状态\n                │\n                ▼\n        DensityFunction\n              DAG\n                │\n      ┌─────────┼─────────┐\n      ▼         ▼         ▼\n Continents   Erosion   Ridges\n      │         │         │\n      └─────────┼─────────┘\n                ▼\n             Spline\n                │\n                ▼\n          Terrain Shape\n                │\n        ┌───────┼────────┐\n        ▼       ▼        ▼\n      Caves   Rivers   Details\n        │       │        │\n        └───────┼────────┘\n                ▼\n          finalDensity\n                │\n                ▼\n            NoiseChunk\n                │\n       ┌────────┼────────┐\n       ▼        ▼        ▼\n    Sampling   Cache   Interpolation\n       │        │        │\n       └────────┼────────┘\n                ▼\n             D(x,y,z)\n                │\n          ┌─────┴─────┐\n          ▼           ▼\n        Solid       Empty\n          │           │\n          │        Aquifer\n          │           │\n          └─────┬─────┘\n                ▼\n          Surface Rules\n                │\n                ▼\n             Chunk\n```",
+                "language": "none"
+              },
+              {
+                "code": "┌───────┬───────┬───────┐\n│ Cell  │ Cell  │ Cell  │\n├───────┼───────┼───────┤\n│ Cell  │ Cell  │ Cell  │\n├───────┼───────┼───────┤\n│ Cell  │ Cell  │ Cell  │\n└───────┴───────┴───────┘",
+                "content": "```\n┌───────┬───────┬───────┐\n│ Cell  │ Cell  │ Cell  │\n├───────┼───────┼───────┤\n│ Cell  │ Cell  │ Cell  │\n├───────┼───────┼───────┤\n│ Cell  │ Cell  │ Cell  │\n└───────┴───────┴───────┘\n```",
+                "language": "none"
+              },
+              {
+                "code": "●────────●\n│        │\n│        │\n│        │\n●────────●",
+                "content": "```\n\n●────────●\n│        │\n│        │\n│        │\n●────────●\n```",
+                "language": "none"
+              },
+              {
+                "code": "A────────B",
+                "content": "```\nA────────B\n```",
+                "language": "none"
+              },
+              {
+                "code": "/\\ /\\ /\\ /\\ /\\ /\\",
+                "content": "```\n/\\ /\\ /\\ /\\ /\\ /\\\n```",
+                "language": "none"
+              },
+              {
+                "code": "████████████\n████████████\n████████████",
+                "content": "```\n████████████\n████████████\n████████████\n```",
+                "language": "none"
+              },
+              {
+                "code": "山\n     /\\\n____/  \\____",
+                "content": "```\n山\n     /\\\n____/  \\____\n```",
+                "language": "none"
+              },
+              {
+                "code": "低频\n      __________\n_____/          \\____\n\n       +\n中频\n     /\\       /\\\n____/  \\_____/  \\____\n\n       +\n高频\n /\\/\\/\\/\\/\\/\\/\\/\\/\\/\\\n最终：\n/\\        /\\\n   _____/  \\______/  \\____\n__/                       \\__",
+                "content": "```\n低频\n      __________\n_____/          \\____\n\n       +\n中频\n     /\\       /\\\n____/  \\_____/  \\____\n\n       +\n高频\n /\\/\\/\\/\\/\\/\\/\\/\\/\\/\\\n最终：\n/\\        /\\\n   _____/  \\______/  \\____\n__/                       \\__\n```",
+                "language": "none"
+              },
+              {
+                "code": "{\n  \"type\": \"minecraft:min\",\n  \"argument1\": \"A\",\n  \"argument2\": \"B\"\n}",
+                "content": "```json\n{\n  \"type\": \"minecraft:min\",\n  \"argument1\": \"A\",\n  \"argument2\": \"B\"\n}\n```",
+                "language": "json"
+              },
+              {
+                "code": "高度\n ↑\n1.0 |                  ______\n    |             ____/\n0.5 |        ____/\n    |   ____/\n0.0 |__/\n    +----------------------→ continentalness",
+                "content": "```\n高度\n ↑\n1.0 |                  ______\n    |             ____/\n0.5 |        ____/\n    |   ____/\n0.0 |__/\n    +----------------------→ continentalness\n```",
+                "language": "none"
+              },
+              {
+                "code": "^^^^|^^^^\n    ↑\n  接缝",
+                "content": "```\n^^^^|^^^^\n    ↑\n  接缝\n```",
+                "language": "none"
+              },
+              {
+                "code": "大陆\n ↓\n侵蚀\n ↓\n山脊\n ↓\nTerrain\n ↓\nDensity",
+                "content": "```\n大陆\n ↓\n侵蚀\n ↓\n山脊\n ↓\nTerrain\n ↓\nDensity\n```",
+                "language": "none"
+              },
+              {
+                "code": "Minecraft Vanilla\n      │\n      ▼\nNoiseRouter\n      │\n      ▼\nVanilla DensityFunctions\n      │\n      ├─────────────┐\n      │             │\n      ▼             ▼\n Tectonic       Vanilla\n      │\n      ▼\n新的 terrain\n      │\n      ▼\nfinalDensity\n      │\n      ▼\nNoiseChunk",
+                "content": "```\nMinecraft Vanilla\n      │\n      ▼\nNoiseRouter\n      │\n      ▼\nVanilla DensityFunctions\n      │\n      ├─────────────┐\n      │             │\n      ▼             ▼\n Tectonic       Vanilla\n      │\n      ▼\n新的 terrain\n      │\n      ▼\nfinalDensity\n      │\n      ▼\nNoiseChunk\n```",
+                "language": "none"
+              },
+              {
+                "code": "{\n  \"type\": \"minecraft:add\",\n  \"argument1\": \"...\",\n  \"argument2\": \"...\"\n}",
+                "content": "```json\n{\n  \"type\": \"minecraft:add\",\n  \"argument1\": \"...\",\n  \"argument2\": \"...\"\n}\n```",
+                "language": "json"
+              },
+              {
+                "code": "───────╱╲────────────\n     ╱    ╲\n____╱      ╲__________",
+                "content": "```\n───────╱╲────────────\n     ╱    ╲\n____╱      ╲__________\n```",
+                "language": "none"
+              },
+              {
+                "code": "山\n       /  \\\n______/    \\______\n      \\    /\n       \\__/   ← 洞",
+                "content": "```\n山\n       /  \\\n______/    \\______\n      \\    /\n       \\__/   ← 洞\n```",
+                "language": "none"
+              },
+              {
+                "code": "左边：缓坡\n\n        /\\\n       /  \\\n______/    \\\n\n右边：悬崖\n\n        /|\n       / |\n______/  |",
+                "content": "```\n左边：缓坡\n\n        /\\\n       /  \\\n______/    \\\n\n右边：悬崖\n\n        /|\n       / |\n______/  |\n```",
+                "language": "none"
+              },
+              {
+                "code": "Chunk A:\n________/^^^^\n\nChunk B:\n^^^^\\________",
+                "content": "```\nChunk A:\n________/^^^^\n\nChunk B:\n^^^^\\________\n```",
+                "language": "none"
+              },
+              {
+                "code": "net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator",
+                "content": "```\nnet.minecraft.world.level.levelgen.NoiseBasedChunkGenerator\n```",
+                "language": "none"
+              },
+              {
+                "code": "(x,z)\n ↓\nNoise\nTectonic：\n(x,z)\n │\n ├── shiftX\n └── shiftZ\n      ↓\n   新坐标\n      ↓\n    Noise",
+                "content": "```\n(x,z)\n ↓\nNoise\nTectonic：\n(x,z)\n │\n ├── shiftX\n └── shiftZ\n      ↓\n   新坐标\n      ↓\n    Noise\n```",
+                "language": "none"
+              },
+              {
+                "code": "MAX\n             /   \\\n           MIN    C\n          /   \\\n         A     B",
+                "content": "```\nMAX\n             /   \\\n           MIN    C\n          /   \\\n         A     B\n```",
+                "language": "none"
+              },
+              {
+                "code": "大陆\n ↓\nTerrain Spline\n ↓\nMountain Ridges\n ↓\nNoise Warp\n ↓\nSlope\n ↓\nWeathering\n ↓\nCaves\n ↓\nUnderground Rivers\n ↓\nLava Tunnels\n ↓\nfinalDensity",
+                "content": "```\n大陆\n ↓\nTerrain Spline\n ↓\nMountain Ridges\n ↓\nNoise Warp\n ↓\nSlope\n ↓\nWeathering\n ↓\nCaves\n ↓\nUnderground Rivers\n ↓\nLava Tunnels\n ↓\nfinalDensity\n```",
+                "language": "none"
+              }
+            ]
+          },
+          "plain_text": "Minecraft 的地图为什么看起来不像一张随机噪声贴图？\n为什么它可以生成一整条山脉，而不是一堆随机大包？\n为什么山里面还能有洞穴、地下河？\n更离谱的是，为什么 Tectonic 这种 Mod 不需要自己重写一套“生成区块”的代码，就可以把原版地形整个掰成另一副样子？\n其实答案没有那么玄学。\nMinecraft 并不是：\n“随机生成几个高度，然后堆方块。”\n它真正干的事情更接近：\n先定义一个三维数学函数，然后问空间里的每一个位置：你这里到底有多像“地面”？\n这个东西在 Minecraft 里叫：\nDensity Function（密度函数）。\n而 Noise（噪声）只是这个系统里面的一种材料。\n下面咱们直接按照 Minecraft 1.21.1 的 Mojang Official Mapping，把这套东西从源码一路扒开。\n一、先从最简单的情况开始：如果 Minecraft 真的只用一个噪声会怎样？\n假设我们有一个最简单的二维噪声：\nN(x,z)\n\n它的输出范围大致在：\n-1\\leq N(x,z)\\leq1\n\n那么我们可以直接把它变成高度：\n例如：\nH(x,z)=100+50N(x,z)\nN(x,z) = 0.6\n那么：\nH=100+50\\times0.6=130\n也就是说这个地方的地面高度就是 Y=130。\n于是可以：\n \n这确实能生成山。\n但是问题来了。\n这种方法本质上是一个：\nH(x,z)\n也就是：\n给我 X、Z，我告诉你地面高度。\n它其实就是一个 Heightmap。\n所以它非常适合：\n \n但是不太适合：\n \n因为你只有一个：\nH(x,z)\n根本没有描述地下 Y 方向结构的能力。\n所以现代 Minecraft 干脆换了个思路。\n二、Minecraft 不再问“这里有多高”，而是问“这里有多密”\nMinecraft 现在大量使用：\nD(x,y,z)\n这里的 (D) 就是 Density Function 的结果。\n你可以粗暴地理解成：\n这个三维空间坐标有多倾向于成为地形。\n例如：\nD(x,y,z)>0\n表示这里倾向于生成实体地形。\n而：\nD(x,y,z)<0\n表示这里倾向于成为空气。\n于是：\n \n地面在哪里？\n就在：\nD(x,y,z)=0\n附近。\n所以一座山其实不是一个：\nheight = 173\n而是一张三维函数：\nD(x,y,z)\n的等值面。\n这就是 Minecraft 现代地形系统最核心的变化。\n三、那 Noise 到底是什么？\nNoise 可以理解成一种：\n连续的伪随机函数。\n它和：\nRandom.nextDouble()\n完全不是一回事。\n如果每个方块真的随机一次：\n0.23\n-0.91\n0.74\n0.02\n-0.88\n那么世界大概会变成：\n \n这显然不是山。\nMinecraft 需要的是：\nx=100 → 0.41\nx=101 → 0.43\nx=102 → 0.46\nx=103 → 0.49\n也就是说：\n坐标附近的噪声值应该比较接近，但远处又会逐渐变得不可预测。\n所以我们可以把一个 Noise 简化成：\nN(x,z)\n它具有两个非常重要的性质：\n第一，确定性\n同一个 Seed + 同一个坐标：\nN(seed,x,z)\n永远得到同一个结果。\n第二，空间连续\n附近的：\nN(x,z)\n和：\nN(x+1,z)\n不会突然从：\n0.8\\rightarrow-0.9\n跳成精神病。\n四、Minecraft 真正的骚操作：Noise 只是一个函数节点\n这里非常容易理解错。\nMinecraft 并不是：\nNoise\n ↓\n山\n而是：\nDensityFunction\n├── constant\n├── add\n├── mul\n├── min\n├── max\n├── spline\n├── range_choice\n├── noise\n└── ...\n在 1.21.1 的 Official Mapping 中：\n \n本身就是一个接口，它最核心的方法就是：\n \n也就是：\n给我一个空间坐标，我给你一个 double。\n于是：\nA = Noise\nB = Noise\n\nC = A + B\n就是：\nC(x,y,z)=A(x,y,z)+B(x,y,z)\n再比如：\nC = A * 0.5\n就是：\nC(x,y,z)=0.5A(x,y,z)\n再比如：\nC = max(A,B)\n就是：\nC(x,y,z)=\\max(A(x,y,z),B(x,y,z))\n于是 Minecraft 就可以拿这些小积木拼出一个巨大的数学表达式。\n五、这东西其实就是一棵“数学语法树”\n比如：\n \n实际上就是：\nD=A+B\\times0.5\n再复杂一点：\n \n就是：\nD=\\max(\\min(A,B),C)\n所以 Minecraft 的 DensityFunction 本质上很像一个：\n专门用来写空间数学的函数式编程语言。\n只不过普通编程语言计算的是：\nint\nfloat\nString\nMinecraft 这里计算的是：\n“这个地方该不该是山。”\n非常朴素。\n但也非常离谱。\n六、NoiseFunctions 里甚至直接提供了 Noise 节点\n1.21.1 的 DensityFunctions 类中有：\nnoise(...)\n这个方法接收：\nHolder<NormalNoise.NoiseParameters>\n以及缩放参数，然后返回一个 DensityFunction。\n所以你可以理解成：\nD(x,y,z)=N(s_xx,s_yy,s_zz)\n其中：\n(N) 是 Noise；\n(s_x) 是 X 方向缩放；\n(s_y) 是 Y 方向缩放；\n(s_z) 是 Z 方向缩放。\n这里的“缩放”非常重要。\n假设：\nN(x)\n变化很快：\n \n那么：\nN(0.1x)\n就变化得慢很多：\n \n所以：\nNoise 的频率决定了地形变化的尺度。\n低频：\n大陆\n中频：\n山脉\n高频：\n山坡细节\n再高频：\n皱巴巴\n当然，Minecraft 并不是简单粗暴地把这几个噪声相加。\n七、真正的地形不是一个 Noise，而是一大锅 Noise\n假设：\nN_1(x,z)\n负责大陆尺度。\nN_2(x,z)\n负责山脉。\nN_3(x,z)\n负责局部细节。\n最简单的组合可以是：\nD(x,z)=\nN_1(x,z)\n+\n0.5N_2(x,z)\n+\n0.1N_3(x,z)\n这里：\n(N_1)：决定大体地貌；\n(N_2)：决定山脉；\n(N_3)：决定细节。\n于是：\n \n看起来就自然多了。\n但是 Minecraft 还不满足。\n它说：\n“为什么同一个山脉 Noise，在海边和内陆都应该有一样的效果？”\n于是就有了下面这个东西。\n八、Continentalness、Erosion、Ridges：Minecraft 给 Noise 加了“上下文”\nMinecraft 的 NoiseRouter 里面有很多 DensityFunction。\n例如：\ncontinents\nerosion\nridges\ntemperature\nvegetation\ndepth\n还有最终的：\nfinalDensity\n这些并不是“一个 Noise 就完事”。\n它们更像是世界生成过程中的各种空间信号。\n可以粗略理解：\ncontinents\n    ↓\n这里更像海洋还是大陆？\n\nerosion\n    ↓\n这里更平缓还是更容易被侵蚀？\n\nridges\n    ↓\n这里是不是山脊区域？\n\ntemperature\n    ↓\n这里冷不冷？\n\nvegetation\n    ↓\n这里湿不湿？\n然后这些信号继续进入 DensityFunction 图。\n所以一个地方是不是高山，不是：\nif mountainNoise > 0.5:\n    mountain\n而更像：\nD=f(C,E,R,T,V,\\ldots)\n其中：\n(C)：Continentalness；\n(E)：Erosion；\n(R)：Ridges；\n(T)：Temperature；\n(V)：Vegetation。\n九、Spline：Minecraft 地形为什么不像“几个 Noise 相加”\n这里就到了 Minecraft 地形系统里非常重要的：\nSpline。\nSpline 可以理解成一条：\ny=f(x)\n的曲线。\n比如：\n \n那么 Minecraft 可以说：\n如果大陆性是这个值，就给地形函数一个这样的修正。\n例如：\nF(C)=Spline(C)\n然后：\nD(x,y,z)=Terrain(x,y,z)+F(C(x,z))\n这样：\n海洋\n  ↓\n平原\n  ↓\n丘陵\n  ↓\n山地\n就可以拥有不同的数学形态。\n这比：\nD=N_1+N_2+N_3\n高级很多。\n因为这里已经出现了：\n“根据环境改变另一个 Noise 的行为。”\n十、所以一座山其实是这样算出来的\n我们可以先写一个非常简化的模型：\nC(x,z)=Noise_C(x,z)\n大陆性。\n然后：\nR(x,z)=Noise_R(x,z)\n山脊。\n然后：\nT(x,z)=Spline(C,R)\n得到地形基础形态。\n再加入细节：\nD(x,y,z)\nT(x,z)\n+\nA(x,y,z)\n其中：\nA(x,y,z)\n是局部地形噪声。\n最后：\nD(x,y,z)>0\n的位置生成实体。\n这时候你已经可以自己做一个非常简陋的 Minecraft 地形生成器了。\n只是 Minecraft 的真实表达式比这个复杂得多。\n复杂到 JSON 看起来像有人把 Excel、LISP 和宗教仪式混在了一起。\n十一、那么一个 Chunk 到底什么时候真正开始算这些东西？\n这里就轮到：\nNoiseBasedChunkGenerator\n出场了。\n在 1.21.1 中，它是：\n \n它继承自：\nChunkGenerator\n并持有：\nHolder<NoiseGeneratorSettings> settings\n以及全局流体采样相关的数据。\n而 ChunkGenerator 本身则提供了：\nfillFromNoise(...)\n这一类区块噪声填充流程。\n所以可以粗略画成：\nChunkGenerator\n      ↓\nNoiseBasedChunkGenerator\n      ↓\nNoiseGeneratorSettings\n      ↓\nNoiseRouter\n      ↓\nDensityFunction\n      ↓\nNoiseChunk\n十二、NoiseChunk 才是“真正干活的工人”\nNoiseChunk 是理解性能问题的关键。\n在 1.21.1 官方 mapping 中，它直接有：\nint cellCountXZ\nint cellCountY\n\nList<NoiseInterpolator> interpolators\nList<CacheAllInCell> cellCaches\n\nMap<DensityFunction, DensityFunction> wrapped\n还有：\nDensityFunction initialDensityWithoutJaggedness\nAquifer aquifer\n以及：\nfill(...)\nfillAllDirectly(...)\n\nupdateForX(...)\nupdateForY(...)\nupdateForZ(...)\n这些东西。\n翻译成人话就是：\nMinecraft 并没有傻乎乎地对 Chunk 里的每一个方块，把整棵 DensityFunction 树重新算一遍。\n否则：\n16 × 16 × 384\n就是：\n98,304\n个方块。\n如果每一个方块都重新执行一整套：\nNoise\n→ Noise\n→ Spline\n→ Min\n→ Max\n→ Mul\n→ ...\nCPU 会非常开心。\n玩家不会。\n十三、Minecraft 把空间切成 Cell\nNoiseChunk 会把高度空间切成一个个 Cell。\n可以想象：\n \n对于一个 Cell，不需要把每一个方块的位置都重新完整计算。\n它会在 Cell 的采样点取得 Density。\n例如一个二维简化情况：\n \n已知：\nD_A,D_B,D_C,D_D\n那么中间位置可以通过插值得到。\n十四、最简单的插值公式是什么？\n假设我们只看一条线：\n \nA 的值：\nD_A\nB 的值：\nD_B\n当前位置距离 A 的比例：\nt\\in[0,1]\n那么线性插值：\nD(t)\nD_A(1-t)+D_Bt\n也可以写成：\nD(t)=D_A+(D_B-D_A)t\n例如：\nD_A=1\nD_B=-1\n中间：\nt=0.5\n那么：\nD(0.5)=1+(-1-1)\\times0.5=0\n恰好就是：\n地形边界。\n十五、三维就是继续插\n三维 Cell 就是八个角：\n \n先 X：\nD_x=D_A(1-t_x)+D_Bt_x\n然后 Y：\nD_{xy}=D_{x0}(1-t_y)+D_{x1}t_y\n最后 Z：\nD(x,y,z)\nD_{xy0}(1-t_z)+D_{xy1}t_z\n实际实现当然比这个示意复杂，而且 Minecraft 的 NoiseChunk 会对 DensityFunction 做专门的缓存、包装和插值处理，但核心思想就是：\n昂贵的函数少算，便宜的插值多做。\n这也是为什么 NoiseChunk 会有：\nupdateForX()\nupdateForY()\nupdateForZ()\n以及 NoiseInterpolator。\n十六、所以 Minecraft 的性能优化其实非常朴素\n核心思想就是：\n不要每个方块都重新炼一遍丹。\n例如：\n昂贵计算：\n\n \n然后中间：\n \n通过插值得到。\n再配合：\nCache\n避免：\n \n每次都重新计算 A。\nNoiseChunk 中明确存在 DensityFunction 到实际包装函数的缓存，以及 cell cache。\n所以它实际上已经很像一个小型的：\n空间函数执行引擎。\n十七、到这里就可以解释“为什么相邻区块不会接缝”\n假设 Chunk A：\nx = 0～15\nChunk B：\nx = 16～31\n如果两个 Chunk 各自随机生成：\n \n那世界边缘就会出现：\n \nMinecraft 并不是这么做的。\n它们都在计算同一个函数：\nD(x,y,z)\n只是取不同的空间区域。\n所以：\nChunk A → D(0...15,y,z)\nChunk B → D(16...31,y,z)\n本来就是同一个连续数学空间的一部分。\n只要 Noise 和 DensityFunction 是确定性的，边界自然能够接上。\n十八、但是这里还有一个很重要的东西：NoiseRouter\n现在我们把前面的东西重新组合起来。\nNoiseRouter 可以理解成：\n“这一套地形系统里，各种重要 DensityFunction 都接在哪。”\n它里面有：\ncontinents\nerosion\nridges\ntemperature\nvegetation\ninitialDensityWithoutJaggedness\nfinalDensity\n...\n所以可以想象：\n \n这就是 Minecraft 的“地形控制台”。\n十九、finalDensity：最后决定这里到底是不是地面\n经过一大堆：\nNoise\n+\nSpline\n+\nMin\n+\nMax\n+\nMul\n+\nClamp\n+\nRangeChoice\n之后，终于得到：\nfinalDensity\n它仍然只是一个：\nD(x,y,z)\n例如：\nD = 0.82\n意味着：\n这里非常像实体。\n而：\nD = -0.31\n意味着：\n这里比较像空气。\n最终可以非常粗略地理解成：\nD(x,y,z)>0\n\\Rightarrow\n\\text{solid}\nD(x,y,z)<0\n\\Rightarrow\n\\text{air/fluid}\n当然，真实 Minecraft 还有 Aquifer、Carver、Surface Rules 等后续机制，所以不要真的拿这个公式去写一个 1:1 的 ChunkGenerator。\n但理解原理完全够用了。\n二十、那 Tectonic 到底干了什么？\n现在终于可以看 Tectonic。\n你会发现：\nTectonic 最聪明的地方就是它没有把 Minecraft 这套东西推倒重来。\n它没有说：\n“Minecraft 的 ChunkGenerator 不行。”\n然后自己写：\nclass SuperUltraTerrainGenerator\n而是：\n既然 Minecraft 已经有 DensityFunction，那我直接修改 DensityFunction 图。\n这就是 Tectonic 的核心。\n二十一、Tectonic 实际上是在修改“数学电路板”\n它的资源中会重新定义 Minecraft 的：\nminecraft:worldgen/noise_settings/overworld\n以及：\nminecraft:worldgen/density_function/overworld/noise_router/*\n同时增加自己的：\ntectonic:*\nDensityFunction。\n于是最终变成：\n \n所以 Tectonic 并不是：\n“自己生成一个山。”\n而是：\n“我重新定义 Minecraft 认为‘山’应该是什么。”\n二十二、Tectonic 的 ConfigNoise 就很有代表性\nTectonic 自己实现了 ConfigNoise 这种 DensityFunction。\n它的核心参数可以理解为：\nnoise\nshiftX\nshiftZ\nscale\nmultiplier\noffset\n核心数学可以直接写成：\nx'=(x+S_x(x,z))\\times scale\nz'=(z+S_z(x,z))\\times scale\n然后：\nD(x,z)\nN(x',0,z')\\times multiplier+offset\n这东西厉害在哪里？\n在于：\nNoise 的采样坐标本身也可以被另一个 DensityFunction 改变。\n也就是说：\n普通 Noise：\n\n\n \n这就可以产生一种非常重要的效果：\n让噪声“弯起来”。\n二十三、为什么“移动 Noise 的采样坐标”这么重要？\n假设有：\nN(x,z)\n它原本是一张：\n~~~~~~~~~~~~~~\n~~~~~~~~~~~~~~\n~~~~~~~~~~~~~~\n的噪声地图。\n如果我们改成：\nN(x+S_x(x,z),z+S_z(x,z))\n那么原本规规矩矩的噪声会被一个空间位移场扭曲。\n可以想象一张纸：\n────────────\n────────────\n────────────\n然后把纸拉成：\n~~~~~~~────~~\n~~────~~~~~~~\n────~~~~──~~~\nNoise 本身没有变。\n但是：\n你去哪里取 Noise 了变了。\n这就是 Domain Warping / Noise Warping 一类技术的基本思想。\n而它对于做：\n山脉走向\n河谷\n自然弯曲\n大尺度地貌\n非常有用。\n二十四、这就解释了 Tectonic 为什么不像“随机大山包”\n如果只是：\nD'=D+N_{mountain}\\times2\n那么山基本就是：\n \n随机到哪里高到哪里。\n但如果先有一个低频山脉信号：\nR(x,z)\n再用它影响 Noise 的采样位置：\nN(x+S_x(x,z),z+S_z(x,z))\n那么山脉可以出现明显的：\n \n的连续结构。\n也就是说：\n不是随机生成很多山，而是先生成“山应该往哪儿走”，再在这条结构上生成山。\n这就是自然地形和“随机噪声山包”之间的巨大区别。\n二十五、Tectonic 的 terrain spline 又是在干什么？\nTectonic 的资源里有专门的：\nterrain_spline/\n并进一步处理：\noffset\nfactor\nroughness\njaggedness\n这些东西。\n它的思路可以理解成：\nTerrain\nOffset\n+\nFactor\\times Shape\n再根据：\nRoughness\n和：\nJaggedness\n改变局部形状。\n例如一个极简模型：\nD(x,y,z)\nO(x,z)\n+\nF(x,z)\\cdot N(x,y,z)\n这里：\n(O)：整体抬高/降低；\n(F)：地形起伏幅度；\n(N)：具体的空间细节。\n如果：\nF=0.2\n那么 Noise 的影响很弱：\n____/\\____/\\____\n如果：\nF=2\n那么：\n______/^^^^^^\\________\n就会非常夸张。\n所以：\nTerrain Factor 并不是“山高多少”这么简单，它是在控制整个密度场的起伏幅度。\n二十六、Tectonic 的山脉因此是多层函数叠出来的\n可以把它简化成：\nD_{terrain}\nF(\nContinentalness,\nErosion,\nRidges,\nSpline,\nNoise,\nDetail\n)\n而不是：\nD_{terrain}=Noise\\times500\n具体到思想层面：\n大陆尺度\n    ↓\n这里是不是陆地？\n    ↓\n侵蚀尺度\n    ↓\n这里应该平还是陡？\n    ↓\n山脊尺度\n    ↓\n山脉往哪里走？\n    ↓\nTerrain Spline\n    ↓\n这个区域的地形性格\n    ↓\nDetail Noise\n    ↓\n最后的皱褶\n这才是 Tectonic 那种“山真的像山”的来源。\n二十七、地下河为什么也能塞进来？\n这里就更有意思了。\n假设：\nD_{terrain}(x,y,z)\n表示正常地形。\n我们再做一个：\nD_{river}(x,y,z)\n表示地下河的位置。\n然后把两者组合。\n最简单的想象：\nD_{final}\n\\min(D_{terrain},D_{river})\n为什么是 min？\n因为：\n\\min(a,b)\n会选择两者中更低的那个。\n假设：\nterrain = 0.5\nriver   = -1.0\n那么：\n\\min(0.5,-1.0)=-1.0\n于是这里就从实体变成空气。\n原本：\n \n变成：\n \n于是一个洞就出现了。\n真实 Tectonic 的函数组合当然比这个复杂很多，但核心思想就是：\n地下河不是“找到一条河然后挖方块”，而是让河流 DensityFunction 改变最终密度场。\n二十八、所以“洞穴”其实也是在修改 (D(x,y,z))\n假设：\nD_{terrain}>0\n整个山都是实体。\n加入 Cave Function：\nC(x,y,z)\n之后构造：\nD_{final}=f(D_{terrain},C)\n让洞穴所在位置：\nD_{final}<0\n于是：\n \n洞就出来了。\n这就是三维 Density 的强大之处。\n你根本不需要知道：\n“这个洞从哪个方块开始挖。”\n你只需要定义：\n“哪些空间位置应该是空的。”\n二十九、但 Minecraft 的洞穴也不是全部靠 DensityFunction\n这里必须严谨一点。\n不要看到 Tectonic 的 cave density 就说：\n“Minecraft 所有洞穴都是 Noise 生成的。”\n不是。\nMinecraft 仍然存在：\nCarver\n体系。\nChunkGenerator 的流程中就存在：\napplyCarvers(...)\n这一阶段。官方 1.21.1 mapping 也可以直接看到这个方法。\n所以更准确的说法是：\n地形 Density\n      +\nDensity-based cave / tunnel\n      +\nCarver\n      +\nAquifer\n      +\nSurface\n一起组成最后看到的地下世界。\n这也是为什么 Minecraft 世界生成源码看起来特别像：\n“每个人负责一点，然后最后一起把锅端给玩家。”\n三十、Aquifer 又是什么？\n假设 Density 告诉 Minecraft：\n这里不是石头。\nMinecraft 还要继续问：\n“那这里是空气，还是水？”\n这就是：\nAquifer\n例如：\n \n这里：\n~~~~\n不是单纯因为：\nD<0\n就自动出现水。\n还需要 Aquifer 的流体规则判断。\n所以：\nDensity\n  ↓\n这里应该空\n  ↓\nAquifer\n  ↓\n空气 / 水 / 岩浆\nNoiseChunk 本身就持有 Aquifer。\n这也是为什么不能把：\n“Density < 0 = 空气”\n当成完整的 Minecraft 实现。\n它只是理解核心思想的简化模型。\n三十一、最后才轮到草方块、沙子和雪\nDensity 解决的是：\n“这里有没有地形。”\n但它并没有直接决定：\n“最上面到底是草还是沙。”\n这还涉及 Surface Rules。\n所以整个过程其实是：\nDensity\n ↓\n地形轮廓\n ↓\nBiome / Climate\n ↓\nSurface Rules\n ↓\ngrass / dirt / sand / snow\n ↓\nFeatures\n ↓\n树 / 草 / 矿物 / 结构\n所以：\nTerrain\\neq Biome\\neq Surface\n这是三个不同的问题。\n三十二、现在可以完整画出 Minecraft 生成一块地形的过程了\n \n这才是比较接近现代 Minecraft 的“噪声地形生成”。\n三十三、那 Tectonic 到底改了哪一层？\n现在答案非常简单：\n主要改 DensityFunction 这一层。\n也就是：\nMinecraft：\n\n\n \n所以 Tectonic 最厉害的地方不是：\n“写了一个超级牛逼的 ChunkGenerator。”\n而是：\n它发现 Minecraft 已经把地形生成做成了一套可以拼数学函数的系统，于是直接拿这个系统当自己的地形编程语言。\n三十四、这也是为什么 Tectonic 有那么多 JSON\n第一次看到 Tectonic 的 worldgen JSON，很容易产生一种：\n“这是什么鬼？”\n的感觉。\n因为它实际上不是传统意义上的配置文件。\n更接近：\n一份数学程序。\n例如：\n \n本质上就是：\nf(x,y,z)=A(x,y,z)+B(x,y,z)\n如果看到：\n \n就是：\nf(x,y,z)=0.64A(x,y,z)\n看到：\n \n就是：\nf(x,y,z)=\\min(A,B)\n所以 Tectonic 的 JSON 并不是：\n“告诉 Minecraft 放什么方块。”\n而是在：\n告诉 Minecraft 算一个什么函数。\n三十五、这也是 Codec 为什么如此重要\nMinecraft 的 DensityFunction 并不是把 JSON 当普通配置读取。\n它通过 Codec 把：\nJSON\n ↓\nCodec\n ↓\nDensityFunction\n解析出来。\nDensityFunctions 本身就注册了 DensityFunction 的各种 MapCodec。\n因此：\n \n可以变成类似：\nnew AddFunction(A, B)\n然后：\ncompute(context)\n的时候：\nreturn A.compute(context)\n     + B.compute(context);\n于是：\nJSON 是程序，Codec 是编译器前端，DensityFunction 是 AST，NoiseChunk 是执行环境。\n这么一看，整个 Minecraft Worldgen 突然就没有那么玄学了。\n三十六、Tectonic 甚至会自己增加“语法”\n如果原版 DensityFunction 不够用怎么办？\nTectonic 可以自己实现新的：\nDensityFunction\n例如 ConfigNoise。\n它可以定义：\nnoise\nshiftX\nshiftZ\nscale\nmultiplier\noffset\n然后数学上：\nx'=(x+S_x)\\times s\nz'=(z+S_z)\\times s\nD=N(x',0,z')m+o\n这里：\n(S_x)：X 偏移函数；\n(S_z)：Z 偏移函数；\n(s)：采样缩放；\n(m)：输出倍率；\n(o)：输出偏移。\n于是 Tectonic 相当于对 Minecraft 说：\n“原版的 noise 我觉得不够好，我自己加一个。”\n然后这个东西仍然作为：\nDensityFunction\n塞回 Minecraft 的 DAG 里面。\n这就非常优雅。\n三十七、为什么这比直接写 ChunkGenerator 好？\n假设你自己写：\nclass MyChunkGenerator extends ChunkGenerator\n你就需要自己处理：\nChunk\nBiome\nNoise\nAquifer\nSurface\nCarver\nCache\nInterpolation\nGeneration settings\n甚至要考虑各种世界生成阶段。\n而 Tectonic 只需要：\n“Minecraft，你原来这里算：\n\nD = A + B\n\n现在改成：\n\nD = f(A,B,C,D,E)\n\n谢谢。”\n然后：\n剩下的脏活累活 Minecraft 自己干。\n这就是为什么 DensityFunction 这种架构对 Mod 作者非常友好。\n三十八、所以一座山的真正数学身份是什么？\n现在可以非常严谨地说：\n一座 Minecraft 山并不是：\nH(x,z)\n而更接近：\n\\boxed{\nD(x,y,z)=F(\nN_1,\nN_2,\nN_3,\nC,\nE,\nR,\nS,\n...\n)\n}\n其中：\nN_i\n是不同尺度的噪声；\nC\n是大陆性相关信号；\nE\n是侵蚀相关信号；\nR\n是山脊相关信号；\nS\n则可以代表由 Spline 等函数得到的地形变换。\n最后：\n\\boxed{\nD(x,y,z)>0\n}\n的区域成为实体地形，\n而：\n\\boxed{\nD(x,y,z)<0\n}\n的区域则倾向为空。\n最终地表就是：\n\\boxed{\nD(x,y,z)=0\n}\n附近的那张三维等值面。\n三十九、这就解释了为什么 Minecraft 可以“长”出悬崖\n假设一个普通 Heightmap：\nH(x,z)\n突然从：\n100\\rightarrow150\n那就是一面非常陡的墙。\n但是 DensityFunction 可以直接改变三维空间：\nD(x,y,z)\n所以你可以让某一侧：\n\\frac{\\partial D}{\\partial x}\n变化非常快。\n另一侧：\n\\frac{\\partial D}{\\partial x}\n变化很慢。\n于是同一座山可以：\n \n换句话说：\nMinecraft 不是在画山的高度，而是在塑造山的三维边界。\n这也是 Tectonic 这种 Mod 能做出非常夸张地貌的原因。\n四十、如果把 Tectonic 和原版放在一起，最直观的区别是什么？\n原版：\nD_{vanilla}\nF(\nNoise,\nContinents,\nErosion,\nRidges,\nSpline,\n...\n)\nTectonic：\nD_{tectonic}\nF(\nD_{vanilla},\nTerrainSpline,\nMountainRidges,\nCaves,\nRivers,\nLavaTunnels,\nWarpedNoise,\n...\n)\n最终：\nD_{tectonic}(x,y,z)\n依然只是一个 double。\nMinecraft 根本不在乎这个 double 是原版算出来的还是 Tectonic 算出来的。\n它只会很朴素地说：\n“哦，密度是负的，那这里别放石头。”\n这就是程序化地形最漂亮的地方。\n四十一、所以 Minecraft 的“随机世界”其实一点都不随机\n这是最后一个很有意思的地方。\n你看到：\n山\n河\n峡谷\n洞穴\n平原\n好像都是随机出来的。\n其实严格来说：\n它们都是确定的。\n给定：\nSeed\n以及：\nx,y,z\n那么最终结果：\nD(Seed,x,y,z)\n就是确定的。\n也就是说：\n\\boxed{\nBlock(Seed,x,y,z)\nF(Seed,x,y,z)\n}\n你换一个电脑，只要版本、生成参数和相关状态一致：\nSeed = 123456789\nX = 1000\nY = 80\nZ = -300\n它仍然会得到同样的结果。\n所以 Minecraft 所谓的：\n“随机世界”\n实际上更准确应该叫：\n确定性的程序生成世界。\n只是这个程序复杂得足够像自然界。\n四十二、最后总结一下\n如果把 Minecraft 的地形生成压缩成最简单的一句话：\nNoise 提供空间上的伪随机变化，DensityFunction 把这些变化组合成数学表达式，NoiseRouter 负责组织这些表达式，NoiseChunk 负责高效采样和插值，最终的 DensityField 决定三维空间哪里应该是地形。\n公式可以概括成：\n\\boxed{\nD(x,y,z)\nF(\nN_1(x,y,z),\nN_2(x,y,z),\n...\nC(x,z),\nE(x,z),\nR(x,z),\nS(...)\n)\n}\n然后：\n\\boxed{\nD>0\\Rightarrow\\text{地形}\n}\n\\boxed{\nD<0\\Rightarrow\\text{空腔/空气/流体候选}\n}\n而地表大致就是：\n\\boxed{\nD=0\n}\n的等值面。\n至于 Tectonic？\n它做的事情可以概括成：\n\\boxed{\nD_{vanilla}\n\\rightarrow\nD_{tectonic}\n}\n它不是重新造了一辆车。\n它只是把 Minecraft 原本的：\n“山怎么长”\n这部分数学表达式拆下来，然后重新接线。\n于是：\n原版：\n\n\n \n可以变成：\nTectonic：\n\n\n \n最后仍然交给：\nNoiseChunk\n去采样。\n所以你在游戏里看到的一座巨大山脉，本质上不是：\n“Minecraft 随机扔了几个 Perlin Noise。”\n而是：\n一棵非常大的数学函数树，在三维空间里算出了一个密度场；Minecraft 再把这个密度场的边界离散成了方块。\n而 Tectonic 干的事情则更加简单粗暴：\n“原版这棵数学树我觉得不好看，给我把树枝掰一下。”\n于是山就长成了另一副样子。\n很玄学吗？\n其实一点都不玄学。\n就是：\n\\boxed{\nNoise\n+\nDensityFunction\n+\nSpline\n+\nInterpolation\n+\n一点点数学\n山\n}\n以及：\n\\boxed{\n山\n+\n洞\n+\n河\n+\nMod作者的怨念\nTectonic\n}\n而 Minecraft 负责的最后一步非常朴实：\n算出来是石头，那就放石头。这就是程序化地形。\n剩下的，都是数学在替你长山。",
+          "preview_text": "Minecraft 的地图为什么看起来不像一张随机噪声贴图？\n为什么它可以生成一整条山脉，而不是一堆随机大包？\n为什么山里面还能有洞穴、地下河？\n更离谱的是，为什么 Tectonic 这种 Mod",
+          "title": "Minecraft 是怎么用噪声生成一座山的？"
+        },
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2087247002945863972",
+        "created_at": "2026-08-11T18:37:19.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T19:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087247002945863972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2087…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2087236199626711041",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2087236199626711041",
+              "url": "https://t.co/Jb6FIoj6Xx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087247002945863972",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Jb6FIoj6Xx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2087247002945863972",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 161,
+          "like_count": 28681,
+          "listed_count": 4,
+          "media_count": 448,
+          "tweet_count": 5340
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

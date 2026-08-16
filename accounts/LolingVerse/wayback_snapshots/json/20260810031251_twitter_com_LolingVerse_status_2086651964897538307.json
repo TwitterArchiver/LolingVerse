@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2086410955232325738",
+    "created_at": "2026-08-10T03:12:51.000Z",
+    "display_text_range": [
+      9,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T04:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086651964897538307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1556927182836215808",
+          "start": 0,
+          "username": "Rob_VRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086651964897538307",
+    "in_reply_to_user_id": "1556927182836215808",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086410955232325738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rob_VRC amazing"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37424,
+        "height": 1346,
+        "media_key": "13_2086409803853946880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086409803853946880/img/CoVqa3XKZh57OgNb.jpg",
+        "public_metrics": {
+          "view_count": 18493
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086409803853946880/vid/avc1/440x360/6WgosJ39wCkcec6e.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086409803853946880/vid/avc1/1648x1346/M1d8xESBHmOVnkMk.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086409803853946880/vid/avc1/330x270/d-MEju5CEdofAHj2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086409803853946880/vid/avc1/880x720/FpjF-e84S8PO7VCd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086409803853946880/pl/gHdsLdV9KURSudN-.m3u8"
+          }
+        ],
+        "width": 1648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2086410955232325738",
+        "created_at": "2026-08-10T03:12:51.000Z",
+        "display_text_range": [
+          9,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T04:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086651964897538307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1556927182836215808",
+              "start": 0,
+              "username": "Rob_VRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086651964897538307",
+        "in_reply_to_user_id": "1556927182836215808",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086410955232325738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rob_VRC amazing"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086409803853946880"
+          ]
+        },
+        "author_id": "1556927182836215808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "NVIDIA - AI",
+              "id": "10050907860",
+              "name": "NVIDIA - AI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2086410955232325738",
+        "created_at": "2026-08-09T11:15:10.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T12:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086410955232325738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Kimodo is a kinematic motion diffusion model trained on large-scale optical mocap data for easily generating high-quality 3D human and robot motions.",
+              "display_url": "research.nvidia.com/labs/sil/proje…",
+              "end": 134,
+              "expanded_url": "https://research.nvidia.com/labs/sil/projects/kimodo/",
+              "images": [
+                {
+                  "height": 1066,
+                  "url": "https://pbs.twimg.com/news_img/2085326187069341696/38til-5E?format=jpg&name=orig",
+                  "width": 1923
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2085326187069341696/38til-5E?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 111,
+              "status": 200,
+              "title": "Kimodo: Scaling Controllable Human Motion Generation",
+              "unwound_url": "https://research.nvidia.com/labs/sil/projects/kimodo/",
+              "url": "https://t.co/civKuWSQXH"
+            },
+            {
+              "display_url": "pic.x.com/9LCMPuJb30",
+              "end": 158,
+              "expanded_url": "https://x.com/Rob_VRC/status/2086410955232325738/video/1",
+              "media_key": "13_2086409803853946880",
+              "start": 135,
+              "url": "https://t.co/9LCMPuJb30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086410955232325738",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2086409803853946880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 678,
+          "impression_count": 41125,
+          "like_count": 674,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "NVIDIAのモーション生成AIモデル「Kimodo」を、VRCアバタービューアに接続するPoCを作ってみました。ローカルで動いています。\n\nプロンプトからアニメーション生成してアバターを動かせます。かなり面白いです。\n\nhttps://t.co/civKuWSQXH https://t.co/9LCMPuJb30"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2086651964897538307",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 162,
+          "like_count": 28468,
+          "listed_count": 4,
+          "media_count": 439,
+          "tweet_count": 5297
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-09T08:56:09.000Z",
+        "description": "プログラミングとかLLMとか\nアバターはYOYOGIMORIのNotiaさんです\n音楽聞くのが趣味\nVRCアバタービューアー開発中 #VRCAvatarViewer",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 66,
+                "tag": "VRCAvatarViewer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vrchat.com/home/user/usr_…",
+                "end": 23,
+                "expanded_url": "https://vrchat.com/home/user/usr_e49ccf68-4351-4f78-a177-9debf1e5f50d",
+                "start": 0,
+                "url": "https://t.co/HRCq7Y8yGH"
+              }
+            ]
+          }
+        },
+        "id": "1556927182836215808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086471101102903680",
+        "name": "Rob_VRC",
+        "pinned_tweet_id": "2086091926483439873",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1556927182836215808/1689868042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073783762698301440/CS5_QgqN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3349,
+          "following_count": 138,
+          "like_count": 3004,
+          "listed_count": 12,
+          "media_count": 405,
+          "tweet_count": 1607
+        },
+        "url": "https://t.co/HRCq7Y8yGH",
+        "username": "Rob_VRC",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

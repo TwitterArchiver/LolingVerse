@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082834311057899520"
+      ],
+      "media_source_tweet_id": [
+        "2082834318662271321"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083076909731094946",
+    "created_at": "2026-07-31T06:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T07:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083076909731094946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1637778845226115072",
+          "start": 3,
+          "username": "ai_unit_e"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d5HqSHhh61",
+          "end": 38,
+          "expanded_url": "https://x.com/ai_unit_e/status/2082834318662271321/photo/1",
+          "media_key": "3_2082834311057899520",
+          "start": 15,
+          "url": "https://t.co/d5HqSHhh61"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083076909731094946",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082834318662271321",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ai_unit_e: https://t.co/d5HqSHhh61"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_2082834311057899520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOe2xUSaAAAvmwz.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082834311057899520"
+          ]
+        },
+        "author_id": "1637778845226115072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082834318662271321",
+        "created_at": "2026-07-30T14:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082834318662271321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d5HqSHhh61",
+              "end": 23,
+              "expanded_url": "https://x.com/ai_unit_e/status/2082834318662271321/photo/1",
+              "media_key": "3_2082834311057899520",
+              "start": 0,
+              "url": "https://t.co/d5HqSHhh61"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082834318662271321",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 1991,
+          "like_count": 218,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/d5HqSHhh61"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082834311057899520"
+          ],
+          "media_source_tweet_id": [
+            "2082834318662271321"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083076909731094946",
+        "created_at": "2026-07-31T06:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083076909731094946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1637778845226115072",
+              "start": 3,
+              "username": "ai_unit_e"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d5HqSHhh61",
+              "end": 38,
+              "expanded_url": "https://x.com/ai_unit_e/status/2082834318662271321/photo/1",
+              "media_key": "3_2082834311057899520",
+              "start": 15,
+              "url": "https://t.co/d5HqSHhh61"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083076909731094946",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082834318662271321",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ai_unit_e: https://t.co/d5HqSHhh61"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 163,
+          "like_count": 26881,
+          "listed_count": 4,
+          "media_count": 406,
+          "tweet_count": 4943
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-20T11:36:47.000Z",
+        "description": "Love pixel and fantasy world.",
+        "id": "1637778845226115072",
+        "name": "No.i",
+        "pinned_tweet_id": "2051936617334784177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788231596396724224/fe6jIX6u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2140,
+          "following_count": 455,
+          "like_count": 16740,
+          "listed_count": 14,
+          "media_count": 1490,
+          "tweet_count": 2943
+        },
+        "url": "",
+        "username": "ai_unit_e",
+        "verified": false
+      }
+    ]
+  }
+}

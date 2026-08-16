@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2083730898575601744",
+    "created_at": "2026-08-02T03:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T04:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083763218946695391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2266909652",
+          "start": 0,
+          "username": "XShude"
+        },
+        {
+          "end": 15,
+          "id": "168139512",
+          "start": 8,
+          "username": "geekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083763218946695391",
+    "in_reply_to_user_id": "2266909652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083737602679873689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XShude @geekbb 感觉就像人类语言沟通的火耗一样，有没有什么办法直接让模型内部的一些东西对齐(？)可惜api的话也只能用结果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2083730898575601744",
+        "created_at": "2026-08-02T03:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T04:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083763218946695391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2266909652",
+              "start": 0,
+              "username": "XShude"
+            },
+            {
+              "end": 15,
+              "id": "168139512",
+              "start": 8,
+              "username": "geekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083763218946695391",
+        "in_reply_to_user_id": "2266909652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083737602679873689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XShude @geekbb 感觉就像人类语言沟通的火耗一样，有没有什么办法直接让模型内部的一些东西对齐(？)可惜api的话也只能用结果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2266909652",
+        "conversation_id": "2083730898575601744",
+        "created_at": "2026-08-02T02:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083737602679873689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "168139512",
+              "start": 0,
+              "username": "geekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083737602679873689",
+        "in_reply_to_user_id": "168139512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083730898575601744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geekbb 双模型最容易漏算的是交接损耗：V4 Pro 给的计划要带状态、约束和验收条件，Flash 失败时也得把证据完整回传。否则单次调用便宜了，反复重规划反而更贵。真测时应该看整条链路的总 token、重试次数和最终通过率。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 164,
+          "like_count": 27246,
+          "listed_count": 4,
+          "media_count": 411,
+          "tweet_count": 5085
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2013-12-29T05:15:45.000Z",
+        "description": "腾讯高级开发 @WeChat｜AI 工程、Agent 与研发效率实战｜分享技术变革中真正不会过期的东西｜Tencent/WeChat engineer writing about AI systems & developer workflows",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 7,
+                "username": "WeChat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhihu.com/people/fjywan-…",
+                "end": 23,
+                "expanded_url": "https://www.zhihu.com/people/fjywan-62",
+                "start": 0,
+                "url": "https://t.co/ETtcIEqCDB"
+              }
+            ]
+          }
+        },
+        "id": "2266909652",
+        "location": "shenzhen,China",
+        "name": "随机比特",
+        "pinned_tweet_id": "2080039376009257179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055611804076883968/hnrRxYmn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 1441,
+          "like_count": 107,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 1196
+        },
+        "url": "https://t.co/ETtcIEqCDB",
+        "username": "XShude",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-18T14:10:39.000Z",
+        "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "igeekbb.com",
+                "end": 23,
+                "expanded_url": "https://www.igeekbb.com",
+                "start": 0,
+                "url": "https://t.co/lNbogZ0RMY"
+              }
+            ]
+          }
+        },
+        "id": "168139512",
+        "location": "火星",
+        "name": "Geek",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114868,
+          "following_count": 540,
+          "like_count": 23386,
+          "listed_count": 1223,
+          "media_count": 7587,
+          "tweet_count": 28369
+        },
+        "url": "https://t.co/lNbogZ0RMY",
+        "username": "geekbb",
+        "verified": true
+      }
+    ]
+  }
+}

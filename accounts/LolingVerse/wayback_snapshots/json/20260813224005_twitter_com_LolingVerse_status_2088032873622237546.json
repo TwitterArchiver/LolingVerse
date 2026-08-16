@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to social security in Japan. 日本の社会保障制度に関する会話",
+          "id": "1143968237232644097",
+          "name": "Japanese Social Security"
+        }
+      }
+    ],
+    "conversation_id": "2088032873622237546",
+    "created_at": "2026-08-13T22:40:05.000Z",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T23:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088032873622237546"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xijinping8964t…",
+          "end": 120,
+          "expanded_url": "https://twitter.com/xijinping8964th/status/2087783217093063163",
+          "start": 97,
+          "url": "https://t.co/jyqyKNAbz7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088032873622237546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087783217093063163",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这样的场景，其实非常人道——損不足以奉有餘，赢家通吃\n\n所以咱希望社会保障，消除一切斩杀线，使得人们可以不必活得兢兢业业，活得提心吊胆\n\n所以咱支持\"养懒汉\"。也是这样才能够确保都得到了保障。 https://t.co/jyqyKNAbz7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to social security in Japan. 日本の社会保障制度に関する会話",
+              "id": "1143968237232644097",
+              "name": "Japanese Social Security"
+            }
+          }
+        ],
+        "conversation_id": "2088032873622237546",
+        "created_at": "2026-08-13T22:40:05.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T23:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088032873622237546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xijinping8964t…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/xijinping8964th/status/2087783217093063163",
+              "start": 97,
+              "url": "https://t.co/jyqyKNAbz7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088032873622237546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087783217093063163",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这样的场景，其实非常人道——損不足以奉有餘，赢家通吃\n\n所以咱希望社会保障，消除一切斩杀线，使得人们可以不必活得兢兢业业，活得提心吊胆\n\n所以咱支持\"养懒汉\"。也是这样才能够确保都得到了保障。 https://t.co/jyqyKNAbz7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519983284976975872",
+        "conversation_id": "2087758576978919562",
+        "created_at": "2026-08-13T06:08:02.000Z",
+        "display_text_range": [
+          13,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T07:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087783217093063163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892143528140267520",
+              "start": 0,
+              "username": "0xfufu_d667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087783217093063163",
+        "in_reply_to_user_id": "1892143528140267520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087758576978919562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xfufu_d667 和我2年前的那种纯奥地利经济学派思想差不多，哈耶克什么的，不过后来看明白了，不平等就是不平等，不会像你这样用“没有特权”这种自由派嚼烂了的话术诡辩，你现在能这样，是因为靠美股金融投资赚到钱，时间自由，长居酒店，不用跑外卖不用进厂，还有一对中产父母，当然傲慢了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2088032873622237546",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 165,
+          "like_count": 29240,
+          "listed_count": 4,
+          "media_count": 465,
+          "tweet_count": 5471
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-29T10:14:16.000Z",
+        "description": "istp，精致利己主义（egoism），自私、好色、好享乐，戒备心强、报复心强，擅长揣摩人心，交流的语气透露一个人的性格。\n\n权力轴:精英威权共和，反低智情绪民小/\n经济轴:战略产业国有，其他产业私有/\n种族轴:敌视吴语粤语纳粹、反文化左，现实主义/\n性别轴:筛选过滤性压抑丑陋激女女权，只和颜值身材俱佳、善良火辣骚的玩",
+        "id": "1519983284976975872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087887625592230300",
+        "name": "一个istp的地球online",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1519983284976975872/1697284946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012564994597031936/7S7Zr3S9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 141,
+          "like_count": 2163,
+          "listed_count": 3,
+          "media_count": 18,
+          "tweet_count": 488
+        },
+        "url": "",
+        "username": "xijinping8964th",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

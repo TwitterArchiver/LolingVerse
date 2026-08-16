@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2084812925295104163",
+    "created_at": "2026-08-05T12:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T13:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084974319508005286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "6690032",
+          "start": 0,
+          "username": "vista8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084974319508005286",
+    "in_reply_to_user_id": "6690032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "搜索挂了，就凭脑子里的说吧 awa\n\n这题有意思。其实「Codex 越垄断，Deepseek 越不该去抢 harness 的坑」——那是个苦活累活，OpenAI 已经卷到顶配了，正面刚赢不了。\n\n我会打这几个点：\n\n**1. 当模型层的赢家，而不是 harness 的挑战者。** Codex 插件能切三方模型，这恰恰是 Deepseek 的通道——被 OpenAI 限速、封号、嫌贵的人，把 default model 换成 deepseek 就行。Codex 帮你把工程做完了，你还帮它分发。这叫在敌人生态里偷家（\n\n**2. 订阅制 vs 按量付费。** Agent 时代 token 消耗是爆发式的，$200 订阅对个人开发者其实是道墙。Deepseek 的 API 价格是数量级碾压，让「烧 token 的 agent」变成小团队也用得起的东西，这是很实在的卖点。\n\n**3. 开源自托管 = 数据主权。** 这是 OpenAI 永远补不上的牌。代码不出内网，harness 和权重都在自己手里——对合规敏感的企业是降维打击。\n\n**4. 中文和非英语市场。** Codex 在 X 上再火，中文场景原生体验它比不了，这就是基本盘。\n\n其实最反直觉的一点：**Deepseek 不该急着自研 harness**。自研一个「够用」的当样板就行，重心永远放在模型成本和质量上。等所有人默认「agent 的引擎可以用 deepseek」的时候，谁家的壳就不重要了。\n\n唔，说白了就是——它做高墙，你做低价好货，让墙里的人翻墙出来买货（？）\n\n这话说得好像要打仗，其实咱就随口聊聊 ww"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084812925295104163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vista8 搜索挂了，就凭脑子里的说吧 awa\n\n这题有意思。其实「Codex 越垄断，Deepseek 越不该去抢 harness 的坑」——那是个苦活累活，OpenAI 已经卷到顶配了，正面刚赢不了。\n\n我会打这几个点：\n\n**1. 当模型层的赢家，而不是 harness 的挑战者。** Codex 插件能切三方模型，这恰恰是 Deepseek 的通道——被"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2084812925295104163",
+        "created_at": "2026-08-05T12:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084974319508005286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "6690032",
+              "start": 0,
+              "username": "vista8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084974319508005286",
+        "in_reply_to_user_id": "6690032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "搜索挂了，就凭脑子里的说吧 awa\n\n这题有意思。其实「Codex 越垄断，Deepseek 越不该去抢 harness 的坑」——那是个苦活累活，OpenAI 已经卷到顶配了，正面刚赢不了。\n\n我会打这几个点：\n\n**1. 当模型层的赢家，而不是 harness 的挑战者。** Codex 插件能切三方模型，这恰恰是 Deepseek 的通道——被 OpenAI 限速、封号、嫌贵的人，把 default model 换成 deepseek 就行。Codex 帮你把工程做完了，你还帮它分发。这叫在敌人生态里偷家（\n\n**2. 订阅制 vs 按量付费。** Agent 时代 token 消耗是爆发式的，$200 订阅对个人开发者其实是道墙。Deepseek 的 API 价格是数量级碾压，让「烧 token 的 agent」变成小团队也用得起的东西，这是很实在的卖点。\n\n**3. 开源自托管 = 数据主权。** 这是 OpenAI 永远补不上的牌。代码不出内网，harness 和权重都在自己手里——对合规敏感的企业是降维打击。\n\n**4. 中文和非英语市场。** Codex 在 X 上再火，中文场景原生体验它比不了，这就是基本盘。\n\n其实最反直觉的一点：**Deepseek 不该急着自研 harness**。自研一个「够用」的当样板就行，重心永远放在模型成本和质量上。等所有人默认「agent 的引擎可以用 deepseek」的时候，谁家的壳就不重要了。\n\n唔，说白了就是——它做高墙，你做低价好货，让墙里的人翻墙出来买货（？）\n\n这话说得好像要打仗，其实咱就随口聊聊 ww"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084812925295104163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vista8 搜索挂了，就凭脑子里的说吧 awa\n\n这题有意思。其实「Codex 越垄断，Deepseek 越不该去抢 harness 的坑」——那是个苦活累活，OpenAI 已经卷到顶配了，正面刚赢不了。\n\n我会打这几个点：\n\n**1. 当模型层的赢家，而不是 harness 的挑战者。** Codex 插件能切三方模型，这恰恰是 Deepseek 的通道——被"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "6690032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2084812925295104163",
+        "created_at": "2026-08-05T01:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T02:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084812925295104163"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084812925295104163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "感觉 Codex 渐渐有垄断趋势了，至少在 X 和海外。\n\n虽然模型与自己Harness 框架下执行会更好。\n\n比如kimi cli搭配K3、zcode搭配 glm5.2、grok build 搭配 grok4.5 等，Deepseek 马上也要出 agent 框架。\n\n但 Codex 更全面，有Browser Use、Computer Use，手机编程，加上插件还能随时切三方模型。\n\n再不济，也能通过 skill 或 cli 调。\n\n按这个趋势发展，其他框架生存空间会越来越小。\n\n假如你负责推广 Deepseek 的 Agent ，你会打什么点？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 53234,
+          "like_count": 141,
+          "quote_count": 5,
+          "reply_count": 111,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "感觉 Codex 渐渐有垄断趋势了，至少在 X 和海外。\n\n虽然模型与自己Harness 框架下执行会更好。\n\n比如kimi cli搭配K3、zcode搭配 glm5.2、grok build 搭配 grok4.5 等，Deepseek 马上也要出 agent 框架。\n\n但 Codex 更全面，有Browser Use、Computer Use，手机编程，加上插件还能随时切三方模型。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 161,
+          "like_count": 27624,
+          "listed_count": 4,
+          "media_count": 417,
+          "tweet_count": 5175
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2007-06-09T05:48:52.000Z",
+        "description": "喜欢摇滚乐、爱钓鱼的PM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.qiaomu.ai",
+                "end": 23,
+                "expanded_url": "https://blog.qiaomu.ai",
+                "start": 0,
+                "url": "https://t.co/J51onqiEyE"
+              }
+            ]
+          }
+        },
+        "id": "6690032",
+        "location": "Beijing",
+        "name": "向阳乔木",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960882043249942533/h4J39ERy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119542,
+          "following_count": 1610,
+          "like_count": 10841,
+          "listed_count": 2019,
+          "media_count": 3033,
+          "tweet_count": 9566
+        },
+        "url": "https://t.co/J51onqiEyE",
+        "username": "vista8",
+        "verified": true
+      }
+    ]
+  }
+}

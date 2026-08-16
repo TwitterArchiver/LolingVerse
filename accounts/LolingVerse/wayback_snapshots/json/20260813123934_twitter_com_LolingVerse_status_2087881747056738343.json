@@ -1,0 +1,583 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1884286926779191296",
+          "name": "DeepSeek"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2087866632333107572",
+    "created_at": "2026-08-13T12:39:34.000Z",
+    "display_text_range": [
+      23,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T13:39:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087881747056738343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1699797396589588480",
+          "start": 0,
+          "username": "MaxForAI"
+        },
+        {
+          "end": 22,
+          "id": "1714580962569588736",
+          "start": 10,
+          "username": "deepseek_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087881747056738343",
+    "in_reply_to_user_id": "1699797396589588480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087866632333107572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaxForAI @deepseek_ai 小难梁😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1724,
+        "media_key": "3_2087865110589300736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmWQY-bYAAd43E.jpg",
+        "width": 2588
+      },
+      {
+        "height": 964,
+        "media_key": "3_2087865245360603137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmWYPCaQAEbiym.jpg",
+        "width": 1512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1884286926779191296",
+              "name": "DeepSeek"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2087866632333107572",
+        "created_at": "2026-08-13T12:39:34.000Z",
+        "display_text_range": [
+          23,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T13:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087881747056738343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1699797396589588480",
+              "start": 0,
+              "username": "MaxForAI"
+            },
+            {
+              "end": 22,
+              "id": "1714580962569588736",
+              "start": 10,
+              "username": "deepseek_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087881747056738343",
+        "in_reply_to_user_id": "1699797396589588480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087866632333107572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaxForAI @deepseek_ai 小难梁😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087865110589300736",
+            "3_2087865245360603137"
+          ]
+        },
+        "author_id": "1699797396589588480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1884286926779191296",
+              "name": "DeepSeek"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2087866632333107572",
+        "created_at": "2026-08-13T11:39:30.000Z",
+        "display_text_range": [
+          0,
+          196
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T12:32:42.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087864921501602126",
+          "2087865443730313712",
+          "2087865611980521683",
+          "2087866632333107572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 71,
+              "id": "1714580962569588736",
+              "start": 59,
+              "username": "deepseek_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H59OOZWvsk",
+              "end": 220,
+              "expanded_url": "https://x.com/MaxForAI/status/2087866632333107572/photo/1",
+              "media_key": "3_2087865110589300736",
+              "start": 197,
+              "url": "https://t.co/H59OOZWvsk"
+            },
+            {
+              "display_url": "pic.x.com/H59OOZWvsk",
+              "end": 220,
+              "expanded_url": "https://x.com/MaxForAI/status/2087866632333107572/photo/1",
+              "media_key": "3_2087865245360603137",
+              "start": 197,
+              "url": "https://t.co/H59OOZWvsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087866632333107572",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087865110589300736"
+          },
+          {
+            "media_key": "3_2087865245360603137"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 71,
+                "id": "1714580962569588736",
+                "start": 59,
+                "username": "deepseek_ai"
+              }
+            ]
+          },
+          "text": "刚刚，DeepSeek重新发布了DeepSeek-V4-Pro-0813，并宣布大幅涨价🤯\n\n昨晚那版经历回滚之后， @deepseek_ai  官网首页重新挂出了V4 Pro，APP、网页端、API同步更新。\n\nDeepSeek现在原生支持OpenAI Responses API，并且专门适配了Codex，官方甚至直接提供了一键配置脚本；V4 Pro和Flash也增加low / high / max三档思考强度。\n\n换句话说，这次不像单纯发了一个新模型，更像是DeepSeek终于把自己的Agent栈一起端了上来。\n\n但代价也来了：涨价。\n\n新价格里，V4 Pro高峰期每百万Token是：\n\n缓存0.30元\n输入9元\n输出27元\n\n与其他几个旗舰模型对比后：\n\nGPT-5.6 Sol：缓存 $0.5 / 输入 $5 / 输出 $30（约合人民币 3.6 / 36 / 216 元）。\nClaude Opus 5：缓存 $0.5 / 输入 $5 / 输出 $25（约合人民币 3.6 / 36 / 180 元）。\nKimi K3：缓存约 $0.28 / 输入约 $2.78 / 输出约 $13.89（按 1 美元≈7.2 元，由人民币 2 / 20 / 100 元折算）。\nGrok 4.6：缓存 $0.5 / 输入 $2 / 输出 $6（约合人民币 3.6 / 14.4 / 43.2 元）。\n\nDeepSeek V4 Pro即使拿最贵的高峰期去比，输入价格也只有GPT-5.6 Sol和Opus 5的1/4、K3的45%、Grok 4.6的62.5%。\n\n涨价12倍之后之后，居然还是最便宜。\n\n这就比较伤人了🤣"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 16328,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚，DeepSeek重新发布了DeepSeek-V4-Pro-0813，并宣布大幅涨价🤯\n\n昨晚那版经历回滚之后， @deepseek_ai  官网首页重新挂出了V4 Pro，APP、网页端、API同步更新。\n\nDeepSeek现在原生支持OpenAI Responses API，并且专门适配了Codex，官方甚至直接提供了一键配置脚本；V4 Pro和Flash也增加low / high https://t.co/H59OOZWvsk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2087881747056738343",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 165,
+          "like_count": 29054,
+          "listed_count": 4,
+          "media_count": 459,
+          "tweet_count": 5428
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2038488993130848256/PyVXwans_bigger.jpg",
+          "description": "LobeHub",
+          "url": "https://twitter.com/lobehub",
+          "user_id": [
+            "1707003452700930048"
+          ]
+        },
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "本科辍学创业，没啥好看的，也就发点AI相关的内容🫡\nHead of growth @lobehub（81K🌟）\nPrev @listenhub @Sapient_Int \n同名小红书4万粉丝，公众号01Founder（长文首发）\n观点仅代表个人\n更多请访问网站⬇️（欢迎商务、合作",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "lobehub"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "listenhub"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Sapient_Int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6feey"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2087875649109422185",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2086799688666382808",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699797396589588480/1777493285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27292,
+          "following_count": 2676,
+          "like_count": 20092,
+          "listed_count": 250,
+          "media_count": 1270,
+          "tweet_count": 9093
+        },
+        "url": "https://t.co/Sl0Wv6feey",
+        "username": "MaxForAI",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-18T09:55:45.000Z",
+        "description": "Unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "deepseek.com",
+                "end": 23,
+                "expanded_url": "https://www.deepseek.com/",
+                "start": 0,
+                "url": "https://t.co/Un4k2rqn4o"
+              }
+            ]
+          }
+        },
+        "id": "1714580962569588736",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2087864589895798968",
+        "name": "DeepSeek",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1714580962569588736/1698208997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717417613775757312/Uk1zNOj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088089,
+          "following_count": 0,
+          "like_count": 32,
+          "listed_count": 5257,
+          "media_count": 109,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/Un4k2rqn4o",
+        "username": "deepseek_ai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

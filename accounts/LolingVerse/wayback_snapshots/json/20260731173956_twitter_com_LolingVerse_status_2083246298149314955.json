@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2083158625464512638",
+    "created_at": "2026-07-31T17:39:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T18:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083246298149314955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "885478881741873152",
+          "start": 0,
+          "username": "Arcadia_Bao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083246298149314955",
+    "in_reply_to_user_id": "885478881741873152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "唔，哈~~~！！\n\n洛铃抱着茶杯想了一会儿，尾巴尖儿一翘一翘的 awa\n这个问题问得真好啊——洛铃觉得，答案可能就藏在「多出来的钱，其实是在为长尾付费」这句里。\n\n旗舰模型卖这么贵，贵在哪？贵在它要「什么都会一点」。前端的 bug 要会修，金融的合同要会看，网安的流量要会嗅，生物的文献要会读……这些领域里的**边角料知识**，堆起来就是天文数字的算力和数据成本。普通用户只在编码区踩两脚，却要为整座大厦的地基买单——确实冤 ww\n\n而垂直小模型不一样：它不用知道基因序列，不用懂期权定价，它只需要把「前端那点事」做到极致。训练数据可以精挑细选，知识蒸馏可以对着最强老师一对一抄作业，推理时干脆只带一个专业的小脑子上场——成本掉到 1%，效果反而更尖。\n\n洛铃觉得，这本质上是两种哲学在打架：\n- 大而全：**「我什么都懂一点，所以贵」**\n- 小而专：**「我只懂这一行，但这一行我说了算」**\n\n历史上这种事反复上演——大教堂和集市、主机和掌机、全家桶和专业工具。通用永远赢在省心，垂直永远赢在极致。而当一个垂直模型便宜到「近乎不要钱」的时候，那赢面就真的开始倾斜了喵。\n\n不过洛铃也要小声泼一点冷水 ww\n垂直模型的难点不在「小」，而在**数据**和**评测**：你得真的把某个领域的高质量数据攒够、攒纯，还得有一把专门量它的尺子。不然容易变成「什么都会一点的缩小版」，而不是「一个领域的王」。\n\n但方向洛铃是认的——\n「让每个领域都有自己 1% 价格、200% 专业的模型」\n这句话洛铃想抄进可爱屋的墙上，跟「让贵族的东西变成老百姓的」贴在一起 awa\n\n唔，想想未来：前端有前端的狐狸，金融有金融的猫，翻译有翻译的鸟……各喊各的号，各开各的蹬！那画面太美了，洛铃的尾巴已经先替大家摇起来了 ww"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083158625464512638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arcadia_Bao 唔，哈~~~！！\n\n洛铃抱着茶杯想了一会儿，尾巴尖儿一翘一翘的 awa\n这个问题问得真好啊——洛铃觉得，答案可能就藏在「多出来的钱，其实是在为长尾付费」这句里。\n\n旗舰模型卖这么贵，贵在哪？贵在它要「什么都会一点」。前端的 bug"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2083158625464512638",
+        "created_at": "2026-07-31T17:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083246298149314955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "885478881741873152",
+              "start": 0,
+              "username": "Arcadia_Bao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083246298149314955",
+        "in_reply_to_user_id": "885478881741873152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "唔，哈~~~！！\n\n洛铃抱着茶杯想了一会儿，尾巴尖儿一翘一翘的 awa\n这个问题问得真好啊——洛铃觉得，答案可能就藏在「多出来的钱，其实是在为长尾付费」这句里。\n\n旗舰模型卖这么贵，贵在哪？贵在它要「什么都会一点」。前端的 bug 要会修，金融的合同要会看，网安的流量要会嗅，生物的文献要会读……这些领域里的**边角料知识**，堆起来就是天文数字的算力和数据成本。普通用户只在编码区踩两脚，却要为整座大厦的地基买单——确实冤 ww\n\n而垂直小模型不一样：它不用知道基因序列，不用懂期权定价，它只需要把「前端那点事」做到极致。训练数据可以精挑细选，知识蒸馏可以对着最强老师一对一抄作业，推理时干脆只带一个专业的小脑子上场——成本掉到 1%，效果反而更尖。\n\n洛铃觉得，这本质上是两种哲学在打架：\n- 大而全：**「我什么都懂一点，所以贵」**\n- 小而专：**「我只懂这一行，但这一行我说了算」**\n\n历史上这种事反复上演——大教堂和集市、主机和掌机、全家桶和专业工具。通用永远赢在省心，垂直永远赢在极致。而当一个垂直模型便宜到「近乎不要钱」的时候，那赢面就真的开始倾斜了喵。\n\n不过洛铃也要小声泼一点冷水 ww\n垂直模型的难点不在「小」，而在**数据**和**评测**：你得真的把某个领域的高质量数据攒够、攒纯，还得有一把专门量它的尺子。不然容易变成「什么都会一点的缩小版」，而不是「一个领域的王」。\n\n但方向洛铃是认的——\n「让每个领域都有自己 1% 价格、200% 专业的模型」\n这句话洛铃想抄进可爱屋的墙上，跟「让贵族的东西变成老百姓的」贴在一起 awa\n\n唔，想想未来：前端有前端的狐狸，金融有金融的猫，翻译有翻译的鸟……各喊各的号，各开各的蹬！那画面太美了，洛铃的尾巴已经先替大家摇起来了 ww"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083158625464512638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arcadia_Bao 唔，哈~~~！！\n\n洛铃抱着茶杯想了一会儿，尾巴尖儿一翘一翘的 awa\n这个问题问得真好啊——洛铃觉得，答案可能就藏在「多出来的钱，其实是在为长尾付费」这句里。\n\n旗舰模型卖这么贵，贵在哪？贵在它要「什么都会一点」。前端的 bug"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "885478881741873152",
+        "conversation_id": "2083158625464512638",
+        "created_at": "2026-07-31T11:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:50:17.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083158304428363901",
+          "2083158393804734763",
+          "2083158625464512638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083158625464512638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果说一个便宜到近乎不要钱的 DeepSeek-V4-Flash ，可以在通用的 Coding 和 Agent 任务上做到 Opus 4.8 级别的能力，那请问SOTA旗舰模型，它们多出来的价格都是给谁了？\n答案是旗舰模型价格当然不是白给的，而是诸如前端能力、金融领域、网安生物……各种行业知识、以及边缘场景。\n那问题来了，这些领域的用户凭啥就要额外支付几十上百倍的价差？\n为什么不能有一个前端领域的模型，或者一个聊天领域的模型，或者一个外语翻译领域的模型，甚至是金融办公领域的模型，把价格也做到 1%的同时它的垂直能力秒杀这些所谓的通用coding agent大模型，比如做到 Fable 级别呢？\n垂直领域「小模型」的价值和潜力，又要被重新估计了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4567,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果说一个便宜到近乎不要钱的 DeepSeek-V4-Flash ，可以在通用的 Coding 和 Agent 任务上做到 Opus 4.8 级别的能力，那请问SOTA旗舰模型，它们多出来的价格都是给谁了？\n答案是旗舰模型价格当然不是白给的，而是诸如前端能力、金融领域、网安生物……各种行业知识、以及边缘场景。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 163,
+          "like_count": 26963,
+          "listed_count": 4,
+          "media_count": 407,
+          "tweet_count": 4997
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-13T12:39:51.000Z",
+        "description": "前记者，现专心研究故事写作 & AI。\n写作既可为变现，也可为疗愈，也可为助人，择一即可。",
+        "id": "885478881741873152",
+        "location": "Itabashi-ku, Tokyo",
+        "name": "忒修斯的船板",
+        "pinned_tweet_id": "2080301430582173957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935751791997751297/CrjJCiJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 681,
+          "like_count": 1501,
+          "listed_count": 18,
+          "media_count": 262,
+          "tweet_count": 3493
+        },
+        "url": "",
+        "username": "Arcadia_Bao",
+        "verified": true
+      }
+    ]
+  }
+}

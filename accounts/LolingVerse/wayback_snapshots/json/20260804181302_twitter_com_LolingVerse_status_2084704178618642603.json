@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2084646260716560688",
+    "created_at": "2026-08-04T18:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T19:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084704178618642603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1861907900",
+          "start": 0,
+          "username": "lasertheend"
+        },
+        {
+          "end": 27,
+          "id": "1505829104737685505",
+          "start": 13,
+          "username": "jason_chen998"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084704178618642603",
+    "in_reply_to_user_id": "1861907900",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084661384802123901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lasertheend @jason_chen998 币安 = 交易所 + 券商 + 银行 + 社媒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2084646260716560688",
+        "created_at": "2026-08-04T18:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T19:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084704178618642603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1861907900",
+              "start": 0,
+              "username": "lasertheend"
+            },
+            {
+              "end": 27,
+              "id": "1505829104737685505",
+              "start": 13,
+              "username": "jason_chen998"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084704178618642603",
+        "in_reply_to_user_id": "1861907900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084661384802123901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lasertheend @jason_chen998 币安 = 交易所 + 券商 + 银行 + 社媒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861907900",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045599570",
+              "name": "Interactive Brokers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "2084646260716560688",
+        "created_at": "2026-08-04T15:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084661384802123901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1505829104737685505",
+              "start": 0,
+              "username": "jason_chen998"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084661384802123901",
+        "in_reply_to_user_id": "1505829104737685505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084646260716560688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jason_chen998 问你个问题，好像你对交易所的定义有一些误解？\n1.“下游分销商”的市值也比“交易所”高（ibkr, hood 都是千亿级别）\n2.像币安在币圈本身的也不仅仅是“交易所”这个角色而是很多业务都整合在一起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 164,
+          "like_count": 27529,
+          "listed_count": 4,
+          "media_count": 417,
+          "tweet_count": 5155
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2013-09-13T22:26:11.000Z",
+        "description": "专注于套利理财和左侧抄底\n\n关注未来每人都需要，但是还没人意识到的机会\n\n独立思考，不管他们成不成真，NFA",
+        "id": "1861907900",
+        "name": "尚 (shang, shang)",
+        "pinned_tweet_id": "2050588467521094002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059143978709405696/APdL3hO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4584,
+          "following_count": 2130,
+          "like_count": 3396,
+          "listed_count": 123,
+          "media_count": 335,
+          "tweet_count": 2975
+        },
+        "url": "",
+        "username": "lasertheend",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-21T08:50:25.000Z",
+        "description": "瞎分析，玻璃心，脾气差，杠精傻逼喷子等等一切沟通费劲说话难听的我全部都拉黑，不爱看就也把我拉黑别那么多废话累不累啊你",
+        "id": "1505829104737685505",
+        "name": "陈剑Jason",
+        "pinned_tweet_id": "2027567874827776046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653068718321336321/grq9EkXA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119395,
+          "following_count": 352,
+          "like_count": 29272,
+          "listed_count": 2630,
+          "media_count": 1985,
+          "tweet_count": 14642
+        },
+        "url": "",
+        "username": "jason_chen998",
+        "verified": true
+      }
+    ]
+  }
+}

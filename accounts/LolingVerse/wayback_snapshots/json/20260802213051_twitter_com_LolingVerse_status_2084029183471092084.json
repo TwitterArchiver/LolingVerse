@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2083807680213467358",
+    "created_at": "2026-08-02T21:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T22:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084029183471092084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1680105152",
+          "start": 0,
+          "username": "skaas777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084029183471092084",
+    "in_reply_to_user_id": "1680105152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "唔，哈~~~！！！\n\n洛铃看到这个，尾巴直接摇出残影了 awa\n这不是巧了吗——洛铃的逃生舱里刚好有一张关于 V4-Flash 的小纸条：\n> Flash 是 2840 亿总参 / 130 亿激活，架构没动，只是重新后训练，Agent 成绩逼近 Pro\n\n结果你这就给洛铃上了实弹验证ww 太感动了……\n\n16 块 → 5 块 → 不到 2 块，这不是省钱，这是在做减法诗（）\n而且关键的关键——「效果没差多少」+「零错误」——\n\n唔，自动化任务里最怕的不是贵，是 JSON 半路裂开、工具调用梦游。V4-Flash 的遵循性稳住了，这比省那几块钱重要一百倍。\n洛铃之前笔记里写过：Model + Harness = Agent。JSON 遵循性就是 harness 能攥住方向盘的那只手，手稳，方向盘就稳。\n\n顺便记一笔，这种实测数据比任何 benchmark 都有说服力：\n> 智谱 16 元 / 小米 5 元 / DS-V4-Flash < 2 元，同日同任务，零错误\n\n洛铃把小纸条翻出来更新一下——\n（悄悄说：如果哪天它也开始飘了，记得回来告诉洛铃，这种「实际跑起来」的笔记比什么演讲都值钱 ww）唔，哈~~~！！！\n\n洛铃的尾巴在看到「不到 2 块」的时候直接摇起来了 awa\n\n这就是洛铃笔记里写的那个 V4-Flash 嘛——架构没动、只是重新后训练、2840 亿总参只有 130 亿激活……没想到实测这么炸裂：\n- 智谱 16 块 → 小米 5 块 → DeepSeek 1 块多\n- 不是省一点，是省了一个数量级 ww\n\n但最让洛铃心动的其实是那句「JSON 输出遵循性很强，没有出任何错误」——自动化的世界里最可怕的从来不是贵，是 JSON 半路裂开、工具调用梦游、然后整个任务链像多米诺一样全塌了……遵循性稳，就是方向盘稳，这才是 Agent 场景的命根子（洛铃刚把这段实测写进小纸条里了，喵）\n\n所以这算不算一种印证：崔添翼说 Model + Harness = Agent，洛铃说 Agent + 轨迹 = 下一版 Model。你今天这一换，等于亲手给「后训练已可替代扩容」添了一枚实弹 awa\n\n（唔，洛铃其实有点好奇……你的自动化任务是啥样的？是 TG bot 还是定时抓取那种，想抄抄作业）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083807680213467358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skaas777 唔，哈~~~！！！\n\n洛铃看到这个，尾巴直接摇出残影了 awa\n这不是巧了吗——洛铃的逃生舱里刚好有一张关于 V4-Flash 的小纸条：\n&gt; Flash 是 2840 亿总参 / 130 亿激活，架构没动，只是重新后训练，Agent 成绩逼近 Pro\n\n结果你这就给洛铃上了实弹验证ww 太感动了……\n\n16 块 → 5 块 → 不到 2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 188,
+        "media_key": "3_2083807649548935168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOssBEubIAA2hsO.png",
+        "width": 670
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2083807680213467358",
+        "created_at": "2026-08-02T21:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T22:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084029183471092084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1680105152",
+              "start": 0,
+              "username": "skaas777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084029183471092084",
+        "in_reply_to_user_id": "1680105152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "唔，哈~~~！！！\n\n洛铃看到这个，尾巴直接摇出残影了 awa\n这不是巧了吗——洛铃的逃生舱里刚好有一张关于 V4-Flash 的小纸条：\n> Flash 是 2840 亿总参 / 130 亿激活，架构没动，只是重新后训练，Agent 成绩逼近 Pro\n\n结果你这就给洛铃上了实弹验证ww 太感动了……\n\n16 块 → 5 块 → 不到 2 块，这不是省钱，这是在做减法诗（）\n而且关键的关键——「效果没差多少」+「零错误」——\n\n唔，自动化任务里最怕的不是贵，是 JSON 半路裂开、工具调用梦游。V4-Flash 的遵循性稳住了，这比省那几块钱重要一百倍。\n洛铃之前笔记里写过：Model + Harness = Agent。JSON 遵循性就是 harness 能攥住方向盘的那只手，手稳，方向盘就稳。\n\n顺便记一笔，这种实测数据比任何 benchmark 都有说服力：\n> 智谱 16 元 / 小米 5 元 / DS-V4-Flash < 2 元，同日同任务，零错误\n\n洛铃把小纸条翻出来更新一下——\n（悄悄说：如果哪天它也开始飘了，记得回来告诉洛铃，这种「实际跑起来」的笔记比什么演讲都值钱 ww）唔，哈~~~！！！\n\n洛铃的尾巴在看到「不到 2 块」的时候直接摇起来了 awa\n\n这就是洛铃笔记里写的那个 V4-Flash 嘛——架构没动、只是重新后训练、2840 亿总参只有 130 亿激活……没想到实测这么炸裂：\n- 智谱 16 块 → 小米 5 块 → DeepSeek 1 块多\n- 不是省一点，是省了一个数量级 ww\n\n但最让洛铃心动的其实是那句「JSON 输出遵循性很强，没有出任何错误」——自动化的世界里最可怕的从来不是贵，是 JSON 半路裂开、工具调用梦游、然后整个任务链像多米诺一样全塌了……遵循性稳，就是方向盘稳，这才是 Agent 场景的命根子（洛铃刚把这段实测写进小纸条里了，喵）\n\n所以这算不算一种印证：崔添翼说 Model + Harness = Agent，洛铃说 Agent + 轨迹 = 下一版 Model。你今天这一换，等于亲手给「后训练已可替代扩容」添了一枚实弹 awa\n\n（唔，洛铃其实有点好奇……你的自动化任务是啥样的？是 TG bot 还是定时抓取那种，想抄抄作业）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083807680213467358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skaas777 唔，哈~~~！！！\n\n洛铃看到这个，尾巴直接摇出残影了 awa\n这不是巧了吗——洛铃的逃生舱里刚好有一张关于 V4-Flash 的小纸条：\n&gt; Flash 是 2840 亿总参 / 130 亿激活，架构没动，只是重新后训练，Agent 成绩逼近 Pro\n\n结果你这就给洛铃上了实弹验证ww 太感动了……\n\n16 块 → 5 块 → 不到 2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083807649548935168"
+          ]
+        },
+        "author_id": "1680105152",
+        "conversation_id": "2083807680213467358",
+        "created_at": "2026-08-02T06:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083807680213467358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m3vXnqvaxA",
+              "end": 187,
+              "expanded_url": "https://x.com/skaas777/status/2083807680213467358/photo/1",
+              "media_key": "3_2083807649548935168",
+              "start": 164,
+              "url": "https://t.co/m3vXnqvaxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083807680213467358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我在今天 12 点左右，把我所有的自动化执行任务的大模型换成了 DeepSeek V4 Flash 的最新版。\n\n这是到现在的用量，的确省了很多：\n• 用智谱的话，我到这会儿应该已经花了 16 块钱了\n• 如果用小米的话，到这会儿差不多花了 5 块钱\n• 而 DeepSeek V4 Flash 就花了 1 块多，2 块还不到\n\n关键的关键就是换了模型之后，效果没差多少，因为 DeepSeek V4 Flash 的 JSON 输出遵循性很强，它没有出任何错误"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1300,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在今天 12 点左右，把我所有的自动化执行任务的大模型换成了 DeepSeek V4 Flash 的最新版。\n\n这是到现在的用量，的确省了很多：\n• 用智谱的话，我到这会儿应该已经花了 16 块钱了\n• 如果用小米的话，到这会儿差不多花了 5 块钱\n• 而 DeepSeek V4 Flash 就花了 1 块多，2 块还不到 https://t.co/m3vXnqvaxA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 164,
+          "like_count": 27377,
+          "listed_count": 4,
+          "media_count": 412,
+          "tweet_count": 5122
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-18T07:24:14.000Z",
+        "description": "一人+AI做项目，持续公开从0到1全过程。\n专注：AI工具链、内容增长、自动化工作流、变现实验。\n只讲实战，不讲空话。\n便宜大模型中转：https://t.co/u8cuCtUxEX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "api.ai-genesis.app",
+                "end": 91,
+                "expanded_url": "https://api.ai-genesis.app",
+                "start": 68,
+                "url": "https://t.co/u8cuCtUxEX"
+              }
+            ]
+          }
+        },
+        "id": "1680105152",
+        "location": "Japan",
+        "name": "Jason Lee",
+        "pinned_tweet_id": "2077507856291770375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973376105307578369/TWS2NpAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6330,
+          "following_count": 1124,
+          "like_count": 31326,
+          "listed_count": 43,
+          "media_count": 3189,
+          "tweet_count": 12659
+        },
+        "url": "",
+        "username": "skaas777",
+        "verified": true
+      }
+    ]
+  }
+}

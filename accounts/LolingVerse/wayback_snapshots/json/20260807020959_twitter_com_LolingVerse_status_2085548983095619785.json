@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2085278420007788891",
+    "created_at": "2026-08-07T02:09:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T03:09:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085548983095619785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1373623000839249929",
+          "start": 0,
+          "username": "DavidHuSG1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085548983095619785",
+    "in_reply_to_user_id": "1373623000839249929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085278420007788891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DavidHuSG1 大郊狼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 226,
+        "media_key": "3_2085278414836322304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBlq4Yb0AAnTb_.jpg",
+        "width": 630
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2085278420007788891",
+        "created_at": "2026-08-07T02:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T03:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085548983095619785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1373623000839249929",
+              "start": 0,
+              "username": "DavidHuSG1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085548983095619785",
+        "in_reply_to_user_id": "1373623000839249929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085278420007788891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DavidHuSG1 大郊狼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085278414836322304"
+          ]
+        },
+        "author_id": "1373623000839249929",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple Macbook",
+              "id": "972168210182111232",
+              "name": "Apple Macbook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2085278420007788891",
+        "created_at": "2026-08-06T08:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085278420007788891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/umpBc9yHcu",
+              "end": 53,
+              "expanded_url": "https://x.com/DavidHuSG1/status/2085278420007788891/photo/1",
+              "media_key": "3_2085278414836322304",
+              "start": 30,
+              "url": "https://t.co/umpBc9yHcu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085278420007788891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 14690,
+          "like_count": 129,
+          "quote_count": 2,
+          "reply_count": 66,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "不知不觉12周年了，我的MacBook还是有漏电的问题⚠️ https://t.co/umpBc9yHcu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 161,
+          "like_count": 27987,
+          "listed_count": 4,
+          "media_count": 427,
+          "tweet_count": 5221
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-21T13:10:26.000Z",
+        "description": "iOS dev/F1 fan/Gunpla Builder/Father of 👦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "965work.in",
+                "end": 23,
+                "expanded_url": "https://965work.in",
+                "start": 0,
+                "url": "https://t.co/gDQPJ9aPSf"
+              }
+            ]
+          }
+        },
+        "id": "1373623000839249929",
+        "location": "Singapore",
+        "name": "DavidHu@SG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1531977444265107456/zo0Xuh5-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6080,
+          "following_count": 705,
+          "like_count": 22272,
+          "listed_count": 39,
+          "media_count": 1121,
+          "tweet_count": 7914
+        },
+        "url": "https://t.co/gDQPJ9aPSf",
+        "username": "DavidHuSG1",
+        "verified": false
+      }
+    ]
+  }
+}

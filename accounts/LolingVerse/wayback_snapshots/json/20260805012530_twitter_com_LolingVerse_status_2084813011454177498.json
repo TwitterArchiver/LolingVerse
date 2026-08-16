@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781972125179518977",
+          "name": "Auto Manufacturer - Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026403689",
+          "name": "Fiat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026403689",
+          "name": "Fiat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196845866138533888",
+          "name": "Automobile Brands"
+        }
+      }
+    ],
+    "conversation_id": "2084813011454177498",
+    "created_at": "2026-08-05T01:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T02:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084813011454177498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AYi_AInotes/st…",
+          "end": 300,
+          "expanded_url": "https://twitter.com/AYi_AInotes/status/2084680233400009074",
+          "start": 277,
+          "url": "https://t.co/bol5ix31YB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084813011454177498",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 3171,
+            "start": 3162,
+            "tag": "Deepseek"
+          },
+          {
+            "end": 3185,
+            "start": 3172,
+            "tag": "LiangWenFeng"
+          }
+        ]
+      },
+      "text": "After I read through the Weibo posts Liang Wenfeng wrote when he was 26, I finally understood DeepSeek's success — and it has absolutely nothing to do with the technical approach.\n\nWhen Liang Wenfeng was 26, he drove a Fiat alone into the uninhabited zone of Ali, Tibet.\n\nFour hundred kilometers deep,\ntrapped for a week,\nhe walked out alive —\nbut the car stayed there forever.\n\nTwelve years later he built DeepSeek.\nIf you've read this story, none of it comes as a surprise.\n\nAt the end of 2011, he drove a beat-up Fiat to Tibet. The people he traveled with flew back after having fun in Lhasa. He didn't.\n\nHe went west alone — Yamdrok Lake, Everest, Shishapangma — all the way 400 kilometers into the Ali uninhabited zone.\n\nHe used an entry-level Nikon D50 with the kit lens, but he would wait half a day just for one beam of light, and his photos looked like they were taken by a professional.\n\nHis captions read: \"The wind sighs and the Yi River runs cold,\" \"Old road, west wind, a lean horse,\" \"One rider, roaming the world.\"\n\nHis last post:\n\"Trapped in the uninhabited zone for a week. Fortunately, I made it out. But my Fiat didn't. It will stay forever in that boundless highland grassland. That's the END.\"\n\nThat's the whole story.\n\nNow look back at DeepSeek — it's the same man, using the same playbook.\n\nOthers stopped at Lhasa and went home;\nhe drove another 400 kilometers deeper alone.\nSound familiar?\nEveryone is building apps, chasing commercialization, doing things that monetize fast —\nhe goes deeper alone: foundational models, AGI, no fundraising for a long time, no socializing, no showing up at conferences.\n\nAn entry-level camera, but waiting half a day for the light to capture the best shot.\nSound like DeepSeek?\nNo piling up of resources, no burning money, but efficiency pushed to the extreme — building something on par with competitors at one-tenth the cost.\n\nThe car was left in the uninhabited zone; he walked out and wrote \"That's the END.\"\nSound like his style?\nDare to bet, dare to lose, accept the loss when it happens, and keep walking.\n\nOpen source? Fine. Sanctions? Fine. The model goes out to the world? Fine. The car is gone but the man got out — he'll come back for another round.\n\nEveryone is analyzing DeepSeek's technical route, cost structure, and the tailwinds of national fortune.\nBut look at what this man did at 26 — the answer is all there.\n\nA man who dared to drive his car 400 kilometers alone into an uninhabited zone won't trail behind others when he builds a company.\n\nA man who abandoned his car on the plateau, walked out, and could still write \"That's the END\" won't care about short-term stock prices or fundraising news.\n\nA man who waited half a day for light with an entry-level camera will squeeze every last drop of computing power when he builds models.\n\nSo none of this is a business strategy.\nIt's just one man's character.\nDeepSeek isn't the result of a business plan —\nit's a man's nature, grown naturally over twelve years.\n\nThe young man who walked through the uninhabited zone for a week and the man who turned the global AI industry upside down are the same person. They always have been.\n\n#Deepseek #LiangWenFeng"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084680233400009074",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "After I read through the Weibo posts Liang Wenfeng wrote when he was 26, I finally understood DeepSeek's success — and it has absolutely nothing to do with the technical approach.\n\nWhen Liang Wenfeng was 26, he drove a Fiat alone into the uninhabited zone of Ali, Tibet.\n\nFour https://t.co/bol5ix31YB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1194,
+        "media_key": "3_2084680222910103552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO5FnhzWwAAJf-y.jpg",
+        "width": 1206
+      },
+      {
+        "height": 805,
+        "media_key": "3_2084680223493144576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO5Fnj-XQAA9cVq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026403689",
+              "name": "Fiat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026403689",
+              "name": "Fiat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          }
+        ],
+        "conversation_id": "2084813011454177498",
+        "created_at": "2026-08-05T01:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T02:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084813011454177498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AYi_AInotes/st…",
+              "end": 300,
+              "expanded_url": "https://twitter.com/AYi_AInotes/status/2084680233400009074",
+              "start": 277,
+              "url": "https://t.co/bol5ix31YB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084813011454177498",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3171,
+                "start": 3162,
+                "tag": "Deepseek"
+              },
+              {
+                "end": 3185,
+                "start": 3172,
+                "tag": "LiangWenFeng"
+              }
+            ]
+          },
+          "text": "After I read through the Weibo posts Liang Wenfeng wrote when he was 26, I finally understood DeepSeek's success — and it has absolutely nothing to do with the technical approach.\n\nWhen Liang Wenfeng was 26, he drove a Fiat alone into the uninhabited zone of Ali, Tibet.\n\nFour hundred kilometers deep,\ntrapped for a week,\nhe walked out alive —\nbut the car stayed there forever.\n\nTwelve years later he built DeepSeek.\nIf you've read this story, none of it comes as a surprise.\n\nAt the end of 2011, he drove a beat-up Fiat to Tibet. The people he traveled with flew back after having fun in Lhasa. He didn't.\n\nHe went west alone — Yamdrok Lake, Everest, Shishapangma — all the way 400 kilometers into the Ali uninhabited zone.\n\nHe used an entry-level Nikon D50 with the kit lens, but he would wait half a day just for one beam of light, and his photos looked like they were taken by a professional.\n\nHis captions read: \"The wind sighs and the Yi River runs cold,\" \"Old road, west wind, a lean horse,\" \"One rider, roaming the world.\"\n\nHis last post:\n\"Trapped in the uninhabited zone for a week. Fortunately, I made it out. But my Fiat didn't. It will stay forever in that boundless highland grassland. That's the END.\"\n\nThat's the whole story.\n\nNow look back at DeepSeek — it's the same man, using the same playbook.\n\nOthers stopped at Lhasa and went home;\nhe drove another 400 kilometers deeper alone.\nSound familiar?\nEveryone is building apps, chasing commercialization, doing things that monetize fast —\nhe goes deeper alone: foundational models, AGI, no fundraising for a long time, no socializing, no showing up at conferences.\n\nAn entry-level camera, but waiting half a day for the light to capture the best shot.\nSound like DeepSeek?\nNo piling up of resources, no burning money, but efficiency pushed to the extreme — building something on par with competitors at one-tenth the cost.\n\nThe car was left in the uninhabited zone; he walked out and wrote \"That's the END.\"\nSound like his style?\nDare to bet, dare to lose, accept the loss when it happens, and keep walking.\n\nOpen source? Fine. Sanctions? Fine. The model goes out to the world? Fine. The car is gone but the man got out — he'll come back for another round.\n\nEveryone is analyzing DeepSeek's technical route, cost structure, and the tailwinds of national fortune.\nBut look at what this man did at 26 — the answer is all there.\n\nA man who dared to drive his car 400 kilometers alone into an uninhabited zone won't trail behind others when he builds a company.\n\nA man who abandoned his car on the plateau, walked out, and could still write \"That's the END\" won't care about short-term stock prices or fundraising news.\n\nA man who waited half a day for light with an entry-level camera will squeeze every last drop of computing power when he builds models.\n\nSo none of this is a business strategy.\nIt's just one man's character.\nDeepSeek isn't the result of a business plan —\nit's a man's nature, grown naturally over twelve years.\n\nThe young man who walked through the uninhabited zone for a week and the man who turned the global AI industry upside down are the same person. They always have been.\n\n#Deepseek #LiangWenFeng"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084680233400009074",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "After I read through the Weibo posts Liang Wenfeng wrote when he was 26, I finally understood DeepSeek's success — and it has absolutely nothing to do with the technical approach.\n\nWhen Liang Wenfeng was 26, he drove a Fiat alone into the uninhabited zone of Ali, Tibet.\n\nFour https://t.co/bol5ix31YB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084680222910103552",
+            "3_2084680223493144576"
+          ]
+        },
+        "author_id": "1974653328274714624",
+        "conversation_id": "2084680233400009074",
+        "created_at": "2026-08-04T16:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084680233400009074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JBtpHM4rvV",
+              "end": 166,
+              "expanded_url": "https://x.com/AYi_AInotes/status/2084680233400009074/photo/1",
+              "media_key": "3_2084680222910103552",
+              "start": 143,
+              "url": "https://t.co/JBtpHM4rvV"
+            },
+            {
+              "display_url": "pic.x.com/JBtpHM4rvV",
+              "end": 166,
+              "expanded_url": "https://x.com/AYi_AInotes/status/2084680233400009074/photo/1",
+              "media_key": "3_2084680223493144576",
+              "start": 143,
+              "url": "https://t.co/JBtpHM4rvV"
+            },
+            {
+              "display_url": "x.com/ayi_ainotes/st…",
+              "end": 190,
+              "expanded_url": "https://twitter.com/ayi_ainotes/status/2084194345448550519",
+              "start": 167,
+              "url": "https://t.co/cQ1zwfiAKu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084680233400009074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我翻完梁文锋26岁写的微博才明白DeepSeek的成功，跟技术路线半毛钱关系都没有。\n\n梁文锋26岁那年,一个人开着菲亚特进了西藏阿里无人区。\n\n深入400公里，\n被困了一周，\n人走出来了，\n车永远留在了那里。\n\n12年后他做了DeepSeek，\n你要是读过这个故事,就一点都不意外。\n\n2011年底,他开一辆破菲亚特去西藏，\n同行的人到了拉萨玩完就飞回去了，\n他没回。\n\n一个人继续往西,羊卓雍措,珠峰,希夏邦马,一直扎进阿里无人区400公里。\n\n用的是入门级尼康D50,套头，\n但他能等大半天就为了一束光，\n拍出来的照片像专业摄影师的。\n\n配文写的是\"风萧萧兮易水寒\",写的是\"古道西风瘦马\",写的是\"一骑走天下\"。\n\n最后一条微博:\n被困无人区一个星期，所幸我出来了。但我的菲亚特没有出来。它永远地留在了那片漫无边际的高山草原。That's the END。\n\n就这么个事，\n我们回头看DeepSeek,全是同一个人的同一个打法。\n\n别人到拉萨就回去了，\n他一个人再往里走400公里。\n像不像现在?\n大家都在做应用、做商业化、做能快速变现的事情，\n他一个人往里走,做基础模型,做AGI,很长时间都不融资,不社交,不出来参加各种大会。\n\n入门级相机,但等半天光线,拍到最好，\n像不像DeepSeek?\n不堆资源,不烧钱,但把效率做到极致,用别人十分之一的成本做出匹敌的东西。\n\n车扔在无人区了,人走出来了,写一句That's the END。\n\n像不像他的风格?\n敢赌,敢输,输了认,然后继续走。\n\n开源就开源,被制裁就被制裁,模型放出去就放出去,车没了但人出来了,下一趟再来。\n\n所有人都在分析DeepSeek的技术路线、成本结构、国运加持，\n但你看看这个人26岁干的事,答案全在那。\n\n一个敢独自把车开进无人区400公里的人,他做公司就不会跟在别人后面。\n\n一个把车扔在高原走出来还能写That's the END的人,他不会在乎短期股价和融资新闻。\n\n一个用入门相机等半天光线的人,他做模型就会把每一分算力都榨干。\n\n所以这些都不是什么商业策略，\n这就是一个人的性格，\nDeepSeek不是一份商业计划书的结果，\n是一个人的本性,在12年后,自然长出来的东西。\n\n那个在无人区里走了一周的年轻人,和那个把全球AI行业搅翻天的人,是同一个人，一直以来都是。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 110478,
+          "like_count": 193,
+          "quote_count": 3,
+          "reply_count": 37,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084194345448550519",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我翻完梁文锋26岁写的微博才明白DeepSeek的成功，跟技术路线半毛钱关系都没有。\n\n梁文锋26岁那年,一个人开着菲亚特进了西藏阿里无人区。\n\n深入400公里，\n被困了一周，\n人走出来了，\n车永远留在了那里。\n\n12年后他做了DeepSeek，\n你要是读过这个故事,就一点都不意外。 https://t.co/JBtpHM4rvV https://t.co/cQ1zwfiAKu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 164,
+          "like_count": 27582,
+          "listed_count": 4,
+          "media_count": 417,
+          "tweet_count": 5166
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-05T01:50:40.000Z",
+        "description": "AI 实用主义，专注AI落地的组织和业务know how，关注商业，职场，投资，\n大厂组织发展专家 × 组织心理学，Prompt专家，分享有用的 AI 实践，也分享工具之外的深度认知\n以术入道，以道御术，KEEP BUILDING\n合作/交流：DM/TG @AYi_AInotes",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 128,
+                "username": "AYi_AInotes"
+              }
+            ]
+          }
+        },
+        "id": "1974653328274714624",
+        "name": "AYi",
+        "pinned_tweet_id": "2084250620555296896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989157446829350912/pW828UwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58471,
+          "following_count": 446,
+          "like_count": 18608,
+          "listed_count": 555,
+          "media_count": 1550,
+          "tweet_count": 15811
+        },
+        "url": "",
+        "username": "AYi_AInotes",
+        "verified": true
+      }
+    ]
+  }
+}

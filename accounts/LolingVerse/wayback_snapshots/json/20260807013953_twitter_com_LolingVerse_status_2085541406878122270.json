@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2085312164882211133",
+    "created_at": "2026-08-07T01:39:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T02:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085541406878122270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "218791339",
+          "start": 0,
+          "username": "geniusvczh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085541406878122270",
+    "in_reply_to_user_id": "218791339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085312164882211133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geniusvczh 从咱个人长期观察来看：把自己的需求讲明白并不是每个人都具备的能力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2085312164882211133",
+        "created_at": "2026-08-07T01:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T02:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085541406878122270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "218791339",
+              "start": 0,
+              "username": "geniusvczh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085541406878122270",
+        "in_reply_to_user_id": "218791339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085312164882211133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geniusvczh 从咱个人长期观察来看：把自己的需求讲明白并不是每个人都具备的能力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "218791339",
+        "conversation_id": "2085312164882211133",
+        "created_at": "2026-08-06T10:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T11:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085312164882211133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/krienknight/st…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/krienknight/status/2084916544744894504",
+              "start": 129,
+              "url": "https://t.co/KmBpaBHNb8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085312164882211133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 10871,
+          "like_count": 51,
+          "quote_count": 2,
+          "reply_count": 46,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084916544744894504",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "继续挣扎吧，反正以后前端全都是最终用户拿codex自己做的，需要什么功能买各种互联网服务的API来用就好了。最终用户做这个比码农来写要简单多了，他只需要兼容自己的硬件，只做自己需要的那部分，有什么问题直接改，根本不需要考虑发布，也不需要考虑其他用户怎么想🤪 https://t.co/KmBpaBHNb8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 161,
+          "like_count": 27984,
+          "listed_count": 4,
+          "media_count": 427,
+          "tweet_count": 5220
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2010-11-23T08:35:01.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/vczh-libraries",
+                "end": 23,
+                "expanded_url": "https://github.com/vczh-libraries",
+                "start": 0,
+                "url": "https://t.co/qLk4ciU8eT"
+              }
+            ]
+          }
+        },
+        "id": "218791339",
+        "name": "geniusvczh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1348527365941444608/ysGJacjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25039,
+          "following_count": 259,
+          "like_count": 324,
+          "listed_count": 154,
+          "media_count": 807,
+          "tweet_count": 19783
+        },
+        "url": "https://t.co/qLk4ciU8eT",
+        "username": "geniusvczh",
+        "verified": false
+      }
+    ]
+  }
+}

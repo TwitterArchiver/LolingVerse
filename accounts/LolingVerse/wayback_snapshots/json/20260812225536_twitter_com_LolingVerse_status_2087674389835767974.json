@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087536224970113024"
+      ],
+      "media_source_tweet_id": [
+        "2087536232800944181"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2087674389835767974",
+    "created_at": "2026-08-12T22:55:36.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T23:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087674389835767974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "789670743483101184",
+          "start": 3,
+          "username": "otm_katayoku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sCbuhXBgpF",
+          "end": 60,
+          "expanded_url": "https://x.com/otm_katayoku/status/2087536232800944181/photo/1",
+          "media_key": "3_2087536224970113024",
+          "start": 37,
+          "url": "https://t.co/sCbuhXBgpF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087674389835767974",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087536224970113024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087536232800944181",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @otm_katayoku: 黒狐いなりとはこうゆう者です\n※再掲 https://t.co/sCbuhXBgpF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087536224970113024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhrIukagAAHVHh.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087536224970113024"
+          ]
+        },
+        "author_id": "789670743483101184",
+        "conversation_id": "2087536232800944181",
+        "created_at": "2026-08-12T13:46:37.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087536232800944181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sCbuhXBgpF",
+              "end": 42,
+              "expanded_url": "https://x.com/otm_katayoku/status/2087536232800944181/photo/1",
+              "media_key": "3_2087536224970113024",
+              "start": 19,
+              "url": "https://t.co/sCbuhXBgpF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087536232800944181",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087536224970113024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1412,
+          "like_count": 150,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "黒狐いなりとはこうゆう者です\n※再掲 https://t.co/sCbuhXBgpF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087536224970113024"
+          ],
+          "media_source_tweet_id": [
+            "2087536232800944181"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2087674389835767974",
+        "created_at": "2026-08-12T22:55:36.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T23:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087674389835767974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "789670743483101184",
+              "start": 3,
+              "username": "otm_katayoku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sCbuhXBgpF",
+              "end": 60,
+              "expanded_url": "https://x.com/otm_katayoku/status/2087536232800944181/photo/1",
+              "media_key": "3_2087536224970113024",
+              "start": 37,
+              "url": "https://t.co/sCbuhXBgpF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087674389835767974",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087536224970113024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087536232800944181",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @otm_katayoku: 黒狐いなりとはこうゆう者です\n※再掲 https://t.co/sCbuhXBgpF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2087674389835767974",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 164,
+          "like_count": 28976,
+          "listed_count": 4,
+          "media_count": 458,
+          "tweet_count": 5416
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-10-22T03:32:31.000Z",
+        "description": "しがないお絵描き妖狐です\n　　　猫  が  飼  い  た  い\n\n素敵ないなちゃん絵→ #ポンコツきつね絵\n\nｴｯｯ!なやつ!→ #ぽんこつきつねｴｯｯｯｯ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 45,
+                "tag": "ポンコツきつね絵"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "tag": "ぽんこつきつねｴｯｯｯｯ"
+              }
+            ]
+          }
+        },
+        "id": "789670743483101184",
+        "is_identity_verified": false,
+        "location": " お  布  団",
+        "most_recent_tweet_id": "2087670548516180370",
+        "name": "片翼@かたよく🐾",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/789670743483101184/1754617609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774044489709150208/Dh-sjyVM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4315,
+          "following_count": 2036,
+          "like_count": 28532,
+          "listed_count": 73,
+          "media_count": 5021,
+          "tweet_count": 125247
+        },
+        "url": "",
+        "username": "otm_katayoku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

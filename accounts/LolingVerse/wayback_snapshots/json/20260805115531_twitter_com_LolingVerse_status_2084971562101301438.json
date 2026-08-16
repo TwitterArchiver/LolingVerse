@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2084955052779970938",
+    "created_at": "2026-08-05T11:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T12:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084971562101301438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1239771839464783872",
+          "start": 0,
+          "username": "LinearUncle"
+        },
+        {
+          "end": 22,
+          "id": "1223646245886971905",
+          "start": 13,
+          "username": "GAMF_999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084971562101301438",
+    "in_reply_to_user_id": "1239771839464783872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084957194186109150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LinearUncle @GAMF_999 那就麻烦梁圣洗咱的垃圾数据了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2084955052779970938",
+        "created_at": "2026-08-05T11:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084971562101301438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1239771839464783872",
+              "start": 0,
+              "username": "LinearUncle"
+            },
+            {
+              "end": 22,
+              "id": "1223646245886971905",
+              "start": 13,
+              "username": "GAMF_999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084971562101301438",
+        "in_reply_to_user_id": "1239771839464783872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084957194186109150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LinearUncle @GAMF_999 那就麻烦梁圣洗咱的垃圾数据了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239771839464783872",
+        "conversation_id": "2084955052779970938",
+        "created_at": "2026-08-05T10:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084957194186109150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1223646245886971905",
+              "start": 0,
+              "username": "GAMF_999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084957194186109150",
+        "in_reply_to_user_id": "1223646245886971905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084956204091179015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GAMF_999 是的，我估计 deepseek 这波采集的数据量已经爆表了，下一个版本也许能真正接近 SOTA ，只能真心佩服梁圣。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 161,
+          "like_count": 27621,
+          "listed_count": 4,
+          "media_count": 417,
+          "tweet_count": 5172
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-17T04:33:41.000Z",
+        "description": "👑 AI coding - 职业工程师\n💻 只分享硬核AI编程工具，技巧等",
+        "id": "1239771839464783872",
+        "location": "中国",
+        "name": "LinearUncle",
+        "pinned_tweet_id": "2065987099367715201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906323582759874560/6Elwf5WN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11416,
+          "following_count": 1254,
+          "like_count": 28033,
+          "listed_count": 184,
+          "media_count": 1362,
+          "tweet_count": 7182
+        },
+        "url": "",
+        "username": "LinearUncle",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-01T16:36:21.000Z",
+        "description": "En/Ch & un peu Fr 半个透明人",
+        "id": "1223646245886971905",
+        "location": "Shanghai/Tsingdao",
+        "name": "chr1stoph3",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922847285102174208/0o7qWsfu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 1108,
+          "like_count": 33471,
+          "listed_count": 5,
+          "media_count": 12,
+          "tweet_count": 366
+        },
+        "url": "",
+        "username": "GAMF_999",
+        "verified": false
+      }
+    ]
+  }
+}

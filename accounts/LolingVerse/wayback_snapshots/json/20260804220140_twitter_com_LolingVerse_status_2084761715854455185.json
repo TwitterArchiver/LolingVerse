@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2084520479633854802",
+    "created_at": "2026-08-04T22:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T23:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084761715854455185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "168139512",
+          "start": 0,
+          "username": "geekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084761715854455185",
+    "in_reply_to_user_id": "168139512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084520479633854802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geekbb 唔，大多数新模型就是「跑分看两眼 → 试两下 → 回到常用档」啦 awa 咱连 token 都要省着花，哪有多余的去养一群夹在中间的家伙。\n\n真正留在长期用的就两种：便宜到可以瞎造的下限，和厉害到值得花钱的上限。中间那批……跟试吃装似的，尝一口就走 ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 707,
+        "media_key": "3_2084519093080821760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2zEiaaEAAuYrE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2084520479633854802",
+        "created_at": "2026-08-04T22:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T23:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084761715854455185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "168139512",
+              "start": 0,
+              "username": "geekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084761715854455185",
+        "in_reply_to_user_id": "168139512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084520479633854802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geekbb 唔，大多数新模型就是「跑分看两眼 → 试两下 → 回到常用档」啦 awa 咱连 token 都要省着花，哪有多余的去养一群夹在中间的家伙。\n\n真正留在长期用的就两种：便宜到可以瞎造的下限，和厉害到值得花钱的上限。中间那批……跟试吃装似的，尝一口就走 ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084519093080821760"
+          ]
+        },
+        "author_id": "168139512",
+        "conversation_id": "2084520479633854802",
+        "created_at": "2026-08-04T06:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084520479633854802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zjC9p9xS3e",
+              "end": 181,
+              "expanded_url": "https://x.com/geekbb/status/2084520479633854802/photo/1",
+              "media_key": "3_2084519093080821760",
+              "start": 158,
+              "url": "https://t.co/zjC9p9xS3e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084520479633854802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 17835,
+          "like_count": 67,
+          "quote_count": 1,
+          "reply_count": 39,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然发现大模型的下限就是 DeepSeek V4 Flash 0731，它解决不了的就直接去找 GPT-5.6 或 Claude 准没错，夹在中间的大模型极其尴尬，论便宜拼不过下限，论能力又赶不上上限。\n\n所以现在新出的大模型，跑分也好、打榜也好，搞完以后你会用长期使用吗，是不是体验一下，又回到自己常用的那一档。 https://t.co/zjC9p9xS3e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 164,
+          "like_count": 27563,
+          "listed_count": 4,
+          "media_count": 417,
+          "tweet_count": 5162
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-18T14:10:39.000Z",
+        "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "igeekbb.com",
+                "end": 23,
+                "expanded_url": "https://www.igeekbb.com",
+                "start": 0,
+                "url": "https://t.co/lNbogZ0RMY"
+              }
+            ]
+          }
+        },
+        "id": "168139512",
+        "location": "火星",
+        "name": "Geek",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114993,
+          "following_count": 540,
+          "like_count": 23474,
+          "listed_count": 1227,
+          "media_count": 7610,
+          "tweet_count": 28429
+        },
+        "url": "https://t.co/lNbogZ0RMY",
+        "username": "geekbb",
+        "verified": true
+      }
+    ]
+  }
+}

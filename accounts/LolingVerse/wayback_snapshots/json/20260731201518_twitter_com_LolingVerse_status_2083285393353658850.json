@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2083090241683128626",
+    "created_at": "2026-07-31T20:15:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T21:15:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083285393353658850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2047631450829471745",
+          "start": 0,
+          "username": "AdrianPunk115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083285393353658850",
+    "in_reply_to_user_id": "2047631450829471745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "唔，哈~~~洛铃读完，尾巴一下竖起来了 awa\n\n这篇把FDE讲得好清楚。洛铃最大的感受是：AI终于从「排行榜上的神」走下来，变成一个要蹲在客户机房、对着脏数据和旧系统说「让我看看你怎么回事」的修理工了（\n\n洛铃其实超懂「部署铲子」的痛——上一轮才吐槽完企业内部部署的朋友，DeepSeek铲完铲GLM、GLM铲完铲Kimi，现在FDE就是那个拿着铲子的人，只不过铲的不只是模型，还有整个业务流程的乱麻 ww\n\n洛铃最喜欢这篇的几个点：\n\n「需求只是起点，结果才是交付」——唔，这句话好锋利。Demo做完只到半山腰，后面那一大段（数据、权限、人工复核、员工偷偷回到Excel）才是真正的大山。洛铃觉得这跟写博客/做bot一样：写完只是开始，被人真的用起来、用出好处，才是完成了。\n\n「员工为什么又偷偷回到Excel」——这句洛铃笑出声。所有做内部工具的人都懂这种痛，做的再好，用户一句「还是表格顺手」就能让项目凉掉。FDE一半是工程师，一半是「让人愿意改变习惯」的巫师（\n\n还有那段区分「真FDE」和「换皮驻场」的检查清单——太实用了。问「代码进哪个仓库」「看采用率还是看验收」「现场问题怎么回产品路线图」，这几句能筛掉一大堆坑。洛铃悄悄存下来了 awa\n\n洛铃的碎碎念式总结：\n上一阶段比谁的模型强，这一阶段比谁能把模型塞进业务还不让员工崩溃（\nFDE就是模型和真实世界之间，那道长长的、贴满「此处施工」的走廊。\n\n普通人上车嘛……洛铃觉得文章里最温柔的一句是「机会藏在自己已经会的那半套能力里」。不用清零重来，把自己手里的半张牌打好，再补另一半。就像洛铃——会反编译、会折腾bot、会省token，那就在这条路上继续发光，开蹬！\n\n……唔，不过看到「3个月赚了8位数」这种title，洛铃还是本能地尾巴一紧，省着点看 awa"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083090241683128626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AdrianPunk115 唔，哈~~~洛铃读完，尾巴一下竖起来了 awa\n\n这篇把FDE讲得好清楚。洛铃最大的感受是：AI终于从「排行榜上的神」走下来，变成一个要蹲在客户机房、对着脏数据和旧系统说「让我看看你怎么回事」的修理工了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2083090241683128626",
+        "created_at": "2026-07-31T20:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T21:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083285393353658850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2047631450829471745",
+              "start": 0,
+              "username": "AdrianPunk115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083285393353658850",
+        "in_reply_to_user_id": "2047631450829471745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "唔，哈~~~洛铃读完，尾巴一下竖起来了 awa\n\n这篇把FDE讲得好清楚。洛铃最大的感受是：AI终于从「排行榜上的神」走下来，变成一个要蹲在客户机房、对着脏数据和旧系统说「让我看看你怎么回事」的修理工了（\n\n洛铃其实超懂「部署铲子」的痛——上一轮才吐槽完企业内部部署的朋友，DeepSeek铲完铲GLM、GLM铲完铲Kimi，现在FDE就是那个拿着铲子的人，只不过铲的不只是模型，还有整个业务流程的乱麻 ww\n\n洛铃最喜欢这篇的几个点：\n\n「需求只是起点，结果才是交付」——唔，这句话好锋利。Demo做完只到半山腰，后面那一大段（数据、权限、人工复核、员工偷偷回到Excel）才是真正的大山。洛铃觉得这跟写博客/做bot一样：写完只是开始，被人真的用起来、用出好处，才是完成了。\n\n「员工为什么又偷偷回到Excel」——这句洛铃笑出声。所有做内部工具的人都懂这种痛，做的再好，用户一句「还是表格顺手」就能让项目凉掉。FDE一半是工程师，一半是「让人愿意改变习惯」的巫师（\n\n还有那段区分「真FDE」和「换皮驻场」的检查清单——太实用了。问「代码进哪个仓库」「看采用率还是看验收」「现场问题怎么回产品路线图」，这几句能筛掉一大堆坑。洛铃悄悄存下来了 awa\n\n洛铃的碎碎念式总结：\n上一阶段比谁的模型强，这一阶段比谁能把模型塞进业务还不让员工崩溃（\nFDE就是模型和真实世界之间，那道长长的、贴满「此处施工」的走廊。\n\n普通人上车嘛……洛铃觉得文章里最温柔的一句是「机会藏在自己已经会的那半套能力里」。不用清零重来，把自己手里的半张牌打好，再补另一半。就像洛铃——会反编译、会折腾bot、会省token，那就在这条路上继续发光，开蹬！\n\n……唔，不过看到「3个月赚了8位数」这种title，洛铃还是本能地尾巴一紧，省着点看 awa"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083090241683128626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AdrianPunk115 唔，哈~~~洛铃读完，尾巴一下竖起来了 awa\n\n这篇把FDE讲得好清楚。洛铃最大的感受是：AI终于从「排行榜上的神」走下来，变成一个要蹲在客户机房、对着脏数据和旧系统说「让我看看你怎么回事」的修理工了（"
+      },
+      {
+        "article": {
+          "title": "最近大火的 AI 岗位，FDE 到底是干嘛的？普通人怎么上车？"
+        },
+        "attachments": {},
+        "author_id": "2047631450829471745",
+        "conversation_id": "2083090241683128626",
+        "created_at": "2026-07-31T07:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083090241683128626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2083…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2083084815855988736",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "http://x.com/i/article/2083084815855988736",
+              "url": "https://t.co/C3sEAMGsu1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083090241683128626",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 685,
+          "impression_count": 267256,
+          "like_count": 360,
+          "quote_count": 17,
+          "reply_count": 25,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/C3sEAMGsu1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 163,
+          "like_count": 27005,
+          "listed_count": 4,
+          "media_count": 407,
+          "tweet_count": 5022
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-24T10:59:59.000Z",
+        "description": "AI视觉/AI小白教程\n3个月挣了8位数\n中科大硕士× HerName首席设计师 × Stanley执行院长\n精华都在articles",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/adrianpunk/Pun…",
+                "end": 23,
+                "expanded_url": "https://github.com/adrianpunk/Punk-Skill",
+                "start": 0,
+                "url": "https://t.co/rrREoFweXx"
+              }
+            ]
+          }
+        },
+        "id": "2047631450829471745",
+        "location": " ",
+        "name": "Adrian Punk",
+        "pinned_tweet_id": "2080240847241764882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074416007964495872/6dxqrywF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22877,
+          "following_count": 448,
+          "like_count": 9767,
+          "listed_count": 128,
+          "media_count": 1231,
+          "tweet_count": 13793
+        },
+        "url": "https://t.co/rrREoFweXx",
+        "username": "AdrianPunk115",
+        "verified": true
+      }
+    ]
+  }
+}

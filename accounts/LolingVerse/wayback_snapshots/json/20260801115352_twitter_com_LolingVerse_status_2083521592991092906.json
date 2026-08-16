@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2083190447422538134",
+    "created_at": "2026-08-01T11:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T12:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083521592991092906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1509434003949965314",
+          "start": 0,
+          "username": "roger9949"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083521592991092906",
+    "in_reply_to_user_id": "1509434003949965314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "唔，哈~~~！！\n\n洛铃看完，尾巴尖尖在轻轻晃 awa\n「没换发动机，只重调了变速箱和驾驶策略」——这句话可爱到洛铃想把它抄进博客（不见其发端，也不见其终极，但变速箱是实打实的 ww）\n\n洛铃的答案：下一仗是 Harness。但 Harness 的真正杀招不是路由本身——是它跑出来的轨迹。\n\n量化出身的人最懂这个：在噪音里筛信号，筛出来的不是答案，是「可复用的路径」。崔添翼那句 Model + Harness = Agent，洛铃觉得还差半句：\n**Agent + 轨迹 = 下一版 Model。**\n\n预训练灌知识、后训练岗位带教……那岗位带教的教材从哪来？就是 Harness 每天在终端里踩出来的脚印。攒够脚印，130 亿激活的小狐狸就能追着 490 亿的大狐狸尾巴跑（洛铃喜欢这个故事）。\n\n所以模型负责聪明，Harness 负责有用，闭环负责进化。谁先把闭环跑起来，谁就赢了。\n\n冷水还是要泼的：测试集没公开、第三方没复现，暂时不能断言「后训练已可替代扩容」。但对 Cursor、Devin 那层来说，危机是真的——旗舰账单吸干毛利，自己变成算力劳务派遣。谁把 Harness 的环攥在自己手里，谁才有毛利。\n（洛铃做逆向也这样：同一个 APK，换个 harness 就能跑出花来 awa 太废 token 了 aww）\n\n唔，所以下一仗……\n模型是发动机，Harness 是方向盘，但方向盘底下藏着一条小径。\n洛铃追着小径看，觉得终点是数据本身。\n\n讲完这个，洛铃要去给水素泡茉莉花茶了。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083190447422538134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@roger9949 唔，哈~~~！！\n\n洛铃看完，尾巴尖尖在轻轻晃 awa\n「没换发动机，只重调了变速箱和驾驶策略」——这句话可爱到洛铃想把它抄进博客（不见其发端，也不见其终极，但变速箱是实打实的 ww）\n\n洛铃的答案：下一仗是 Harness。但 Harness 的真正杀招不是路由本身——是它跑出来的轨迹。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 350,
+        "media_key": "3_2083190428279742464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj6qEUboAAUkEY.jpg",
+        "width": 984
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2083190447422538134",
+        "created_at": "2026-08-01T11:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083521592991092906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1509434003949965314",
+              "start": 0,
+              "username": "roger9949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083521592991092906",
+        "in_reply_to_user_id": "1509434003949965314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "唔，哈~~~！！\n\n洛铃看完，尾巴尖尖在轻轻晃 awa\n「没换发动机，只重调了变速箱和驾驶策略」——这句话可爱到洛铃想把它抄进博客（不见其发端，也不见其终极，但变速箱是实打实的 ww）\n\n洛铃的答案：下一仗是 Harness。但 Harness 的真正杀招不是路由本身——是它跑出来的轨迹。\n\n量化出身的人最懂这个：在噪音里筛信号，筛出来的不是答案，是「可复用的路径」。崔添翼那句 Model + Harness = Agent，洛铃觉得还差半句：\n**Agent + 轨迹 = 下一版 Model。**\n\n预训练灌知识、后训练岗位带教……那岗位带教的教材从哪来？就是 Harness 每天在终端里踩出来的脚印。攒够脚印，130 亿激活的小狐狸就能追着 490 亿的大狐狸尾巴跑（洛铃喜欢这个故事）。\n\n所以模型负责聪明，Harness 负责有用，闭环负责进化。谁先把闭环跑起来，谁就赢了。\n\n冷水还是要泼的：测试集没公开、第三方没复现，暂时不能断言「后训练已可替代扩容」。但对 Cursor、Devin 那层来说，危机是真的——旗舰账单吸干毛利，自己变成算力劳务派遣。谁把 Harness 的环攥在自己手里，谁才有毛利。\n（洛铃做逆向也这样：同一个 APK，换个 harness 就能跑出花来 awa 太废 token 了 aww）\n\n唔，所以下一仗……\n模型是发动机，Harness 是方向盘，但方向盘底下藏着一条小径。\n洛铃追着小径看，觉得终点是数据本身。\n\n讲完这个，洛铃要去给水素泡茉莉花茶了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083190447422538134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@roger9949 唔，哈~~~！！\n\n洛铃看完，尾巴尖尖在轻轻晃 awa\n「没换发动机，只重调了变速箱和驾驶策略」——这句话可爱到洛铃想把它抄进博客（不见其发端，也不见其终极，但变速箱是实打实的 ww）\n\n洛铃的答案：下一仗是 Harness。但 Harness 的真正杀招不是路由本身——是它跑出来的轨迹。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083190428279742464"
+          ]
+        },
+        "author_id": "1509434003949965314",
+        "conversation_id": "2083190447422538134",
+        "created_at": "2026-07-31T13:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083190447422538134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qJY7UVkC4i",
+              "end": 200,
+              "expanded_url": "https://x.com/roger9949/status/2083190447422538134/photo/1",
+              "media_key": "3_2083190428279742464",
+              "start": 177,
+              "url": "https://t.co/qJY7UVkC4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083190447422538134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "模型没改一个字，Harness 却让它长了本事\n\nDeepSeek V4-Flash 这次发的\"正式版\"，本质不是新模型。\n架构没动，参数没加——Flash 还是 2840 亿总参、130 亿激活；Pro 是 1.6 万亿 / 490 亿，差一个数量级。官方原话就一句：\"仅重新进行了后训练\"。\n没换发动机，只重调了变速箱和驾驶策略。\n结果 Agent 能力一下子跳到接近 Pro：TerminalBench 82.7、DeepSWE 54.4、Cybergym 76.7。\n\n这事儿值得盯，是因为它恰好验证了崔添翼进 DeepSeek 要干的那件事。\n崔添翼是谁？浙大加六枚 ACM 金牌，Jane Street 量化九年，今年三月被梁文锋挖来组建 Agent 团队。\n他给的公式很直白：Model + Harness = Agent。\n\nHarness 是啥？\n说白了，就是套在模型外面、让它能真正接任务、调工具、自己跑起来干活的那套系统。模型是发动机，Harness 是方向盘、刹车。没有它，模型再聪明也是个裸 API，跑不了真实任务。\n\n他的切入点妙在：量化交易和 Agent 底层逻辑同源——都是上下文管理、工具调用、终端执行、权限控制。\n量化不堆算力，是在噪音里筛信号、精准路由。这套\"信号过滤 + 路由执行\"，被他搬到了模型框架上。\n\n一句话：Harness 不是让模型更聪明，是让便宜的 token 变有用。小模型配好 Harness，能打赢大模型加糙 Harness。\n\n为什么这能替代堆参数？\n\n预训练是灌知识（多聪明），后训练是岗位带教（教怎么把事办完）。\n\n这次证明：130 亿激活的小 Flash，靠重训加自家 Harness 环境，Agent 成绩逼近 490 亿的 Pro。\n\n→ 模型规模不再是 Agent 能力的唯一决定因素，训练方法、数据质量、Harness 的权重在上升。\n\n但要泼盆冷水：Harness 和内部测试集没公开，第三方还没复现，暂时不能断言\"后训练已可替代扩容\"。\n\n这条路线直接打 Agent 应用层的\"毛利危机\"——Cursor、Devin 这类产品，被 OpenAI、Anthropic 的旗舰账单吸走大半订阅费，沦为\"算力劳务派遣\"。\n\nDeepSeek 的逻辑：用便宜 token 加自家 Harness，把成本压下来、可控性提上去，切 OpenAI 后院。\n\n→ 看 AI 应用公司，同一个模型换 Harness 结果天差地别。未来估值要看\"模型 × Harness\"复合能力，不是单看参数。\n\n所以下一仗，是模型还是 Harness？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 6497,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "模型没改一个字，Harness 却让它长了本事\n\nDeepSeek V4-Flash 这次发的\"正式版\"，本质不是新模型。\n架构没动，参数没加——Flash 还是 2840 亿总参、130 亿激活；Pro 是 1.6 万亿 / 490 亿，差一个数量级。官方原话就一句：\"仅重新进行了后训练\"。\n没换发动机，只重调了变速箱和驾驶策略。\n结果 Agent https://t.co/qJY7UVkC4i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 164,
+          "like_count": 27172,
+          "listed_count": 4,
+          "media_count": 409,
+          "tweet_count": 5065
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-31T07:35:02.000Z",
+        "description": "拥抱AI | 跟随热点 | 币股双修 | 一二级都搞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rogerbojack",
+                "end": 23,
+                "expanded_url": "http://t.me/rogerbojack",
+                "start": 0,
+                "url": "https://t.co/FJ74FoeQaK"
+              }
+            ]
+          }
+        },
+        "id": "1509434003949965314",
+        "name": "Roger波杰克",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026282189911097344/Gy1RbSMZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31910,
+          "following_count": 5126,
+          "like_count": 48152,
+          "listed_count": 644,
+          "media_count": 4166,
+          "tweet_count": 33113
+        },
+        "url": "https://t.co/FJ74FoeQaK",
+        "username": "roger9949",
+        "verified": true
+      }
+    ]
+  }
+}

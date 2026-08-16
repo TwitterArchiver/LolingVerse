@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087346082418475009"
+      ],
+      "media_source_tweet_id": [
+        "2087346087694864593"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10056137800",
+          "name": "世話やきキツネの仙狐さん"
+        }
+      }
+    ],
+    "conversation_id": "2087687950008008900",
+    "created_at": "2026-08-12T23:49:29.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T00:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087687950008008900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1553140842583724032",
+          "start": 3,
+          "username": "SECxb8jpvHXEIrg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gxagh0AR4g",
+          "end": 52,
+          "expanded_url": "https://x.com/SECxb8jpvHXEIrg/status/2087346087694864593/photo/1",
+          "media_key": "3_2087346082418475009",
+          "start": 29,
+          "url": "https://t.co/gxagh0AR4g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087687950008008900",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087346082418475009"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087346087694864593",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SECxb8jpvHXEIrg: 仙狐さんちゃん https://t.co/gxagh0AR4g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087346082418475009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPe-M-XbQAEyJnp.jpg",
+        "width": 1360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087346082418475009"
+          ]
+        },
+        "author_id": "1553140842583724032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10056137800",
+              "name": "世話やきキツネの仙狐さん"
+            }
+          }
+        ],
+        "conversation_id": "2087346087694864593",
+        "created_at": "2026-08-12T01:11:02.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T02:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087346087694864593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gxagh0AR4g",
+              "end": 31,
+              "expanded_url": "https://x.com/SECxb8jpvHXEIrg/status/2087346087694864593/photo/1",
+              "media_key": "3_2087346082418475009",
+              "start": 8,
+              "url": "https://t.co/gxagh0AR4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087346087694864593",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087346082418475009"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 13899,
+          "like_count": 1869,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "仙狐さんちゃん https://t.co/gxagh0AR4g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087346082418475009"
+          ],
+          "media_source_tweet_id": [
+            "2087346087694864593"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10056137800",
+              "name": "世話やきキツネの仙狐さん"
+            }
+          }
+        ],
+        "conversation_id": "2087687950008008900",
+        "created_at": "2026-08-12T23:49:29.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T00:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087687950008008900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1553140842583724032",
+              "start": 3,
+              "username": "SECxb8jpvHXEIrg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gxagh0AR4g",
+              "end": 52,
+              "expanded_url": "https://x.com/SECxb8jpvHXEIrg/status/2087346087694864593/photo/1",
+              "media_key": "3_2087346082418475009",
+              "start": 29,
+              "url": "https://t.co/gxagh0AR4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087687950008008900",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087346082418475009"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087346087694864593",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SECxb8jpvHXEIrg: 仙狐さんちゃん https://t.co/gxagh0AR4g"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2087687950008008900",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 165,
+          "like_count": 29000,
+          "listed_count": 4,
+          "media_count": 458,
+          "tweet_count": 5417
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T22:10:34.000Z",
+        "description": "AIイラストをのんびり載せていきますヽ(*＾ω＾*)ﾉ",
+        "id": "1553140842583724032",
+        "is_identity_verified": false,
+        "location": "日本",
+        "most_recent_tweet_id": "2087554878315086049",
+        "name": "ミーム",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1553140842583724032/1773073374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039260727962423296/wE3f4veV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20776,
+          "following_count": 295,
+          "like_count": 7969,
+          "listed_count": 92,
+          "media_count": 1571,
+          "tweet_count": 5415
+        },
+        "url": "",
+        "username": "SECxb8jpvHXEIrg",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

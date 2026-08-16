@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2085933873507209561",
+    "created_at": "2026-08-08T07:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T08:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085990117617926513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "27537798",
+          "start": 0,
+          "username": "billiechen"
+        },
+        {
+          "end": 27,
+          "id": "1721381996960845824",
+          "start": 12,
+          "username": "laozhouhengmei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085990117617926513",
+    "in_reply_to_user_id": "27537798",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085967568289112480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@billiechen @laozhouhengmei 居然没有把养的小孩送人卖给人贩子之类的\n其实小孩也未必当回事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2085933873507209561",
+        "created_at": "2026-08-08T07:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T08:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085990117617926513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "27537798",
+              "start": 0,
+              "username": "billiechen"
+            },
+            {
+              "end": 27,
+              "id": "1721381996960845824",
+              "start": 12,
+              "username": "laozhouhengmei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085990117617926513",
+        "in_reply_to_user_id": "27537798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085967568289112480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@billiechen @laozhouhengmei 居然没有把养的小孩送人卖给人贩子之类的\n其实小孩也未必当回事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "27537798",
+        "conversation_id": "2085933873507209561",
+        "created_at": "2026-08-08T05:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T06:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085967568289112480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1721381996960845824",
+              "start": 0,
+              "username": "laozhouhengmei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085967568289112480",
+        "in_reply_to_user_id": "1721381996960845824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 246,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085933873507209561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laozhouhengmei 农村这种事情特别多，把小孩养的狗送人卖给狗贩子之类的，都不当回事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 162,
+          "like_count": 28172,
+          "listed_count": 4,
+          "media_count": 431,
+          "tweet_count": 5245
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-30T00:06:10.000Z",
+        "description": "我爱这个世界~",
+        "id": "27537798",
+        "location": "Fujian",
+        "name": "billie chen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1159438317324161025/vHx_2H1M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 363,
+          "like_count": 1510,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 520
+        },
+        "url": "",
+        "username": "billiechen",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T04:20:35.000Z",
+        "description": "CEO转自媒体人 | YouTube 10个月破30万订阅 | 原本是墙内百万粉丝主播，现已被中共全网封杀。斯坦福大学计算机系，前金融企业CEO。美国8年，上海15年，现居新加坡。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@laozhou77",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@laozhou77",
+                "start": 0,
+                "url": "https://t.co/u18vxiBPVW"
+              }
+            ]
+          }
+        },
+        "id": "1721381996960845824",
+        "name": "老周横眉",
+        "pinned_tweet_id": "1777320976809881823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721382562730577920/qJqUJz8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142454,
+          "following_count": 144,
+          "like_count": 15774,
+          "listed_count": 570,
+          "media_count": 1702,
+          "tweet_count": 4210
+        },
+        "url": "https://t.co/u18vxiBPVW",
+        "username": "laozhouhengmei",
+        "verified": true
+      }
+    ]
+  }
+}

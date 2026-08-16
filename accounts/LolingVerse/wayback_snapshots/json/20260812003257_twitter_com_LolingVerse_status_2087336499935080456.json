@@ -1,0 +1,497 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086780014549446656",
+        "3_2086780014801133568",
+        "3_2086780014545260544"
+      ],
+      "media_source_tweet_id": [
+        "2086780087131836534",
+        "2086780087131836534",
+        "2086780087131836534"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087336499935080456",
+    "created_at": "2026-08-12T00:32:57.000Z",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T01:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087336499935080456"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 15,
+          "tag": "一次創作祭り夏の陣2026"
+        },
+        {
+          "end": 46,
+          "start": 31,
+          "tag": "夏の創作クラスタフォロー祭り"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "99285182",
+          "start": 3,
+          "username": "Yukinagix"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VVHf4svFVI",
+          "end": 96,
+          "expanded_url": "https://x.com/Yukinagix/status/2086780087131836534/photo/1",
+          "media_key": "3_2086780014549446656",
+          "start": 73,
+          "url": "https://t.co/VVHf4svFVI"
+        },
+        {
+          "display_url": "pic.x.com/VVHf4svFVI",
+          "end": 96,
+          "expanded_url": "https://x.com/Yukinagix/status/2086780087131836534/photo/1",
+          "media_key": "3_2086780014801133568",
+          "start": 73,
+          "url": "https://t.co/VVHf4svFVI"
+        },
+        {
+          "display_url": "pic.x.com/VVHf4svFVI",
+          "end": 96,
+          "expanded_url": "https://x.com/Yukinagix/status/2086780087131836534/photo/1",
+          "media_key": "3_2086780014545260544",
+          "start": 73,
+          "url": "https://t.co/VVHf4svFVI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087336499935080456",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2086780014549446656"
+      },
+      {
+        "media_key": "3_2086780014801133568"
+      },
+      {
+        "media_key": "3_2086780014545260544"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086780087131836534",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yukinagix: #一次創作祭り夏の陣2026 \n#夏の創作クラスタフォロー祭り\n狐とか和モノ描いているおじさんです　よろしくね🙄✌ https://t.co/VVHf4svFVI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2086780014549446656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPW7XfOasAAQuaL.jpg",
+        "width": 1394
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2086780014801133568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPW7XgKbIAAnW06.jpg",
+        "width": 1369
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2086780014545260544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPW7XfNa0AAKNkd.jpg",
+        "width": 1368
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086780014549446656",
+            "3_2086780014801133568",
+            "3_2086780014545260544"
+          ]
+        },
+        "author_id": "99285182",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086780087131836534",
+        "created_at": "2026-08-10T11:41:57.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086780087131836534"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "一次創作祭り夏の陣2026"
+            },
+            {
+              "end": 31,
+              "start": 16,
+              "tag": "夏の創作クラスタフォロー祭り"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VVHf4svFVI",
+              "end": 81,
+              "expanded_url": "https://x.com/Yukinagix/status/2086780087131836534/photo/1",
+              "media_key": "3_2086780014549446656",
+              "start": 58,
+              "url": "https://t.co/VVHf4svFVI"
+            },
+            {
+              "display_url": "pic.x.com/VVHf4svFVI",
+              "end": 81,
+              "expanded_url": "https://x.com/Yukinagix/status/2086780087131836534/photo/1",
+              "media_key": "3_2086780014801133568",
+              "start": 58,
+              "url": "https://t.co/VVHf4svFVI"
+            },
+            {
+              "display_url": "pic.x.com/VVHf4svFVI",
+              "end": 81,
+              "expanded_url": "https://x.com/Yukinagix/status/2086780087131836534/photo/1",
+              "media_key": "3_2086780014545260544",
+              "start": 58,
+              "url": "https://t.co/VVHf4svFVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086780087131836534",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086780014549446656"
+          },
+          {
+            "media_key": "3_2086780014801133568"
+          },
+          {
+            "media_key": "3_2086780014545260544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 164,
+          "impression_count": 16343,
+          "like_count": 1035,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "#一次創作祭り夏の陣2026 \n#夏の創作クラスタフォロー祭り\n狐とか和モノ描いているおじさんです　よろしくね🙄✌ https://t.co/VVHf4svFVI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086780014549446656",
+            "3_2086780014801133568",
+            "3_2086780014545260544"
+          ],
+          "media_source_tweet_id": [
+            "2086780087131836534",
+            "2086780087131836534",
+            "2086780087131836534"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087336499935080456",
+        "created_at": "2026-08-12T00:32:57.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T01:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087336499935080456"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 15,
+              "tag": "一次創作祭り夏の陣2026"
+            },
+            {
+              "end": 46,
+              "start": 31,
+              "tag": "夏の創作クラスタフォロー祭り"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "99285182",
+              "start": 3,
+              "username": "Yukinagix"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VVHf4svFVI",
+              "end": 96,
+              "expanded_url": "https://x.com/Yukinagix/status/2086780087131836534/photo/1",
+              "media_key": "3_2086780014549446656",
+              "start": 73,
+              "url": "https://t.co/VVHf4svFVI"
+            },
+            {
+              "display_url": "pic.x.com/VVHf4svFVI",
+              "end": 96,
+              "expanded_url": "https://x.com/Yukinagix/status/2086780087131836534/photo/1",
+              "media_key": "3_2086780014801133568",
+              "start": 73,
+              "url": "https://t.co/VVHf4svFVI"
+            },
+            {
+              "display_url": "pic.x.com/VVHf4svFVI",
+              "end": 96,
+              "expanded_url": "https://x.com/Yukinagix/status/2086780087131836534/photo/1",
+              "media_key": "3_2086780014545260544",
+              "start": 73,
+              "url": "https://t.co/VVHf4svFVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087336499935080456",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086780014549446656"
+          },
+          {
+            "media_key": "3_2086780014801133568"
+          },
+          {
+            "media_key": "3_2086780014545260544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086780087131836534",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yukinagix: #一次創作祭り夏の陣2026 \n#夏の創作クラスタフォロー祭り\n狐とか和モノ描いているおじさんです　よろしくね🙄✌ https://t.co/VVHf4svFVI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2087336499935080456",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 162,
+          "like_count": 28778,
+          "listed_count": 4,
+          "media_count": 454,
+          "tweet_count": 5366
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-12-25T13:38:17.000Z",
+        "description": "レトロＳＦ探検部！！の作者。一次創作系同人作家。\n代表作「Al Tsukimi （伺か用バルーン）」「月見食堂記（全８巻＆伺かゴースト）」 \n趣味は競馬（歴史と血統）、他に野球、温泉、バイク、創作活動全般。\n特技はドット絵。お仕事及びご依頼はリプかDMまで。\nもんくえマップ担当／ざくアク企画系プログラム担当",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yukimino.sakura.ne.jp",
+                "end": 23,
+                "expanded_url": "http://yukimino.sakura.ne.jp/",
+                "start": 0,
+                "url": "https://t.co/770hVqZHLj"
+              }
+            ]
+          }
+        },
+        "id": "99285182",
+        "is_identity_verified": false,
+        "location": "雪見の里",
+        "most_recent_tweet_id": "2087183355959967985",
+        "name": "雪凪@C108日曜/西そ-08a",
+        "pinned_tweet_id": "2062843670450303382",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/99285182/1783001578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072685242520113153/bvPaDEe6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2175,
+          "following_count": 318,
+          "like_count": 847,
+          "listed_count": 54,
+          "media_count": 1861,
+          "tweet_count": 84748
+        },
+        "url": "https://t.co/770hVqZHLj",
+        "username": "Yukinagix",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

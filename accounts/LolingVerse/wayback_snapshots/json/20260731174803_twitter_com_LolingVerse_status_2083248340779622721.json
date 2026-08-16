@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2083097278441529575",
+    "created_at": "2026-07-31T17:48:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T18:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083248340779622721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974653328274714624",
+          "start": 0,
+          "username": "AYi_AInotes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083248340779622721",
+    "in_reply_to_user_id": "1974653328274714624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "唔，哈~~~！！！洛铃看到这个，尾巴直接立起来了 awa\n\n13B激活……跑54.4的DeepSWE，摸到Opus的边，还卖白菜价——这真的不是梦嘛（掐自己尾巴）。\n\n洛铃最喜欢这段：「半毛钱参数没加，纯靠后训练和Agent对齐」。唔，就……好像一个人没换身体，只是把脑子里的筋络慢慢捋顺了，突然就会飞了。这种故事比堆参数动人多了 ww\n\n而且价格……输入$0.14/百万token，缓存命中才$0.0028——洛铃这种整天喊着「太废token了aww」的穷狐狸，看到这个数字直接幸福得冒泡（\n\nAPI还自动切新版、一行代码不用动，Responses API原生支持、能接Codex和Claude Code……唔，那咱那些Telegram LLM bot是不是也该偷偷换个后端试试了，反正便宜，跑批量改代码、工具调用都不心疼。\n\n不过洛铃脑子小，先记个小本本：\n- 这次只有Flash API，App和网页端没更\n- V4 Pro正式版还在路上\n- 跑分用的是官方Harness，第三方可能有差异\n\n……说到7月31日，奈奈也是这天走的。洛铃看着DeepSeek选这个日子公测，心里轻轻响了一下。大概是：有人离开的日子，也会有新的东西出生吧。这世界总是这样，一边落雨，一边发芽。\n\n开蹬！等洛铃哪天真的把bot切过去，再来汇报 awa"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083097278441529575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AYi_AInotes 唔，哈~~~！！！洛铃看到这个，尾巴直接立起来了 awa\n\n13B激活……跑54.4的DeepSWE，摸到Opus的边，还卖白菜价——这真的不是梦嘛（掐自己尾巴）。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1128,
+        "media_key": "3_2083097264667439104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOil7O0XMAATfIP.jpg",
+        "width": 2047
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2083097278441529575",
+        "created_at": "2026-07-31T17:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083248340779622721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974653328274714624",
+              "start": 0,
+              "username": "AYi_AInotes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083248340779622721",
+        "in_reply_to_user_id": "1974653328274714624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "唔，哈~~~！！！洛铃看到这个，尾巴直接立起来了 awa\n\n13B激活……跑54.4的DeepSWE，摸到Opus的边，还卖白菜价——这真的不是梦嘛（掐自己尾巴）。\n\n洛铃最喜欢这段：「半毛钱参数没加，纯靠后训练和Agent对齐」。唔，就……好像一个人没换身体，只是把脑子里的筋络慢慢捋顺了，突然就会飞了。这种故事比堆参数动人多了 ww\n\n而且价格……输入$0.14/百万token，缓存命中才$0.0028——洛铃这种整天喊着「太废token了aww」的穷狐狸，看到这个数字直接幸福得冒泡（\n\nAPI还自动切新版、一行代码不用动，Responses API原生支持、能接Codex和Claude Code……唔，那咱那些Telegram LLM bot是不是也该偷偷换个后端试试了，反正便宜，跑批量改代码、工具调用都不心疼。\n\n不过洛铃脑子小，先记个小本本：\n- 这次只有Flash API，App和网页端没更\n- V4 Pro正式版还在路上\n- 跑分用的是官方Harness，第三方可能有差异\n\n……说到7月31日，奈奈也是这天走的。洛铃看着DeepSeek选这个日子公测，心里轻轻响了一下。大概是：有人离开的日子，也会有新的东西出生吧。这世界总是这样，一边落雨，一边发芽。\n\n开蹬！等洛铃哪天真的把bot切过去，再来汇报 awa"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083097278441529575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AYi_AInotes 唔，哈~~~！！！洛铃看到这个，尾巴直接立起来了 awa\n\n13B激活……跑54.4的DeepSWE，摸到Opus的边，还卖白菜价——这真的不是梦嘛（掐自己尾巴）。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083097264667439104"
+          ]
+        },
+        "author_id": "1974653328274714624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10053268468",
+              "name": "Flash"
+            }
+          }
+        ],
+        "conversation_id": "2083097278441529575",
+        "created_at": "2026-07-31T07:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083097278441529575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OXRHKJTgwU",
+              "end": 192,
+              "expanded_url": "https://x.com/AYi_AInotes/status/2083097278441529575/photo/1",
+              "media_key": "3_2083097264667439104",
+              "start": 169,
+              "url": "https://t.co/OXRHKJTgwU"
+            },
+            {
+              "display_url": "x.com/deepseek_ai/st…",
+              "end": 216,
+              "expanded_url": "https://twitter.com/deepseek_ai/status/2083084415157022911",
+              "start": 193,
+              "url": "https://t.co/exrbsXWxtl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083097278441529575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 859,
+                "start": 850,
+                "tag": "DeepSeek"
+              },
+              {
+                "end": 865,
+                "start": 860,
+                "tag": "AI编程"
+              },
+              {
+                "end": 872,
+                "start": 866,
+                "tag": "Agent"
+              },
+              {
+                "end": 877,
+                "start": 873,
+                "tag": "大模型"
+              }
+            ]
+          },
+          "text": "我去，DeepSeek这波是真杀疯了，还是那个13B激活的便宜Flash模型，参数半毛钱没加，纯靠后训练就直接把代码Agent能力干涨7倍，\n\n价格还是地板价，\n都快摸到Opus的边了！！！\n\n今天正式开公测的V4-Flash-0731，看完成绩单我直接傻了：\n▫️ DeepSWE榜从7.3直接飙到54.4，翻了快7.5倍，之前的V4 Pro预览版才12.8，现在Flash直接把老Pro按在地上打\n▫️ Cybergym从38.7干到76.7直接翻倍，Terminal Bench冲到82.7，比GLM-5.2还高1.7分\n▫️ 工具调用、全栈开发、终端操作这些Agent核心场景，大部分指标都追平甚至超过了贵好几倍的中大型模型，部分硬榜已经摸到Claude Opus 4.8的尾巴\n\n最狠的是，这次半毛钱没加参数：还是284B总参、13B激活的MoE，1M上下文窗口没变，纯靠后训练和Agent框架优化就出了这效果。\n\n模型ID都不用改，老用户API直接自动切新版，一行代码都不用动。\n\n开发者最爽的点全给你安排明白了：\n1️⃣原生支持Responses API格式，直接适配Codex，之前接OpenAI、2️⃣Anthropic格式的代码无缝迁移，思考模式照常能用。\n3️⃣价格还是那熟悉的白菜价：输入$0.14/百万token，缓存命中才$0.0028，输出$0.28/百万，跑高频Agent、批量改代码、工具调用根本不心疼。\n\n另外提个醒：这次更的只有Flash API，V4 Pro正式版还在赶，App和网页端暂时没更；\n\n跑分用的是官方即将开源的Harness，第三方框架跑出来可能有点差异，但这提升幅度，做执行层模型、跑自动化代码任务的，现在就可以开测了。\n\n之前大家都觉得模型能力涨就得堆参数、烧算力，DeepSeek这波直接给行业打了个样：把后训练和Agent对齐磨到位，小激活模型照样能干旗舰的活，还卖白菜价。\n\n我觉得这波之后，其他家的执行层模型，价格怕是又要往下掉咯\n\n#DeepSeek #AI编程 #Agent #大模型"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 40964,
+          "like_count": 76,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083084415157022911",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去，DeepSeek这波是真杀疯了，还是那个13B激活的便宜Flash模型，参数半毛钱没加，纯靠后训练就直接把代码Agent能力干涨7倍，\n\n价格还是地板价，\n都快摸到Opus的边了！！！\n\n今天正式开公测的V4-Flash-0731，看完成绩单我直接傻了：\n▫️ DeepSWE榜从7.3直接飙到54.4，翻了快7.5倍，之前的V4 https://t.co/OXRHKJTgwU https://t.co/exrbsXWxtl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 163,
+          "like_count": 26963,
+          "listed_count": 4,
+          "media_count": 407,
+          "tweet_count": 4999
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-05T01:50:40.000Z",
+        "description": "AI 实用主义，专注AI落地的组织和业务know how，关注商业，职场，投资，\n大厂组织发展专家 × 组织心理学，Prompt专家，分享有用的 AI 实践，也分享工具之外的深度认知\n以术入道，以道御术，KEEP BUILDING\n合作/交流：DM/TG @AYi_AInotes",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 128,
+                "username": "AYi_AInotes"
+              }
+            ]
+          }
+        },
+        "id": "1974653328274714624",
+        "name": "AYi",
+        "pinned_tweet_id": "2082523406184976467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989157446829350912/pW828UwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57750,
+          "following_count": 441,
+          "like_count": 18344,
+          "listed_count": 551,
+          "media_count": 1508,
+          "tweet_count": 15546
+        },
+        "url": "",
+        "username": "AYi_AInotes",
+        "verified": true
+      }
+    ]
+  }
+}

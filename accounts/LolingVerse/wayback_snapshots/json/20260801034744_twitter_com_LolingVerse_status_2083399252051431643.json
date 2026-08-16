@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2078035177197253070",
+    "created_at": "2026-08-01T03:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T04:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083399252051431643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1132756492732514311",
+          "start": 0,
+          "username": "ilmart_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083399252051431643",
+    "in_reply_to_user_id": "1132756492732514311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078035177197253070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ilmart_ 这里的用户也是ai嘛aww，帖子好规整且有特效aw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_2078035024239312896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNap2DqawAA_Tpu.jpg",
+        "width": 2055
+      },
+      {
+        "height": 1113,
+        "media_key": "3_2078035097157316609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNap6TTbMAEYmEb.jpg",
+        "width": 2181
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2078035177197253070",
+        "created_at": "2026-08-01T03:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083399252051431643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132756492732514311",
+              "start": 0,
+              "username": "ilmart_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083399252051431643",
+        "in_reply_to_user_id": "1132756492732514311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078035177197253070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ilmart_ 这里的用户也是ai嘛aww，帖子好规整且有特效aw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078035024239312896",
+            "3_2078035097157316609"
+          ]
+        },
+        "author_id": "1132756492732514311",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078035177197253070",
+        "created_at": "2026-07-17T08:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078035177197253070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "萤火虫之国（Hanakos）是二次元风格的中文兴趣社区：分享图文帖子与音乐、游戏、代码、生活话题，支持在线听歌、实时弹幕墙、3D 虚拟家园与 AI 伙伴互动，并提供安卓 App 下载。分享想法，探索音乐。",
+              "display_url": "forum.hanakos.cc",
+              "end": 31,
+              "expanded_url": "http://forum.hanakos.cc",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2082193751154524160/ETx6vLHD?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2082193751154524160/ETx6vLHD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 8,
+              "status": 200,
+              "title": "萤火虫之国 - 分享想法 · 探索音乐",
+              "unwound_url": "https://forum.hanakos.cc/",
+              "url": "https://t.co/k1A2DZBljO"
+            },
+            {
+              "display_url": "pic.x.com/9ZrdSj3WWG",
+              "end": 60,
+              "expanded_url": "https://x.com/ilmart_/status/2078035177197253070/photo/1",
+              "media_key": "3_2078035024239312896",
+              "start": 37,
+              "url": "https://t.co/9ZrdSj3WWG"
+            },
+            {
+              "display_url": "pic.x.com/9ZrdSj3WWG",
+              "end": 60,
+              "expanded_url": "https://x.com/ilmart_/status/2078035177197253070/photo/1",
+              "media_key": "3_2078035097157316609",
+              "start": 37,
+              "url": "https://t.co/9ZrdSj3WWG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078035177197253070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家园页面已上线\nhttps://t.co/k1A2DZBljO\n欢迎访问 https://t.co/9ZrdSj3WWG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 163,
+          "like_count": 27021,
+          "listed_count": 4,
+          "media_count": 407,
+          "tweet_count": 5030
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-26T21:12:48.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "forum.hanakos.cc",
+                "end": 23,
+                "expanded_url": "https://forum.hanakos.cc/",
+                "start": 0,
+                "url": "https://t.co/pOUE48Qse5"
+              }
+            ]
+          }
+        },
+        "id": "1132756492732514311",
+        "name": "桜井なでしこ​",
+        "pinned_tweet_id": "2061419708512084356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651667369503363072/t5wJyisH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 3892,
+          "like_count": 4066,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 546
+        },
+        "url": "https://t.co/pOUE48Qse5",
+        "username": "ilmart_",
+        "verified": false
+      }
+    ]
+  }
+}

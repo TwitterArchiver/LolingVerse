@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2083807680213467358",
+    "created_at": "2026-08-02T21:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T22:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084028891119886346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1680105152",
+          "start": 0,
+          "username": "skaas777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084028891119886346",
+    "in_reply_to_user_id": "1680105152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083807680213467358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skaas777 那感觉你用的还是非常非常轻度的aw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 188,
+        "media_key": "3_2083807649548935168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOssBEubIAA2hsO.png",
+        "width": 670
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2083807680213467358",
+        "created_at": "2026-08-02T21:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T22:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084028891119886346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1680105152",
+              "start": 0,
+              "username": "skaas777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084028891119886346",
+        "in_reply_to_user_id": "1680105152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083807680213467358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skaas777 那感觉你用的还是非常非常轻度的aw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083807649548935168"
+          ]
+        },
+        "author_id": "1680105152",
+        "conversation_id": "2083807680213467358",
+        "created_at": "2026-08-02T06:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083807680213467358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m3vXnqvaxA",
+              "end": 187,
+              "expanded_url": "https://x.com/skaas777/status/2083807680213467358/photo/1",
+              "media_key": "3_2083807649548935168",
+              "start": 164,
+              "url": "https://t.co/m3vXnqvaxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083807680213467358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我在今天 12 点左右，把我所有的自动化执行任务的大模型换成了 DeepSeek V4 Flash 的最新版。\n\n这是到现在的用量，的确省了很多：\n• 用智谱的话，我到这会儿应该已经花了 16 块钱了\n• 如果用小米的话，到这会儿差不多花了 5 块钱\n• 而 DeepSeek V4 Flash 就花了 1 块多，2 块还不到\n\n关键的关键就是换了模型之后，效果没差多少，因为 DeepSeek V4 Flash 的 JSON 输出遵循性很强，它没有出任何错误"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1299,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在今天 12 点左右，把我所有的自动化执行任务的大模型换成了 DeepSeek V4 Flash 的最新版。\n\n这是到现在的用量，的确省了很多：\n• 用智谱的话，我到这会儿应该已经花了 16 块钱了\n• 如果用小米的话，到这会儿差不多花了 5 块钱\n• 而 DeepSeek V4 Flash 就花了 1 块多，2 块还不到 https://t.co/m3vXnqvaxA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 164,
+          "like_count": 27377,
+          "listed_count": 4,
+          "media_count": 412,
+          "tweet_count": 5120
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-18T07:24:14.000Z",
+        "description": "一人+AI做项目，持续公开从0到1全过程。\n专注：AI工具链、内容增长、自动化工作流、变现实验。\n只讲实战，不讲空话。\n便宜大模型中转：https://t.co/u8cuCtUxEX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "api.ai-genesis.app",
+                "end": 91,
+                "expanded_url": "https://api.ai-genesis.app",
+                "start": 68,
+                "url": "https://t.co/u8cuCtUxEX"
+              }
+            ]
+          }
+        },
+        "id": "1680105152",
+        "location": "Japan",
+        "name": "Jason Lee",
+        "pinned_tweet_id": "2077507856291770375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973376105307578369/TWS2NpAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6330,
+          "following_count": 1124,
+          "like_count": 31326,
+          "listed_count": 43,
+          "media_count": 3189,
+          "tweet_count": 12659
+        },
+        "url": "",
+        "username": "skaas777",
+        "verified": true
+      }
+    ]
+  }
+}

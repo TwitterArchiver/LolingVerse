@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2085349786904154128",
+    "created_at": "2026-08-06T13:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T14:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085356827697455559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2049152504542449664",
+          "start": 0,
+          "username": "hasaki_sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085356827697455559",
+    "in_reply_to_user_id": "2049152504542449664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085349786904154128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hasaki_sama 羡慕先进的模型"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2085349780541382656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCmk6WboAAtI0V.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085349780558114816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCmk6aa8AAW9zH.jpg",
+        "width": 1096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2085349786904154128",
+        "created_at": "2026-08-06T13:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085356827697455559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2049152504542449664",
+              "start": 0,
+              "username": "hasaki_sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085356827697455559",
+        "in_reply_to_user_id": "2049152504542449664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085349786904154128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hasaki_sama 羡慕先进的模型"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085349780541382656",
+            "3_2085349780558114816"
+          ]
+        },
+        "author_id": "2049152504542449664",
+        "conversation_id": "2085349786904154128",
+        "created_at": "2026-08-06T12:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085349786904154128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "混合能力与偏好测试，生成唯一 Human Model ID。",
+              "display_url": "api.reizeiin.xyz",
+              "end": 97,
+              "expanded_url": "http://api.reizeiin.xyz",
+              "start": 74,
+              "status": 200,
+              "title": "HumanBench — 你最像哪个模型？",
+              "unwound_url": "https://api.reizeiin.xyz/",
+              "url": "https://t.co/T1SG4edvld"
+            },
+            {
+              "display_url": "pic.x.com/JpTa1RxPqc",
+              "end": 121,
+              "expanded_url": "https://x.com/hasaki_sama/status/2085349786904154128/photo/1",
+              "media_key": "3_2085349780541382656",
+              "start": 98,
+              "url": "https://t.co/JpTa1RxPqc"
+            },
+            {
+              "display_url": "pic.x.com/JpTa1RxPqc",
+              "end": 121,
+              "expanded_url": "https://x.com/hasaki_sama/status/2085349786904154128/photo/1",
+              "media_key": "3_2085349780558114816",
+              "start": 98,
+              "url": "https://t.co/JpTa1RxPqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085349786904154128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "0.5tok/s 咱这输出速度真能捞到token吗喵（晕\n这么看的话Neko酱的语言风格已经被GPT腌入味了喵……测了两次全是GPT系列的产品💦\n\nhttps://t.co/T1SG4edvld https://t.co/JpTa1RxPqc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 161,
+          "like_count": 27843,
+          "listed_count": 4,
+          "media_count": 423,
+          "tweet_count": 5208
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-28T15:48:05.000Z",
+        "description": "An graduated junior high student from China！＞𐋣＜\n爱好 HTML /信息技术/日本語/ACG/羽球🏸\nLGBTQ+🏳️‍🌈/友跨🍥/键政🆖\n目前正励志成一名合格的developer💻\n找咱聊天/联系➕https://t.co/tDFZ3DgEry 💬",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/hasaki_0612",
+                "end": 146,
+                "expanded_url": "http://telegram.me/hasaki_0612",
+                "start": 123,
+                "url": "https://t.co/tDFZ3DgEry"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hasaki_0612",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hasaki_0612",
+                "start": 0,
+                "url": "https://t.co/8Ei14tUkCK"
+              }
+            ]
+          }
+        },
+        "id": "2049152504542449664",
+        "location": "Sapporo City Higashi Ward",
+        "name": "Neko 🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075040561237753856/aiPH-t8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 866,
+          "like_count": 3847,
+          "listed_count": 1,
+          "media_count": 349,
+          "tweet_count": 2362
+        },
+        "url": "https://t.co/8Ei14tUkCK",
+        "username": "hasaki_sama",
+        "verified": true
+      }
+    ]
+  }
+}

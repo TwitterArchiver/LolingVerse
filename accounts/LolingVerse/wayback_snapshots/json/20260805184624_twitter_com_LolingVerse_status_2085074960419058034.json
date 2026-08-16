@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2085028671036023093",
+    "created_at": "2026-08-05T18:46:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T19:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085074960419058034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2994681926",
+          "start": 0,
+          "username": "BoxMrChen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085074960419058034",
+    "in_reply_to_user_id": "2994681926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085028671036023093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BoxMrChen 这下宝妈创业新思路了😁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 228,
+        "media_key": "3_2085027728080986113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-Bq_cbYAEB-Jo.png",
+        "width": 895
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2085028671036023093",
+        "created_at": "2026-08-05T18:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T19:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085074960419058034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2994681926",
+              "start": 0,
+              "username": "BoxMrChen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085074960419058034",
+        "in_reply_to_user_id": "2994681926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085028671036023093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BoxMrChen 这下宝妈创业新思路了😁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085027728080986113"
+          ]
+        },
+        "author_id": "2994681926",
+        "conversation_id": "2085028671036023093",
+        "created_at": "2026-08-05T15:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085028671036023093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KjJHhFOnLs",
+              "end": 178,
+              "expanded_url": "https://x.com/BoxMrChen/status/2085028671036023093/photo/1",
+              "media_key": "3_2085027728080986113",
+              "start": 155,
+              "url": "https://t.co/KjJHhFOnLs"
+            },
+            {
+              "display_url": "x.com/BoxMrChen/stat…",
+              "end": 202,
+              "expanded_url": "https://twitter.com/BoxMrChen/status/2084900576647958797",
+              "start": 179,
+              "url": "https://t.co/jo3ir0TGEz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085028671036023093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我忽然想到一个问题。DS V4 Flash配合两台DGX的性能已经如此强大了，如下图\n\n那以后是不是宝妈在家卖Token创业岂不是真可以实现？？\n\n现在MiniMax H3也能在DGX上跑，投入成本6万左右，后续只要有DGX能跑的模型就能一直更新模型卖算力。\n\n谁说宝妈不能睡觉赚钱，这不是妥妥的睡后收入吗？\n\n目前我们测试部署下来，配合少量优化即可轻松达到图片的性能，给企业私有部署，或者个人的隐私助理也是大有可为啊。\n\n后续如果智力不行隐私内容脱敏后交给云端SOTA模型处理，或者让SOTA做步骤规划指引，一样可以达到很好的效果。\n\n梁圣这双眼睛到底看到了多远！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3705,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084900576647958797",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我忽然想到一个问题。DS V4 Flash配合两台DGX的性能已经如此强大了，如下图\n\n那以后是不是宝妈在家卖Token创业岂不是真可以实现？？\n\n现在MiniMax H3也能在DGX上跑，投入成本6万左右，后续只要有DGX能跑的模型就能一直更新模型卖算力。\n\n谁说宝妈不能睡觉赚钱，这不是妥妥的睡后收入吗？ https://t.co/KjJHhFOnLs https://t.co/jo3ir0TGEz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 161,
+          "like_count": 27679,
+          "listed_count": 4,
+          "media_count": 417,
+          "tweet_count": 5186
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true
+      },
+      {
+        "created_at": "2015-01-24T13:44:10.000Z",
+        "description": "🧑‍💻 DevRel at @monad / ex-@TencentGlobal / @rescue_box co-founder / builder @lxdao_official  ，回关🚪2000u",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "monad"
+              },
+              {
+                "end": 40,
+                "start": 26,
+                "username": "TencentGlobal"
+              },
+              {
+                "end": 54,
+                "start": 43,
+                "username": "rescue_box"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "lxdao_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/boxchen",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/boxchen",
+                "start": 0,
+                "url": "https://t.co/fiTwKBnN97"
+              }
+            ]
+          }
+        },
+        "id": "2994681926",
+        "location": "成都",
+        "name": "Box (mainnet arc)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938488713031651334/PWEMZVCL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29536,
+          "following_count": 1193,
+          "like_count": 2754,
+          "listed_count": 585,
+          "media_count": 618,
+          "tweet_count": 9099
+        },
+        "url": "https://t.co/fiTwKBnN97",
+        "username": "BoxMrChen",
+        "verified": true
+      }
+    ]
+  }
+}
