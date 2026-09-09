@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2092235831629250560"
+      ],
+      "media_source_tweet_id": [
+        "2092235847513026953"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2092483131722858511",
+    "created_at": "2026-08-26T05:23:49.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T06:23:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092483131722858511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "820942341443899392",
+          "start": 3,
+          "username": "nazarich33rusru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zqoNd9J68Q",
+          "end": 68,
+          "expanded_url": "https://x.com/nazarich33rusru/status/2092235847513026953/video/1",
+          "media_key": "13_2092235831629250560",
+          "start": 45,
+          "url": "https://t.co/zqoNd9J68Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092483131722858511",
+    "lang": "ru",
+    "media_metadata": [
+      {
+        "media_key": "13_2092235831629250560"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 895
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092235847513026953",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nazarich33rusru: То, что доктор прописал https://t.co/zqoNd9J68Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6255,
+        "height": 360,
+        "media_key": "13_2092235831629250560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092235831629250560/img/8g4N6p9poNtDgH-0.jpg",
+        "public_metrics": {
+          "view_count": 246320
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092235831629250560/vid/avc1/480x270/wRjy2oewsHJVqgmp.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092235831629250560/vid/avc1/640x360/GkFWjMJvZUicR_JR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092235831629250560/pl/UqgJvUcQRFt4MztI.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092235831629250560"
+          ],
+          "media_source_tweet_id": [
+            "2092235847513026953"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2092483131722858511",
+        "created_at": "2026-08-26T05:23:49.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T06:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092483131722858511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "820942341443899392",
+              "start": 3,
+              "username": "nazarich33rusru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zqoNd9J68Q",
+              "end": 68,
+              "expanded_url": "https://x.com/nazarich33rusru/status/2092235847513026953/video/1",
+              "media_key": "13_2092235831629250560",
+              "start": 45,
+              "url": "https://t.co/zqoNd9J68Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092483131722858511",
+        "lang": "ru",
+        "media_metadata": [
+          {
+            "media_key": "13_2092235831629250560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 895
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092235847513026953",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nazarich33rusru: То, что доктор прописал https://t.co/zqoNd9J68Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092235831629250560"
+          ]
+        },
+        "author_id": "820942341443899392",
+        "conversation_id": "2092235847513026953",
+        "created_at": "2026-08-25T13:01:12.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092235847513026953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zqoNd9J68Q",
+              "end": 47,
+              "expanded_url": "https://x.com/nazarich33rusru/status/2092235847513026953/video/1",
+              "media_key": "13_2092235831629250560",
+              "start": 24,
+              "url": "https://t.co/zqoNd9J68Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092235847513026953",
+        "lang": "ru",
+        "media_metadata": [
+          {
+            "media_key": "13_2092235831629250560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5677,
+          "impression_count": 540077,
+          "like_count": 23047,
+          "quote_count": 44,
+          "reply_count": 60,
+          "retweet_count": 894
+        },
+        "reply_settings": "everyone",
+        "text": "То, что доктор прописал https://t.co/zqoNd9J68Q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2092483131722858511",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 165,
+          "like_count": 31530,
+          "listed_count": 4,
+          "media_count": 504,
+          "tweet_count": 5806
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-01-16T10:34:41.000Z",
+        "description": "Здесь должна быть смешная шутка про бесполезность государства. Не художник, просто люблю красивые арты. Комфортик + вайбик, в реплаях свобода, всем рад. DM +",
+        "id": "820942341443899392",
+        "is_identity_verified": false,
+        "location": "愛知県知多市長浦",
+        "most_recent_tweet_id": "2092476910874030356",
+        "name": "🍞🥖🥐 кусок гнилого хлеба по ГОСТу 🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "2092452152480547141",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/820942341443899392/1630883314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454048170635264/gcz0DmgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2271,
+          "following_count": 306,
+          "like_count": 34495,
+          "listed_count": 51,
+          "media_count": 3255,
+          "tweet_count": 21067
+        },
+        "url": "",
+        "username": "nazarich33rusru",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

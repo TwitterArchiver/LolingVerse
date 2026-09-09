@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2095409672425803823",
+    "created_at": "2026-09-03T08:38:13.000Z",
+    "display_text_range": [
+      20,
+      158
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T09:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095431154941784564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1482030767358496768",
+          "start": 0,
+          "username": "tcdwww"
+        },
+        {
+          "end": 19,
+          "id": "756779273155858432",
+          "start": 8,
+          "username": "ScarletKc_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095431154941784564",
+    "in_reply_to_user_id": "1482030767358496768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095417189172232677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tcdwww @ScarletKc_ 不需要吧，模型足够智能，如果认为有必要，可以条件性懒加载而不是动态改变注入内容——后者需要程序配合。\n\n例如：\n如果你是GPT，请再参考  AGENTS_GPT.md\n如果你是Gemini，请再参考 AGENTS_GEMINI.md\n\n模型会自己选择性建立链接并加载需要的md"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2095409672425803823",
+        "created_at": "2026-09-03T08:38:13.000Z",
+        "display_text_range": [
+          20,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T09:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095431154941784564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1482030767358496768",
+              "start": 0,
+              "username": "tcdwww"
+            },
+            {
+              "end": 19,
+              "id": "756779273155858432",
+              "start": 8,
+              "username": "ScarletKc_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095431154941784564",
+        "in_reply_to_user_id": "1482030767358496768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095417189172232677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tcdwww @ScarletKc_ 不需要吧，模型足够智能，如果认为有必要，可以条件性懒加载而不是动态改变注入内容——后者需要程序配合。\n\n例如：\n如果你是GPT，请再参考  AGENTS_GPT.md\n如果你是Gemini，请再参考 AGENTS_GEMINI.md\n\n模型会自己选择性建立链接并加载需要的md"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482030767358496768",
+        "conversation_id": "2095409672425803823",
+        "created_at": "2026-09-03T07:42:43.000Z",
+        "display_text_range": [
+          12,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T08:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095417189172232677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "756779273155858432",
+              "start": 0,
+              "username": "ScarletKc_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095417189172232677",
+        "in_reply_to_user_id": "756779273155858432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095409672425803823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScarletKc_ 所以 Markdown（以及衍生版本）有着公认的注释语法吗？如果说是为了某个模型特地添加的规则，我的直觉大概就是加一个注释，说明是为某模型去做的 workaround🤔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2095431154941784564",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 167,
+          "like_count": 32552,
+          "listed_count": 4,
+          "media_count": 536,
+          "tweet_count": 6036
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-14T16:44:13.000Z",
+        "description": "无业游民，寻找前端（优势的全栈）工作中 ➡️ https://t.co/PJzvjsrRlC\nAvatar illustration by @KGY_HN\naka. 陶瓷大碗/吐槽大王 | 不迎合任何人 | 关注 ≠ 完全赞同其立场 | 我感觉不舒服的 quote 可能会导致你被 block",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 70,
+                "username": "KGY_HN"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "resume.tcdw.net",
+                "end": 46,
+                "expanded_url": "http://resume.tcdw.net",
+                "start": 23,
+                "url": "https://t.co/PJzvjsrRlC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tcdw.net",
+                "end": 23,
+                "expanded_url": "https://www.tcdw.net/",
+                "start": 0,
+                "url": "https://t.co/IJpduuriDi"
+              }
+            ]
+          }
+        },
+        "id": "1482030767358496768",
+        "is_identity_verified": false,
+        "location": "Beijing",
+        "most_recent_tweet_id": "2095429759165677736",
+        "name": "碗",
+        "pinned_tweet_id": "2094422961017237928",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1482030767358496768/1787632331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092098683156475904/Vxd4l4M__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1723,
+          "following_count": 547,
+          "like_count": 106292,
+          "listed_count": 13,
+          "media_count": 1229,
+          "tweet_count": 14088
+        },
+        "url": "https://t.co/IJpduuriDi",
+        "username": "tcdwww",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-07-23T09:13:33.000Z",
+        "description": "AI / Agents / DevTools / Open Source\nBuilding, testing, and sharing what’s worth using",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "scarletkc.com",
+                "end": 23,
+                "expanded_url": "https://scarletkc.com/",
+                "start": 0,
+                "url": "https://t.co/YTKXMPiBzd"
+              }
+            ]
+          }
+        },
+        "id": "756779273155858432",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2095409672425803823",
+        "name": "KC",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/756779273155858432/1546229475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059328812463304704/BXaYGP9k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3989,
+          "following_count": 1065,
+          "like_count": 90170,
+          "listed_count": 12,
+          "media_count": 284,
+          "tweet_count": 8581
+        },
+        "url": "https://t.co/YTKXMPiBzd",
+        "username": "ScarletKc_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088623616124440576"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2088623633186935169",
+    "created_at": "2026-08-15T13:47:33.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T14:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088623633186935169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/whAQDnmrdd",
+          "end": 49,
+          "expanded_url": "https://x.com/LolingVerse/status/2088623633186935169/photo/1",
+          "media_key": "3_2088623616124440576",
+          "start": 26,
+          "url": "https://t.co/whAQDnmrdd"
+        },
+        {
+          "display_url": "x.com/CyronANNO/stat…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/CyronANNO/status/2088602033364561995",
+          "start": 50,
+          "url": "https://t.co/zjzQmxhWr5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088623633186935169",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088623616124440576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088602033364561995",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "至今未能够知道Gemini回答了什么未必正确的内容 https://t.co/whAQDnmrdd https://t.co/zjzQmxhWr5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1522,
+        "media_key": "3_2088623616124440576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxIHOSW0AAo6q4.jpg",
+        "width": 2073
+      },
+      {
+        "height": 1073,
+        "media_key": "3_2088602028012683264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPw0eoTbQAAAbgd.jpg",
+        "width": 984
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088623616124440576"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2088623633186935169",
+        "created_at": "2026-08-15T13:47:33.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088623633186935169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/whAQDnmrdd",
+              "end": 49,
+              "expanded_url": "https://x.com/LolingVerse/status/2088623633186935169/photo/1",
+              "media_key": "3_2088623616124440576",
+              "start": 26,
+              "url": "https://t.co/whAQDnmrdd"
+            },
+            {
+              "display_url": "x.com/CyronANNO/stat…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/CyronANNO/status/2088602033364561995",
+              "start": 50,
+              "url": "https://t.co/zjzQmxhWr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088623633186935169",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088623616124440576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088602033364561995",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "至今未能够知道Gemini回答了什么未必正确的内容 https://t.co/whAQDnmrdd https://t.co/zjzQmxhWr5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088602028012683264"
+          ]
+        },
+        "author_id": "1426015810472972298",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2088602033364561995",
+        "created_at": "2026-08-15T12:21:43.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T13:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088602033364561995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uBhlcUsNZF",
+              "end": 47,
+              "expanded_url": "https://x.com/CyronANNO/status/2088602033364561995/photo/1",
+              "media_key": "3_2088602028012683264",
+              "start": 24,
+              "url": "https://t.co/uBhlcUsNZF"
+            },
+            {
+              "display_url": "x.com/CyronANNO/stat…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/CyronANNO/status/2088298020068901005",
+              "start": 48,
+              "url": "https://t.co/WIjc6xpDf1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088602033364561995",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088602028012683264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 194,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088298020068901005",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不行，这家伙说话活人感还是太强了\n我就好这口😭 https://t.co/uBhlcUsNZF https://t.co/WIjc6xpDf1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2088623633186935169",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 166,
+          "like_count": 29475,
+          "listed_count": 4,
+          "media_count": 471,
+          "tweet_count": 5514
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "雑多 | 撮影 | ナチョ､フブキ推し | ガジェット | 音ゲー | チュウマイ | バンドリ | \nDM⇒フォロバ | サブ @cyron_anno | CN EN JP KR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "cyron_anno"
+              }
+            ]
+          }
+        },
+        "id": "1426015810472972298",
+        "is_identity_verified": false,
+        "location": "Soochow",
+        "most_recent_tweet_id": "2088602033364561995",
+        "name": "￴ ￴アノ￴￴ ￴￴ ￴￴ ￴￴︎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1426015810472972298/1774928998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078180183266504704/nIRBXx5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2609,
+          "following_count": 907,
+          "like_count": 215184,
+          "listed_count": 0,
+          "media_count": 5702,
+          "tweet_count": 23047
+        },
+        "url": "",
+        "username": "CyronANNO",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

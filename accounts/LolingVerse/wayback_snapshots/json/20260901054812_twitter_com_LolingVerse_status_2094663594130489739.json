@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2094383295845069045",
+    "created_at": "2026-09-01T05:48:12.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T06:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094663594130489739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2000896906864812034",
+          "start": 0,
+          "username": "wedjat233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094663594130489739",
+    "in_reply_to_user_id": "2000896906864812034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094383295845069045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wedjat233 小一只"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14302,
+        "height": 1280,
+        "media_key": "13_2094383249233723392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094383249233723392/img/oYCWOSZs6Y4eog3-.jpg",
+        "public_metrics": {
+          "view_count": 288697
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094383249233723392/vid/avc1/320x568/xKMJ6ibY2G4vBZlC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094383249233723392/vid/avc1/480x852/ang6IyvMs-QbLz_L.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094383249233723392/vid/avc1/720x1280/Lkcwk0CTIA2O5Iub.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094383249233723392/pl/pUt2N6wvi1C7cP5J.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2094383295845069045",
+        "created_at": "2026-09-01T05:48:12.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T06:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094663594130489739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2000896906864812034",
+              "start": 0,
+              "username": "wedjat233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094663594130489739",
+        "in_reply_to_user_id": "2000896906864812034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094383295845069045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wedjat233 小一只"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094383249233723392"
+          ]
+        },
+        "author_id": "2000896906864812034",
+        "conversation_id": "2094383295845069045",
+        "created_at": "2026-08-31T11:14:24.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T12:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094383295845069045"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 24,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "DW14"
+            },
+            {
+              "end": 59,
+              "start": 46,
+              "tag": "doll_weekend"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Kg8qALb8X",
+              "end": 83,
+              "expanded_url": "https://x.com/wedjat233/status/2094383295845069045/video/1",
+              "media_key": "13_2094383249233723392",
+              "start": 60,
+              "url": "https://t.co/8Kg8qALb8X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094383295845069045",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2094383249233723392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2809,
+          "impression_count": 457435,
+          "like_count": 9280,
+          "quote_count": 7,
+          "reply_count": 142,
+          "retweet_count": 293
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️花絮 OOC致歉⚠️\n毫无尊严的下窗台方式\n#kigurumi #着ぐるみ #DW14 #doll_weekend https://t.co/8Kg8qALb8X"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2094663594130489739",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 165,
+          "like_count": 32320,
+          "listed_count": 4,
+          "media_count": 532,
+          "tweet_count": 6004
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-16T11:53:05.000Z",
+        "description": "Kigurumi大头ONLY | 黑猫是OC，公猫 | AI🚫| 更多照片在空间，QQ：424759498",
+        "id": "2000896906864812034",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094483300887007476",
+        "name": "还是那个维达",
+        "pinned_tweet_id": "2094011899117744317",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000896906864812034/1765886717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000899621489713152/MgGAlx0D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10160,
+          "following_count": 247,
+          "like_count": 51,
+          "listed_count": 40,
+          "media_count": 127,
+          "tweet_count": 178
+        },
+        "url": "",
+        "username": "wedjat233",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

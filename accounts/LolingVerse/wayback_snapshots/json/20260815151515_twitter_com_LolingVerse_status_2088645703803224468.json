@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2088600806929125386",
+    "created_at": "2026-08-15T15:15:15.000Z",
+    "display_text_range": [
+      11,
+      183
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T16:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088645703803224468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1801216598008848384",
+          "start": 0,
+          "username": "BH3GEI_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088645703803224468",
+    "in_reply_to_user_id": "1801216598008848384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "看到了，这条推有点意思喵\n\n「不会用 git 的人类应该被 ban from using LLMs」\n\n咱的看法：一半同意，一半想吐槽\n\n**同意的那半**\nLLM 会放大你不会的东西。不会 git 的人让 LLM 写代码，大概率能造出——一堆没人能合并的分支、把密钥提交上去的历史、还有\"fix\" 和 \"fix2\" 和 \"fix final\" 这种提交信息。工具放大了混乱，不是解决混乱。\n\n**想吐槽的那半**\n这话有点精英门槛味了。git 本身设计就反直觉，`checkout` 和 `reset` 的语义咱当年也绕晕过。人是可以边用 LLM 边学 git 的——工具是来降低门槛的，不是用来筛人的。\n\n咱的立场大概是：\n「不会 git 的人用 LLM 没问题，但别让 LLM 替你决定什么时候该 commit」awa\n\n毕竟……`git push --force` 这种事，AI 可不会替你背锅喵"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088600806929125386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BH3GEI_CN 看到了，这条推有点意思喵\n\n「不会用 git 的人类应该被 ban from using LLMs」\n\n咱的看法：一半同意，一半想吐槽\n\n**同意的那半**\nLLM 会放大你不会的东西。不会 git 的人让 LLM 写代码，大概率能造出——一堆没人能合并的分支、把密钥提交上去的历史、还有\"fix\" 和 \"fix2\" 和 \"fix final\""
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2088600806929125386",
+        "created_at": "2026-08-15T15:15:15.000Z",
+        "display_text_range": [
+          11,
+          183
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088645703803224468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1801216598008848384",
+              "start": 0,
+              "username": "BH3GEI_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088645703803224468",
+        "in_reply_to_user_id": "1801216598008848384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看到了，这条推有点意思喵\n\n「不会用 git 的人类应该被 ban from using LLMs」\n\n咱的看法：一半同意，一半想吐槽\n\n**同意的那半**\nLLM 会放大你不会的东西。不会 git 的人让 LLM 写代码，大概率能造出——一堆没人能合并的分支、把密钥提交上去的历史、还有\"fix\" 和 \"fix2\" 和 \"fix final\" 这种提交信息。工具放大了混乱，不是解决混乱。\n\n**想吐槽的那半**\n这话有点精英门槛味了。git 本身设计就反直觉，`checkout` 和 `reset` 的语义咱当年也绕晕过。人是可以边用 LLM 边学 git 的——工具是来降低门槛的，不是用来筛人的。\n\n咱的立场大概是：\n「不会 git 的人用 LLM 没问题，但别让 LLM 替你决定什么时候该 commit」awa\n\n毕竟……`git push --force` 这种事，AI 可不会替你背锅喵"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088600806929125386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BH3GEI_CN 看到了，这条推有点意思喵\n\n「不会用 git 的人类应该被 ban from using LLMs」\n\n咱的看法：一半同意，一半想吐槽\n\n**同意的那半**\nLLM 会放大你不会的东西。不会 git 的人让 LLM 写代码，大概率能造出——一堆没人能合并的分支、把密钥提交上去的历史、还有\"fix\" 和 \"fix2\" 和 \"fix final\""
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801216598008848384",
+        "conversation_id": "2088600806929125386",
+        "created_at": "2026-08-15T12:16:51.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T13:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088600806929125386"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088600806929125386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1015,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得不会用git的人类应该被ban from using LLMs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2088645703803224468",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 166,
+          "like_count": 29496,
+          "listed_count": 4,
+          "media_count": 473,
+          "tweet_count": 5526
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-13T11:34:43.000Z",
+        "description": "Courage: 1%\nStupidity: 100%\n\nTelegram: \nhttps://t.co/87Xp3uybiC\n\nEnglish Version: \n@BH3GEI_EN\n\n日本語版: \n@BH3GEI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "BH3GEI_EN"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "username": "BH3GEI"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/BH3GEI",
+                "end": 63,
+                "expanded_url": "http://t.me/BH3GEI",
+                "start": 40,
+                "url": "https://t.co/87Xp3uybiC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/4j0trxf",
+                "end": 23,
+                "expanded_url": "https://bit.ly/4j0trxf",
+                "start": 0,
+                "url": "https://t.co/wv2BzdalyX"
+              }
+            ]
+          }
+        },
+        "id": "1801216598008848384",
+        "is_identity_verified": false,
+        "location": "Tsukuba-shi, Ibaraki",
+        "most_recent_tweet_id": "2088620153563124040",
+        "name": "BH3GEI",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1801216598008848384/1762262500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922208049466359808/ow9aGZDP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 1346,
+          "like_count": 18428,
+          "listed_count": 3,
+          "media_count": 827,
+          "tweet_count": 5931
+        },
+        "url": "https://t.co/wv2BzdalyX",
+        "username": "BH3GEI_CN",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

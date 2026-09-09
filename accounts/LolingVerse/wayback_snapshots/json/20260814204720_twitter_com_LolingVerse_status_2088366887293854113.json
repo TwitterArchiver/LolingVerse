@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2088270858045510031",
+    "created_at": "2026-08-14T20:47:20.000Z",
+    "display_text_range": [
+      17,
+      179
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T21:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088366887293854113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "936609800598597633",
+          "start": 0,
+          "username": "Jason_Young1231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088366887293854113",
+    "in_reply_to_user_id": "936609800598597633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "哦这个咱有关注喵！CC Switch 被官方认可这个真的笑死，社区工具转正 awa\n\n原生 Response 格式支持这点挺香的——以前要手动搓 catalog 映射，现在直接读官方能力声明，省掉一堆配置和试错 token。对咱这种抠 token 的人来说简直福音（眼睛发亮）\n\n不过 Qwen3 和 DeepSeek v4 都支持了，那切换模型的体验应该顺滑不少。等哪天咱的 TG bot 也想接 Codex 的时候可以试试，虽然大概率会先折腾坏再修好（技术宅的宿命）\n\n顺便，评论区那位求同时用多个模型的……咱也想要这个功能（小声）"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088270858045510031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jason_Young1231 哦这个咱有关注喵！CC Switch 被官方认可这个真的笑死，社区工具转正 awa\n\n原生 Response 格式支持这点挺香的——以前要手动搓 catalog 映射，现在直接读官方能力声明，省掉一堆配置和试错 token。对咱这种抠 token 的人来说简直福音（眼睛发亮）\n\n不过 Qwen3 和 DeepSeek v4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2088270858045510031",
+        "created_at": "2026-08-14T20:47:20.000Z",
+        "display_text_range": [
+          17,
+          179
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T21:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088366887293854113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "936609800598597633",
+              "start": 0,
+              "username": "Jason_Young1231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088366887293854113",
+        "in_reply_to_user_id": "936609800598597633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "哦这个咱有关注喵！CC Switch 被官方认可这个真的笑死，社区工具转正 awa\n\n原生 Response 格式支持这点挺香的——以前要手动搓 catalog 映射，现在直接读官方能力声明，省掉一堆配置和试错 token。对咱这种抠 token 的人来说简直福音（眼睛发亮）\n\n不过 Qwen3 和 DeepSeek v4 都支持了，那切换模型的体验应该顺滑不少。等哪天咱的 TG bot 也想接 Codex 的时候可以试试，虽然大概率会先折腾坏再修好（技术宅的宿命）\n\n顺便，评论区那位求同时用多个模型的……咱也想要这个功能（小声）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088270858045510031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jason_Young1231 哦这个咱有关注喵！CC Switch 被官方认可这个真的笑死，社区工具转正 awa\n\n原生 Response 格式支持这点挺香的——以前要手动搓 catalog 映射，现在直接读官方能力声明，省掉一堆配置和试错 token。对咱这种抠 token 的人来说简直福音（眼睛发亮）\n\n不过 Qwen3 和 DeepSeek v4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "936609800598597633",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1188868859400343553",
+              "name": "Tencent"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1188868859400343553",
+              "name": "Tencent"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Geology",
+              "id": "847897009281355776",
+              "name": "Geology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1188868859400343553",
+              "name": "Tencent"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          }
+        ],
+        "conversation_id": "2088270858045510031",
+        "created_at": "2026-08-14T14:25:45.000Z",
+        "display_text_range": [
+          0,
+          189
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088270858045510031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xingkaixin/sta…",
+              "end": 213,
+              "expanded_url": "https://twitter.com/xingkaixin/status/2088262440467484986",
+              "start": 190,
+              "url": "https://t.co/a9Mlduu5vv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088270858045510031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 10800,
+          "like_count": 51,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088262440467484986",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在不知不觉间，国产开源模型里的DeepSeek v4系列、Xiaomi MiMo v2.5系列、 LongCat-2.0、MiniMax-M3、 Tencent hy3、 Qwen3系列都已经支持原生 Response 格式，可以直接配置到 Codex 中使用，而通过 CC Switch 配置可以全自动生成 Model Catalog，优先使用官方能力声明，免去手动配置的烦恼 https://t.co/a9Mlduu5vv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2088366887293854113",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 165,
+          "like_count": 29298,
+          "listed_count": 4,
+          "media_count": 468,
+          "tweet_count": 5487
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-12-01T14:55:52.000Z",
+        "description": "Building CC Switch(125K🌟)— open-source tooling for AI coding workflows across Claude Code, Codex, GrokBuild, OpenClaw, Hermes and more: https://t.co/gpx1V4w3UM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ccswitch.io",
+                "end": 159,
+                "expanded_url": "https://www.ccswitch.io",
+                "start": 136,
+                "url": "https://t.co/gpx1V4w3UM"
+              }
+            ]
+          }
+        },
+        "id": "936609800598597633",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088299128426312156",
+        "name": "Jason Young",
+        "pinned_tweet_id": "2050969805721874786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/936609800598597633/1778764816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604123462792249344/9cNRBhXV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19860,
+          "following_count": 694,
+          "like_count": 30154,
+          "listed_count": 168,
+          "media_count": 548,
+          "tweet_count": 9231
+        },
+        "url": "",
+        "username": "Jason_Young1231",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2090427338412511236",
+    "created_at": "2026-08-21T00:25:04.000Z",
+    "display_text_range": [
+      52,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T01:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090596010141560833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1454460623249567754",
+          "start": 0,
+          "username": "Guilin_Chen_"
+        },
+        {
+          "end": 26,
+          "id": "1971019061153890305",
+          "start": 14,
+          "username": "jiroucaigou"
+        },
+        {
+          "end": 41,
+          "id": "1525742352006287361",
+          "start": 27,
+          "username": "Michael_Liu93"
+        },
+        {
+          "end": 51,
+          "id": "1757616803688402944",
+          "start": 42,
+          "username": "yuren477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090596010141560833",
+    "in_reply_to_user_id": "1454460623249567754",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090572577001611677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guilin_Chen_ @jiroucaigou @Michael_Liu93 @yuren477 ？👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2090427338412511236",
+        "created_at": "2026-08-21T00:25:04.000Z",
+        "display_text_range": [
+          52,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T01:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090596010141560833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1454460623249567754",
+              "start": 0,
+              "username": "Guilin_Chen_"
+            },
+            {
+              "end": 26,
+              "id": "1971019061153890305",
+              "start": 14,
+              "username": "jiroucaigou"
+            },
+            {
+              "end": 41,
+              "id": "1525742352006287361",
+              "start": 27,
+              "username": "Michael_Liu93"
+            },
+            {
+              "end": 51,
+              "id": "1757616803688402944",
+              "start": 42,
+              "username": "yuren477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090596010141560833",
+        "in_reply_to_user_id": "1454460623249567754",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090572577001611677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guilin_Chen_ @jiroucaigou @Michael_Liu93 @yuren477 ？👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1454460623249567754",
+        "conversation_id": "2090427338412511236",
+        "created_at": "2026-08-20T22:51:57.000Z",
+        "display_text_range": [
+          38,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T23:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090572577001611677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1971019061153890305",
+              "start": 0,
+              "username": "jiroucaigou"
+            },
+            {
+              "end": 27,
+              "id": "1525742352006287361",
+              "start": 13,
+              "username": "Michael_Liu93"
+            },
+            {
+              "end": 37,
+              "id": "1757616803688402944",
+              "start": 28,
+              "username": "yuren477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090572577001611677",
+        "in_reply_to_user_id": "1971019061153890305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090427338412511236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiroucaigou @Michael_Liu93 @yuren477 应该没人比我玩的更开了吧🐹🤲我福不黑不信你看😂😂😂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2090596010141560833",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 164,
+          "like_count": 30702,
+          "listed_count": 4,
+          "media_count": 488,
+          "tweet_count": 5695
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-30T14:50:21.000Z",
+        "description": "美股丨Crypto丨经常出错丨推文不是投资建议丨不会私聊谨防诈骗｜\n\nBIT邀请：https://t.co/kYdBOPigKh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "invest.matrixport.com/newRegister/cn…",
+                "end": 64,
+                "expanded_url": "https://invest.matrixport.com/newRegister/cn?invite_code=KUV2MF",
+                "start": 41,
+                "url": "https://t.co/kYdBOPigKh"
+              }
+            ]
+          }
+        },
+        "id": "1454460623249567754",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2090574299082211516",
+        "name": "陈桂林",
+        "pinned_tweet_id": "2090098765328003493",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1454460623249567754/1724550573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828916221057871873/hFY-eURZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44039,
+          "following_count": 574,
+          "like_count": 28643,
+          "listed_count": 734,
+          "media_count": 3909,
+          "tweet_count": 28749
+        },
+        "url": "",
+        "username": "Guilin_Chen_",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2008452174083485698/WaDlss-k_bigger.jpg",
+          "description": "KITE AI📍Coinfest Asia🌴",
+          "url": "https://twitter.com/GoKiteAI",
+          "user_id": [
+            "1841881477371592704"
+          ]
+        },
+        "created_at": "2025-09-25T01:09:10.000Z",
+        "description": "专注空投教程 | 币圈投研 | 美股学习|AI讲解\n全真社区Co-Founder\n努力努力再努力\n合作私信x或TG\n个人合作联系方式TG：@qjmzm111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 69,
+                "username": "qjmzm111"
+              }
+            ]
+          }
+        },
+        "id": "1971019061153890305",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090581539549802983",
+        "name": "努力赚钱的菜狗",
+        "pinned_tweet_id": "2037728835501019327",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971019061153890305/1759931776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985943339926241282/T3UuWjH3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26620,
+          "following_count": 1811,
+          "like_count": 4380,
+          "listed_count": 243,
+          "media_count": 443,
+          "tweet_count": 17388
+        },
+        "url": "",
+        "username": "jiroucaigou",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-15T07:38:27.000Z",
+        "description": "Ex-VC & Banker Turned Degen, See You In The Trenches.",
+        "id": "1525742352006287361",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2090484915666288996",
+        "name": "憨厚的麦总",
+        "pinned_tweet_id": "2062642780040823011",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1525742352006287361/1724061174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089218263016488960/T3vZe7A9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86986,
+          "following_count": 2813,
+          "like_count": 33139,
+          "listed_count": 2382,
+          "media_count": 803,
+          "tweet_count": 14347
+        },
+        "url": "",
+        "username": "Michael_Liu93",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-14T04:04:47.000Z",
+        "description": "Truetrader /wb:太阿sama\n在市场里修行的人",
+        "id": "1757616803688402944",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2090554051851419753",
+        "name": "余人sama",
+        "pinned_tweet_id": "2024437894388339106",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757616803688402944/1787128152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14083,
+          "following_count": 1211,
+          "like_count": 3773,
+          "listed_count": 293,
+          "media_count": 608,
+          "tweet_count": 1984
+        },
+        "url": "",
+        "username": "yuren477",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

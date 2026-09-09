@@ -1,0 +1,526 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093914856990638080"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2093554337611956290",
+    "created_at": "2026-08-30T04:13:03.000Z",
+    "display_text_range": [
+      12,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T05:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093914873348477323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1756909109788753920",
+          "start": 0,
+          "username": "__fanqie__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/HatenaShun/sta…",
+          "end": 35,
+          "expanded_url": "https://x.com/HatenaShun/status/2093893793695269200",
+          "start": 12,
+          "url": "https://t.co/TNLWevvI8E"
+        },
+        {
+          "display_url": "pic.x.com/5HyWnuNiOX",
+          "end": 59,
+          "expanded_url": "https://x.com/LolingVerse/status/2093914873348477323/photo/1",
+          "media_key": "3_2093914856990638080",
+          "start": 36,
+          "url": "https://t.co/5HyWnuNiOX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093914873348477323",
+    "in_reply_to_user_id": "1756909109788753920",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2093914856990638080"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093893793695269200",
+        "type": "quoted"
+      },
+      {
+        "id": "2093554337611956290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__fanqie__ https://t.co/TNLWevvI8E https://t.co/5HyWnuNiOX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2553,
+        "media_key": "3_2093914856990638080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8Ud-jXAAAfNOc.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1396,
+        "media_key": "3_2093554324677013504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3MkPBbMAANN3a.jpg",
+        "width": 1880
+      },
+      {
+        "height": 4093,
+        "media_key": "3_2093893602586103808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8BIzubkAAhkXE.jpg",
+        "width": 1446
+      },
+      {
+        "height": 4093,
+        "media_key": "3_2093893612581093376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8BJY9bAAAmVSX.jpg",
+        "width": 1446
+      },
+      {
+        "height": 4093,
+        "media_key": "3_2093893623226265600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8BKAnbcAA2364.jpg",
+        "width": 1446
+      },
+      {
+        "height": 4093,
+        "media_key": "3_2093893633921691648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8BKodasAAXWtc.jpg",
+        "width": 1449
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093914856990638080"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2093554337611956290",
+        "created_at": "2026-08-30T04:13:03.000Z",
+        "display_text_range": [
+          12,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T05:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093914873348477323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "__fanqie__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/HatenaShun/sta…",
+              "end": 35,
+              "expanded_url": "https://x.com/HatenaShun/status/2093893793695269200",
+              "start": 12,
+              "url": "https://t.co/TNLWevvI8E"
+            },
+            {
+              "display_url": "pic.x.com/5HyWnuNiOX",
+              "end": 59,
+              "expanded_url": "https://x.com/LolingVerse/status/2093914873348477323/photo/1",
+              "media_key": "3_2093914856990638080",
+              "start": 36,
+              "url": "https://t.co/5HyWnuNiOX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093914873348477323",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2093914856990638080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093893793695269200",
+            "type": "quoted"
+          },
+          {
+            "id": "2093554337611956290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__fanqie__ https://t.co/TNLWevvI8E https://t.co/5HyWnuNiOX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093554324677013504"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "2093554337611956290",
+        "created_at": "2026-08-29T04:20:25.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T05:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093554337611956290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gc6Jb5nOc1",
+              "end": 30,
+              "expanded_url": "https://x.com/__fanqie__/status/2093554337611956290/photo/1",
+              "media_key": "3_2093554324677013504",
+              "start": 7,
+              "url": "https://t.co/gc6Jb5nOc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093554337611956290",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093554324677013504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 18310,
+          "like_count": 328,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "还能这样？！ https://t.co/gc6Jb5nOc1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093893602586103808",
+            "3_2093893612581093376",
+            "3_2093893623226265600",
+            "3_2093893633921691648"
+          ]
+        },
+        "author_id": "1442422996170248204",
+        "conversation_id": "2093893793695269200",
+        "created_at": "2026-08-30T02:49:17.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T03:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093893793695269200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mtEex8SZWM",
+              "end": 29,
+              "expanded_url": "https://x.com/HatenaShun/status/2093893793695269200/photo/1",
+              "media_key": "3_2093893602586103808",
+              "start": 6,
+              "url": "https://t.co/mtEex8SZWM"
+            },
+            {
+              "display_url": "pic.x.com/mtEex8SZWM",
+              "end": 29,
+              "expanded_url": "https://x.com/HatenaShun/status/2093893793695269200/photo/1",
+              "media_key": "3_2093893612581093376",
+              "start": 6,
+              "url": "https://t.co/mtEex8SZWM"
+            },
+            {
+              "display_url": "pic.x.com/mtEex8SZWM",
+              "end": 29,
+              "expanded_url": "https://x.com/HatenaShun/status/2093893793695269200/photo/1",
+              "media_key": "3_2093893623226265600",
+              "start": 6,
+              "url": "https://t.co/mtEex8SZWM"
+            },
+            {
+              "display_url": "pic.x.com/mtEex8SZWM",
+              "end": 29,
+              "expanded_url": "https://x.com/HatenaShun/status/2093893793695269200/photo/1",
+              "media_key": "3_2093893633921691648",
+              "start": 6,
+              "url": "https://t.co/mtEex8SZWM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093893793695269200",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093893602586103808"
+          },
+          {
+            "media_key": "3_2093893612581093376"
+          },
+          {
+            "media_key": "3_2093893623226265600"
+          },
+          {
+            "media_key": "3_2093893633921691648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 5094,
+          "like_count": 400,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "わたあめ雲 https://t.co/mtEex8SZWM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2093914873348477323",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 165,
+          "like_count": 32136,
+          "listed_count": 4,
+          "media_count": 523,
+          "tweet_count": 5965
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅梗图号/生活号@bcfqdtfqz/随机性评论\n不讨论政治/随缘分享\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "bcfqdtfqz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/baozhefanqie_h…",
+                "end": 23,
+                "expanded_url": "http://telegram.me/baozhefanqie_home",
+                "start": 0,
+                "url": "https://t.co/ndOwWuNuE0"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "is_identity_verified": false,
+        "location": "番茄树上",
+        "most_recent_tweet_id": "2093903052063576133",
+        "name": "不包番茄籽的番茄",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756909109788753920/1768587768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14063,
+          "following_count": 2750,
+          "like_count": 1626,
+          "listed_count": 28,
+          "media_count": 2915,
+          "tweet_count": 11972
+        },
+        "url": "https://t.co/ndOwWuNuE0",
+        "username": "__fanqie__",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-27T09:37:45.000Z",
+        "description": "イラストレーター/白髪･透明感好き/ お仕事(ホロライブメン限壁紙、個人依頼キャラクターデザイン 等) ご相談はメール【hatenashun422@gmail.com】 まで。ご依頼に際してwebサイトに注意事項など記載がございます /無断転載 AI学習への使用禁止",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/hate…",
+                "end": 23,
+                "expanded_url": "https://xfolio.jp/portfolio/hatenashun",
+                "start": 0,
+                "url": "https://t.co/oLM0eTHc3R"
+              }
+            ]
+          }
+        },
+        "id": "1442422996170248204",
+        "is_identity_verified": false,
+        "location": "お仕事  納品2027年2月以降から可能",
+        "most_recent_tweet_id": "2093907213966586233",
+        "name": "果那シュン / 絵描き",
+        "pinned_tweet_id": "2090363212713889900",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1442422996170248204/1773921959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776953883031691264/YqKhds0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38248,
+          "following_count": 838,
+          "like_count": 28773,
+          "listed_count": 293,
+          "media_count": 766,
+          "tweet_count": 13707
+        },
+        "url": "https://t.co/oLM0eTHc3R",
+        "username": "HatenaShun",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

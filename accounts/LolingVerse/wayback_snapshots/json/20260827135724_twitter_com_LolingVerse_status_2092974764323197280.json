@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2092962469144899695",
+    "created_at": "2026-08-27T13:57:24.000Z",
+    "display_text_range": [
+      11,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T14:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092974764323197280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1987885638038036480",
+          "start": 0,
+          "username": "mizorewww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092974764323197280",
+    "in_reply_to_user_id": "1987885638038036480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092962469144899695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizorewww 说得好，马上剧烈波动（（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2092962469144899695",
+        "created_at": "2026-08-27T13:57:24.000Z",
+        "display_text_range": [
+          11,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T14:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092974764323197280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1987885638038036480",
+              "start": 0,
+              "username": "mizorewww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092974764323197280",
+        "in_reply_to_user_id": "1987885638038036480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092962469144899695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizorewww 说得好，马上剧烈波动（（（"
+      },
+      {
+        "article": {
+          "cover_media": "3_2092959630397960192",
+          "entities": {
+            "urls": [
+              {
+                "text": "https://mizore.blog/zh/Trading/crypto-options-weekend-strangle-backte"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2092961786186321920",
+            "3_2092960571717210112",
+            "3_2092960783751954432",
+            "3_2092962153473224704",
+            "3_2092961704250671104",
+            "3_2092961438671486976",
+            "3_2092961323252584452"
+          ],
+          "plain_text": "总所周知，加密货币周末的行情波动十分的低，这个时候，合约毫无用武之地.\n\n那么，有没有策略可以在周末这两天获利？\n答案是有的，就是期权做空波动率策略。在持有现货的基础上，每周五卖出周日到期的虚值宽跨式组合（Short Strangle），硬吃 40 小时的权利金与 Theta 时间价值衰减。\n我把这个策略在 Deribit 的官方公开数据上完整回测了 4 年共 208 个周末（2022-09 至 2026-08），BTC 和 ETH 各跑一遍。这篇文章既讲收益，也讲手把手的实操细节、数学定价底座，以及每一次让卖方痛彻心扉的尾部代价。\n策略是什么\n简单说，就是卖波动率保险。\n期权隐含波动率（IV）在多数时候系统性高于随后实际实现的波动率（RV）——买方为了防范极端行情愿意多付溢价，卖方就赚取二者之差。而周末由于传统金融市场休市、宏观重磅数据真空，加密市场的实际波动通常显著低于工作日，但期权仍按连续时间定价，为短周期做空波动率提供了天然温床。\n但必须先把定性摆在桌面上：这绝对不是无风险套利。\n卖方收益有顶（最多收满当周全部权利金），亏损却没有硬顶。当周末突发地缘冲突、监管利空或流动性抽干时，加密市场是全球唯一 7×24 小时开盘承接抛压的资产，单次跳空足以抹去数周乃至数月的积累。\n\n怎么操作：保姆级实操推演\n如果你手里持有 1 个 BTC 现货，想要在实盘执行这个策略，流程非常机械\n1. 进场时机\n每周五 16:00 UTC（即北京时间周五夜里 24:00），登录 Deribit 网页或 API。\n2. 挑选合约\n进入期权行情看板，筛选当周周日 08:00 UTC（北京时间周日下午 16:00）到期的日度合约，持仓周期正好约 40 小时。 在合约列表中寻找 BS Delta 绝对值最接近目标档位（基准取 0.35）的两条腿：\nCall 腿：寻找 Delta 最接近 +0.35 的虚值看涨期权（例如当前 BTC 现价 64,000 美元，选取行权价 65,500 美元的 Call）。\nPut 腿：寻找 Delta 最接近 -0.35 的虚值看跌期权（例如选取行权价 62,500 美元的 Put）。\n3. 下单卖出\n卖出 1 张选定的 Call 合约；\n卖出 1 张选定的 Put 合约；\n此时账户立即收到两腿权利金（假设合计约 0.011 BTC，即名义资产的 1.1% 左右）。\n4. 仓位与保证金角色\nCall 腿：手中持有的 1 BTC 现货天然充当了备兑抵押品（Covered Call），即使行情大涨，现货升值也会覆盖大部分交割赔付。\nPut 腿：属于裸卖看跌期权（Naked Short Put），必须在账户内预留足够的可用保证金，防范极端暴跌行情下的强平风控。\n5. 周日到期自动结算\n周日 08:00 UTC，Deribit 系统会采集 07:30 ~ 08:00 UTC 的 Deribit Index 时间加权平均价（TWAP） 作为官方交割价，进行现金交割：\n情景 A（完美划水）：周末交割价落在 62,500 ~ 65,500 美元之间。两张期权均为虚值作废，净赚全部 0.011 BTC 权利金，下周继续！\n情景 B（单边突破）：周末交割价冲至 66,000 美元或跌至 61,000 美元。系统自动扣除实值部分的币本位赔付，当赔付小于收到的保费时依然微利，超出平衡点后产生净亏损。\n回测结果看板\n基于 2022-09-02 至 2026-08-21 共 208 个周末的历史全量回测结果如下\nETH:\n \nBTC:\n \n\n算上复利的净值曲线\n\n \nBTC 35Δ 的最大动态回撤为 −10.5%（复利口径 −11.2%），ETH 最大回撤为 −11.1%（复利口径 −22.4%）。两次主要回撤分别发生在 2023 年初与 2026 年初的极端跳空行情。\n逐周盈亏柱状图\n正绿负红，直观展示卖方策略\"多次小赢、少数大亏\"的非对称节奏：\n \n收益分布直方图\n把 208 周收益分箱，可以清晰看到绝大多数样本集中在 +0.5% ~ +1.5% 的狭窄区间，而左侧出现极少数拖尾亏损：\n \n十二档 Delta 全网格敏感性分析\n回测同时扫描了 0.05 至 0.60 共 12 档 Delta：\n \n周末效应与方差风险溢价（VRP）：超额收益的真正来源\n做空波动率的核心逻辑，是赚取隐含波动率（IV）与已实现波动率（RV）之间的方差风险溢价（Variance Risk Premium, VRP）：\n\\mathrm{VRP} = \\mathrm{IV}^2 - \\mathrm{RV}^2\n但这里有一个关键的逻辑分水岭：这个策略之所以有效，究竟是因为周末特有的低波动日历效应，还是仅仅吃到了加密市场一般的做空波动率溢价？\n为了验证周末是否具有独属的超额 Edge，我们抽取了 2022-09 至 2026-08 全量样本中相同 40 小时跨度的 4 个时间窗口进行横向对照：\nFri 16:00 -> Sun 08:00（周末持仓窗口，40h）\nMon 16:00 -> Wed 08:00（工作日窗口 Mon-Wed，40h）\nTue 16:00 -> Thu 08:00（工作日窗口 Tue-Thu，40h）\nWed 16:00 -> Fri 08:00（工作日窗口 Wed-Fri，40h）\n \n数据给出了非常明确的答案：\nBTC 周末的平均已实现波动率比工作日系统性低了 40% 左右（27.4% vs 45.0%~46.9%）；\nETH 周末同样低了 35% 左右（39.1% vs 58.8%~61.0%）；\n在期权按照 7×24 连续时间快速消耗 Theta 的同时，实际波动率在周末出现大幅休眠。这意味着周末做空波动率的方差溢价  \nE[VRP_{\\mathrm{weekend}}]\n显著高于普通交易日，构成了该策略最坚实的结构性阿尔法底座。\n\n完整版文章 ：\nhttps://mizore.blog/zh/Trading/crypto-options-weekend-strangle-backte",
+          "preview_text": "总所周知，加密货币周末的行情波动十分的低，这个时候，合约毫无用武之地.\n\n那么，有没有策略可以在周末这两天获利？",
+          "title": "加密如何在低波动的周末赚钱"
+        },
+        "attachments": {},
+        "author_id": "1987885638038036480",
+        "conversation_id": "2092962469144899695",
+        "created_at": "2026-08-27T13:08:32.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T14:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092962469144899695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2092…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/article/2092959266332405761",
+              "start": 0,
+              "status": 404,
+              "unwound_url": "https://x.com/i/article/2092959266332405761",
+              "url": "https://t.co/htymtowXfh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092962469144899695",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 267,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/htymtowXfh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2092974764323197280",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 165,
+          "like_count": 31847,
+          "listed_count": 4,
+          "media_count": 516,
+          "tweet_count": 5894
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "08 大一\n开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\ngroup: https://t.co/pqGQW3HDeN\nemail: www@mizore.blog\ntelegram: https://t.co/yRGqdtA0JC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+DGSMTqhPGXkyM…",
+                "end": 73,
+                "expanded_url": "https://t.me/+DGSMTqhPGXkyM2E1",
+                "start": 50,
+                "url": "https://t.co/pqGQW3HDeN"
+              },
+              {
+                "display_url": "t.me/aac6fef",
+                "end": 130,
+                "expanded_url": "http://t.me/aac6fef",
+                "start": 107,
+                "url": "https://t.co/yRGqdtA0JC"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "is_identity_verified": false,
+        "location": "Crazy Universe ",
+        "most_recent_tweet_id": "2092962798544605635",
+        "name": "雨夹雪❄️",
+        "pinned_tweet_id": "2082711443598971203",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1734,
+          "following_count": 1061,
+          "like_count": 29825,
+          "listed_count": 4,
+          "media_count": 1228,
+          "tweet_count": 6169
+        },
+        "url": "",
+        "username": "mizorewww",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

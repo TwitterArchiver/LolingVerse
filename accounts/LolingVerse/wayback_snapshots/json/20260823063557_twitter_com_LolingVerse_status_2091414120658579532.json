@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091201277934137344"
+      ],
+      "media_source_tweet_id": [
+        "2091201867737145472"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1447598669843156992",
+          "name": "Translation"
+        }
+      }
+    ],
+    "conversation_id": "2091414120658579532",
+    "created_at": "2026-08-23T06:35:57.000Z",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T07:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091414120658579532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "777938287742910464",
+          "start": 3,
+          "username": "yuntiandeng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/871CI2XdUz",
+          "end": 123,
+          "expanded_url": "https://x.com/yuntiandeng/status/2091201867737145472/photo/1",
+          "media_key": "3_2091201277934137344",
+          "start": 100,
+          "url": "https://t.co/871CI2XdUz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091414120658579532",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2091201277934137344"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 627
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091201867737145472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuntiandeng: Claude has become a language, so I built a translator.\n\nEnglish &lt;-&gt; Claudish https://t.co/871CI2XdUz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 868,
+        "media_key": "3_2091201277934137344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQVwe40bcAA1J7X.jpg",
+        "width": 1486
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091201277934137344"
+          ],
+          "media_source_tweet_id": [
+            "2091201867737145472"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1447598669843156992",
+              "name": "Translation"
+            }
+          }
+        ],
+        "conversation_id": "2091414120658579532",
+        "created_at": "2026-08-23T06:35:57.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T07:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091414120658579532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "777938287742910464",
+              "start": 3,
+              "username": "yuntiandeng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/871CI2XdUz",
+              "end": 123,
+              "expanded_url": "https://x.com/yuntiandeng/status/2091201867737145472/photo/1",
+              "media_key": "3_2091201277934137344",
+              "start": 100,
+              "url": "https://t.co/871CI2XdUz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091414120658579532",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2091201277934137344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 627
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091201867737145472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuntiandeng: Claude has become a language, so I built a translator.\n\nEnglish &lt;-&gt; Claudish https://t.co/871CI2XdUz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091201277934137344"
+          ]
+        },
+        "author_id": "777938287742910464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1447598669843156992",
+              "name": "Translation"
+            }
+          }
+        ],
+        "conversation_id": "2091201867737145472",
+        "created_at": "2026-08-22T16:32:32.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091201867737145472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/871CI2XdUz",
+              "end": 106,
+              "expanded_url": "https://x.com/yuntiandeng/status/2091201867737145472/photo/1",
+              "media_key": "3_2091201277934137344",
+              "start": 83,
+              "url": "https://t.co/871CI2XdUz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091201867737145472",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2091201277934137344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1895,
+          "impression_count": 458448,
+          "like_count": 10010,
+          "quote_count": 129,
+          "reply_count": 203,
+          "retweet_count": 627
+        },
+        "reply_settings": "everyone",
+        "text": "Claude has become a language, so I built a translator.\n\nEnglish &lt;-&gt; Claudish https://t.co/871CI2XdUz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2091414120658579532",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 165,
+          "like_count": 31064,
+          "listed_count": 4,
+          "media_count": 498,
+          "tweet_count": 5740
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-09-19T18:31:56.000Z",
+        "description": "ProgramAsWeights, NeuralOS | AP @UWaterloo | Associate @Harvard | Faculty Affiliate @VectorInst | Former Postdoc @ai2_mosaic | PhD @Harvard",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "UWaterloo"
+              },
+              {
+                "end": 63,
+                "start": 55,
+                "username": "Harvard"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "VectorInst"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "ai2_mosaic"
+              },
+              {
+                "end": 139,
+                "start": 131,
+                "username": "Harvard"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuntiandeng.com",
+                "end": 23,
+                "expanded_url": "https://yuntiandeng.com/",
+                "start": 0,
+                "url": "https://t.co/MDeGvBSsmx"
+              }
+            ]
+          }
+        },
+        "id": "777938287742910464",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091372650266562974",
+        "name": "Yuntian Deng",
+        "pinned_tweet_id": "2091201867737145472",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743388152373432320/puy5JWXF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9936,
+          "following_count": 3636,
+          "like_count": 14571,
+          "listed_count": 120,
+          "media_count": 115,
+          "tweet_count": 1459
+        },
+        "url": "https://t.co/MDeGvBSsmx",
+        "username": "yuntiandeng",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

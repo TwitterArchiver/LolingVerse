@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Stocks",
+          "id": "847894852779900928",
+          "name": "Stocks & indices"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1306652771991478273",
+          "name": "$GOLD"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1417445956589539329",
+          "name": "Metals trading"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+          "id": "166",
+          "name": "Stocks"
+        },
+        "entity": {
+          "id": "1306652771991478273",
+          "name": "$GOLD"
+        }
+      }
+    ],
+    "conversation_id": "2093547131709641101",
+    "created_at": "2026-08-29T03:52:35.000Z",
+    "display_text_range": [
+      0,
+      176
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T04:52:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093547336811028862"
+    ],
+    "entities": {
+      "cashtags": [
+        {
+          "end": 99,
+          "start": 94,
+          "tag": "GOLD"
+        },
+        {
+          "end": 137,
+          "start": 132,
+          "tag": "GOLD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093547336811028862",
+    "in_reply_to_user_id": "1836041585475346432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "cashtags": [
+          {
+            "end": 99,
+            "start": 94,
+            "tag": "GOLD"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "panewslab.com/zh/articles/01…",
+            "end": 266,
+            "expanded_url": "https://www.panewslab.com/zh/articles/01a04b9b-56ba-756c-b036-df021536258b",
+            "start": 243,
+            "url": "https://t.co/KZPkMcm2Cn"
+          }
+        ]
+      },
+      "text": "获特朗普关注的realtrumpcoins账号推出$GOLD代币，团队持有供应量的82.45%\n\nPANews 8月29日消息，获特朗普关注的 realtrumpcoins 账号推出名为 $GOLD 的代币。据 Lookonchain 监测，开发者持有 6 亿枚 $GOLD，且有 15 个新创建的钱包共花费 18,657 美元购入了 2.245 亿枚 $GOLD。目前，该团队控制着代币总供应量的 82.45%。 目前该账号存在被盗用的嫌疑， PANews 建议用户务必谨慎。\n\n🔗 https://t.co/KZPkMcm2Cn"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093547131709641101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "获特朗普关注的realtrumpcoins账号推出$GOLD代币，团队持有供应量的82.45%\n\nPANews 8月29日消息，获特朗普关注的 realtrumpcoins 账号推出名为 $GOLD 的代币。据 Lookonchain 监测，开发者持有 6 亿枚 $GOLD，且有 15 个新创建的钱包共花费 18,657 美元购入了 2.245 亿枚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3192,
+        "media_key": "3_2093547116832411648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3GArtW0AAdxqb.jpg",
+        "width": 1841
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1306652771991478273",
+              "name": "$GOLD"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1417445956589539329",
+              "name": "Metals trading"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1306652771991478273",
+              "name": "$GOLD"
+            }
+          }
+        ],
+        "conversation_id": "2093547131709641101",
+        "created_at": "2026-08-29T03:52:35.000Z",
+        "display_text_range": [
+          0,
+          176
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T04:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093547336811028862"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 99,
+              "start": 94,
+              "tag": "GOLD"
+            },
+            {
+              "end": 137,
+              "start": 132,
+              "tag": "GOLD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093547336811028862",
+        "in_reply_to_user_id": "1836041585475346432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "cashtags": [
+              {
+                "end": 99,
+                "start": 94,
+                "tag": "GOLD"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "panewslab.com/zh/articles/01…",
+                "end": 266,
+                "expanded_url": "https://www.panewslab.com/zh/articles/01a04b9b-56ba-756c-b036-df021536258b",
+                "start": 243,
+                "url": "https://t.co/KZPkMcm2Cn"
+              }
+            ]
+          },
+          "text": "获特朗普关注的realtrumpcoins账号推出$GOLD代币，团队持有供应量的82.45%\n\nPANews 8月29日消息，获特朗普关注的 realtrumpcoins 账号推出名为 $GOLD 的代币。据 Lookonchain 监测，开发者持有 6 亿枚 $GOLD，且有 15 个新创建的钱包共花费 18,657 美元购入了 2.245 亿枚 $GOLD。目前，该团队控制着代币总供应量的 82.45%。 目前该账号存在被盗用的嫌疑， PANews 建议用户务必谨慎。\n\n🔗 https://t.co/KZPkMcm2Cn"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093547131709641101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "获特朗普关注的realtrumpcoins账号推出$GOLD代币，团队持有供应量的82.45%\n\nPANews 8月29日消息，获特朗普关注的 realtrumpcoins 账号推出名为 $GOLD 的代币。据 Lookonchain 监测，开发者持有 6 亿枚 $GOLD，且有 15 个新创建的钱包共花费 18,657 美元购入了 2.245 亿枚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093547116832411648"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2093547131709641101",
+        "created_at": "2026-08-29T03:51:47.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T04:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093547131709641101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DRVz9XcIOH",
+              "end": 27,
+              "expanded_url": "https://x.com/LolingVerse/status/2093547131709641101/photo/1",
+              "media_key": "3_2093547116832411648",
+              "start": 4,
+              "url": "https://t.co/DRVz9XcIOH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093547131709641101",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093547116832411648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "归零！ https://t.co/DRVz9XcIOH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2093547336811028862",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 166,
+          "like_count": 32127,
+          "listed_count": 4,
+          "media_count": 520,
+          "tweet_count": 5958
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

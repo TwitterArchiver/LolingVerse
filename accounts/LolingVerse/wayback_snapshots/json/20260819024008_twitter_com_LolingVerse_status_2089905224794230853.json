@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2089905224794230853",
+    "created_at": "2026-08-19T02:40:08.000Z",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T03:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089905224794230853"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dotey/status/2…",
+          "end": 161,
+          "expanded_url": "https://twitter.com/dotey/status/2089717198327583193",
+          "start": 138,
+          "url": "https://t.co/h8ClmbEnwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089905224794230853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089717198327583193",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想体验一下1958年的土法炼钢吗？\n\n找点砖和黏土砌个小高炉，准备煤炭、铁矿石和石灰石，再接上鼓风设备。燃料、矿石、熔剂一层层加入炉内，持续鼓风升温，铁矿石在高温还原气氛中变成铁，最后出炉、浇铸。\n\n属于那个年代的硬核 DIY：没有现代工业设备，自己搭炉子、配原料、炼金属。 https://t.co/h8ClmbEnwQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2089905224794230853",
+        "created_at": "2026-08-19T02:40:08.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T03:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089905224794230853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dotey/status/2…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/dotey/status/2089717198327583193",
+              "start": 138,
+              "url": "https://t.co/h8ClmbEnwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089905224794230853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089717198327583193",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想体验一下1958年的土法炼钢吗？\n\n找点砖和黏土砌个小高炉，准备煤炭、铁矿石和石灰石，再接上鼓风设备。燃料、矿石、熔剂一层层加入炉内，持续鼓风升温，铁矿石在高温还原气氛中变成铁，最后出炉、浇铸。\n\n属于那个年代的硬核 DIY：没有现代工业设备，自己搭炉子、配原料、炼金属。 https://t.co/h8ClmbEnwQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3178231",
+        "conversation_id": "2089717198327583193",
+        "created_at": "2026-08-18T14:12:59.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T15:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089717198327583193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_jasonwei/stat…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/_jasonwei/status/2089429555371024577",
+              "start": 102,
+              "url": "https://t.co/S2bGiCiZJ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089717198327583193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一直有一种观点，就是小模型加 Harness，就能达到大模型的智能效果：\n> 只需要一个 10 亿参数的小模型作为“认知核心”，其余能力靠联网搜索、执行代码等工具补齐就够了。\n\nJason Wei （思维链提示技术的核心作者之一）的新推文，反驳了“小模型+工具”路线，认为光靠工具，撑不起顶级智能，把知识“内化在大脑”和“现查现用”是两回事。\n\n小模型+工具就能行的观点之所以流行，因为理论上确实说得通：模型不知道的冷门知识，可以上网查；不会算的题，可以调用代码。小模型加工具，似乎没有做不到的事。而小模型意味着更低的算力成本，对整个行业都很有吸引力。\n\n他用自己学羽毛球打了个比方。教练教的每个动作他都能做出来，但要在实战中流畅串联，跟练了上万次形成肌肉记忆的人完全不是一个级别。语言模型也一样，内化了知识的大模型和靠工具临时检索的小模型，体验差距很明显。\n\n具体来说有三点。第一是速度，直接给出答案远比调用工具搜一圈再回答快得多。第二是理解的深度，比如你问一个音乐节的口碑如何，大模型能基于海量数据给出综合判断，而小模型只能搬运搜索结果里排在前面的几条评论。第三是可靠性，每次都要重新查资料、重新推导，出错的概率更高，在复杂的长任务中错误还会层层累积。\n\n回顾“苦涩的教训”（Bitter Lesson）里面的观点：历史反复证明，靠扩大规模获得的能力提升，总是胜过精巧的工程设计。工具让小模型能做更多事，但追求最高质量的用户，始终会需要更大的模型。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 288,
+          "impression_count": 72668,
+          "like_count": 375,
+          "quote_count": 10,
+          "reply_count": 86,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089429555371024577",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一直有一种观点，就是小模型加 Harness，就能达到大模型的智能效果：\n&gt; 只需要一个 10 亿参数的小模型作为“认知核心”，其余能力靠联网搜索、执行代码等工具补齐就够了。\n\nJason Wei https://t.co/S2bGiCiZJ6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2089905224794230853",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 168,
+          "like_count": 30489,
+          "listed_count": 4,
+          "media_count": 488,
+          "tweet_count": 5673
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2007-04-02T03:42:14.000Z",
+        "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "baoyu.io",
+                "end": 23,
+                "expanded_url": "https://baoyu.io",
+                "start": 0,
+                "url": "https://t.co/icobX4ABpM"
+              }
+            ]
+          }
+        },
+        "id": "3178231",
+        "is_identity_verified": true,
+        "location": "Chicago, IL",
+        "most_recent_tweet_id": "2089840136787726793",
+        "name": "宝玉",
+        "pinned_tweet_id": "1996285439867556304",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241576,
+          "following_count": 1708,
+          "like_count": 53734,
+          "listed_count": 4403,
+          "media_count": 5819,
+          "tweet_count": 33474
+        },
+        "url": "https://t.co/icobX4ABpM",
+        "username": "dotey",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

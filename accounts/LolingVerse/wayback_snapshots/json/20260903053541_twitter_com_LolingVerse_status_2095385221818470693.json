@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2095170966200435015",
+    "created_at": "2026-09-03T05:35:41.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T06:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095385221818470693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "725589139178045440",
+          "start": 0,
+          "username": "94vanAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095385221818470693",
+    "in_reply_to_user_id": "725589139178045440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095170966200435015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@94vanAI 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1904,
+        "media_key": "3_2095170645134835717",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROKmd8WgAUntov.jpg",
+        "width": 2544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2095170966200435015",
+        "created_at": "2026-09-03T05:35:41.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T06:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095385221818470693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "725589139178045440",
+              "start": 0,
+              "username": "94vanAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095385221818470693",
+        "in_reply_to_user_id": "725589139178045440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095170966200435015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@94vanAI 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095170645134835717"
+          ]
+        },
+        "author_id": "725589139178045440",
+        "conversation_id": "2095170966200435015",
+        "created_at": "2026-09-02T15:24:19.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095170966200435015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ev0803oBX7",
+              "end": 37,
+              "expanded_url": "https://x.com/94vanAI/status/2095170966200435015/photo/1",
+              "media_key": "3_2095170645134835717",
+              "start": 14,
+              "url": "https://t.co/ev0803oBX7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095170966200435015",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095170645134835717"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9217,
+          "impression_count": 2487634,
+          "like_count": 24491,
+          "quote_count": 110,
+          "reply_count": 152,
+          "retweet_count": 722
+        },
+        "reply_settings": "everyone",
+        "text": "😂 男的！男的！🙏是男生！ https://t.co/ev0803oBX7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2095385221818470693",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 167,
+          "like_count": 32510,
+          "listed_count": 4,
+          "media_count": 536,
+          "tweet_count": 6031
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-04-28T07:35:06.000Z",
+        "description": "🎨：P·Art originator｜Internet ID: 94\n🪪：P：Ⓟ𝕃𝔸𝕐𝔽𝕆ℝ𝔾𝔼｜VSC｜@vibeshotclub\n📲：@momo_film2006 💃👈🏻（Realistic real-life collection）\n📮：iam94van@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "vibeshotclub"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "momo_film2006"
+              }
+            ]
+          }
+        },
+        "id": "725589139178045440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095371249841316135",
+        "name": "𝟡𝟜 ᴾᴸᴬʸᶠᴼᴿᴳᴱ",
+        "pinned_tweet_id": "2040404570732396658",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/725589139178045440/1786258063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058258788483035136/t4o99Kng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23887,
+          "following_count": 94,
+          "like_count": 3023,
+          "listed_count": 207,
+          "media_count": 1594,
+          "tweet_count": 4549
+        },
+        "url": "",
+        "username": "94vanAI",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

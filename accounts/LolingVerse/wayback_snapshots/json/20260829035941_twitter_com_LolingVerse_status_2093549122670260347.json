@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2093525350450135216",
+    "created_at": "2026-08-29T03:59:41.000Z",
+    "display_text_range": [
+      12,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T04:59:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093549122670260347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1549072812",
+          "start": 0,
+          "username": "yaoguaibnb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/LolingVerse/st…",
+          "end": 35,
+          "expanded_url": "https://x.com/LolingVerse/status/2093547131709641101?s=20",
+          "start": 12,
+          "url": "https://t.co/oqoS1VQBU2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093549122670260347",
+    "in_reply_to_user_id": "1549072812",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093547131709641101",
+        "type": "quoted"
+      },
+      {
+        "id": "2093525350450135216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaoguaibnb https://t.co/oqoS1VQBU2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093525335128346624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ2yM0ibEAAaOBf.jpg",
+        "width": 943
+      },
+      {
+        "height": 1945,
+        "media_key": "3_2093525335119941632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ2yM0ga0AArCjx.jpg",
+        "width": 1279
+      },
+      {
+        "height": 3192,
+        "media_key": "3_2093547116832411648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3GArtW0AAdxqb.jpg",
+        "width": 1841
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2093525350450135216",
+        "created_at": "2026-08-29T03:59:41.000Z",
+        "display_text_range": [
+          12,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T04:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093549122670260347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1549072812",
+              "start": 0,
+              "username": "yaoguaibnb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/LolingVerse/st…",
+              "end": 35,
+              "expanded_url": "https://x.com/LolingVerse/status/2093547131709641101?s=20",
+              "start": 12,
+              "url": "https://t.co/oqoS1VQBU2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093549122670260347",
+        "in_reply_to_user_id": "1549072812",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093547131709641101",
+            "type": "quoted"
+          },
+          {
+            "id": "2093525350450135216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaoguaibnb https://t.co/oqoS1VQBU2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093525335128346624",
+            "3_2093525335119941632"
+          ]
+        },
+        "author_id": "1549072812",
+        "conversation_id": "2093525350450135216",
+        "created_at": "2026-08-29T02:25:14.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T03:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093525350450135216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wy76cwwHMr",
+              "end": 47,
+              "expanded_url": "https://x.com/yaoguaibnb/status/2093525350450135216/photo/1",
+              "media_key": "3_2093525335128346624",
+              "start": 24,
+              "url": "https://t.co/wy76cwwHMr"
+            },
+            {
+              "display_url": "pic.x.com/wy76cwwHMr",
+              "end": 47,
+              "expanded_url": "https://x.com/yaoguaibnb/status/2093525350450135216/photo/1",
+              "media_key": "3_2093525335119941632",
+              "start": 24,
+              "url": "https://t.co/wy76cwwHMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093525350450135216",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093525335128346624"
+          },
+          {
+            "media_key": "3_2093525335119941632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 73066,
+          "like_count": 60,
+          "quote_count": 5,
+          "reply_count": 53,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "醒醒\n\n各位特朗普发币了，特朗普发币了，牛来了 https://t.co/wy76cwwHMr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093547116832411648"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2093547131709641101",
+        "created_at": "2026-08-29T03:51:47.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T04:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093547131709641101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DRVz9XcIOH",
+              "end": 27,
+              "expanded_url": "https://x.com/LolingVerse/status/2093547131709641101/photo/1",
+              "media_key": "3_2093547116832411648",
+              "start": 4,
+              "url": "https://t.co/DRVz9XcIOH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093547131709641101",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093547116832411648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "归零！ https://t.co/DRVz9XcIOH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2093549122670260347",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 166,
+          "like_count": 32127,
+          "listed_count": 4,
+          "media_count": 520,
+          "tweet_count": 5960
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-06-26T21:05:19.000Z",
+        "description": "妖怪姐姐",
+        "id": "1549072812",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2093545632049050005",
+        "name": "妖怪｜web3猎手",
+        "pinned_tweet_id": "2083374603951612025",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1549072812/1784735824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077449600223617024/IKoBSLDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35167,
+          "following_count": 7104,
+          "like_count": 1594,
+          "listed_count": 277,
+          "media_count": 293,
+          "tweet_count": 488
+        },
+        "url": "",
+        "username": "yaoguaibnb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

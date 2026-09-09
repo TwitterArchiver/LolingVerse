@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091939705810280448"
+      ],
+      "media_source_tweet_id": [
+        "2091939713657786729"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2092031681582473501",
+    "created_at": "2026-08-24T23:29:55.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T00:29:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092031681582473501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1455394858252701696",
+          "start": 3,
+          "username": "Chaos___L"
+        },
+        {
+          "end": 24,
+          "id": "340107534",
+          "start": 15,
+          "username": "duanhjlt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j2Urd6tUCI",
+          "end": 48,
+          "expanded_url": "https://x.com/Chaos___L/status/2091939713657786729/photo/1",
+          "media_key": "3_2091939705810280448",
+          "start": 25,
+          "url": "https://t.co/j2Urd6tUCI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092031681582473501",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2091939705810280448"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091939713657786729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chaos___L: @duanhjlt https://t.co/j2Urd6tUCI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1208,
+        "media_key": "3_2091939705810280448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQgQFDBbYAAEGlv.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091939705810280448"
+          ],
+          "media_source_tweet_id": [
+            "2091939713657786729"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2092031681582473501",
+        "created_at": "2026-08-24T23:29:55.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T00:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092031681582473501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1455394858252701696",
+              "start": 3,
+              "username": "Chaos___L"
+            },
+            {
+              "end": 24,
+              "id": "340107534",
+              "start": 15,
+              "username": "duanhjlt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j2Urd6tUCI",
+              "end": 48,
+              "expanded_url": "https://x.com/Chaos___L/status/2091939713657786729/photo/1",
+              "media_key": "3_2091939705810280448",
+              "start": 25,
+              "url": "https://t.co/j2Urd6tUCI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092031681582473501",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2091939705810280448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091939713657786729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chaos___L: @duanhjlt https://t.co/j2Urd6tUCI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091939705810280448"
+          ]
+        },
+        "author_id": "1455394858252701696",
+        "conversation_id": "2091816167606493545",
+        "created_at": "2026-08-24T17:24:28.000Z",
+        "display_text_range": [
+          9,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T18:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091939713657786729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "340107534",
+              "start": 0,
+              "username": "duanhjlt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j2Urd6tUCI",
+              "end": 33,
+              "expanded_url": "https://x.com/Chaos___L/status/2091939713657786729/photo/1",
+              "media_key": "3_2091939705810280448",
+              "start": 10,
+              "url": "https://t.co/j2Urd6tUCI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091939713657786729",
+        "in_reply_to_user_id": "340107534",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2091939705810280448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 24306,
+          "like_count": 90,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091816167606493545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duanhjlt https://t.co/j2Urd6tUCI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2092031681582473501",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 165,
+          "like_count": 31282,
+          "listed_count": 4,
+          "media_count": 500,
+          "tweet_count": 5774
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-02T04:43:27.000Z",
+        "description": "",
+        "id": "1455394858252701696",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091939713657786729",
+        "name": "\\？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455394858252701696/1708929151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773695347346571264/igFy0NZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 115,
+          "like_count": 1397,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "Chaos___L",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-07-22T04:31:23.000Z",
+        "description": "白天上班 ｜晚上上站 ｜摸鱼刷x ｜互动多的都回关",
+        "id": "340107534",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092026064897986839",
+        "name": "赴野",
+        "pinned_tweet_id": "2072130137555083762",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/340107534/1744285074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972814827749011456/IuCjwNAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25531,
+          "following_count": 1294,
+          "like_count": 813,
+          "listed_count": 108,
+          "media_count": 8438,
+          "tweet_count": 15914
+        },
+        "url": "",
+        "username": "duanhjlt",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090893279097188352"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090893304523002198",
+    "created_at": "2026-08-21T20:06:25.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T21:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090893304523002198"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qv95U4mPp6",
+          "end": 23,
+          "expanded_url": "https://x.com/LolingVerse/status/2090893304523002198/photo/1",
+          "media_key": "3_2090893279097188352",
+          "start": 0,
+          "url": "https://t.co/qv95U4mPp6"
+        },
+        {
+          "display_url": "x.com/Shioochicqwq/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Shioochicqwq/status/2090742786656194733",
+          "start": 24,
+          "url": "https://t.co/XrsiGIB2vI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090893304523002198",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2090893279097188352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": true,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090742786656194733",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/qv95U4mPp6 https://t.co/XrsiGIB2vI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1703,
+        "media_key": "3_2090893279097188352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQRYW_vW8AAt61i.jpg",
+        "width": 1841
+      },
+      {
+        "height": 655,
+        "media_key": "3_2090742768230670336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPPeHEbIAAwEKK.jpg",
+        "width": 701
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090893279097188352"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090893304523002198",
+        "created_at": "2026-08-21T20:06:25.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T21:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090893304523002198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qv95U4mPp6",
+              "end": 23,
+              "expanded_url": "https://x.com/LolingVerse/status/2090893304523002198/photo/1",
+              "media_key": "3_2090893279097188352",
+              "start": 0,
+              "url": "https://t.co/qv95U4mPp6"
+            },
+            {
+              "display_url": "x.com/Shioochicqwq/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Shioochicqwq/status/2090742786656194733",
+              "start": 24,
+              "url": "https://t.co/XrsiGIB2vI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090893304523002198",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2090893279097188352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": true,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090742786656194733",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/qv95U4mPp6 https://t.co/XrsiGIB2vI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090742768230670336"
+          ]
+        },
+        "author_id": "2060050991370891265",
+        "conversation_id": "2090742786656194733",
+        "created_at": "2026-08-21T10:08:19.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090742786656194733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wLplXL0G98",
+              "end": 23,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2090742786656194733/photo/1",
+              "media_key": "3_2090742768230670336",
+              "start": 0,
+              "url": "https://t.co/wLplXL0G98"
+            },
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/bghtnya/status/2090700164558475382",
+              "start": 24,
+              "url": "https://t.co/FyGWFo627D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090742786656194733",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2090742768230670336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 649,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090700164558475382",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/wLplXL0G98 https://t.co/FyGWFo627D"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2090893304523002198",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 165,
+          "like_count": 30797,
+          "listed_count": 4,
+          "media_count": 491,
+          "tweet_count": 5710
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-28T17:32:35.000Z",
+        "description": "09｜小证含糖半家长党｜小证260117｜hrt250720🍥｜我草我怎么是爱德华多啊",
+        "id": "2060050991370891265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090868080473972965",
+        "name": "汐落",
+        "pinned_tweet_id": "2078739157397205454",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060051875358261249/Bpop1uMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 353,
+          "like_count": 507,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 412
+        },
+        "url": "",
+        "username": "Shioochicqwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

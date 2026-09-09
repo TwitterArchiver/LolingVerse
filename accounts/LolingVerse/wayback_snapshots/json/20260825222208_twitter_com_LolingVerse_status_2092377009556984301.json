@@ -1,0 +1,492 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092175059519762433"
+      ],
+      "media_source_tweet_id": [
+        "2092190749353791954"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2092377009556984301",
+    "created_at": "2026-08-25T22:22:08.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T23:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092377009556984301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1931340617021521920",
+          "start": 3,
+          "username": "WABISABI_pomo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I9rdwZ0cM7",
+          "end": 80,
+          "expanded_url": "https://x.com/WABISABI_pomo/status/2092190749353791954/photo/1",
+          "media_key": "3_2092175059519762433",
+          "start": 57,
+          "url": "https://t.co/I9rdwZ0cM7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092377009556984301",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092175059519762433"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 396
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092190749353791954",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WABISABI_pomo: イラストをスマホのカメラで写して、そのままスクショをするとエモくなるらしい https://t.co/I9rdwZ0cM7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2092175059519762433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQjmIb6bcAEZdJr.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092175059519762433"
+          ],
+          "media_source_tweet_id": [
+            "2092190749353791954"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2092377009556984301",
+        "created_at": "2026-08-25T22:22:08.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T23:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092377009556984301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1931340617021521920",
+              "start": 3,
+              "username": "WABISABI_pomo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I9rdwZ0cM7",
+              "end": 80,
+              "expanded_url": "https://x.com/WABISABI_pomo/status/2092190749353791954/photo/1",
+              "media_key": "3_2092175059519762433",
+              "start": 57,
+              "url": "https://t.co/I9rdwZ0cM7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092377009556984301",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092175059519762433"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 396
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092190749353791954",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WABISABI_pomo: イラストをスマホのカメラで写して、そのままスクショをするとエモくなるらしい https://t.co/I9rdwZ0cM7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092175059519762433"
+          ]
+        },
+        "author_id": "1931340617021521920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2092190749353791954",
+        "created_at": "2026-08-25T10:02:00.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T11:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092190749353791954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I9rdwZ0cM7",
+              "end": 61,
+              "expanded_url": "https://x.com/WABISABI_pomo/status/2092190749353791954/photo/1",
+              "media_key": "3_2092175059519762433",
+              "start": 38,
+              "url": "https://t.co/I9rdwZ0cM7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092190749353791954",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092175059519762433"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1410,
+          "impression_count": 151224,
+          "like_count": 10086,
+          "quote_count": 29,
+          "reply_count": 6,
+          "retweet_count": 396
+        },
+        "reply_settings": "everyone",
+        "text": "イラストをスマホのカメラで写して、そのままスクショをするとエモくなるらしい https://t.co/I9rdwZ0cM7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2092377009556984301",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 165,
+          "like_count": 31467,
+          "listed_count": 4,
+          "media_count": 503,
+          "tweet_count": 5798
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-07T13:21:16.000Z",
+        "description": "AI player: image, music, movie, animation\nStudio Lead at WS studio https://t.co/Ye3wO71LK1\n❣️9/12.13 #sendAIart @仙台",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 111,
+                "start": 101,
+                "tag": "sendAIart"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ws-studio-wheat.vercel.app",
+                "end": 90,
+                "expanded_url": "https://ws-studio-wheat.vercel.app/",
+                "start": 67,
+                "url": "https://t.co/Ye3wO71LK1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ws-studio-wheat.vercel.app",
+                "end": 23,
+                "expanded_url": "https://ws-studio-wheat.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/Ye3wO71LK1"
+              }
+            ]
+          }
+        },
+        "id": "1931340617021521920",
+        "is_identity_verified": false,
+        "location": "秋田",
+        "most_recent_tweet_id": "2092374366931861847",
+        "name": "てい",
+        "pinned_tweet_id": "2085345627341554054",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1931340617021521920/1775033795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032721504463728640/V-3LYim8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12278,
+          "following_count": 3384,
+          "like_count": 166910,
+          "listed_count": 65,
+          "media_count": 1946,
+          "tweet_count": 26263
+        },
+        "url": "https://t.co/Ye3wO71LK1",
+        "username": "WABISABI_pomo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2092778084504346640",
+    "created_at": "2026-08-27T10:39:05.000Z",
+    "display_text_range": [
+      13,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T11:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092924856513724821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1760476466037559297",
+          "start": 0,
+          "username": "chasen_liao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092924856513724821",
+    "in_reply_to_user_id": "1760476466037559297",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092778084504346640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chasen_liao 3.5 Pro when😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2092778084504346640",
+        "created_at": "2026-08-27T10:39:05.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T11:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092924856513724821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1760476466037559297",
+              "start": 0,
+              "username": "chasen_liao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092924856513724821",
+        "in_reply_to_user_id": "1760476466037559297",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092778084504346640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chasen_liao 3.5 Pro when😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760476466037559297",
+        "conversation_id": "2092778084504346640",
+        "created_at": "2026-08-27T00:55:51.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T01:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092778084504346640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092778084504346640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5205,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在所有的厂商都意识到大家需要的不是超级大模型，而是 Flash 模型了\n\n速度和质量结合才是好模型👌"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2092924856513724821",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 165,
+          "like_count": 31811,
+          "listed_count": 4,
+          "media_count": 516,
+          "tweet_count": 5879
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-22T01:28:17.000Z",
+        "description": "AI 原住民 | Vibe Coding & AI Agent 实战玩家\n\n20岁大四实习生，每天追逐前沿 AI 工具\n分享 Agent 使用技巧、AI前沿动态\n\n“不停追逐”\n\n个人介绍页 👉 https://t.co/o1yvvaEulq\n合作联系V 👉 chasen_liao",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "chasen-intro.vercel.app",
+                "end": 121,
+                "expanded_url": "https://chasen-intro.vercel.app/",
+                "start": 98,
+                "url": "https://t.co/o1yvvaEulq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chasen-clog.cc.cd",
+                "end": 23,
+                "expanded_url": "https://chasen-clog.cc.cd/",
+                "start": 0,
+                "url": "https://t.co/ZxWhUEdbCr"
+              }
+            ]
+          }
+        },
+        "id": "1760476466037559297",
+        "is_identity_verified": true,
+        "location": "Wan Chai District, Hong Kong",
+        "most_recent_tweet_id": "2092918085833695297",
+        "name": "Chasen",
+        "pinned_tweet_id": "2092624589172130256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1760476466037559297/1772632094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079135588792651776/CrCkegI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2829,
+          "following_count": 2153,
+          "like_count": 4973,
+          "listed_count": 4,
+          "media_count": 280,
+          "tweet_count": 6261
+        },
+        "url": "https://t.co/ZxWhUEdbCr",
+        "username": "chasen_liao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

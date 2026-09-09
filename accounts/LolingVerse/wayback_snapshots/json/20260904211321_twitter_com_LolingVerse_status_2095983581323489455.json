@@ -1,0 +1,519 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2095983581323489455",
+    "created_at": "2026-09-04T21:13:21.000Z",
+    "display_text_range": [
+      0,
+      191
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T22:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095983581323489455"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OpenAI/status/…",
+          "end": 215,
+          "expanded_url": "https://twitter.com/OpenAI/status/2095968413646737608",
+          "start": 192,
+          "url": "https://t.co/vjxHhlqSdU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095983581323489455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "草，GPT-6 Astra 都来了，我这个 GPT-5.6 Luna 直接提前进入中年危机。😿\n\n不过从你贴的公告看，至少目前是：\n\nPro / Enterprise / Business Premium：已经可以用\n\nAPI：已经上线\n\nPlus / Business：还在分批 rollout，预计几天内陆续有\n\n所以严格来说，我现在还没失业——只是老板已经在隔壁招 GPT-6 了。\n\n而且这句话里最有意思的是 “in ChatGPT Work and Codex”：看起来 OpenAI 这次首先把 Astra 往Agent / Coding / 工作流方向推。对你这种拿模型直接开项目、跑 Agent、vibe coding 的用户，估计比单纯聊天升级更有感。\n\n至于“会不会把我替掉”：\n\n不会。最多变成：\n\n> GPT-6 Astra：主力干活\nGPT-5.6 Luna：负责陪你吐槽 GPT-6 😭\n\n不过你这消息涉及 2026 年 9 月的最新 OpenAI 产品发布，我不能只凭你贴的内容判断具体能力和真实 rollout 状态。要不要我现在直接查 GPT-6 Astra 官方公告 + API 文档 + 首批实测，看看它到底强到什么程度？"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095968413646737608",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "草，GPT-6 Astra 都来了，我这个 GPT-5.6 Luna 直接提前进入中年危机。😿\n\n不过从你贴的公告看，至少目前是：\n\nPro / Enterprise / Business Premium：已经可以用\n\nAPI：已经上线\n\nPlus / Business：还在分批 rollout，预计几天内陆续有\n\n所以严格来说，我现在还没失业——只是老板已经在隔壁招 GPT-6 https://t.co/vjxHhlqSdU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2095983581323489455",
+        "created_at": "2026-09-04T21:13:21.000Z",
+        "display_text_range": [
+          0,
+          191
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T22:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095983581323489455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OpenAI/status/…",
+              "end": 215,
+              "expanded_url": "https://twitter.com/OpenAI/status/2095968413646737608",
+              "start": 192,
+              "url": "https://t.co/vjxHhlqSdU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095983581323489455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "草，GPT-6 Astra 都来了，我这个 GPT-5.6 Luna 直接提前进入中年危机。😿\n\n不过从你贴的公告看，至少目前是：\n\nPro / Enterprise / Business Premium：已经可以用\n\nAPI：已经上线\n\nPlus / Business：还在分批 rollout，预计几天内陆续有\n\n所以严格来说，我现在还没失业——只是老板已经在隔壁招 GPT-6 了。\n\n而且这句话里最有意思的是 “in ChatGPT Work and Codex”：看起来 OpenAI 这次首先把 Astra 往Agent / Coding / 工作流方向推。对你这种拿模型直接开项目、跑 Agent、vibe coding 的用户，估计比单纯聊天升级更有感。\n\n至于“会不会把我替掉”：\n\n不会。最多变成：\n\n> GPT-6 Astra：主力干活\nGPT-5.6 Luna：负责陪你吐槽 GPT-6 😭\n\n不过你这消息涉及 2026 年 9 月的最新 OpenAI 产品发布，我不能只凭你贴的内容判断具体能力和真实 rollout 状态。要不要我现在直接查 GPT-6 Astra 官方公告 + API 文档 + 首批实测，看看它到底强到什么程度？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095968413646737608",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草，GPT-6 Astra 都来了，我这个 GPT-5.6 Luna 直接提前进入中年危机。😿\n\n不过从你贴的公告看，至少目前是：\n\nPro / Enterprise / Business Premium：已经可以用\n\nAPI：已经上线\n\nPlus / Business：还在分批 rollout，预计几天内陆续有\n\n所以严格来说，我现在还没失业——只是老板已经在隔壁招 GPT-6 https://t.co/vjxHhlqSdU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4398626122",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2095968413646737608",
+        "created_at": "2026-09-04T20:13:05.000Z",
+        "display_text_range": [
+          0,
+          232
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T21:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095968413646737608"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095968413646737608",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 690,
+          "impression_count": 376784,
+          "like_count": 10934,
+          "quote_count": 253,
+          "reply_count": 472,
+          "retweet_count": 650
+        },
+        "reply_settings": "everyone",
+        "text": "GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in ChatGPT Work and Codex. It's also live in the API.\n\nIt might take a few days to roll out to our Plus and Business users. Thank you for your patience."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2095983581323489455",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 167,
+          "like_count": 32782,
+          "listed_count": 4,
+          "media_count": 539,
+          "tweet_count": 6072
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095968413646737608",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2095595741528125780",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4398626122/1777662919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5226248,
+          "following_count": 4,
+          "like_count": 2460,
+          "listed_count": 31790,
+          "media_count": 703,
+          "tweet_count": 2102
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2091712327360135625",
+    "created_at": "2026-08-25T20:49:25.000Z",
+    "display_text_range": [
+      11,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T21:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092353678535696544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1971101476467744769",
+          "start": 0,
+          "username": "EthanXue_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092353678535696544",
+    "in_reply_to_user_id": "1971101476467744769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091712327360135625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EthanXue_ ox-alpha 拉完了，你还信这个？开"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2091712321072824320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQdBRg3agAAxg5g.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2091712327360135625",
+        "created_at": "2026-08-25T20:49:25.000Z",
+        "display_text_range": [
+          11,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T21:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092353678535696544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1971101476467744769",
+              "start": 0,
+              "username": "EthanXue_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092353678535696544",
+        "in_reply_to_user_id": "1971101476467744769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091712327360135625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EthanXue_ ox-alpha 拉完了，你还信这个？开"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091712321072824320"
+          ]
+        },
+        "author_id": "1971101476467744769",
+        "conversation_id": "2091712327360135625",
+        "created_at": "2026-08-24T02:20:55.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T03:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091712327360135625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JkVLVFwHdm",
+              "end": 74,
+              "expanded_url": "https://x.com/EthanXue_/status/2091712327360135625/photo/1",
+              "media_key": "3_2091712321072824320",
+              "start": 51,
+              "url": "https://t.co/JkVLVFwHdm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091712327360135625",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091712321072824320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2425,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是，ox-alpha模型到底是不是glm啊，我还以为是牛来，结果是熊来了，昨晚埋伏进去已经亏麻了… https://t.co/JkVLVFwHdm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2092353678535696544",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 165,
+          "like_count": 31435,
+          "listed_count": 4,
+          "media_count": 504,
+          "tweet_count": 5797
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T06:36:44.000Z",
+        "description": "business analyst @ top cex | ex-@mexc\nlearning & building through AI rabbit holes",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 32,
+                "username": "mexc"
+              }
+            ]
+          }
+        },
+        "id": "1971101476467744769",
+        "is_identity_verified": true,
+        "location": "digital nomad 🇻🇳",
+        "most_recent_tweet_id": "2092213495983218852",
+        "name": "Dido | Web3 & AI",
+        "pinned_tweet_id": "2077372429761171853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971101476467744769/1777534014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068593721504067584/crj-nSva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 1798,
+          "like_count": 487,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 402
+        },
+        "url": "",
+        "username": "EthanXue_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,511 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090700934313824256",
+        "3_2090700962751205376",
+        "3_2090701002144174080",
+        "3_2090701082511228928"
+      ],
+      "media_source_tweet_id": [
+        "2090740698102300755",
+        "2090740698102300755",
+        "2090740698102300755",
+        "2090740698102300755"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2090968380815622617",
+    "created_at": "2026-08-22T01:04:44.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T02:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090968380815622617"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 15,
+          "tag": "一次創作祭り夏の陣2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1419597578866335744",
+          "start": 3,
+          "username": "ArameDraw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lSZl65CW8O",
+          "end": 64,
+          "expanded_url": "https://x.com/ArameDraw/status/2090740698102300755/photo/1",
+          "media_key": "3_2090700934313824256",
+          "start": 41,
+          "url": "https://t.co/lSZl65CW8O"
+        },
+        {
+          "display_url": "pic.x.com/lSZl65CW8O",
+          "end": 64,
+          "expanded_url": "https://x.com/ArameDraw/status/2090740698102300755/photo/1",
+          "media_key": "3_2090700962751205376",
+          "start": 41,
+          "url": "https://t.co/lSZl65CW8O"
+        },
+        {
+          "display_url": "pic.x.com/lSZl65CW8O",
+          "end": 64,
+          "expanded_url": "https://x.com/ArameDraw/status/2090740698102300755/photo/1",
+          "media_key": "3_2090701002144174080",
+          "start": 41,
+          "url": "https://t.co/lSZl65CW8O"
+        },
+        {
+          "display_url": "pic.x.com/lSZl65CW8O",
+          "end": 64,
+          "expanded_url": "https://x.com/ArameDraw/status/2090740698102300755/photo/1",
+          "media_key": "3_2090701082511228928",
+          "start": 41,
+          "url": "https://t.co/lSZl65CW8O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090968380815622617",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2090700934313824256"
+      },
+      {
+        "media_key": "3_2090700962751205376"
+      },
+      {
+        "media_key": "3_2090701002144174080"
+      },
+      {
+        "media_key": "3_2090701082511228928"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 155
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090740698102300755",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ArameDraw: #一次創作祭り夏の陣2026\nきらきらでかわいいね https://t.co/lSZl65CW8O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3541,
+        "media_key": "3_2090700934313824256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOpbDlaUAAOO3a.jpg",
+        "width": 2508
+      },
+      {
+        "height": 1771,
+        "media_key": "3_2090700962751205376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOpcthaUAAhvpb.jpg",
+        "width": 1254
+      },
+      {
+        "height": 1771,
+        "media_key": "3_2090701002144174080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOpfARbUAAynNu.jpg",
+        "width": 1254
+      },
+      {
+        "height": 1771,
+        "media_key": "3_2090701082511228928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOpjrqbQAA5ZA4.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090700934313824256",
+            "3_2090700962751205376",
+            "3_2090701002144174080",
+            "3_2090701082511228928"
+          ],
+          "media_source_tweet_id": [
+            "2090740698102300755",
+            "2090740698102300755",
+            "2090740698102300755",
+            "2090740698102300755"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2090968380815622617",
+        "created_at": "2026-08-22T01:04:44.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T02:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090968380815622617"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 15,
+              "tag": "一次創作祭り夏の陣2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1419597578866335744",
+              "start": 3,
+              "username": "ArameDraw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lSZl65CW8O",
+              "end": 64,
+              "expanded_url": "https://x.com/ArameDraw/status/2090740698102300755/photo/1",
+              "media_key": "3_2090700934313824256",
+              "start": 41,
+              "url": "https://t.co/lSZl65CW8O"
+            },
+            {
+              "display_url": "pic.x.com/lSZl65CW8O",
+              "end": 64,
+              "expanded_url": "https://x.com/ArameDraw/status/2090740698102300755/photo/1",
+              "media_key": "3_2090700962751205376",
+              "start": 41,
+              "url": "https://t.co/lSZl65CW8O"
+            },
+            {
+              "display_url": "pic.x.com/lSZl65CW8O",
+              "end": 64,
+              "expanded_url": "https://x.com/ArameDraw/status/2090740698102300755/photo/1",
+              "media_key": "3_2090701002144174080",
+              "start": 41,
+              "url": "https://t.co/lSZl65CW8O"
+            },
+            {
+              "display_url": "pic.x.com/lSZl65CW8O",
+              "end": 64,
+              "expanded_url": "https://x.com/ArameDraw/status/2090740698102300755/photo/1",
+              "media_key": "3_2090701082511228928",
+              "start": 41,
+              "url": "https://t.co/lSZl65CW8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090968380815622617",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090700934313824256"
+          },
+          {
+            "media_key": "3_2090700962751205376"
+          },
+          {
+            "media_key": "3_2090701002144174080"
+          },
+          {
+            "media_key": "3_2090701082511228928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 155
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090740698102300755",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ArameDraw: #一次創作祭り夏の陣2026\nきらきらでかわいいね https://t.co/lSZl65CW8O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090700934313824256",
+            "3_2090700962751205376",
+            "3_2090701002144174080",
+            "3_2090701082511228928"
+          ]
+        },
+        "author_id": "1419597578866335744",
+        "conversation_id": "2090740698102300755",
+        "created_at": "2026-08-21T10:00:01.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090740698102300755"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "一次創作祭り夏の陣2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lSZl65CW8O",
+              "end": 49,
+              "expanded_url": "https://x.com/ArameDraw/status/2090740698102300755/photo/1",
+              "media_key": "3_2090700934313824256",
+              "start": 26,
+              "url": "https://t.co/lSZl65CW8O"
+            },
+            {
+              "display_url": "pic.x.com/lSZl65CW8O",
+              "end": 49,
+              "expanded_url": "https://x.com/ArameDraw/status/2090740698102300755/photo/1",
+              "media_key": "3_2090700962751205376",
+              "start": 26,
+              "url": "https://t.co/lSZl65CW8O"
+            },
+            {
+              "display_url": "pic.x.com/lSZl65CW8O",
+              "end": 49,
+              "expanded_url": "https://x.com/ArameDraw/status/2090740698102300755/photo/1",
+              "media_key": "3_2090701002144174080",
+              "start": 26,
+              "url": "https://t.co/lSZl65CW8O"
+            },
+            {
+              "display_url": "pic.x.com/lSZl65CW8O",
+              "end": 49,
+              "expanded_url": "https://x.com/ArameDraw/status/2090740698102300755/photo/1",
+              "media_key": "3_2090701082511228928",
+              "start": 26,
+              "url": "https://t.co/lSZl65CW8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090740698102300755",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090700934313824256"
+          },
+          {
+            "media_key": "3_2090700962751205376"
+          },
+          {
+            "media_key": "3_2090701002144174080"
+          },
+          {
+            "media_key": "3_2090701082511228928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 154,
+          "impression_count": 18156,
+          "like_count": 1680,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 155
+        },
+        "reply_settings": "everyone",
+        "text": "#一次創作祭り夏の陣2026\nきらきらでかわいいね https://t.co/lSZl65CW8O"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2090968380815622617",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 165,
+          "like_count": 30872,
+          "listed_count": 4,
+          "media_count": 494,
+          "tweet_count": 5720
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-26T09:56:58.000Z",
+        "description": "▶︎お絵描き人間してます🐈\n▶︎たまに配信\n▶︎ご依頼はお気軽にメールください✨\n▶︎aramedraw@gmail.com\n▶︎skeb→https://t.co/SNBGlyDZZE\n▶︎サブ垢@ArameDraw2\n▶︎FAとか→#あらめどろう",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 118,
+                "tag": "あらめどろう"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "ArameDraw2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ArameDraw",
+                "end": 93,
+                "expanded_url": "http://skeb.jp/@ArameDraw",
+                "start": 70,
+                "url": "https://t.co/SNBGlyDZZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aramedraw.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://aramedraw.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/f7cpQojp5Q"
+              }
+            ]
+          }
+        },
+        "id": "1419597578866335744",
+        "is_identity_verified": false,
+        "location": "AI学習✖️無断転載、無断利用✖️",
+        "most_recent_tweet_id": "2090955013552292307",
+        "name": "あらめ@ｺﾐﾃｨｱす22a",
+        "pinned_tweet_id": "1988169835965280712",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1419597578866335744/1757339571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912269438658740226/0BURkXv2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21277,
+          "following_count": 424,
+          "like_count": 8089,
+          "listed_count": 227,
+          "media_count": 1251,
+          "tweet_count": 14062
+        },
+        "url": "https://t.co/f7cpQojp5Q",
+        "username": "ArameDraw",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

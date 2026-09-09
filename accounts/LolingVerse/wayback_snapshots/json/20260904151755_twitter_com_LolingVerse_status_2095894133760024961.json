@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095868046875439104"
+      ],
+      "media_source_tweet_id": [
+        "2095868054840488068"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2095894133760024961",
+    "created_at": "2026-09-04T15:17:55.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T16:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095894133760024961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1378199035849306112",
+          "start": 3,
+          "username": "mogusan__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z9frOjLvlA",
+          "end": 42,
+          "expanded_url": "https://x.com/mogusan__/status/2095868054840488068/photo/1",
+          "media_key": "3_2095868046875439104",
+          "start": 19,
+          "url": "https://t.co/Z9frOjLvlA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095894133760024961",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095868046875439104"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 296
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095868054840488068",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @mogusan__: 🐟🐣箱 https://t.co/Z9frOjLvlA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1583,
+        "media_key": "3_2095868046875439104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRYE4l4aMAAHad5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095868046875439104"
+          ],
+          "media_source_tweet_id": [
+            "2095868054840488068"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2095894133760024961",
+        "created_at": "2026-09-04T15:17:55.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T16:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095894133760024961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1378199035849306112",
+              "start": 3,
+              "username": "mogusan__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z9frOjLvlA",
+              "end": 42,
+              "expanded_url": "https://x.com/mogusan__/status/2095868054840488068/photo/1",
+              "media_key": "3_2095868046875439104",
+              "start": 19,
+              "url": "https://t.co/Z9frOjLvlA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095894133760024961",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095868046875439104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 296
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095868054840488068",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @mogusan__: 🐟🐣箱 https://t.co/Z9frOjLvlA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095868046875439104"
+          ]
+        },
+        "author_id": "1378199035849306112",
+        "conversation_id": "2095868054840488068",
+        "created_at": "2026-09-04T13:34:18.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T14:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095868054840488068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z9frOjLvlA",
+              "end": 27,
+              "expanded_url": "https://x.com/mogusan__/status/2095868054840488068/photo/1",
+              "media_key": "3_2095868046875439104",
+              "start": 4,
+              "url": "https://t.co/Z9frOjLvlA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095868054840488068",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095868046875439104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 319,
+          "impression_count": 17575,
+          "like_count": 2482,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 296
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "🐟🐣箱 https://t.co/Z9frOjLvlA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2095894133760024961",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 167,
+          "like_count": 32750,
+          "listed_count": 4,
+          "media_count": 538,
+          "tweet_count": 6063
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-03T04:15:06.000Z",
+        "description": "描きたいものを描き、呟きたいことを呟きます。🚫無断転載・本人以外の利用、AI禁止 | 声優、アニメ、ゲーム、百合などジャンル雑多な推し活垢| お姉さんは至高| 今はわたたべにお熱",
+        "id": "1378199035849306112",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095868293253050808",
+        "name": "もぐさん",
+        "pinned_tweet_id": "2006602548665524657",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1378199035849306112/1652927771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1471780928783814664/OwkJISQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3983,
+          "following_count": 982,
+          "like_count": 30852,
+          "listed_count": 15,
+          "media_count": 166,
+          "tweet_count": 3661
+        },
+        "url": "",
+        "username": "mogusan__",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

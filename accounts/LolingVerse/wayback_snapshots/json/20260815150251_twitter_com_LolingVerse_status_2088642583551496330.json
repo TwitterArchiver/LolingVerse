@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087480309373911040"
+      ],
+      "media_source_tweet_id": [
+        "2087480317657665763"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2088642583551496330",
+    "created_at": "2026-08-15T15:02:51.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T16:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088642583551496330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "842543934601486336",
+          "start": 3,
+          "username": "Syu9ri16"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1V6fi1ZmrU",
+          "end": 44,
+          "expanded_url": "https://x.com/Syu9ri16/status/2087480317657665763/photo/1",
+          "media_key": "3_2087480309373911040",
+          "start": 21,
+          "url": "https://t.co/1V6fi1ZmrU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088642583551496330",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087480309373911040"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087480317657665763",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Syu9ri16: シナモンミク https://t.co/1V6fi1ZmrU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3990,
+        "media_key": "3_2087480309373911040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPg4SAvawAAi5vE.jpg",
+        "width": 2877
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087480309373911040"
+          ],
+          "media_source_tweet_id": [
+            "2087480317657665763"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2088642583551496330",
+        "created_at": "2026-08-15T15:02:51.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088642583551496330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "842543934601486336",
+              "start": 3,
+              "username": "Syu9ri16"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1V6fi1ZmrU",
+              "end": 44,
+              "expanded_url": "https://x.com/Syu9ri16/status/2087480317657665763/photo/1",
+              "media_key": "3_2087480309373911040",
+              "start": 21,
+              "url": "https://t.co/1V6fi1ZmrU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088642583551496330",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087480309373911040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087480317657665763",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Syu9ri16: シナモンミク https://t.co/1V6fi1ZmrU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087480309373911040"
+          ]
+        },
+        "author_id": "842543934601486336",
+        "conversation_id": "2087480317657665763",
+        "created_at": "2026-08-12T10:04:25.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087480317657665763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1V6fi1ZmrU",
+              "end": 30,
+              "expanded_url": "https://x.com/Syu9ri16/status/2087480317657665763/photo/1",
+              "media_key": "3_2087480309373911040",
+              "start": 7,
+              "url": "https://t.co/1V6fi1ZmrU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087480317657665763",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087480309373911040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 6821,
+          "like_count": 607,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "シナモンミク https://t.co/1V6fi1ZmrU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2088642583551496330",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 166,
+          "like_count": 29496,
+          "listed_count": 4,
+          "media_count": 473,
+          "tweet_count": 5519
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-17T01:11:42.000Z",
+        "description": "◇絵と曲を紡ぐケモ耳好きのｲﾗｽﾄﾚｰﾀｰ＆vtuber『ぽや』＆Live2dﾓﾃﾞﾘﾝｸﾞ＆Designer◇\n⿻現在10月～納品可/企業・個人様OK/依頼相談はDM又はHPへ▶︎ https://t.co/gGd7tdBCQk \n🏷️FA #終末紀行FA #ぽやあ〜と",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 122,
+                "tag": "終末紀行FA"
+              },
+              {
+                "end": 136,
+                "start": 130,
+                "tag": "ぽやあ〜と"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "syu39ma1gen.wixsite.com/my-site",
+                "end": 115,
+                "expanded_url": "https://syu39ma1gen.wixsite.com/my-site",
+                "start": 92,
+                "url": "https://t.co/gGd7tdBCQk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Syu9ri16",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@Syu9ri16",
+                "start": 0,
+                "url": "https://t.co/a1c353tEZ0"
+              }
+            ]
+          }
+        },
+        "id": "842543934601486336",
+        "is_identity_verified": false,
+        "location": "作品のAI学習無断使用禁止、使用料を頂きます",
+        "most_recent_tweet_id": "2088583943444632054",
+        "name": "狐巳夜シュウ",
+        "pinned_tweet_id": "2088574703384563745",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/842543934601486336/1780302689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039305617794641920/i8ku6Jk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32809,
+          "following_count": 191,
+          "like_count": 43391,
+          "listed_count": 281,
+          "media_count": 324,
+          "tweet_count": 50607
+        },
+        "url": "https://t.co/a1c353tEZ0",
+        "username": "Syu9ri16",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

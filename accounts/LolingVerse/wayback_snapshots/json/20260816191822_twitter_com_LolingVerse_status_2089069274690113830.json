@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2089069274690113830",
+    "created_at": "2026-08-16T19:18:22.000Z",
+    "display_text_range": [
+      0,
+      175
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T20:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089069274690113830"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2089069274690113830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "cashtags": [
+          {
+            "end": 220,
+            "start": 218,
+            "tag": "x"
+          }
+        ],
+        "hashtags": [
+          {
+            "end": 307,
+            "start": 304,
+            "tag": "话题"
+          },
+          {
+            "end": 427,
+            "start": 419,
+            "tag": "LaTeXed"
+          },
+          {
+            "end": 438,
+            "start": 430,
+            "tag": "latexed"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "github.com/CheeseGhostfox…",
+            "end": 612,
+            "expanded_url": "https://github.com/CheeseGhostfox/Marked-X-Down",
+            "start": 589,
+            "url": "https://t.co/Dx8Jlbf1SM"
+          }
+        ]
+      },
+      "text": "我去，这也太离谱了吧？？？\n\nX 终于可以正常显示 Markdown 了？？？\n\n刚发现一个非常抽象但又非常实用的浏览器扩展：Marked'X Down\n\n简单来说就是：\n\n👉 让你的 X 时间线直接获得 Markdown + LaTeX 能力。\n\n平时在 X 上看到：\n\n**粗体**、# 标题、- 列表、代码块、表格……\n\n全都只能当普通文本看。\n\n装上这个之后，直接原地变富文本。\n\n而且它甚至还支持 LaTeX 数学公式 🤯\n\n$x^2 + y^2 = z^2$\n\n不用联网，内置 KaTeX + 字体，直接本地渲染。\n更离谱的是，它不是那种“把 X 的 DOM 一把梭替换掉”的暴力插件。\n@提及、#话题、Emoji 都会先缓存，渲染完再塞回去，原本的跳转和用户悬浮卡片还能继续用。\n\n还会自动适配 X 的：\n☀️ Light\n🌆 Dim\n🌑 Lights Out\n\n甚至为了防止 $100 被当成数学公式，作者还专门搞了一个 #LaTeXed / #latexed 触发机制。\n\n也就是说：\n\n你负责发推，它负责把 X 变成 Markdown 阅读器。\n目前还是个非常早期的小项目，GitHub 才刚刚 2 Stars。\n这种东西我最喜欢了：\n不是又一个 AI 套壳，\n不是又一个 SaaS，\n就是单纯看 X 看得难受了——\n\n那就把 X 改了。\n\nGitHub：\nhttps://t.co/Dx8Jlbf1SM\n\nEdge / Chrome 都可以自己加载解压缩扩展，装完刷新 X 就行。\n\n建议所有喜欢在 X 上写技术内容、公式、长文的人都去试试。\n\n这玩意儿属于：\n\n“原来 X 本来不支持这个，那我自己给它加上。”"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我去，这也太离谱了吧？？？\n\nX 终于可以正常显示 Markdown 了？？？\n\n刚发现一个非常抽象但又非常实用的浏览器扩展：Marked'X Down\n\n简单来说就是：\n\n👉 让你的 X 时间线直接获得 Markdown + LaTeX 能力。\n\n平时在 X 上看到：\n\n**粗体**、# 标题、- 列表、代码块、表格……\n\n全都只能当普通文本看。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2089069274690113830",
+        "created_at": "2026-08-16T19:18:22.000Z",
+        "display_text_range": [
+          0,
+          175
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T20:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089069274690113830"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089069274690113830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "cashtags": [
+              {
+                "end": 220,
+                "start": 218,
+                "tag": "x"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 307,
+                "start": 304,
+                "tag": "话题"
+              },
+              {
+                "end": 427,
+                "start": 419,
+                "tag": "LaTeXed"
+              },
+              {
+                "end": 438,
+                "start": 430,
+                "tag": "latexed"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox…",
+                "end": 612,
+                "expanded_url": "https://github.com/CheeseGhostfox/Marked-X-Down",
+                "start": 589,
+                "url": "https://t.co/Dx8Jlbf1SM"
+              }
+            ]
+          },
+          "text": "我去，这也太离谱了吧？？？\n\nX 终于可以正常显示 Markdown 了？？？\n\n刚发现一个非常抽象但又非常实用的浏览器扩展：Marked'X Down\n\n简单来说就是：\n\n👉 让你的 X 时间线直接获得 Markdown + LaTeX 能力。\n\n平时在 X 上看到：\n\n**粗体**、# 标题、- 列表、代码块、表格……\n\n全都只能当普通文本看。\n\n装上这个之后，直接原地变富文本。\n\n而且它甚至还支持 LaTeX 数学公式 🤯\n\n$x^2 + y^2 = z^2$\n\n不用联网，内置 KaTeX + 字体，直接本地渲染。\n更离谱的是，它不是那种“把 X 的 DOM 一把梭替换掉”的暴力插件。\n@提及、#话题、Emoji 都会先缓存，渲染完再塞回去，原本的跳转和用户悬浮卡片还能继续用。\n\n还会自动适配 X 的：\n☀️ Light\n🌆 Dim\n🌑 Lights Out\n\n甚至为了防止 $100 被当成数学公式，作者还专门搞了一个 #LaTeXed / #latexed 触发机制。\n\n也就是说：\n\n你负责发推，它负责把 X 变成 Markdown 阅读器。\n目前还是个非常早期的小项目，GitHub 才刚刚 2 Stars。\n这种东西我最喜欢了：\n不是又一个 AI 套壳，\n不是又一个 SaaS，\n就是单纯看 X 看得难受了——\n\n那就把 X 改了。\n\nGitHub：\nhttps://t.co/Dx8Jlbf1SM\n\nEdge / Chrome 都可以自己加载解压缩扩展，装完刷新 X 就行。\n\n建议所有喜欢在 X 上写技术内容、公式、长文的人都去试试。\n\n这玩意儿属于：\n\n“原来 X 本来不支持这个，那我自己给它加上。”"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去，这也太离谱了吧？？？\n\nX 终于可以正常显示 Markdown 了？？？\n\n刚发现一个非常抽象但又非常实用的浏览器扩展：Marked'X Down\n\n简单来说就是：\n\n👉 让你的 X 时间线直接获得 Markdown + LaTeX 能力。\n\n平时在 X 上看到：\n\n**粗体**、# 标题、- 列表、代码块、表格……\n\n全都只能当普通文本看。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2089069274690113830",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 168,
+          "like_count": 30025,
+          "listed_count": 4,
+          "media_count": 480,
+          "tweet_count": 5609
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

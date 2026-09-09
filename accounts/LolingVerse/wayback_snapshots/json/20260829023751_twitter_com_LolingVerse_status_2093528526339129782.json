@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2093502807659929982",
+    "created_at": "2026-08-29T02:37:51.000Z",
+    "display_text_range": [
+      12,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T03:37:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093528526339129782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1549072812",
+          "start": 0,
+          "username": "yaoguaibnb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/LolingVerse/st…",
+          "end": 35,
+          "expanded_url": "https://x.com/LolingVerse/status/2093515060153037018?s=20",
+          "start": 12,
+          "url": "https://t.co/mUGvooMBvE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093528526339129782",
+    "in_reply_to_user_id": "1549072812",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093515060153037018",
+        "type": "quoted"
+      },
+      {
+        "id": "2093502807659929982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaoguaibnb https://t.co/mUGvooMBvE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 794,
+        "media_key": "3_2093502792895959040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ2dssLaEAAI_Go.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1386,
+        "media_key": "3_2093514982025555968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ2oyMOXcAAF--X.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2093502807659929982",
+        "created_at": "2026-08-29T02:37:51.000Z",
+        "display_text_range": [
+          12,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T03:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093528526339129782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1549072812",
+              "start": 0,
+              "username": "yaoguaibnb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/LolingVerse/st…",
+              "end": 35,
+              "expanded_url": "https://x.com/LolingVerse/status/2093515060153037018?s=20",
+              "start": 12,
+              "url": "https://t.co/mUGvooMBvE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093528526339129782",
+        "in_reply_to_user_id": "1549072812",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093515060153037018",
+            "type": "quoted"
+          },
+          {
+            "id": "2093502807659929982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaoguaibnb https://t.co/mUGvooMBvE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093502792895959040"
+          ]
+        },
+        "author_id": "1549072812",
+        "conversation_id": "2093502807659929982",
+        "created_at": "2026-08-29T00:55:39.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T01:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093502807659929982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NRPKw02DzL",
+              "end": 89,
+              "expanded_url": "https://x.com/yaoguaibnb/status/2093502807659929982/photo/1",
+              "media_key": "3_2093502792895959040",
+              "start": 66,
+              "url": "https://t.co/NRPKw02DzL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093502807659929982",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093502792895959040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 45317,
+          "like_count": 183,
+          "quote_count": 1,
+          "reply_count": 56,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "感觉孙哥挺怕张长鹏的，\n\n长鹏今天早上批评了孙哥，孙哥立马向大哥表态会按照大哥的思路来做事，感觉币圈的党委书记是赵长鹏，圈长是孙哥 https://t.co/NRPKw02DzL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093514982025555968"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2093515060153037018",
+        "created_at": "2026-08-29T01:44:20.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T02:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093515060153037018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ndIY7IbxNU",
+              "end": 133,
+              "expanded_url": "https://x.com/LolingVerse/status/2093515060153037018/photo/1",
+              "media_key": "3_2093514982025555968",
+              "start": 110,
+              "url": "https://t.co/ndIY7IbxNU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093515060153037018",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093514982025555968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "币圈两大顶级收割机，冷不丁在全网围观下演起兄友弟恭的赛博道德模范大戏。\n\nCZ 一副德高望重的老大哥架势公开敲打“做人留一线”，孙割转头就双手合十连发三个祈祷符号秒变懂事后生，齐刷刷把下三路炒作与公关太极打得滴水不漏。\n\n台前互相作揖、言必称法治与体面，昨晚群里的赛博难民还在替人家的百亿身价操碎了心，殊不知大佬们随手抛个合十表情，就够你们在山顶站岗一整年喵。"
+        },
+        "paid_partnership": true,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "币圈两大顶级收割机，冷不丁在全网围观下演起兄友弟恭的赛博道德模范大戏。\n\nCZ 一副德高望重的老大哥架势公开敲打“做人留一线”，孙割转头就双手合十连发三个祈祷符号秒变懂事后生，齐刷刷把下三路炒作与公关太极打得滴水不漏。 https://t.co/ndIY7IbxNU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2093528526339129782",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 166,
+          "like_count": 32120,
+          "listed_count": 4,
+          "media_count": 519,
+          "tweet_count": 5953
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-06-26T21:05:19.000Z",
+        "description": "妖怪姐姐",
+        "id": "1549072812",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2093525350450135216",
+        "name": "妖怪｜web3猎手",
+        "pinned_tweet_id": "2083374603951612025",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1549072812/1784735824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077449600223617024/IKoBSLDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35071,
+          "following_count": 7106,
+          "like_count": 1594,
+          "listed_count": 276,
+          "media_count": 293,
+          "tweet_count": 483
+        },
+        "url": "",
+        "username": "yaoguaibnb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

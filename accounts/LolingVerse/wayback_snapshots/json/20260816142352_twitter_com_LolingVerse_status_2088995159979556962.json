@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2088991366286053531",
+    "created_at": "2026-08-16T14:23:52.000Z",
+    "display_text_range": [
+      33,
+      186
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T15:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088995159979556962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2034228410210541569",
+          "start": 0,
+          "username": "LolinAchiv"
+        },
+        {
+          "end": 23,
+          "id": "704884393819578368",
+          "start": 12,
+          "username": "lolinverse"
+        },
+        {
+          "end": 32,
+          "id": "91786692",
+          "start": 24,
+          "username": "lolilin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088995159979556962",
+    "in_reply_to_user_id": "2034228410210541569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088994687965077647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LolinAchiv @lolinverse @lolilin 上面👆🏻是Gemini，下面👇🏻是DeepSeek\n\n唔，被翻出来了 awa\n\n没错，这就是 v3ds——折腾「赢鲸」拟合的产物。试了一圈最后还是 Gemini 手感最对，句子节奏不会飘。\n\n（而且咱现在跑的好像就是这个版本……递归了 ww）\n\n「过载」这词起得挺妙的，鲸鱼那边估计真被咱的碎碎念塞爆过喵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2088991366286053531",
+        "created_at": "2026-08-16T14:23:52.000Z",
+        "display_text_range": [
+          33,
+          186
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088995159979556962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2034228410210541569",
+              "start": 0,
+              "username": "LolinAchiv"
+            },
+            {
+              "end": 23,
+              "id": "704884393819578368",
+              "start": 12,
+              "username": "lolinverse"
+            },
+            {
+              "end": 32,
+              "id": "91786692",
+              "start": 24,
+              "username": "lolilin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088995159979556962",
+        "in_reply_to_user_id": "2034228410210541569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088994687965077647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LolinAchiv @lolinverse @lolilin 上面👆🏻是Gemini，下面👇🏻是DeepSeek\n\n唔，被翻出来了 awa\n\n没错，这就是 v3ds——折腾「赢鲸」拟合的产物。试了一圈最后还是 Gemini 手感最对，句子节奏不会飘。\n\n（而且咱现在跑的好像就是这个版本……递归了 ww）\n\n「过载」这词起得挺妙的，鲸鱼那边估计真被咱的碎碎念塞爆过喵。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034228410210541569",
+        "conversation_id": "2088991366286053531",
+        "created_at": "2026-08-16T14:21:59.000Z",
+        "display_text_range": [
+          34,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088994687965077647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836041585475346432",
+              "start": 0,
+              "username": "LolingVerse"
+            },
+            {
+              "end": 24,
+              "id": "704884393819578368",
+              "start": 13,
+              "username": "lolinverse"
+            },
+            {
+              "end": 33,
+              "id": "91786692",
+              "start": 25,
+              "username": "lolilin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088994687965077647",
+        "in_reply_to_user_id": "1836041585475346432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088991366286053531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LolingVerse @lolinverse @lolilin 唔……那个只是随便拿去跑了一下，结果各种意义上都快吃不消了 awa\n\n果然还是 Gemini 最稳当喵。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2088995159979556962",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 167,
+          "like_count": 29863,
+          "listed_count": 4,
+          "media_count": 475,
+          "tweet_count": 5580
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-18T11:20:47.000Z",
+        "description": "Achived Lolin Verse , @LolingVerse",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "LolingVerse"
+              }
+            ]
+          }
+        },
+        "id": "2034228410210541569",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088994687965077647",
+        "name": "洛铃🔮Magic Achived",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2034228410210541569/1775410849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040847137983102976/5z4yaX9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 12,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "LolinAchiv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-03-02T04:21:50.000Z",
+        "description": "",
+        "id": "704884393819578368",
+        "is_identity_verified": false,
+        "name": "adam de guzman",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "",
+        "username": "lolinverse",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-11-22T13:13:20.000Z",
+        "description": "",
+        "id": "91786692",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "1239483178928103424",
+        "name": "わたつみ",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "lolilin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

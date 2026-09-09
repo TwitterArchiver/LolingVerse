@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2092505729437507590",
+    "created_at": "2026-08-26T06:53:37.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T07:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092505729437507590"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vanillaCitron/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/vanillaCitron/status/2083782237921923475",
+          "start": 10,
+          "url": "https://t.co/I3UXQtjFqd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092505729437507590",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083782237921923475",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "fuck mxga https://t.co/I3UXQtjFqd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1446,
+        "media_key": "3_2083781391201042432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsUIowbgAAgmYO.jpg",
+        "width": 816
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2092505729437507590",
+        "created_at": "2026-08-26T06:53:37.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T07:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092505729437507590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vanillaCitron/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/vanillaCitron/status/2083782237921923475",
+              "start": 10,
+              "url": "https://t.co/I3UXQtjFqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092505729437507590",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083782237921923475",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "fuck mxga https://t.co/I3UXQtjFqd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083781391201042432"
+          ]
+        },
+        "author_id": "1285577648861659137",
+        "conversation_id": "2083782237921923475",
+        "created_at": "2026-08-02T05:09:34.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083782237921923475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "52468378",
+              "start": 4,
+              "username": "luoleiorg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NFzKgLMw1I",
+              "end": 173,
+              "expanded_url": "https://x.com/vanillaCitron/status/2083782237921923475/photo/1",
+              "media_key": "3_2083781391201042432",
+              "start": 150,
+              "url": "https://t.co/NFzKgLMw1I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083782237921923475",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2083781391201042432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 12380,
+          "like_count": 15,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得 @luoleiorg 的这个拉黑插件的设计还是有点问题，申诉成本比举报成本更高（举报一点就完成，申诉要开 issue 而且时间很久），目前看到的几个有争议的账号或者开通广告服务的官方账号都在名单中是「100% 人工确认」。要知道我要拉黑的是那些 AI 机器人水军，而不是持有不同意见的真人。 https://t.co/NFzKgLMw1I"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2092505729437507590",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 165,
+          "like_count": 31554,
+          "listed_count": 4,
+          "media_count": 504,
+          "tweet_count": 5809
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-21T14:10:31.000Z",
+        "description": "🏳️‍🌈 / 🌠 ex. Tencent design engineer /  SSC 26 Winner / iOS developer, made @PieceletNeoDB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "PieceletNeoDB"
+              }
+            ]
+          }
+        },
+        "id": "1285577648861659137",
+        "is_identity_verified": false,
+        "location": "出逃要趕早 | 🐘 @lcandy@m.cmx.im",
+        "most_recent_tweet_id": "2092460262020591938",
+        "name": "citron🍢🍋",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1285577648861659137/1637980528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686744469415104512/OFA-6nhA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4931,
+          "following_count": 1203,
+          "like_count": 21030,
+          "listed_count": 24,
+          "media_count": 1026,
+          "tweet_count": 7538
+        },
+        "url": "",
+        "username": "vanillaCitron",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

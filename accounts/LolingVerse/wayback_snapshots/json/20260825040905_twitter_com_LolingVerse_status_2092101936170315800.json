@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091813093445902336"
+      ],
+      "media_source_tweet_id": [
+        "2091813110541955260"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2092101936170315800",
+    "created_at": "2026-08-25T04:09:05.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T05:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092101936170315800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1081496788341731328",
+          "start": 3,
+          "username": "uenomigi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X800qukhU4",
+          "end": 37,
+          "expanded_url": "https://x.com/uenomigi/status/2091813110541955260/video/1",
+          "media_key": "13_2091813093445902336",
+          "start": 14,
+          "url": "https://t.co/X800qukhU4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092101936170315800",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2091813093445902336"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 331
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091813110541955260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uenomigi: https://t.co/X800qukhU4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3999,
+        "height": 720,
+        "media_key": "13_2091813093445902336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091813093445902336/img/w5mKw8ygXwZ7rfCR.jpg",
+        "public_metrics": {
+          "view_count": 27910
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091813093445902336/vid/avc1/322x270/6I2LzOIzaskU9275.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091813093445902336/vid/avc1/430x360/st6hWrvq-_SlG8S4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091813093445902336/vid/avc1/860x720/nbF6Hwg_eHfRPCgD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091813093445902336/pl/f8l3TNqhQUql_KQr.m3u8"
+          }
+        ],
+        "width": 860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091813093445902336"
+          ],
+          "media_source_tweet_id": [
+            "2091813110541955260"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092101936170315800",
+        "created_at": "2026-08-25T04:09:05.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T05:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092101936170315800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1081496788341731328",
+              "start": 3,
+              "username": "uenomigi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X800qukhU4",
+              "end": 37,
+              "expanded_url": "https://x.com/uenomigi/status/2091813110541955260/video/1",
+              "media_key": "13_2091813093445902336",
+              "start": 14,
+              "url": "https://t.co/X800qukhU4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092101936170315800",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2091813093445902336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 331
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091813110541955260",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uenomigi: https://t.co/X800qukhU4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091813093445902336"
+          ]
+        },
+        "author_id": "1081496788341731328",
+        "conversation_id": "2091813110541955260",
+        "created_at": "2026-08-24T09:01:24.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T10:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091813110541955260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X800qukhU4",
+              "end": 23,
+              "expanded_url": "https://x.com/uenomigi/status/2091813110541955260/video/1",
+              "media_key": "13_2091813093445902336",
+              "start": 0,
+              "url": "https://t.co/X800qukhU4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091813110541955260",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2091813093445902336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 883,
+          "impression_count": 73119,
+          "like_count": 6426,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 331
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/X800qukhU4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2092101936170315800",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 165,
+          "like_count": 31314,
+          "listed_count": 4,
+          "media_count": 501,
+          "tweet_count": 5778
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-05T10:25:02.000Z",
+        "description": "🩷🩵💛\n✏️Skeb(https://t.co/h59p9QSeWW) \n✉uenomigi〇https://t.co/3kgT24dBV7(〇→@)\nご依頼(commission)Skebのみ受付中\n⚠️無断転載・ 無断使用・AI学習禁止",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@uenomigi",
+                "end": 34,
+                "expanded_url": "http://skeb.jp/@uenomigi",
+                "start": 11,
+                "url": "https://t.co/h59p9QSeWW"
+              },
+              {
+                "display_url": "gmail.com",
+                "end": 70,
+                "expanded_url": "http://gmail.com",
+                "start": 47,
+                "url": "https://t.co/3kgT24dBV7"
+              }
+            ]
+          }
+        },
+        "id": "1081496788341731328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091813110541955260",
+        "name": "うえのみぎ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1081496788341731328/1732614827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750817800128774144/5PbF50fj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77323,
+          "following_count": 241,
+          "like_count": 6576,
+          "listed_count": 599,
+          "media_count": 494,
+          "tweet_count": 3785
+        },
+        "url": "",
+        "username": "uenomigi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

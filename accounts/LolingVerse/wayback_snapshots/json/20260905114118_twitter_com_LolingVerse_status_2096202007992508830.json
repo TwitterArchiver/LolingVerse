@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2095808461724663903",
+    "created_at": "2026-09-05T11:41:18.000Z",
+    "display_text_range": [
+      37,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T12:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096202007992508830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1251334424118976512",
+          "start": 0,
+          "username": "_RxSomeCat_"
+        },
+        {
+          "end": 26,
+          "id": "2065492395949445121",
+          "start": 13,
+          "username": "ZhaoJasoning"
+        },
+        {
+          "end": 36,
+          "id": "1859416269570834433",
+          "start": 27,
+          "username": "c1ndl8st"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096202007992508830",
+    "in_reply_to_user_id": "1251334424118976512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096046652348043407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_RxSomeCat_ @ZhaoJasoning @c1ndl8st 和泛型搭配起来用（\n\n其实只用类型也没关系，也有类似地，fastutil (x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2095808461724663903",
+        "created_at": "2026-09-05T11:41:18.000Z",
+        "display_text_range": [
+          37,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096202007992508830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1251334424118976512",
+              "start": 0,
+              "username": "_RxSomeCat_"
+            },
+            {
+              "end": 26,
+              "id": "2065492395949445121",
+              "start": 13,
+              "username": "ZhaoJasoning"
+            },
+            {
+              "end": 36,
+              "id": "1859416269570834433",
+              "start": 27,
+              "username": "c1ndl8st"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096202007992508830",
+        "in_reply_to_user_id": "1251334424118976512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096046652348043407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_RxSomeCat_ @ZhaoJasoning @c1ndl8st 和泛型搭配起来用（\n\n其实只用类型也没关系，也有类似地，fastutil (x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1251334424118976512",
+        "conversation_id": "2095808461724663903",
+        "created_at": "2026-09-05T01:23:59.000Z",
+        "display_text_range": [
+          24,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T02:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096046652348043407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2065492395949445121",
+              "start": 0,
+              "username": "ZhaoJasoning"
+            },
+            {
+              "end": 23,
+              "id": "1859416269570834433",
+              "start": 14,
+              "username": "c1ndl8st"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096046652348043407",
+        "in_reply_to_user_id": "2065492395949445121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096042506400272730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhaoJasoning @c1ndl8st 是的，基本数据类型都有包装类，Java 有自动装箱拆箱机制"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2096202007992508830",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 167,
+          "like_count": 32834,
+          "listed_count": 4,
+          "media_count": 545,
+          "tweet_count": 6097
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-18T02:19:18.000Z",
+        "description": "全栈攻城狮，主 Java 后端，有需要的可以找我喵～",
+        "id": "1251334424118976512",
+        "is_identity_verified": false,
+        "location": "成都",
+        "most_recent_tweet_id": "2096105661281231274",
+        "name": "守嬴政的很爽～",
+        "pinned_tweet_id": "2095029726813503538",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1251334424118976512/1788312502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094654168434905088/oJaTo7bd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 59,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 249
+        },
+        "url": "",
+        "username": "_RxSomeCat_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-12T17:53:39.000Z",
+        "description": "过气的图灵派 Java 程序员\n爱好游戏：FPS、MOBA、休闲益智",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/z4idea",
+                "end": 23,
+                "expanded_url": "https://github.com/z4idea",
+                "start": 0,
+                "url": "https://t.co/VjmCw5Q7xF"
+              }
+            ]
+          }
+        },
+        "id": "2065492395949445121",
+        "is_identity_verified": false,
+        "location": "君の心の中で",
+        "most_recent_tweet_id": "2096055209826914378",
+        "name": "z4idea",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095342809725157381/FjbkhFkv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 54,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 59
+        },
+        "url": "https://t.co/VjmCw5Q7xF",
+        "username": "ZhaoJasoning",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-21T01:59:45.000Z",
+        "description": "",
+        "id": "1859416269570834433",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096185261000720877",
+        "name": "tty63",
+        "pinned_tweet_id": "2092371411608199445",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1859416269570834433/1732155139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082106399283351552/rwA8cegt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 115,
+          "like_count": 1945,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 394
+        },
+        "url": "",
+        "username": "c1ndl8st",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

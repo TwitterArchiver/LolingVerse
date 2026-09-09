@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091112753591156736"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2091112892791656606",
+    "created_at": "2026-08-22T10:38:59.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T11:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091112892791656606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gWtj6AZh0d",
+          "end": 23,
+          "expanded_url": "https://x.com/LolingVerse/status/2091112892791656606/photo/1",
+          "media_key": "3_2091112753591156736",
+          "start": 0,
+          "url": "https://t.co/gWtj6AZh0d"
+        },
+        {
+          "display_url": "x.com/deepseek_ai/st…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/deepseek_ai/status/2090730032574631962",
+          "start": 24,
+          "url": "https://t.co/KK8u9NGTVa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091112892791656606",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2091112753591156736"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090730032574631962",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/gWtj6AZh0d https://t.co/KK8u9NGTVa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2091112753591156736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQUf-F8XAAA5x5_.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1652,
+        "media_key": "3_2090726565168717824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPAu99aoAALC1F.jpg",
+        "width": 2025
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091112753591156736"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2091112892791656606",
+        "created_at": "2026-08-22T10:38:59.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091112892791656606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gWtj6AZh0d",
+              "end": 23,
+              "expanded_url": "https://x.com/LolingVerse/status/2091112892791656606/photo/1",
+              "media_key": "3_2091112753591156736",
+              "start": 0,
+              "url": "https://t.co/gWtj6AZh0d"
+            },
+            {
+              "display_url": "x.com/deepseek_ai/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/deepseek_ai/status/2090730032574631962",
+              "start": 24,
+              "url": "https://t.co/KK8u9NGTVa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091112892791656606",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2091112753591156736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090730032574631962",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/gWtj6AZh0d https://t.co/KK8u9NGTVa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090726565168717824"
+          ]
+        },
+        "author_id": "1714580962569588736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1884286926779191296",
+              "name": "DeepSeek"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2090730032574631962",
+        "created_at": "2026-08-21T09:17:38.000Z",
+        "display_text_range": [
+          0,
+          275
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090730032574631962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t2ELUZAagW",
+              "end": 299,
+              "expanded_url": "https://x.com/deepseek_ai/status/2090730032574631962/photo/1",
+              "media_key": "3_2090726565168717824",
+              "start": 276,
+              "url": "https://t.co/t2ELUZAagW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090730032574631962",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2090726565168717824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "DeepSeek-V4-Flash-Vision-Exp is now live on the DeepSeek API Platform! 🚀\n\n🔹 This experimental multimodal model matches DeepSeek-V4-Flash on text capabilities—including agents, reasoning, and world knowledge.\n🔹 On multimodal agent benchmarks, V4-Flash-Vision-Exp makes a major leap over V4-Flash, bringing multimodal agent performance close to Opus-4.8.\n\nTry it with model='deepseek-v4-flash-vision-exp'. DeepSeek Harness 0.1.1 was released today with out-of-the-box support for the new model.\n\n1/n"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1651,
+          "impression_count": 2084770,
+          "like_count": 10520,
+          "quote_count": 784,
+          "reply_count": 454,
+          "retweet_count": 1134
+        },
+        "reply_settings": "everyone",
+        "text": "DeepSeek-V4-Flash-Vision-Exp is now live on the DeepSeek API Platform! 🚀\n\n🔹 This experimental multimodal model matches DeepSeek-V4-Flash on text capabilities—including agents, reasoning, and world knowledge.\n🔹 On multimodal agent benchmarks, V4-Flash-Vision-Exp makes a major https://t.co/t2ELUZAagW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2091112892791656606",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 165,
+          "like_count": 30959,
+          "listed_count": 4,
+          "media_count": 497,
+          "tweet_count": 5733
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-18T09:55:45.000Z",
+        "description": "Unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "deepseek.com",
+                "end": 23,
+                "expanded_url": "https://www.deepseek.com/",
+                "start": 0,
+                "url": "https://t.co/Un4k2rqn4o"
+              }
+            ]
+          }
+        },
+        "id": "1714580962569588736",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2090730042586489333",
+        "name": "DeepSeek",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1714580962569588736/1698208997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717417613775757312/Uk1zNOj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1108706,
+          "following_count": 0,
+          "like_count": 32,
+          "listed_count": 5361,
+          "media_count": 111,
+          "tweet_count": 177
+        },
+        "url": "https://t.co/Un4k2rqn4o",
+        "username": "deepseek_ai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
