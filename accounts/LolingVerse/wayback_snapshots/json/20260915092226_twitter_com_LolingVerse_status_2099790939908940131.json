@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2099787092092129370",
+    "created_at": "2026-09-15T09:22:26.000Z",
+    "display_text_range": [
+      14,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T10:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099790939908940131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1593799138893873152",
+          "start": 0,
+          "username": "Fuugetsu_808"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/0xchal/status/…",
+          "end": 37,
+          "expanded_url": "https://x.com/0xchal/status/2091914746169835629",
+          "start": 14,
+          "url": "https://t.co/ny8hIoazQ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099790939908940131",
+    "in_reply_to_user_id": "1593799138893873152",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091914746169835629",
+        "type": "quoted"
+      },
+      {
+        "id": "2099787092092129370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fuugetsu_808 https://t.co/ny8hIoazQ1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2099787084433391616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPxOmebAAAqWnt.jpg",
+        "width": 1104
+      },
+      {
+        "height": 1745,
+        "media_key": "3_2091912931915255808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQf3umfa0AA-5YT.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1541,
+        "media_key": "3_2091912931906818049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQf3umdaEAE0N1_.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2099787092092129370",
+        "created_at": "2026-09-15T09:22:26.000Z",
+        "display_text_range": [
+          14,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T10:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099790939908940131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1593799138893873152",
+              "start": 0,
+              "username": "Fuugetsu_808"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/0xchal/status/…",
+              "end": 37,
+              "expanded_url": "https://x.com/0xchal/status/2091914746169835629",
+              "start": 14,
+              "url": "https://t.co/ny8hIoazQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099790939908940131",
+        "in_reply_to_user_id": "1593799138893873152",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091914746169835629",
+            "type": "quoted"
+          },
+          {
+            "id": "2099787092092129370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fuugetsu_808 https://t.co/ny8hIoazQ1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099787084433391616"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099787092092129370",
+        "created_at": "2026-09-15T09:07:09.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T10:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099787092092129370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5IuFt4d9Ud",
+              "end": 23,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2099787092092129370/photo/1",
+              "media_key": "3_2099787084433391616",
+              "start": 0,
+              "url": "https://t.co/5IuFt4d9Ud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099787092092129370",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2099787084433391616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5IuFt4d9Ud"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091912931915255808",
+            "3_2091912931906818049"
+          ]
+        },
+        "author_id": "1422560510680043523",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091914746169835629",
+        "created_at": "2026-08-24T15:45:16.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T16:38:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091912944695365810",
+          "2091914746169835629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bye8pgXxty",
+              "end": 107,
+              "expanded_url": "https://x.com/0xchal/status/2091914746169835629/photo/1",
+              "media_key": "3_2091912931915255808",
+              "start": 84,
+              "url": "https://t.co/Bye8pgXxty"
+            },
+            {
+              "display_url": "pic.x.com/Bye8pgXxty",
+              "end": 107,
+              "expanded_url": "https://x.com/0xchal/status/2091914746169835629/photo/1",
+              "media_key": "3_2091912931906818049",
+              "start": 84,
+              "url": "https://t.co/Bye8pgXxty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091914746169835629",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091912931915255808"
+          },
+          {
+            "media_key": "3_2091912931906818049"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4307,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《当我把麦当劳订单截图给面签官看的时候 ，他一脸不可置信的看着我然后给我拒签了，是谁说原价买纯悦会过的 再也不信你们了》\n\n可惜了，截图上要是有灵动岛说不定美签就过了 https://t.co/Bye8pgXxty"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2099790939908940131",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098386834888011777/DyCZRVrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 166,
+          "like_count": 33653,
+          "listed_count": 4,
+          "media_count": 590,
+          "tweet_count": 6248
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "川なに水上を尋ねけむ物思ふ時の我が身なりけり",
+        "id": "1593799138893873152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099788185257832910",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1593799138893873152/1786224982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6185,
+          "following_count": 1900,
+          "like_count": 93386,
+          "listed_count": 13,
+          "media_count": 1952,
+          "tweet_count": 14154
+        },
+        "url": "",
+        "username": "Fuugetsu_808",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-03T14:10:51.000Z",
+        "description": "#Binance 广场认证创作者/联盟KOL成员 Arbitrum 华语大使 #蓝鸟会 成员 | 推文内容仅代表个人思路，不构成投资建议 商务合作DM✉️ https://t.co/4k4SB2aH2K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "Binance"
+              },
+              {
+                "end": 43,
+                "start": 39,
+                "tag": "蓝鸟会"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/0xchal",
+                "end": 101,
+                "expanded_url": "https://linktr.ee/0xchal",
+                "start": 78,
+                "url": "https://t.co/4k4SB2aH2K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/TheCharlieGard…",
+                "end": 23,
+                "expanded_url": "https://t.me/TheCharlieGarden",
+                "start": 0,
+                "url": "https://t.co/IXOHwnFOuA"
+              }
+            ]
+          }
+        },
+        "id": "1422560510680043523",
+        "is_identity_verified": true,
+        "location": "TG群👉",
+        "most_recent_tweet_id": "2099646269102903563",
+        "name": "Charlie",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1422560510680043523/1746766975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938806762007678976/kr4xnXUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9984,
+          "following_count": 6684,
+          "like_count": 40377,
+          "listed_count": 29,
+          "media_count": 840,
+          "tweet_count": 25969
+        },
+        "url": "https://t.co/IXOHwnFOuA",
+        "username": "0xchal",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

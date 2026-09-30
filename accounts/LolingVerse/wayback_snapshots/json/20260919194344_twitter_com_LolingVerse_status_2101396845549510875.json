@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2101234797335224401",
+    "created_at": "2026-09-19T19:43:44.000Z",
+    "display_text_range": [
+      15,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T20:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101396845549510875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2073035346707968000",
+          "start": 0,
+          "username": "yifanxu_ephai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101396845549510875",
+    "in_reply_to_user_id": "2073035346707968000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101234797335224401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yifanxu_ephai 这其实同样也是小开发者的无奈\n\n大厂固然是稳健地分散投资\n\n而小开发者all in几个标的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2101234797335224401",
+        "created_at": "2026-09-19T19:43:44.000Z",
+        "display_text_range": [
+          15,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T20:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101396845549510875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2073035346707968000",
+              "start": 0,
+              "username": "yifanxu_ephai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101396845549510875",
+        "in_reply_to_user_id": "2073035346707968000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101234797335224401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifanxu_ephai 这其实同样也是小开发者的无奈\n\n大厂固然是稳健地分散投资\n\n而小开发者all in几个标的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073035346707968000",
+        "conversation_id": "2101234797335224401",
+        "created_at": "2026-09-19T08:59:49.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T09:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101234797335224401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liguobao2077/s…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/liguobao2077/status/2101221781864362207",
+              "start": 145,
+              "url": "https://t.co/Oo5BI3Z0Cw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101234797335224401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "非常同意国宝老师的观点。\n\n今年以来看过不少来自大厂开源的万星项目，大部分都是跟随当下潮流推出的。但是几个月过去，仅有个别项目还在持续有效地更新迭代，或是没有被后浪打死在沙滩上。\n\n我介绍layerfs的时候，遇到过不少开发者和投资人，闭着眼睛就说，“大厂如果做同样的项目你怎么办？”或是 “这赛道项目我已经看到一万个了🤡🤡。”\n\n最早我还觉得 “嗯嗯，说得对，我得好好思考一下这些问题。“ \n\n但是问这种问题的人遇到多了之后，心里就想，这些人是哪个老师教的，怎么问的问题，语气，沟通方式都千篇一律，脑子也锈透到相等程度，没办法接受新鲜想法。\n\nAI时代让很多工程问题的实现变得简单，但是决定一个项目好与坏更多是开发者/创始人的品味，能看得多远，以及走下去的决心。大厂除了可以规模化地克隆，试问能符合上面的特质有几点。\n\nps: 和一位来自大厂的老师聊过这些问题，他说想要把软件项目做好还是去初创，neo lab或者为爱发电走开源。大厂现在能期望地就是集中资源把大模型训练好，深耕软件创新不太可能了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 4617,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101221781864362207",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "非常同意国宝老师的观点。\n\n今年以来看过不少来自大厂开源的万星项目，大部分都是跟随当下潮流推出的。但是几个月过去，仅有个别项目还在持续有效地更新迭代，或是没有被后浪打死在沙滩上。\n\n我介绍layerfs的时候，遇到过不少开发者和投资人，闭着眼睛就说，“大厂如果做同样的项目你怎么办？”或是 https://t.co/Oo5BI3Z0Cw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2101396845549510875",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098386834888011777/DyCZRVrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 169,
+          "like_count": 34061,
+          "listed_count": 4,
+          "media_count": 600,
+          "tweet_count": 6280
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-03T13:26:12.000Z",
+        "description": "🇨🇦 CS @UofT · 🇸🇬 MSAI dropout @NTUsg  Living in 🇨🇳\n🤖 Creator Ephemeral AI Lab | Agent Infra Foundation\n📦 Author, Ephemeral Sandbox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 6,
+                "username": "UofT"
+              },
+              {
+                "end": 36,
+                "start": 30,
+                "username": "NTUsg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Ephemeral-AI-L…",
+                "end": 23,
+                "expanded_url": "https://github.com/Ephemeral-AI-Lab/layerfs",
+                "start": 0,
+                "url": "https://t.co/hwcUUBzPO4"
+              }
+            ]
+          }
+        },
+        "id": "2073035346707968000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101389276042981637",
+        "name": "Yifan Xu",
+        "pinned_tweet_id": "2094600641247424981",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073035346707968000/1785332231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086091150700711936/YHkMTIg__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1949,
+          "following_count": 1244,
+          "like_count": 4387,
+          "listed_count": 12,
+          "media_count": 58,
+          "tweet_count": 1041
+        },
+        "url": "https://t.co/hwcUUBzPO4",
+        "username": "yifanxu_ephai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

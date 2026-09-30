@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2098376960665862146",
+    "created_at": "2026-09-12T06:57:46.000Z",
+    "display_text_range": [
+      11,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T07:57:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098667368172093489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1683506044809654279",
+          "start": 0,
+          "username": "xiaoyuboi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098667368172093489",
+    "in_reply_to_user_id": "1683506044809654279",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098376960665862146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyuboi 是用的Grok抽嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2356,
+        "media_key": "3_2098376945423822848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7uttTbMAApC9O.jpg",
+        "width": 3536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2098376960665862146",
+        "created_at": "2026-09-12T06:57:46.000Z",
+        "display_text_range": [
+          11,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T07:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098667368172093489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1683506044809654279",
+              "start": 0,
+              "username": "xiaoyuboi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098667368172093489",
+        "in_reply_to_user_id": "1683506044809654279",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098376960665862146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyuboi 是用的Grok抽嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098376945423822848"
+          ]
+        },
+        "author_id": "1683506044809654279",
+        "conversation_id": "2098376960665862146",
+        "created_at": "2026-09-11T11:43:48.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T12:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098376960665862146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uRG1RmYfJN",
+              "end": 61,
+              "expanded_url": "https://x.com/xiaoyuboi/status/2098376960665862146/photo/1",
+              "media_key": "3_2098376945423822848",
+              "start": 38,
+              "url": "https://t.co/uRG1RmYfJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098376960665862146",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098376945423822848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 92892,
+          "like_count": 632,
+          "quote_count": 1,
+          "reply_count": 1016,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "正式成为 Kimi 全球大使🫡\n\n评论区抽一个 199 的 Kimi 会员 https://t.co/uRG1RmYfJN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2098667368172093489",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098386834888011777/DyCZRVrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 166,
+          "like_count": 33301,
+          "listed_count": 4,
+          "media_count": 570,
+          "tweet_count": 6189
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-24T15:55:30.000Z",
+        "description": "B站百万粉科技UP主｜浙大研究生在读｜KIMI全球大使 ｜创业小公司 CEO\n喜欢捣鼓 AI、黑科技与效率工具\n主页：https://t.co/jbWebnIJfR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/82363089",
+                "end": 82,
+                "expanded_url": "https://space.bilibili.com/82363089",
+                "start": 59,
+                "url": "https://t.co/jbWebnIJfR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiaoyu.ing",
+                "end": 23,
+                "expanded_url": "http://xiaoyu.ing",
+                "start": 0,
+                "url": "https://t.co/bXlmFFeyvZ"
+              }
+            ]
+          }
+        },
+        "id": "1683506044809654279",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098638001970786665",
+        "name": "小宇",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1683506044809654279/1788063715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042540688592769024/Gaxxj3KR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2530,
+          "following_count": 223,
+          "like_count": 75,
+          "listed_count": 11,
+          "media_count": 162,
+          "tweet_count": 332
+        },
+        "url": "https://t.co/bXlmFFeyvZ",
+        "username": "xiaoyuboi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

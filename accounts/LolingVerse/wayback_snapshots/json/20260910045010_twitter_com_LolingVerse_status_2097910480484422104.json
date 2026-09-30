@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2097878654311338233",
+    "created_at": "2026-09-10T04:50:10.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T05:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097910480484422104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1821074493496029184",
+          "start": 0,
+          "username": "amamiya_mio_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097910480484422104",
+    "in_reply_to_user_id": "1821074493496029184",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097878654311338233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amamiya_mio_ xmsl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23499,
+        "height": 1080,
+        "media_key": "13_2097878551903256576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097878551903256576/img/X0QyfDpMn40tySzj.jpg",
+        "public_metrics": {
+          "view_count": 1522
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097878551903256576/vid/avc1/1920x1080/NF717qk5pDoL0efX.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097878551903256576/vid/avc1/480x270/N9QNKIH7KYSLiHUU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097878551903256576/pl/XiYSIkyBCZmNJ84I.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097878551903256576/vid/avc1/640x360/-iUpGE3LztBeGHy_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097878551903256576/vid/avc1/1280x720/pvpNM7Fh0t-yKdxI.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2097878654311338233",
+        "created_at": "2026-09-10T04:50:10.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T05:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097910480484422104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1821074493496029184",
+              "start": 0,
+              "username": "amamiya_mio_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097910480484422104",
+        "in_reply_to_user_id": "1821074493496029184",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097878654311338233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amamiya_mio_ xmsl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097878551903256576"
+          ]
+        },
+        "author_id": "1821074493496029184",
+        "conversation_id": "2097878654311338233",
+        "created_at": "2026-09-10T02:43:42.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T03:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097878654311338233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H3QxfSgtu2",
+              "end": 124,
+              "expanded_url": "https://x.com/amamiya_mio_/status/2097878654311338233/video/1",
+              "media_key": "13_2097878551903256576",
+              "start": 101,
+              "url": "https://t.co/H3QxfSgtu2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097878654311338233",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2097878551903256576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "昨天一拍完就忍不住又给自己锁床底下了… \n不过这次道具特别全，电击负压瓶项圈镣铐贞操带基本家里有的迫害道具能用的全给自己用上了\n在幽闭环境＋负压瓶＋束腰＋加高项圈的四重作用下，每呼吸一口都要拼尽全力。 床下面水瓶还老倒，倒了后水全部倒灌进面罩里，弄得面罩里全是水眼睛都睁不开，不过好在口鼻处密封特别好水进不去所以倒是没呛着。\n不到一半时间就后悔想摘，结果发现床下空间很低再加上负压瓶面罩比较厚，在床下基本没什么活动空间，头被完全定死，根本摘不下来，就只能戴着等时间结束… \n另外郊狼＋金属贞操带是真的阴间，导电后有种被人用铁丝往尿道里钻的感觉。而且我是大腿内侧＋阴茎环都在电，大腿内侧被电会下意识张腿，但私处被电又会下意识夹腿，然后就一直又夹又张的总有一个难受… 而且我大腿内侧贴片开的比阴茎环高很多，有时候私处会有一阵特别强烈的剧痛，感觉是把大腿内侧高强度的电流直接通过贞操带导到私处了，然后就一直担惊受怕。\n 不过这次是真的好玩啊压迫感真的拉满了，出来后到镜子前照了下，已经是披头散发一脸坏掉的样子，但身上的这一套依旧闪闪发光，特别华丽，照片完全体现不出来那种质感…要不是在床底下挣扎把自己搞得头发全乱了，而且乱掉后很容易卡进金属缝隙里，我是真不舍得脱啊…好想就这样焊死在身体上😳"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 2481,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "昨天一拍完就忍不住又给自己锁床底下了… \n不过这次道具特别全，电击负压瓶项圈镣铐贞操带基本家里有的迫害道具能用的全给自己用上了\n在幽闭环境＋负压瓶＋束腰＋加高项圈的四重作用下，每呼吸一口都要拼尽全力。 https://t.co/H3QxfSgtu2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2097910480484422104",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 165,
+          "like_count": 33133,
+          "listed_count": 4,
+          "media_count": 553,
+          "tweet_count": 6138
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-07T06:43:04.000Z",
+        "description": "已成年 / mtx / sub / 内容有h / 群1055688381 / 好看＞色 /  纯兴趣发着玩，不会以任何方式收钱，小心别被骗 / 广子不接诈骗的 / 日常碎碎念账号：@AmamiyaMioQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 90,
+                "username": "AmamiyaMioQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1821074493496029184",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097896070399332468",
+        "name": "澪",
+        "pinned_tweet_id": "2002578506744803576",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821077046530904064/aCbPEQx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21918,
+          "following_count": 683,
+          "like_count": 7938,
+          "listed_count": 84,
+          "media_count": 375,
+          "tweet_count": 1612
+        },
+        "url": "",
+        "username": "amamiya_mio_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

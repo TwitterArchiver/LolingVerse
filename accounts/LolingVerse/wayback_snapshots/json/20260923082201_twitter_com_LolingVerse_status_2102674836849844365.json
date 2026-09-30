@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2102587659562721734",
+    "created_at": "2026-09-23T08:22:01.000Z",
+    "display_text_range": [
+      11,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T09:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102674836849844365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1087360125843603459",
+          "start": 0,
+          "username": "criscxuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102674836849844365",
+    "in_reply_to_user_id": "1087360125843603459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102587659562721734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@criscxuan 卧槽，这个，这个，牛逼坏了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2102587659562721734",
+        "created_at": "2026-09-23T08:22:01.000Z",
+        "display_text_range": [
+          11,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T09:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102674836849844365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1087360125843603459",
+              "start": 0,
+              "username": "criscxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102674836849844365",
+        "in_reply_to_user_id": "1087360125843603459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102587659562721734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@criscxuan 卧槽，这个，这个，牛逼坏了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1087360125843603459",
+        "conversation_id": "2102587659562721734",
+        "created_at": "2026-09-23T02:35:36.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T03:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102587659562721734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "实时 3D 海岸骑行：鹈鹕、单车、海浪、落日与一篮子鱼。",
+              "display_url": "claude-opus-5-5.riba2534.cn",
+              "end": 36,
+              "expanded_url": "https://claude-opus-5-5.riba2534.cn",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2102469512847409152/pvpHGfIS?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2102469512847409152/pvpHGfIS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 13,
+              "status": 200,
+              "title": "鹈鹕骑单车 · Pelican on a Bike",
+              "unwound_url": "https://claude-opus-5-5.riba2534.cn",
+              "url": "https://t.co/L7mwrjF8xk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102587659562721734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1028,
+          "impression_count": 317854,
+          "like_count": 1421,
+          "quote_count": 31,
+          "reply_count": 127,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "用一句话夺走你的卧槽。\n\nhttps://t.co/L7mwrjF8xk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2102674836849844365",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098386834888011777/DyCZRVrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 171,
+          "like_count": 34293,
+          "listed_count": 4,
+          "media_count": 615,
+          "tweet_count": 6345
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-21T14:43:50.000Z",
+        "description": "AI Coding / Agent 工作流 / 开源工具\n记录真实实验、踩坑复盘和可复用的开发方法。\nQwen Ambassador @Alibaba_Qwen\n公众号：cxuanAI，6w+ 关注\nGithub：https://t.co/LsDDM9SLEj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "Alibaba_Qwen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/crisxuan",
+                "end": 130,
+                "expanded_url": "https://github.com/crisxuan",
+                "start": 107,
+                "url": "https://t.co/LsDDM9SLEj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cxuan-labs.vercel.app",
+                "end": 23,
+                "expanded_url": "https://cxuan-labs.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/wD1hLgd3qF"
+              }
+            ]
+          }
+        },
+        "id": "1087360125843603459",
+        "is_identity_verified": false,
+        "location": "塞浦路斯",
+        "most_recent_tweet_id": "2102633551254696171",
+        "name": "cxuan",
+        "pinned_tweet_id": "2101697723607163159",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1087360125843603459/1788768141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067148433576677376/FzL42cRj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1831,
+          "following_count": 1481,
+          "like_count": 853,
+          "listed_count": 6,
+          "media_count": 196,
+          "tweet_count": 1308
+        },
+        "url": "https://t.co/wD1hLgd3qF",
+        "username": "criscxuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

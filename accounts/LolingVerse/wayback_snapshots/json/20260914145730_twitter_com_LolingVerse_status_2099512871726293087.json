@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099512862398128128"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "conversation_id": "2099512871726293087",
+    "created_at": "2026-09-14T14:57:30.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T15:57:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099512871726293087"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hubdD11uKh",
+          "end": 23,
+          "expanded_url": "https://x.com/LolingVerse/status/2099512871726293087/photo/1",
+          "media_key": "3_2099512862398128128",
+          "start": 0,
+          "url": "https://t.co/hubdD11uKh"
+        },
+        {
+          "display_url": "x.com/Celsius233C/st…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Celsius233C/status/2098500266471391523",
+          "start": 24,
+          "url": "https://t.co/Bq32CKNAro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099512871726293087",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2099512862398128128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098500266471391523",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/hubdD11uKh https://t.co/Bq32CKNAro"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2099512862398128128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSL30xyaoAAlGpJ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099512862398128128"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2099512871726293087",
+        "created_at": "2026-09-14T14:57:30.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099512871726293087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hubdD11uKh",
+              "end": 23,
+              "expanded_url": "https://x.com/LolingVerse/status/2099512871726293087/photo/1",
+              "media_key": "3_2099512862398128128",
+              "start": 0,
+              "url": "https://t.co/hubdD11uKh"
+            },
+            {
+              "display_url": "x.com/Celsius233C/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Celsius233C/status/2098500266471391523",
+              "start": 24,
+              "url": "https://t.co/Bq32CKNAro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099512871726293087",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2099512862398128128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098500266471391523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/hubdD11uKh https://t.co/Bq32CKNAro"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690721268373581824",
+        "conversation_id": "2098500266471391523",
+        "created_at": "2026-09-11T19:53:46.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T20:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098500266471391523"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098500266471391523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 166187,
+          "like_count": 969,
+          "quote_count": 37,
+          "reply_count": 120,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "你们adhd说话是不是先说思维链的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2099512871726293087",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098386834888011777/DyCZRVrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 168,
+          "like_count": 33584,
+          "listed_count": 4,
+          "media_count": 584,
+          "tweet_count": 6231
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-13T13:45:44.000Z",
+        "description": "Gender undefined💛💜｜zh-CN/en-US",
+        "id": "1690721268373581824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099496136885026928",
+        "name": "233°C",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690721268373581824/1729236459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017216810953945088/bXezlZcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5232,
+          "following_count": 972,
+          "like_count": 28028,
+          "listed_count": 21,
+          "media_count": 43,
+          "tweet_count": 617
+        },
+        "url": "",
+        "username": "Celsius233C",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,574 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2100566701972828229",
+    "created_at": "2026-09-17T16:03:47.000Z",
+    "display_text_range": [
+      31,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T17:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100616714799009873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1810244469415104512",
+          "start": 0,
+          "username": "MIKU392007831"
+        },
+        {
+          "end": 30,
+          "id": "1763034943599607808",
+          "start": 15,
+          "username": "moonlight_ruri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/ElonWang7/stat…",
+          "end": 54,
+          "expanded_url": "https://x.com/ElonWang7/status/2058976261079175303?s=20",
+          "start": 31,
+          "url": "https://t.co/P6qWmFNV6S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100616714799009873",
+    "in_reply_to_user_id": "1810244469415104512",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058976261079175303",
+        "type": "quoted"
+      },
+      {
+        "id": "2100604418626621476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MIKU392007831 @moonlight_ruri https://t.co/P6qWmFNV6S"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2100566701972828229",
+        "created_at": "2026-09-17T16:03:47.000Z",
+        "display_text_range": [
+          31,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T17:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100616714799009873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1810244469415104512",
+              "start": 0,
+              "username": "MIKU392007831"
+            },
+            {
+              "end": 30,
+              "id": "1763034943599607808",
+              "start": 15,
+              "username": "moonlight_ruri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ElonWang7/stat…",
+              "end": 54,
+              "expanded_url": "https://x.com/ElonWang7/status/2058976261079175303?s=20",
+              "start": 31,
+              "url": "https://t.co/P6qWmFNV6S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100616714799009873",
+        "in_reply_to_user_id": "1810244469415104512",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058976261079175303",
+            "type": "quoted"
+          },
+          {
+            "id": "2100604418626621476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MIKU392007831 @moonlight_ruri https://t.co/P6qWmFNV6S"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810244469415104512",
+        "conversation_id": "2100566701972828229",
+        "created_at": "2026-09-17T15:14:55.000Z",
+        "display_text_range": [
+          29,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100604418626621476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836041585475346432",
+              "start": 0,
+              "username": "LolingVerse"
+            },
+            {
+              "end": 28,
+              "id": "1763034943599607808",
+              "start": 13,
+              "username": "moonlight_ruri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100604418626621476",
+        "in_reply_to_user_id": "1836041585475346432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100590113885688260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LolingVerse @moonlight_ruri 有名字吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1281403134359662592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2058686596069646506",
+        "created_at": "2026-05-25T18:19:29.000Z",
+        "display_text_range": [
+          13,
+          240
+        ],
+        "edit_controls": {
+          "editable_until": "2026-05-25T19:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058976261079175303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975014933696843776",
+              "start": 0,
+              "username": "femboykumie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058976261079175303",
+        "in_reply_to_user_id": "1975014933696843776",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 12030,
+          "like_count": 162,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058686596069646506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@femboykumie hey! It's my poster :3 \nyou can add me at pepper109 on discord, but unless you're actually a uni student looking for tutoring, I'm probably not gonna respond. Send me ur course materials and what u want help w if ur interested!"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2100616714799009873",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098386834888011777/DyCZRVrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 169,
+          "like_count": 33869,
+          "listed_count": 4,
+          "media_count": 596,
+          "tweet_count": 6268
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-08T09:28:18.000Z",
+        "description": "8+31=39\n39=Miku",
+        "id": "1810244469415104512",
+        "is_identity_verified": false,
+        "location": "南京",
+        "most_recent_tweet_id": "2100604418626621476",
+        "name": "哈次捏米库",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1810244469415104512/1774278233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036096348261642240/XzZcu9it_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 422,
+          "like_count": 850,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 868
+        },
+        "url": "",
+        "username": "MIKU392007831",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-10T01:41:50.000Z",
+        "description": "Haiii :3 22 enby femboy at UofT. Femboy stuff at @SpicyPepper109, tutoring stuff on discord pepper109.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "SpicyPepper109"
+              }
+            ]
+          }
+        },
+        "id": "1281403134359662592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099030357869822284",
+        "name": "Pepper🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1281403134359662592/1666224707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754834383406526465/bnU8ewFZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 276,
+          "like_count": 5298,
+          "listed_count": 5,
+          "media_count": 16,
+          "tweet_count": 465
+        },
+        "url": "",
+        "username": "ElonWang7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-06T01:47:56.000Z",
+        "description": "🌸 Femboy posting memes, advice & hot-takes everyday! | join my community for femboys, furries & LGBTQ+ people at https://t.co/44Pl6ElR8t",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/femboiss",
+                "end": 136,
+                "expanded_url": "https://discord.gg/femboiss",
+                "start": 113,
+                "url": "https://t.co/44Pl6ElR8t"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/femboiss",
+                "end": 23,
+                "expanded_url": "https://discord.gg/femboiss",
+                "start": 0,
+                "url": "https://t.co/44Pl6ElR8t"
+              }
+            ]
+          }
+        },
+        "id": "1975014933696843776",
+        "is_identity_verified": false,
+        "location": "Femboy Empire ",
+        "most_recent_tweet_id": "2099625626067939584",
+        "name": "Kumie :3 | Femboy/Catboy",
+        "pinned_tweet_id": "2022337130241110146",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1975014933696843776/1774024349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073292577789341696/3439sBM9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12495,
+          "following_count": 89,
+          "like_count": 3906,
+          "listed_count": 11,
+          "media_count": 1505,
+          "tweet_count": 2579
+        },
+        "url": "https://t.co/44Pl6ElR8t",
+        "username": "femboykumie",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "小天使｜蓝v必回｜femboy｜ENname：LunaRuri｜EN CN JP｜little angel｜Random thoughts｜Humor｜Entertainment｜beauty share｜Verified users follow back｜Submissions welcome｜Thanks",
+        "id": "1763034943599607808",
+        "is_identity_verified": true,
+        "location": "鄂｜🉑✈️｜🚪59｜私信｜蓝v必回请耐心等待",
+        "most_recent_tweet_id": "2100566701972828229",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2064979619095392478",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763034943599607808/1786895939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064945472159272961/vaDy2Hdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16203,
+          "following_count": 1223,
+          "like_count": 1107,
+          "listed_count": 35,
+          "media_count": 529,
+          "tweet_count": 2731
+        },
+        "url": "",
+        "username": "moonlight_ruri",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

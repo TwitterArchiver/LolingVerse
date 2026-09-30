@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2104339676798841029",
+    "created_at": "2026-09-28T00:06:16.000Z",
+    "display_text_range": [
+      15,
+      294
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T01:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104362015439675775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2073035346707968000",
+          "start": 0,
+          "username": "yifanxu_ephai"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Claude is Anthropic's AI, built for problem solvers. Tackle complex challenges, analyze data, write code, and think through your hardest work.",
+          "display_url": "claude.ai",
+          "end": 253,
+          "expanded_url": "https://claude.ai",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://pbs.twimg.com/news_img/2103422092419198976/q6x6sU1l?format=png&name=orig",
+              "width": 1138
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2103422092419198976/q6x6sU1l?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 230,
+          "status": 200,
+          "title": "Claude",
+          "unwound_url": "https://claude.ai/login",
+          "url": "https://t.co/r2CVL2q7n3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104362015439675775",
+    "in_reply_to_user_id": "2073035346707968000",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "claude.ai",
+            "end": 238,
+            "expanded_url": "http://claude.ai",
+            "start": 215,
+            "url": "https://t.co/hiaEa91ttF"
+          }
+        ]
+      },
+      "text": "Hello,\n\nAn internal investigation of suspicious signals associated with your account indicates a violation of our Usage Policy. As a result, we have revoked your access to Claude.\n\nTo appeal our decision, log in to https://t.co/hiaEa91ttF with this account and you'll be taken to the appeals page. You can learn more about the process here.\n\nRegards\n\nAnthropic's Safeguards Team"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104339676798841029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yifanxu_ephai Hello,\n\nAn internal investigation of suspicious signals associated with your account indicates a violation of our Usage Policy. As a result, we have revoked your access to Claude.\n\nTo appeal our decision, log in to https://t.co/r2CVL2q7n3 with this account and you'll be taken to"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2104339676798841029",
+        "created_at": "2026-09-28T00:06:16.000Z",
+        "display_text_range": [
+          15,
+          294
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T01:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104362015439675775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2073035346707968000",
+              "start": 0,
+              "username": "yifanxu_ephai"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Claude is Anthropic's AI, built for problem solvers. Tackle complex challenges, analyze data, write code, and think through your hardest work.",
+              "display_url": "claude.ai",
+              "end": 253,
+              "expanded_url": "https://claude.ai",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2103422092419198976/q6x6sU1l?format=png&name=orig",
+                  "width": 1138
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2103422092419198976/q6x6sU1l?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 230,
+              "status": 200,
+              "title": "Claude",
+              "unwound_url": "https://claude.ai/login",
+              "url": "https://t.co/r2CVL2q7n3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104362015439675775",
+        "in_reply_to_user_id": "2073035346707968000",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "claude.ai",
+                "end": 238,
+                "expanded_url": "http://claude.ai",
+                "start": 215,
+                "url": "https://t.co/hiaEa91ttF"
+              }
+            ]
+          },
+          "text": "Hello,\n\nAn internal investigation of suspicious signals associated with your account indicates a violation of our Usage Policy. As a result, we have revoked your access to Claude.\n\nTo appeal our decision, log in to https://t.co/hiaEa91ttF with this account and you'll be taken to the appeals page. You can learn more about the process here.\n\nRegards\n\nAnthropic's Safeguards Team"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104339676798841029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifanxu_ephai Hello,\n\nAn internal investigation of suspicious signals associated with your account indicates a violation of our Usage Policy. As a result, we have revoked your access to Claude.\n\nTo appeal our decision, log in to https://t.co/r2CVL2q7n3 with this account and you'll be taken to"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073035346707968000",
+        "conversation_id": "2104339676798841029",
+        "created_at": "2026-09-27T22:37:30.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T23:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104339676798841029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yifanxu_ephai/…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/yifanxu_ephai/status/2104335048849973634",
+              "start": 55,
+              "url": "https://t.co/7ezXolLnzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104339676798841029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 313,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104335048849973634",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "A\\越封号，越多焚诀指南，越多Claude中转站广告。就好像现在工作越难找，培训机构越多，中介公司越多一样。 https://t.co/7ezXolLnzi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2104362015439675775",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098386834888011777/DyCZRVrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 171,
+          "like_count": 34670,
+          "listed_count": 4,
+          "media_count": 633,
+          "tweet_count": 6388
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-03T13:26:12.000Z",
+        "description": "🇨🇦 CS @UofT · 🇸🇬 MSAI dropout @NTUsg  \nLiving in 🇨🇳\n📦 Author, LayerFS and Ephemeral Sandbox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 6,
+                "username": "UofT"
+              },
+              {
+                "end": 36,
+                "start": 30,
+                "username": "NTUsg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Ephemeral-AI-L…",
+                "end": 23,
+                "expanded_url": "https://github.com/Ephemeral-AI-Lab/layerfs",
+                "start": 0,
+                "url": "https://t.co/hwcUUBzPO4"
+              }
+            ]
+          }
+        },
+        "id": "2073035346707968000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104357501601017898",
+        "name": "Yifan Xu",
+        "pinned_tweet_id": "2102565496319246402",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073035346707968000/1785332231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086091150700711936/YHkMTIg__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2354,
+          "following_count": 1459,
+          "like_count": 6583,
+          "listed_count": 14,
+          "media_count": 77,
+          "tweet_count": 1455
+        },
+        "url": "https://t.co/hwcUUBzPO4",
+        "username": "yifanxu_ephai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

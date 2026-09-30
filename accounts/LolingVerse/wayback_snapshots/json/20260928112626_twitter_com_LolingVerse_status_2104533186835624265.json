@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2104374562322534805",
+    "created_at": "2026-09-28T11:26:26.000Z",
+    "display_text_range": [
+      26,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T12:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104533186835624265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "18470944",
+          "start": 0,
+          "username": "srdrm"
+        },
+        {
+          "end": 14,
+          "id": "1473591",
+          "start": 7,
+          "username": "tianyi"
+        },
+        {
+          "end": 25,
+          "id": "1647958531461480448",
+          "start": 15,
+          "username": "leo114119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104533186835624265",
+    "in_reply_to_user_id": "18470944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104423079288217889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@srdrm @tianyi @leo114119 4.1拉了，快点把4.2f发了，pro不重要()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2104374562322534805",
+        "created_at": "2026-09-28T11:26:26.000Z",
+        "display_text_range": [
+          26,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T12:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104533186835624265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "18470944",
+              "start": 0,
+              "username": "srdrm"
+            },
+            {
+              "end": 14,
+              "id": "1473591",
+              "start": 7,
+              "username": "tianyi"
+            },
+            {
+              "end": 25,
+              "id": "1647958531461480448",
+              "start": 15,
+              "username": "leo114119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104533186835624265",
+        "in_reply_to_user_id": "18470944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104423079288217889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@srdrm @tianyi @leo114119 4.1拉了，快点把4.2f发了，pro不重要()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "18470944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2104374562322534805",
+        "created_at": "2026-09-28T04:08:55.000Z",
+        "display_text_range": [
+          19,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T05:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104423079288217889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1473591",
+              "start": 0,
+              "username": "tianyi"
+            },
+            {
+              "end": 18,
+              "id": "1647958531461480448",
+              "start": 8,
+              "username": "leo114119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104423079288217889",
+        "in_reply_to_user_id": "1473591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1863,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104413106990645683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianyi @leo114119 4.1 pro 千万别乌龙，比 flash 还差的话，说不过去\n\n不能学 google"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2104533186835624265",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098386834888011777/DyCZRVrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 171,
+          "like_count": 34714,
+          "listed_count": 3,
+          "media_count": 634,
+          "tweet_count": 6394
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-12-30T05:30:38.000Z",
+        "description": "个人学习成长 AI 学习掏金，陪伴孩子，瘦子增肌成功",
+        "id": "18470944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104484737645744563",
+        "name": "uuvioz",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18470944/1433309955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1313520963154132992/a3MgDIBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 1647,
+          "like_count": 2346,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 3635
+        },
+        "url": "",
+        "username": "srdrm",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2007-03-19T05:24:31.000Z",
+        "description": "Member of Technical Staff @ DeepSeek, Harness Team\n\nI'd love to connect with members of international frontier LLM labs! DM is open. Opinions are my own.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tianyicui.com",
+                "end": 23,
+                "expanded_url": "https://tianyicui.com",
+                "start": 0,
+                "url": "https://t.co/llGaZbRlM3"
+              }
+            ]
+          }
+        },
+        "id": "1473591",
+        "is_identity_verified": false,
+        "location": "Beijing",
+        "most_recent_tweet_id": "2104413106990645683",
+        "name": "Tianyi Cui",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/378800000650737082/b849b67d6470fafe8b3deb2ae97acfda_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45644,
+          "following_count": 473,
+          "like_count": 855,
+          "listed_count": 322,
+          "media_count": 53,
+          "tweet_count": 7225
+        },
+        "url": "https://t.co/llGaZbRlM3",
+        "username": "tianyi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-17T13:42:04.000Z",
+        "description": "15 年互联网老兵，重度 AI 用户\n用 AI 从 0 做产品创业中\n每天分享有趣的 AI 内容，只说验证过的\nSolo founder, building with AI.\n#AI #VibeCoding #BuildInPublic #Follow",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 88,
+                "tag": "AI"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "tag": "VibeCoding"
+              },
+              {
+                "end": 118,
+                "start": 104,
+                "tag": "BuildInPublic"
+              },
+              {
+                "end": 126,
+                "start": 119,
+                "tag": "Follow"
+              }
+            ]
+          }
+        },
+        "id": "1647958531461480448",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104532115769758196",
+        "name": "Leo 的游戏人生",
+        "pinned_tweet_id": "2104413645803569515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647958531461480448/1790408643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097524411033100288/TICgviAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2961,
+          "following_count": 2807,
+          "like_count": 1188,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 4093
+        },
+        "url": "",
+        "username": "leo114119",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

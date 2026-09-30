@@ -1,0 +1,532 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2099909705586094080"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1304115130267963392",
+          "name": "Binance Coin cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1304115130267963392",
+          "name": "Binance Coin cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1484181943616884743",
+          "name": "Cryptocoins"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "For cryptocurrency entities",
+          "id": "174",
+          "name": "Digital Assets & Crypto"
+        },
+        "entity": {
+          "id": "1304115130267963392",
+          "name": "Binance Coin cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "2099954909042856415",
+    "created_at": "2026-09-15T20:14:00.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T21:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099954909042856415"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 11,
+          "tag": "BNB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hofE3TDmCu",
+          "end": 39,
+          "expanded_url": "https://x.com/LolingVerse/status/2099954909042856415/video/1",
+          "media_key": "13_2099909705586094080",
+          "start": 16,
+          "url": "https://t.co/hofE3TDmCu"
+        },
+        {
+          "display_url": "x.com/LolingVerse/st…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/LolingVerse/status/2099830175269794303",
+          "start": 40,
+          "url": "https://t.co/fx41SjntFs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099954909042856415",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2099909705586094080"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099830175269794303",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "How i wish\n#BNB https://t.co/hofE3TDmCu https://t.co/fx41SjntFs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10000,
+        "height": 1080,
+        "media_key": "13_2099909705586094080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099909705586094080/img/aRDHjpSfggKSD_rp.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099909705586094080/vid/avc1/480x270/LbvncOUoVJUS1_hi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099909705586094080/vid/avc1/1280x720/JuFnELYGaociyC4A.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099909705586094080/vid/avc1/1920x1080/Z6oog_hu7gyrvrrU.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099909705586094080/vid/avc1/640x360/-Y39qNEALMSCfL2a.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099909705586094080/pl/pTmCWke3nHPR6Xqu.m3u8"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 1254,
+        "media_key": "3_2099830146287210496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQYZIYbEAAEbEi.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099909705586094080"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1304115130267963392",
+              "name": "Binance Coin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304115130267963392",
+              "name": "Binance Coin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1304115130267963392",
+              "name": "Binance Coin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2099954909042856415",
+        "created_at": "2026-09-15T20:14:00.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T21:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099954909042856415"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "BNB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hofE3TDmCu",
+              "end": 39,
+              "expanded_url": "https://x.com/LolingVerse/status/2099954909042856415/video/1",
+              "media_key": "13_2099909705586094080",
+              "start": 16,
+              "url": "https://t.co/hofE3TDmCu"
+            },
+            {
+              "display_url": "x.com/LolingVerse/st…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/LolingVerse/status/2099830175269794303",
+              "start": 40,
+              "url": "https://t.co/fx41SjntFs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099954909042856415",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2099909705586094080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099830175269794303",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "How i wish\n#BNB https://t.co/hofE3TDmCu https://t.co/fx41SjntFs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099830146287210496"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2099830175269794303",
+        "created_at": "2026-09-15T11:58:21.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T12:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099830175269794303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0hmYw2o9LR",
+              "end": 23,
+              "expanded_url": "https://x.com/LolingVerse/status/2099830175269794303/photo/1",
+              "media_key": "3_2099830146287210496",
+              "start": 0,
+              "url": "https://t.co/0hmYw2o9LR"
+            },
+            {
+              "display_url": "x.com/mizorewww/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/mizorewww/status/2099826003153744224",
+              "start": 24,
+              "url": "https://t.co/4kiuqrsZGh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099830175269794303",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2099830146287210496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099826003153744224",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/0hmYw2o9LR https://t.co/4kiuqrsZGh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2099954909042856415",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098386834888011777/DyCZRVrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 166,
+          "like_count": 33710,
+          "listed_count": 4,
+          "media_count": 594,
+          "tweet_count": 6259
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

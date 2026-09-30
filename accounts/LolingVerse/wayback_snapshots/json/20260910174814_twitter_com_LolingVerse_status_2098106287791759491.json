@@ -1,0 +1,671 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2098015029715165184",
+        "3_2098015029782364161",
+        "3_2098015029664862208"
+      ],
+      "media_source_tweet_id": [
+        "2098015099726557648",
+        "2098015099726557648",
+        "2098015099726557648"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899469046054924",
+          "name": "Virtual reality games"
+        }
+      }
+    ],
+    "conversation_id": "2098106287791759491",
+    "created_at": "2026-09-10T17:48:14.000Z",
+    "display_text_range": [
+      0,
+      126
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T18:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098106287791759491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1786286167497003008",
+          "start": 3,
+          "username": "koji7622vrc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IH0MtEc1fv",
+          "end": 126,
+          "expanded_url": "https://x.com/koji7622vrc/status/2098015099726557648/video/1",
+          "media_key": "13_2098015029715165184",
+          "start": 103,
+          "url": "https://t.co/IH0MtEc1fv"
+        },
+        {
+          "display_url": "pic.x.com/IH0MtEc1fv",
+          "end": 126,
+          "expanded_url": "https://x.com/koji7622vrc/status/2098015099726557648/video/1",
+          "media_key": "3_2098015029782364161",
+          "start": 103,
+          "url": "https://t.co/IH0MtEc1fv"
+        },
+        {
+          "display_url": "pic.x.com/IH0MtEc1fv",
+          "end": 126,
+          "expanded_url": "https://x.com/koji7622vrc/status/2098015099726557648/video/1",
+          "media_key": "3_2098015029664862208",
+          "start": 103,
+          "url": "https://t.co/IH0MtEc1fv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098106287791759491",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2098015029715165184"
+      },
+      {
+        "media_key": "3_2098015029782364161"
+      },
+      {
+        "media_key": "3_2098015029664862208"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 340
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098015099726557648",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @koji7622vrc: ついにVRChat内でmaimaiをプレイできる時代が来た✨\n手のコライダー調整と、本家同様のF/L判定表示設定あり\n曲数は少ないけど夢にまで見た光景が実際にできる…！！ https://t.co/IH0MtEc1fv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59114,
+        "height": 720,
+        "media_key": "13_2098015029715165184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098015029715165184/img/Y806GTfuUs6MZnsZ.jpg",
+        "public_metrics": {
+          "view_count": 36479
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098015029715165184/vid/avc1/480x270/SYnxnhwaSBki6wWd.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098015029715165184/vid/avc1/640x360/6WC-HtvecikRsr_c.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098015029715165184/vid/avc1/1280x720/BKfsPTqnZLVzbToj.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098015029715165184/pl/eR-3-W3srci3kE6z.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 722,
+        "media_key": "3_2098015029782364161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2ljcebwAENOHJ.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2098015029664862208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2ljcCa0AAtQ9Y.jpg",
+        "width": 1049
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098015029715165184",
+            "3_2098015029782364161",
+            "3_2098015029664862208"
+          ],
+          "media_source_tweet_id": [
+            "2098015099726557648",
+            "2098015099726557648",
+            "2098015099726557648"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2098106287791759491",
+        "created_at": "2026-09-10T17:48:14.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T18:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098106287791759491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1786286167497003008",
+              "start": 3,
+              "username": "koji7622vrc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IH0MtEc1fv",
+              "end": 126,
+              "expanded_url": "https://x.com/koji7622vrc/status/2098015099726557648/video/1",
+              "media_key": "13_2098015029715165184",
+              "start": 103,
+              "url": "https://t.co/IH0MtEc1fv"
+            },
+            {
+              "display_url": "pic.x.com/IH0MtEc1fv",
+              "end": 126,
+              "expanded_url": "https://x.com/koji7622vrc/status/2098015099726557648/video/1",
+              "media_key": "3_2098015029782364161",
+              "start": 103,
+              "url": "https://t.co/IH0MtEc1fv"
+            },
+            {
+              "display_url": "pic.x.com/IH0MtEc1fv",
+              "end": 126,
+              "expanded_url": "https://x.com/koji7622vrc/status/2098015099726557648/video/1",
+              "media_key": "3_2098015029664862208",
+              "start": 103,
+              "url": "https://t.co/IH0MtEc1fv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098106287791759491",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2098015029715165184"
+          },
+          {
+            "media_key": "3_2098015029782364161"
+          },
+          {
+            "media_key": "3_2098015029664862208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 340
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098015099726557648",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @koji7622vrc: ついにVRChat内でmaimaiをプレイできる時代が来た✨\n手のコライダー調整と、本家同様のF/L判定表示設定あり\n曲数は少ないけど夢にまで見た光景が実際にできる…！！ https://t.co/IH0MtEc1fv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098015029715165184",
+            "3_2098015029782364161",
+            "3_2098015029664862208"
+          ]
+        },
+        "author_id": "1786286167497003008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2098015099726557648",
+        "created_at": "2026-09-10T11:45:53.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T12:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098015099726557648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IH0MtEc1fv",
+              "end": 109,
+              "expanded_url": "https://x.com/koji7622vrc/status/2098015099726557648/video/1",
+              "media_key": "13_2098015029715165184",
+              "start": 86,
+              "url": "https://t.co/IH0MtEc1fv"
+            },
+            {
+              "display_url": "pic.x.com/IH0MtEc1fv",
+              "end": 109,
+              "expanded_url": "https://x.com/koji7622vrc/status/2098015099726557648/video/1",
+              "media_key": "3_2098015029782364161",
+              "start": 86,
+              "url": "https://t.co/IH0MtEc1fv"
+            },
+            {
+              "display_url": "pic.x.com/IH0MtEc1fv",
+              "end": 109,
+              "expanded_url": "https://x.com/koji7622vrc/status/2098015099726557648/video/1",
+              "media_key": "3_2098015029664862208",
+              "start": 86,
+              "url": "https://t.co/IH0MtEc1fv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098015099726557648",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2098015029715165184"
+          },
+          {
+            "media_key": "3_2098015029782364161"
+          },
+          {
+            "media_key": "3_2098015029664862208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 898,
+          "impression_count": 83334,
+          "like_count": 1949,
+          "quote_count": 48,
+          "reply_count": 4,
+          "retweet_count": 340
+        },
+        "reply_settings": "everyone",
+        "text": "ついにVRChat内でmaimaiをプレイできる時代が来た✨\n手のコライダー調整と、本家同様のF/L判定表示設定あり\n曲数は少ないけど夢にまで見た光景が実際にできる…！！ https://t.co/IH0MtEc1fv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2098106287791759491",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 165,
+          "like_count": 33205,
+          "listed_count": 4,
+          "media_count": 558,
+          "tweet_count": 6159
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-03T06:47:15.000Z",
+        "description": "2024-5-3VRChat始めました！まったりやります。よろしくお願いします〜 / 着ぐるみ推し垢 @koji7622kigu / 音ゲー趣味垢@koji7622 / 🔞@kona_kujira",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "koji7622kigu"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "koji7622"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "kona_kujira"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vrchat.com/home/user/usr_…",
+                "end": 23,
+                "expanded_url": "https://vrchat.com/home/user/usr_eb103e23-0d7f-4247-9bf9-fea9c5415132",
+                "start": 0,
+                "url": "https://t.co/wKNPhC9TPd"
+              }
+            ]
+          }
+        },
+        "id": "1786286167497003008",
+        "is_identity_verified": false,
+        "location": "VRChat",
+        "most_recent_tweet_id": "2098015888540889192",
+        "name": "コージー",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786286167497003008/1776311604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804319855954530304/yfAjqmMW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 184,
+          "like_count": 31899,
+          "listed_count": 5,
+          "media_count": 543,
+          "tweet_count": 3159
+        },
+        "url": "https://t.co/wKNPhC9TPd",
+        "username": "koji7622vrc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

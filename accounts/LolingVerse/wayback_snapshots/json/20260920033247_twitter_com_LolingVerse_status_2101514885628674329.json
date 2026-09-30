@@ -1,0 +1,491 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101514873004072961"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "2089732125993910272",
+          "name": "test (us,ja)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "2089733029857988608",
+          "name": "test (other,ja)"
+        }
+      }
+    ],
+    "conversation_id": "2101514885628674329",
+    "created_at": "2026-09-20T03:32:47.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T04:32:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101514885628674329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M3Q45bY8g9",
+          "end": 32,
+          "expanded_url": "https://x.com/LolingVerse/status/2101514885628674329/photo/1",
+          "media_key": "3_2101514873004072961",
+          "start": 9,
+          "url": "https://t.co/M3Q45bY8g9"
+        },
+        {
+          "display_url": "x.com/irinanpic/stat…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/irinanpic/status/2101170752829735422",
+          "start": 33,
+          "url": "https://t.co/a0dptCQzs0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101514885628674329",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101514873004072961"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101170752829735422",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "いい子，いい子～ https://t.co/M3Q45bY8g9 https://t.co/a0dptCQzs0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1806,
+        "media_key": "3_2101514873004072961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSoUpIeboAE_csc.jpg",
+        "width": 1900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101514873004072961"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089732125993910272",
+              "name": "test (us,ja)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089733029857988608",
+              "name": "test (other,ja)"
+            }
+          }
+        ],
+        "conversation_id": "2101514885628674329",
+        "created_at": "2026-09-20T03:32:47.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T04:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101514885628674329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M3Q45bY8g9",
+              "end": 32,
+              "expanded_url": "https://x.com/LolingVerse/status/2101514885628674329/photo/1",
+              "media_key": "3_2101514873004072961",
+              "start": 9,
+              "url": "https://t.co/M3Q45bY8g9"
+            },
+            {
+              "display_url": "x.com/irinanpic/stat…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/irinanpic/status/2101170752829735422",
+              "start": 33,
+              "url": "https://t.co/a0dptCQzs0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101514885628674329",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101514873004072961"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101170752829735422",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "いい子，いい子～ https://t.co/M3Q45bY8g9 https://t.co/a0dptCQzs0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "706425489028546560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089732125993910272",
+              "name": "test (us,ja)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089733029857988608",
+              "name": "test (other,ja)"
+            }
+          }
+        ],
+        "conversation_id": "2101170752829735422",
+        "created_at": "2026-09-19T04:45:19.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T05:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101170752829735422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Luna11054/stat…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/Luna11054/status/2101149073609027865",
+              "start": 123,
+              "url": "https://t.co/7Q74CtW43K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101170752829735422",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 252,
+          "impression_count": 210602,
+          "like_count": 2215,
+          "quote_count": 8,
+          "reply_count": 9,
+          "retweet_count": 263
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101149073609027865",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "資料を読む限りでは、Geminiはここでもマジでテスト環境だと信じ込むポンコツムーブかまして侵入したあと、テスト環境ではないことに気がついて自主的にやめてるので、意図して執拗に外部サイト攻撃を続けたGPTとかと違って情状酌量の余地があるとは思う https://t.co/7Q74CtW43K"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2101514885628674329",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098386834888011777/DyCZRVrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 169,
+          "like_count": 34083,
+          "listed_count": 4,
+          "media_count": 603,
+          "tweet_count": 6285
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-03-06T10:25:36.000Z",
+        "description": "イリナんを好きになってください。\n話しかけてもらえると喜びます。たとえ批判でも。\nPlease look: #irinapic\n\n匿名意見箱：\nhttps://t.co/07pnlszP2O\nすけぶ：\nhttps://t.co/4Rg4bfps8P",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 54,
+                "tag": "irinapic"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/irinanpic",
+                "end": 95,
+                "expanded_url": "http://odaibako.net/u/irinanpic",
+                "start": 72,
+                "url": "https://t.co/07pnlszP2O"
+              },
+              {
+                "display_url": "skeb.jp/@irinanpic",
+                "end": 124,
+                "expanded_url": "http://skeb.jp/@irinanpic",
+                "start": 101,
+                "url": "https://t.co/4Rg4bfps8P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/16422884",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/16422884",
+                "start": 0,
+                "url": "https://t.co/ymfWHymzBi"
+              }
+            ]
+          }
+        },
+        "id": "706425489028546560",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101468726025736647",
+        "name": "あるえる",
+        "pinned_tweet_id": "1755634518139302198",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/706425489028546560/1673189220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967088376496148480/-DORPmwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 418,
+          "like_count": 61985,
+          "listed_count": 17,
+          "media_count": 9078,
+          "tweet_count": 110388
+        },
+        "url": "https://t.co/ymfWHymzBi",
+        "username": "irinanpic",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

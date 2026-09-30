@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098334378946691072"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098334387008160104",
+    "created_at": "2026-09-11T08:54:37.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T09:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098334387008160104"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/B5nS1X4aHW",
+          "end": 28,
+          "expanded_url": "https://x.com/LolingVerse/status/2098334387008160104/photo/1",
+          "media_key": "3_2098334378946691072",
+          "start": 5,
+          "url": "https://t.co/B5nS1X4aHW"
+        },
+        {
+          "display_url": "x.com/Fuugetsu_808/s…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/Fuugetsu_808/status/2098205288084230388",
+          "start": 29,
+          "url": "https://t.co/qgsePTM82b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098334387008160104",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2098334378946691072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098205288084230388",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唯一真神 https://t.co/B5nS1X4aHW https://t.co/qgsePTM82b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 451,
+        "media_key": "3_2098334378946691072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7IAA0bgAAQiNR.jpg",
+        "width": 600
+      },
+      {
+        "height": 1319,
+        "media_key": "3_2098205274377162752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5SlI0aEAAaO-C.jpg",
+        "width": 1086
+      },
+      {
+        "height": 488,
+        "media_key": "3_2098205282090520576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5SlljakAAJ8lV.jpg",
+        "width": 432
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098334378946691072"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098334387008160104",
+        "created_at": "2026-09-11T08:54:37.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T09:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098334387008160104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B5nS1X4aHW",
+              "end": 28,
+              "expanded_url": "https://x.com/LolingVerse/status/2098334387008160104/photo/1",
+              "media_key": "3_2098334378946691072",
+              "start": 5,
+              "url": "https://t.co/B5nS1X4aHW"
+            },
+            {
+              "display_url": "x.com/Fuugetsu_808/s…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Fuugetsu_808/status/2098205288084230388",
+              "start": 29,
+              "url": "https://t.co/qgsePTM82b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098334387008160104",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098334378946691072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098205288084230388",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唯一真神 https://t.co/B5nS1X4aHW https://t.co/qgsePTM82b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098205274377162752",
+            "3_2098205282090520576"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2098205288084230388",
+        "created_at": "2026-09-11T00:21:38.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T01:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098205288084230388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A8qKddO4y2",
+              "end": 64,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2098205288084230388/photo/1",
+              "media_key": "3_2098205274377162752",
+              "start": 41,
+              "url": "https://t.co/A8qKddO4y2"
+            },
+            {
+              "display_url": "pic.x.com/A8qKddO4y2",
+              "end": 64,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2098205288084230388/photo/1",
+              "media_key": "3_2098205282090520576",
+              "start": 41,
+              "url": "https://t.co/A8qKddO4y2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098205288084230388",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098205274377162752"
+          },
+          {
+            "media_key": "3_2098205282090520576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2751,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我感觉英标跟欧标插头很容易脱落的感觉🤔\n日标双孔能插国标 但是插脚上有开孔 https://t.co/A8qKddO4y2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2098334387008160104",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086122937635975168/KFxUCY68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 166,
+          "like_count": 33239,
+          "listed_count": 4,
+          "media_count": 559,
+          "tweet_count": 6169
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "川なに水上を尋ねけむ物思ふ時の我が身なりけり",
+        "id": "1593799138893873152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098258501940527191",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1593799138893873152/1786224982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6180,
+          "following_count": 1896,
+          "like_count": 92688,
+          "listed_count": 13,
+          "media_count": 1923,
+          "tweet_count": 14076
+        },
+        "url": "",
+        "username": "Fuugetsu_808",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

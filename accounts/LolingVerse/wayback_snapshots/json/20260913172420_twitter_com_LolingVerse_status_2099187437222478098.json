@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2099088179693523036",
+    "created_at": "2026-09-13T17:24:20.000Z",
+    "display_text_range": [
+      17,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T18:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099187437222478098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1938020945169645568",
+          "start": 0,
+          "username": "OrionSheepVerse"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/LolingVerse/st…",
+          "end": 40,
+          "expanded_url": "https://x.com/LolingVerse/status/2099187407879065870",
+          "start": 17,
+          "url": "https://t.co/lQsK6f4EPK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099187437222478098",
+    "in_reply_to_user_id": "1938020945169645568",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099187407879065870",
+        "type": "quoted"
+      },
+      {
+        "id": "2099088179693523036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OrionSheepVerse https://t.co/lQsK6f4EPK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2099187398483853312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSHP0SObQAAMKKp.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2099088179693523036",
+        "created_at": "2026-09-13T17:24:20.000Z",
+        "display_text_range": [
+          17,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T18:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099187437222478098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1938020945169645568",
+              "start": 0,
+              "username": "OrionSheepVerse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/LolingVerse/st…",
+              "end": 40,
+              "expanded_url": "https://x.com/LolingVerse/status/2099187407879065870",
+              "start": 17,
+              "url": "https://t.co/lQsK6f4EPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099187437222478098",
+        "in_reply_to_user_id": "1938020945169645568",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099187407879065870",
+            "type": "quoted"
+          },
+          {
+            "id": "2099088179693523036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OrionSheepVerse https://t.co/lQsK6f4EPK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938020945169645568",
+        "conversation_id": "2099088179693523036",
+        "created_at": "2026-09-13T10:49:55.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T11:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099088179693523036"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099088179693523036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "苹果在AI时代走了狗屎运的两大事情\n\n1.M系列芯片的统一内存架构，让 Mac 有巨大的 内存（显存） 优势来跑大模型。现在一个稍微高端一点的mac 就可以拥有 48g以上的内存（显存），而相反 价格已经5w块的 RTX5090却只有32g显存。\n\n2.无障碍服务功能适配，本来是方便残疾人读屏和操作电脑，但在AI时代却能被 agent 接管，有控件树就能按名字点按钮，不必每步截图识别猜坐标，所以 macOS 的 computer use  比 windows 系统的 computer use 好用非常非常非常多。 相反 使用纯图片识别判断坐标来控制电脑 是非常愚蠢的。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 14574,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "苹果在AI时代走了狗屎运的两大事情\n\n1.M系列芯片的统一内存架构，让 Mac 有巨大的 内存（显存） 优势来跑大模型。现在一个稍微高端一点的mac 就可以拥有 48g以上的内存（显存），而相反 价格已经5w块的 RTX5090却只有32g显存。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099187398483853312"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "conversation_id": "2099187407879065870",
+        "created_at": "2026-09-13T17:24:13.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T18:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099187407879065870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UDmeDYtduN",
+              "end": 35,
+              "expanded_url": "https://x.com/LolingVerse/status/2099187407879065870/photo/1",
+              "media_key": "3_2099187398483853312",
+              "start": 12,
+              "url": "https://t.co/UDmeDYtduN"
+            },
+            {
+              "display_url": "x.com/OrionSheepVers…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/OrionSheepVerse/status/2099088179693523036",
+              "start": 36,
+              "url": "https://t.co/c9SkPg167k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099187407879065870",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099187398483853312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099088179693523036",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "懂了，ai是残疾人() https://t.co/UDmeDYtduN https://t.co/c9SkPg167k"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2099187437222478098",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098386834888011777/DyCZRVrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 168,
+          "like_count": 33544,
+          "listed_count": 4,
+          "media_count": 583,
+          "tweet_count": 6225
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-25T23:46:40.000Z",
+        "description": "06年 ｜ 大二软工 ｜ 月入过万 ｜ INTP｜ AI Native ｜记录成长与实践",
+        "id": "1938020945169645568",
+        "is_identity_verified": true,
+        "location": "V: AInatives",
+        "most_recent_tweet_id": "2099162493079986363",
+        "name": "Orion 常青de绵阳",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008796089319620608/EGiolUXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 223,
+          "like_count": 2136,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 964
+        },
+        "url": "",
+        "username": "OrionSheepVerse",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

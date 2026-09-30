@@ -1,0 +1,551 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2102502283443597558",
+    "created_at": "2026-09-22T21:06:41.000Z",
+    "display_text_range": [
+      37,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T22:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102504882028920914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1864739862697644032",
+          "start": 0,
+          "username": "2196F3"
+        },
+        {
+          "end": 22,
+          "id": "1587858356030652417",
+          "start": 8,
+          "username": "HoshimiMizuki"
+        },
+        {
+          "end": 36,
+          "id": "1590534095653650432",
+          "start": 23,
+          "username": "drowning_and"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102504882028920914",
+    "in_reply_to_user_id": "1864739862697644032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102502283443597558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2196F3 @HoshimiMizuki @drowning_and 顶美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3558,
+        "media_key": "3_2102502271791865856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS2WrTmbIAAmduk.jpg",
+        "width": 2372
+      },
+      {
+        "height": 3558,
+        "media_key": "3_2102502278225965056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS2WrrkbsAAxtcD.jpg",
+        "width": 2372
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2102502283443597558",
+        "created_at": "2026-09-22T21:06:41.000Z",
+        "display_text_range": [
+          37,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T22:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102504882028920914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1864739862697644032",
+              "start": 0,
+              "username": "2196F3"
+            },
+            {
+              "end": 22,
+              "id": "1587858356030652417",
+              "start": 8,
+              "username": "HoshimiMizuki"
+            },
+            {
+              "end": 36,
+              "id": "1590534095653650432",
+              "start": 23,
+              "username": "drowning_and"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102504882028920914",
+        "in_reply_to_user_id": "1864739862697644032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102502283443597558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2196F3 @HoshimiMizuki @drowning_and 顶美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102502271791865856",
+            "3_2102502278225965056"
+          ]
+        },
+        "author_id": "1864739862697644032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2102502283443597558",
+        "created_at": "2026-09-22T20:56:21.000Z",
+        "display_text_range": [
+          0,
+          194
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T21:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102502283443597558"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 155,
+              "start": 148,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 161,
+              "start": 156,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 170,
+              "start": 162,
+              "tag": "cosplay"
+            },
+            {
+              "end": 179,
+              "start": 171,
+              "tag": "kaltsit"
+            },
+            {
+              "end": 184,
+              "start": 180,
+              "tag": "凯尔希"
+            },
+            {
+              "end": 194,
+              "start": 185,
+              "tag": "明日方舟月行水上"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 108,
+              "id": "1587858356030652417",
+              "start": 94,
+              "username": "HoshimiMizuki"
+            },
+            {
+              "end": 130,
+              "id": "1590534095653650432",
+              "start": 117,
+              "username": "drowning_and"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/57SHCPeJdT",
+              "end": 218,
+              "expanded_url": "https://x.com/2196F3/status/2102502283443597558/photo/1",
+              "media_key": "3_2102502271791865856",
+              "start": 195,
+              "url": "https://t.co/57SHCPeJdT"
+            },
+            {
+              "display_url": "pic.x.com/57SHCPeJdT",
+              "end": 218,
+              "expanded_url": "https://x.com/2196F3/status/2102502283443597558/photo/1",
+              "media_key": "3_2102502278225965056",
+              "start": 195,
+              "url": "https://t.co/57SHCPeJdT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102502283443597558",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102502271791865856"
+          },
+          {
+            "media_key": "3_2102502278225965056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "from autoModelforPreferenceModeling import rewards as RM\n​AvB 测试\n​哪个更好？有没有什么调光建议？\n​摄影: Mizuki @HoshimiMizuki\n后期: Kaz @drowning_and\n// 凯尔希来收集数据了说是😿\n​#アークナイツ #明日方舟 #cosplay #kaltsit #凯尔希 #明日方舟月行水上 https://t.co/57SHCPeJdT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2102504882028920914",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098386834888011777/DyCZRVrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 171,
+          "like_count": 34270,
+          "listed_count": 4,
+          "media_count": 612,
+          "tweet_count": 6332
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-05T18:33:59.000Z",
+        "description": "Coser, le\nVirology and RNA researcher at UC\nkaltciit@gmail.com\n\n...But they are indeed only my side projects\n请不要和我讨论Medical Records: HIPAA, 38 U.S. Code § 7332",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "prts.eterea.uk/?quickacc=bull…",
+                "end": 23,
+                "expanded_url": "http://prts.eterea.uk/?quickacc=bulletin",
+                "start": 0,
+                "url": "https://t.co/fVFEeZUeRA"
+              }
+            ]
+          }
+        },
+        "id": "1864739862697644032",
+        "is_identity_verified": true,
+        "location": "Los Angeles, US-WEST-01 ",
+        "most_recent_tweet_id": "2102502283443597558",
+        "name": "凯尔希是猫猫",
+        "pinned_tweet_id": "2081190239117435321",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1864739862697644032/1784100792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952307711271735297/Kt15yKo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2641,
+          "following_count": 4103,
+          "like_count": 6549,
+          "listed_count": 7,
+          "media_count": 836,
+          "tweet_count": 5276
+        },
+        "url": "https://t.co/fVFEeZUeRA",
+        "username": "2196F3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-02T17:25:21.000Z",
+        "description": "明日方舟双狼厨，超级坦诚又爱内耗的INFP-T，爱好水仙随笔和双狼甜文。希望认识的每一个人都能从我这收获快乐，但是非常容易跑路所以想聊天的请不要太过粗暴，会坏掉的。以及最后致我热烈而清冷的孤独 “如果我可以阻止一颗心的破碎，那我的存在就很有意义，我就不会白活” 目前看来似乎阻止不了自己的破碎",
+        "id": "1587858356030652417",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096850843395838351",
+        "name": "Hoshimi.Mizuki",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1587858356030652417/1761805221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983780235981049856/XR5kswjJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 1,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 314
+        },
+        "url": "",
+        "username": "HoshimiMizuki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-10T02:37:44.000Z",
+        "description": "im kaz 我胡言乱语 My daily scream 中文 | english |日本語",
+        "id": "1590534095653650432",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102310678799503406",
+        "name": "➖羊·目➖",
+        "pinned_tweet_id": "2022242682693996782",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1590534095653650432/1725773758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066998125026570240/pjXoBG8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 554,
+          "like_count": 47908,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 2337
+        },
+        "url": "",
+        "username": "drowning_and",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

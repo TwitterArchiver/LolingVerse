@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2101476778829390104",
+    "created_at": "2026-09-20T01:01:22.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T02:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101476778829390104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1987885638038036480",
+          "start": 3,
+          "username": "mizorewww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101476778829390104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101473552956555427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mizorewww: 介绍比Jev快50倍，在你设备上跑的laya-mlx!\n\n只在你的设备上占用最高1G内存\n\nLaya是一个开源的类似于Jev的,基于文本输出概率的分类系统\n\n我将其移植到MLX,并且做了一些性能优化!\n\n视频中就是这个模型在我的本地M3Max上玩贪…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 1080,
+        "media_key": "13_2101473523734859776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101473523734859776/img/j5AV90PrPcCnBilP.jpg",
+        "public_metrics": {
+          "view_count": 20
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101473523734859776/vid/avc1/480x270/sHEpn8f8yP-sxMRJ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101473523734859776/vid/avc1/1920x1080/Ddl9xlTMYds1ereD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101473523734859776/vid/avc1/1280x720/E8Spevf0mVaeQQg0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101473523734859776/pl/Lq-hK-95ENVAz2pt.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101473523734859776/vid/avc1/640x360/xyMI5TgjEJft-vNH.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2101476778829390104",
+        "created_at": "2026-09-20T01:01:22.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T02:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101476778829390104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1987885638038036480",
+              "start": 3,
+              "username": "mizorewww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101476778829390104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101473552956555427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mizorewww: 介绍比Jev快50倍，在你设备上跑的laya-mlx!\n\n只在你的设备上占用最高1G内存\n\nLaya是一个开源的类似于Jev的,基于文本输出概率的分类系统\n\n我将其移植到MLX,并且做了一些性能优化!\n\n视频中就是这个模型在我的本地M3Max上玩贪…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101473523734859776"
+          ]
+        },
+        "author_id": "1987885638038036480",
+        "conversation_id": "2101473552956555427",
+        "created_at": "2026-09-20T00:48:33.000Z",
+        "display_text_range": [
+          0,
+          175
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T01:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101473552956555427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Native MLX inference for Laya typed decision models on Apple silicon, with reproducible local benchmarks. - mizorewww/laya-mlx",
+              "display_url": "github.com/mizorewww/laya…",
+              "end": 175,
+              "expanded_url": "https://github.com/mizorewww/laya-mlx",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2101328699513856000/4dSi7Gux?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2101328699513856000/4dSi7Gux?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 152,
+              "status": 200,
+              "title": "GitHub - mizorewww/laya-mlx: Native MLX inference for Laya typed decision models on Apple silicon, with reproducible local benchmarks.",
+              "unwound_url": "https://github.com/mizorewww/laya-mlx",
+              "url": "https://t.co/31KGUiNunb"
+            },
+            {
+              "display_url": "pic.x.com/5kAXnrrdUA",
+              "end": 199,
+              "expanded_url": "https://x.com/mizorewww/status/2101473552956555427/video/1",
+              "media_key": "13_2101473523734859776",
+              "start": 176,
+              "url": "https://t.co/5kAXnrrdUA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101473552956555427",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2101473523734859776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "介绍比Jev快50倍，在你设备上跑的laya-mlx!\n\n只在你的设备上占用最高1G内存\n\nLaya是一个开源的类似于Jev的,基于文本输出概率的分类系统\n\n我将其移植到MLX,并且做了一些性能优化!\n\n视频中就是这个模型在我的本地M3Max上玩贪吃蛇\n\n这个模型能够以每秒决策60次的速度玩贪吃蛇！\n\nhttps://t.co/31KGUiNunb https://t.co/5kAXnrrdUA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2101476778829390104",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098386834888011777/DyCZRVrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 169,
+          "like_count": 34074,
+          "listed_count": 4,
+          "media_count": 601,
+          "tweet_count": 6282
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "08 大一\n开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\ngroup: https://t.co/pqGQW3HDeN\nemail: www@mizore.blog\ntelegram: https://t.co/yRGqdtA0JC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+DGSMTqhPGXkyM…",
+                "end": 73,
+                "expanded_url": "https://t.me/+DGSMTqhPGXkyM2E1",
+                "start": 50,
+                "url": "https://t.co/pqGQW3HDeN"
+              },
+              {
+                "display_url": "t.me/aac6fef",
+                "end": 130,
+                "expanded_url": "http://t.me/aac6fef",
+                "start": 107,
+                "url": "https://t.co/yRGqdtA0JC"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "is_identity_verified": false,
+        "location": "Crazy Universe ",
+        "most_recent_tweet_id": "2101473552956555427",
+        "name": "雨夹雪❄️",
+        "pinned_tweet_id": "2082711443598971203",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2304,
+          "following_count": 1169,
+          "like_count": 37461,
+          "listed_count": 6,
+          "media_count": 1447,
+          "tweet_count": 7030
+        },
+        "url": "",
+        "username": "mizorewww",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

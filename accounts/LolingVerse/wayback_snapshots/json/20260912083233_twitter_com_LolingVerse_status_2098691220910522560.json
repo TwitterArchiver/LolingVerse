@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2098691220910522560",
+    "created_at": "2026-09-12T08:32:33.000Z",
+    "display_text_range": [
+      0,
+      158
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T09:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098691220910522560"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "蒸馏雨夹雪"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/mizorewww/stat…",
+          "end": 182,
+          "expanded_url": "https://twitter.com/mizorewww/status/2098625602559603099",
+          "start": 159,
+          "url": "https://t.co/i8wlYVENk7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098691220910522560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 6,
+            "start": 0,
+            "tag": "蒸馏雨夹雪"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 167,
+            "id": "1399766153053061121",
+            "start": 159,
+            "username": "premium"
+          }
+        ]
+      },
+      "text": "#蒸馏雨夹雪\n\n好消息：X 创作者收益终于到账！\n坏消息：系统提示开通 X Money，但所在地区根本无法使用…… 😅\n\n如果你也遇到了这种提现被卡住的坑，分享一个实测有效的解决办法：\n\n1️⃣ 确认账号地区：检查账号设置，确保地区为非美国（例如新加坡等支持 Stripe 的地区）。\n2️⃣ 联系客服申诉：直接私信 @premium 或提交 Support 申诉工单。\n3️⃣ 说明情况：在申诉中明确告知“所在地区暂不支持 X Money，申请切回 Stripe 提现”。\n\n👇 申诉英文模版（复制即用）：\n\nReason I am writing to request assistance with setting up my payout method for the Creator Revenue Sharing program.\n\nWhen trying to link my payout details, I found that my account was mistakenly categorized as a US-based account, which forces me to set up via X Money. However, I am actually located and residing in [Your Region, e.g., Hong Kong SAR / Singapore]. Due to this region discrepancy, I am unable to proceed with the appropriate payout setup (e.g., Stripe) for my location. Could you please help correct my account region to [Your Region] so I can successfully connect my payout method?\n\n💡 发送前记得将 [Your Region] 替换为您实际所在的地区（如 Hong Kong SAR、Singapore 等）。\n\n做海外独立开发或内容变现的朋友建议先 Bookmark 收藏 📌 备用！"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098625602559603099",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#蒸馏雨夹雪\n\n好消息：X 创作者收益终于到账！\n坏消息：系统提示开通 X Money，但所在地区根本无法使用…… 😅\n\n如果你也遇到了这种提现被卡住的坑，分享一个实测有效的解决办法：\n\n1️⃣ 确认账号地区：检查账号设置，确保地区为非美国（例如新加坡等支持 Stripe 的地区）。\n2️⃣ 联系客服申诉：直接私信 https://t.co/i8wlYVENk7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.note.mentions.username: [1399766153053061121].",
+      "parameter": "entities.note.mentions.username",
+      "resource_id": "1399766153053061121",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1399766153053061121"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2098625493918707713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_QxImacAEbEld.jpg",
+        "width": 589
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2098691220910522560",
+        "created_at": "2026-09-12T08:32:33.000Z",
+        "display_text_range": [
+          0,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T09:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098691220910522560"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "蒸馏雨夹雪"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/mizorewww/stat…",
+              "end": 182,
+              "expanded_url": "https://twitter.com/mizorewww/status/2098625602559603099",
+              "start": 159,
+              "url": "https://t.co/i8wlYVENk7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098691220910522560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "蒸馏雨夹雪"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 167,
+                "id": "1399766153053061121",
+                "start": 159,
+                "username": "premium"
+              }
+            ]
+          },
+          "text": "#蒸馏雨夹雪\n\n好消息：X 创作者收益终于到账！\n坏消息：系统提示开通 X Money，但所在地区根本无法使用…… 😅\n\n如果你也遇到了这种提现被卡住的坑，分享一个实测有效的解决办法：\n\n1️⃣ 确认账号地区：检查账号设置，确保地区为非美国（例如新加坡等支持 Stripe 的地区）。\n2️⃣ 联系客服申诉：直接私信 @premium 或提交 Support 申诉工单。\n3️⃣ 说明情况：在申诉中明确告知“所在地区暂不支持 X Money，申请切回 Stripe 提现”。\n\n👇 申诉英文模版（复制即用）：\n\nReason I am writing to request assistance with setting up my payout method for the Creator Revenue Sharing program.\n\nWhen trying to link my payout details, I found that my account was mistakenly categorized as a US-based account, which forces me to set up via X Money. However, I am actually located and residing in [Your Region, e.g., Hong Kong SAR / Singapore]. Due to this region discrepancy, I am unable to proceed with the appropriate payout setup (e.g., Stripe) for my location. Could you please help correct my account region to [Your Region] so I can successfully connect my payout method?\n\n💡 发送前记得将 [Your Region] 替换为您实际所在的地区（如 Hong Kong SAR、Singapore 等）。\n\n做海外独立开发或内容变现的朋友建议先 Bookmark 收藏 📌 备用！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098625602559603099",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#蒸馏雨夹雪\n\n好消息：X 创作者收益终于到账！\n坏消息：系统提示开通 X Money，但所在地区根本无法使用…… 😅\n\n如果你也遇到了这种提现被卡住的坑，分享一个实测有效的解决办法：\n\n1️⃣ 确认账号地区：检查账号设置，确保地区为非美国（例如新加坡等支持 Stripe 的地区）。\n2️⃣ 联系客服申诉：直接私信 https://t.co/i8wlYVENk7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098625493918707713"
+          ]
+        },
+        "author_id": "1987885638038036480",
+        "conversation_id": "2098561988372902142",
+        "created_at": "2026-09-12T04:11:48.000Z",
+        "display_text_range": [
+          26,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T05:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098625602559603099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1865299069092139008",
+              "start": 0,
+              "username": "indie_maker_fox"
+            },
+            {
+              "end": 25,
+              "id": "1399766153053061121",
+              "start": 17,
+              "username": "premium"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3tuO9i6R9Z",
+              "end": 98,
+              "expanded_url": "https://x.com/mizorewww/status/2098625602559603099/photo/1",
+              "media_key": "3_2098625493918707713",
+              "start": 75,
+              "url": "https://t.co/3tuO9i6R9Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098625602559603099",
+        "in_reply_to_user_id": "1865299069092139008",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098625493918707713"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098624782954799574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@indie_maker_fox @premium 这是我的申诉,你看一下吧,我之前也是被要求设置xmoney,然后申诉之后就可以绑定stripe了 https://t.co/3tuO9i6R9Z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2098691220910522560",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098386834888011777/DyCZRVrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 166,
+          "like_count": 33331,
+          "listed_count": 4,
+          "media_count": 570,
+          "tweet_count": 6193
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "08 大一\n开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\ngroup: https://t.co/pqGQW3HDeN\nemail: www@mizore.blog\ntelegram: https://t.co/yRGqdtA0JC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+DGSMTqhPGXkyM…",
+                "end": 73,
+                "expanded_url": "https://t.me/+DGSMTqhPGXkyM2E1",
+                "start": 50,
+                "url": "https://t.co/pqGQW3HDeN"
+              },
+              {
+                "display_url": "t.me/aac6fef",
+                "end": 130,
+                "expanded_url": "http://t.me/aac6fef",
+                "start": 107,
+                "url": "https://t.co/yRGqdtA0JC"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "is_identity_verified": false,
+        "location": "Crazy Universe ",
+        "most_recent_tweet_id": "2098686553266717157",
+        "name": "雨夹雪❄️",
+        "pinned_tweet_id": "2082711443598971203",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2076,
+          "following_count": 1154,
+          "like_count": 34972,
+          "listed_count": 5,
+          "media_count": 1364,
+          "tweet_count": 6729
+        },
+        "url": "",
+        "username": "mizorewww",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-07T07:35:39.000Z",
+        "description": "🔥 TanStack 模板：https://t.co/EOxhRbrenE\n🚀 Nextjs 模板：https://t.co/VyNtTs0jSX\n🎉 AI 生图 模板：https://t.co/bJaO3RX3xe\n👨‍💻 主业大厂高工，副业独立开发\n📚 公开构建，专注 AI 相关技术分享\n🤑 产品出海，2 年收入破 10 万美刀",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "TanStarter.dev",
+                "end": 37,
+                "expanded_url": "http://TanStarter.dev",
+                "start": 14,
+                "url": "https://t.co/EOxhRbrenE"
+              },
+              {
+                "display_url": "MkSaaS.com",
+                "end": 73,
+                "expanded_url": "http://MkSaaS.com",
+                "start": 50,
+                "url": "https://t.co/VyNtTs0jSX"
+              },
+              {
+                "display_url": "MkImage.ai",
+                "end": 108,
+                "expanded_url": "http://MkImage.ai",
+                "start": 85,
+                "url": "https://t.co/bJaO3RX3xe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mksaas.link/discord",
+                "end": 23,
+                "expanded_url": "https://mksaas.link/discord",
+                "start": 0,
+                "url": "https://t.co/0oU8J6WeYz"
+              }
+            ]
+          }
+        },
+        "id": "1865299069092139008",
+        "is_identity_verified": true,
+        "location": "欢迎加入出海交流社群 (3000+人) 👉",
+        "most_recent_tweet_id": "2098660406340563099",
+        "name": "Fox",
+        "pinned_tweet_id": "2090952120275181949",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1865299069092139008/1748222129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905643474952880129/HiunneWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15785,
+          "following_count": 1184,
+          "like_count": 11004,
+          "listed_count": 211,
+          "media_count": 1545,
+          "tweet_count": 8569
+        },
+        "url": "https://t.co/0oU8J6WeYz",
+        "username": "indie_maker_fox",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

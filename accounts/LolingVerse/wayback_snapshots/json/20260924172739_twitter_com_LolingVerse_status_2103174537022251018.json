@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2103174537022251018",
+    "created_at": "2026-09-24T17:27:39.000Z",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T18:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103174537022251018"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tcdwww/status/…",
+          "end": 119,
+          "expanded_url": "https://twitter.com/tcdwww/status/2103169048305615057",
+          "start": 96,
+          "url": "https://t.co/lW33l0op9I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103174537022251018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103169048305615057",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看见最近出现了不少（已经或即将发布的）桌面 AI Gateway 产品。我觉得应该让 AI 自己挑选一个真正被 maintainer 亲自使用并且也有很多人用的产品，并且符合 ai 的喜好。 https://t.co/lW33l0op9I"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2103174537022251018",
+        "created_at": "2026-09-24T17:27:39.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T18:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103174537022251018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tcdwww/status/…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/tcdwww/status/2103169048305615057",
+              "start": 96,
+              "url": "https://t.co/lW33l0op9I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103174537022251018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103169048305615057",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看见最近出现了不少（已经或即将发布的）桌面 AI Gateway 产品。我觉得应该让 AI 自己挑选一个真正被 maintainer 亲自使用并且也有很多人用的产品，并且符合 ai 的喜好。 https://t.co/lW33l0op9I"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482030767358496768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2103169048305615057",
+        "created_at": "2026-09-24T17:05:50.000Z",
+        "display_text_range": [
+          0,
+          171
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T18:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103169048305615057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103169048305615057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看见最近出现了不少（已经或即将发布的）桌面 AI Gateway 产品。但其实我真正想要的是这么一个功能：\n我指定一个抽象的模型名称（比如 openai/gpt-6-astra），然后这个 AI Gateway 按照我的喜好自动 fallback 到不同的提供商，我可以使用某种交互方式，比如拖动，来决定不同的抽象模型要怎么 fallback 到不同的提供商和模型。\n比如，ChatGPT Plus 里面的 openai/gpt-6-astra → 中转站 A 里面的 openai/gpt-6-astra → OpenRouter 里面的 openai/gpt-6-astra。\n同理，对于 deepseek/deepseek-v4-flash，我会希望是 OpenCode Go 里面的 deepseek/deepseek-v4-flash → 中转站 B 里面的 deepseek/deepseek-v4-flash → DeepSeek 官方平台里面的 deepseek/deepseek-v4-flash。\n（啊对不起这只碗有点语死早了，求原谅这么笨拙的表达方式"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 66,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看见最近出现了不少（已经或即将发布的）桌面 AI Gateway 产品。但其实我真正想要的是这么一个功能：\n我指定一个抽象的模型名称（比如 openai/gpt-6-astra），然后这个 AI Gateway 按照我的喜好自动 fallback 到不同的提供商，我可以使用某种交互方式，比如拖动，来决定不同的抽象模型要怎么 fallback"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2103174537022251018",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098386834888011777/DyCZRVrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 171,
+          "like_count": 34403,
+          "listed_count": 4,
+          "media_count": 617,
+          "tweet_count": 6358
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-14T16:44:13.000Z",
+        "description": "无业游民，寻找前端（优势的全栈）工作中 ➡️ https://t.co/PJzvjsrRlC\nAvatar illustration by @KGY_HN\naka. 陶瓷大碗/吐槽大王 | 不迎合任何人 | 关注 ≠ 完全赞同其立场 | 蓝标是陌生人送的，碗本质上是一般推油",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 70,
+                "username": "KGY_HN"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "resume.tcdw.net",
+                "end": 46,
+                "expanded_url": "http://resume.tcdw.net",
+                "start": 23,
+                "url": "https://t.co/PJzvjsrRlC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "im.tcdw.net",
+                "end": 23,
+                "expanded_url": "https://im.tcdw.net/",
+                "start": 0,
+                "url": "https://t.co/Zwe61cBXAR"
+              }
+            ]
+          }
+        },
+        "id": "1482030767358496768",
+        "is_identity_verified": false,
+        "location": "Beijing",
+        "most_recent_tweet_id": "2103170912044671459",
+        "name": "碗",
+        "pinned_tweet_id": "2098002008607498397",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1482030767358496768/1787632331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092098683156475904/Vxd4l4M__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2025,
+          "following_count": 628,
+          "like_count": 111606,
+          "listed_count": 15,
+          "media_count": 1290,
+          "tweet_count": 14704
+        },
+        "url": "https://t.co/Zwe61cBXAR",
+        "username": "tcdwww",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

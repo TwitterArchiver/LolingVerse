@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2099915507805855744"
+      ]
+    },
+    "author_id": "1836041585475346432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099990895903072344",
+    "created_at": "2026-09-15T22:37:00.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T23:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099990895903072344"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eyc557dd7N",
+          "end": 34,
+          "expanded_url": "https://x.com/LolingVerse/status/2099990895903072344/video/1",
+          "media_key": "13_2099915507805855744",
+          "start": 11,
+          "url": "https://t.co/eyc557dd7N"
+        },
+        {
+          "display_url": "x.com/CryptoPainter/…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/CryptoPainter/status/2099893146037674242",
+          "start": 35,
+          "url": "https://t.co/vLwkfNjMr6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099990895903072344",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2099915507805855744"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099893146037674242",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "变成了最不希望的样子 https://t.co/eyc557dd7N https://t.co/vLwkfNjMr6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10000,
+        "height": 1080,
+        "media_key": "13_2099915507805855744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099915507805855744/img/hw5TPiG2UYgSUZD5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099915507805855744/vid/avc1/1280x720/ZUCPO8Vu2gwjlCNY.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099915507805855744/vid/avc1/1920x1080/0tfNdcjgFolECJ7C.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099915507805855744/vid/avc1/640x360/72J1AEh0VGlf-_s-.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099915507805855744/vid/avc1/480x270/ROZOlHHINmIk7lKJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099915507805855744/pl/t-dWcotEq5oOtEGn.m3u8"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099915507805855744"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099990895903072344",
+        "created_at": "2026-09-15T22:37:00.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T23:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099990895903072344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eyc557dd7N",
+              "end": 34,
+              "expanded_url": "https://x.com/LolingVerse/status/2099990895903072344/video/1",
+              "media_key": "13_2099915507805855744",
+              "start": 11,
+              "url": "https://t.co/eyc557dd7N"
+            },
+            {
+              "display_url": "x.com/CryptoPainter/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/CryptoPainter/status/2099893146037674242",
+              "start": 35,
+              "url": "https://t.co/vLwkfNjMr6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099990895903072344",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099915507805855744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099893146037674242",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "变成了最不希望的样子 https://t.co/eyc557dd7N https://t.co/vLwkfNjMr6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1056818658",
+        "conversation_id": "2099893146037674242",
+        "created_at": "2026-09-15T16:08:34.000Z",
+        "display_text_range": [
+          0,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T17:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099893146037674242"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099893146037674242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "人脑的总神经元约860亿个，产生的连结突触约100~150万亿，单次放电（生成Token）仅激活1.6~6.4亿个神经元。\n\n而最前沿的模型 GPT-6 Astra 约 10~12万亿个参数，单次生成激活约1~1.2万亿个...\n\n而人脑的上下文容量几乎无限，Astra 则依旧是100万 Token 左右...\n\n最后就是能耗了，前沿大模型有多耗电就不提了，动辄就是百兆瓦的消耗，而人脑呢，只有20W..."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 10835,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "人脑的总神经元约860亿个，产生的连结突触约100~150万亿，单次放电（生成Token）仅激活1.6~6.4亿个神经元。\n\n而最前沿的模型 GPT-6 Astra 约 10~12万亿个参数，单次生成激活约1~1.2万亿个...\n\n而人脑的上下文容量几乎无限，Astra 则依旧是100万 Token 左右..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2099990895903072344",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098386834888011777/DyCZRVrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 166,
+          "like_count": 33710,
+          "listed_count": 4,
+          "media_count": 595,
+          "tweet_count": 6260
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-01-03T04:07:25.000Z",
+        "description": "老朋友叫我“画师”，技术\\数据分析和量化交易，提供各种刁钻角度看市场，AI重度用户，不是交易员，口嗨嘴撸的穷逼，所有推文观点及操作都是个人主观看法，绝非投资建议！！！！！\n#OKX 启程 Web3：https://t.co/cTJurNggO9\n#Binance 币安一键注册：https://t.co/WfOCGl6JEV",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 86,
+                "tag": "OKX"
+              },
+              {
+                "end": 131,
+                "start": 123,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/4iSLash",
+                "end": 122,
+                "expanded_url": "https://bit.ly/4iSLash",
+                "start": 99,
+                "url": "https://t.co/cTJurNggO9"
+              },
+              {
+                "display_url": "bit.ly/48zRqBN",
+                "end": 162,
+                "expanded_url": "https://bit.ly/48zRqBN",
+                "start": 139,
+                "url": "https://t.co/WfOCGl6JEV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ZPkREzth-qJjO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ZPkREzth-qJjOWE1",
+                "start": 0,
+                "url": "https://t.co/GmJX6YSxIO"
+              }
+            ]
+          }
+        },
+        "id": "1056818658",
+        "is_identity_verified": true,
+        "location": "纯交流群 TG Group → ",
+        "most_recent_tweet_id": "2099893423646130663",
+        "name": "Crypto_Painter",
+        "pinned_tweet_id": "1921354818838315294",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1056818658/1573744529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999005830872797184/kfpmb1Mr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94032,
+          "following_count": 1891,
+          "like_count": 75280,
+          "listed_count": 1791,
+          "media_count": 6403,
+          "tweet_count": 34954
+        },
+        "url": "https://t.co/GmJX6YSxIO",
+        "username": "CryptoPainter",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

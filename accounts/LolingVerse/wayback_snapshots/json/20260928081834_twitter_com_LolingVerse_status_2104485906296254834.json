@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1836041585475346432",
+    "conversation_id": "2104341769785868719",
+    "created_at": "2026-09-28T08:18:34.000Z",
+    "display_text_range": [
+      13,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T09:18:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104485906296254834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2035898194366963712",
+          "start": 0,
+          "username": "ApplerinQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104485906296254834",
+    "in_reply_to_user_id": "2035898194366963712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104341769785868719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ApplerinQAQ 服务尽量买短不买长，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2104341769785868719",
+        "created_at": "2026-09-28T08:18:34.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T09:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104485906296254834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2035898194366963712",
+              "start": 0,
+              "username": "ApplerinQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104485906296254834",
+        "in_reply_to_user_id": "2035898194366963712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104341769785868719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ApplerinQAQ 服务尽量买短不买长，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035898194366963712",
+        "conversation_id": "2104341769785868719",
+        "created_at": "2026-09-27T22:45:49.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T23:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104341769785868719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rin_Mashiro_/s…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Rin_Mashiro_/status/2104255383275782528",
+              "start": 27,
+              "url": "https://t.co/Coqu9km25O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104341769785868719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1445,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104255383275782528",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还真是，虽然感觉年付会很划算但就是心里无法接受..） https://t.co/Coqu9km25O"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2104485906296254834",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098386834888011777/DyCZRVrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 171,
+          "like_count": 34707,
+          "listed_count": 3,
+          "media_count": 633,
+          "tweet_count": 6392
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T01:55:45.000Z",
+        "description": "🎶 Maybe I just want to fly. Wanna live I don't want to die.\n💕She/Her. AI Coding / Nailong Lover. Priv: @Elowenais\n🕊️Peace & Love...No Politics Plz!!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 103,
+                "username": "Elowenais"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/peerin00",
+                "end": 23,
+                "expanded_url": "https://t.me/peerin00",
+                "start": 0,
+                "url": "https://t.co/x4cTdVCKXc"
+              }
+            ]
+          }
+        },
+        "id": "2035898194366963712",
+        "is_identity_verified": false,
+        "location": "With MEEP",
+        "most_recent_tweet_id": "2104484428986876287",
+        "name": "Applerin🍎",
+        "pinned_tweet_id": "2101230269445615842",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035898194366963712/1780554317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101496538996580352/XhwCKsTd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 214,
+          "like_count": 3811,
+          "listed_count": 2,
+          "media_count": 153,
+          "tweet_count": 2180
+        },
+        "url": "https://t.co/x4cTdVCKXc",
+        "username": "ApplerinQAQ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
